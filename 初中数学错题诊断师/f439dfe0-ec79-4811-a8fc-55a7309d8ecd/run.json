@@ -1,0 +1,26 @@
+{
+  "runId": "f439dfe0-ec79-4811-a8fc-55a7309d8ecd",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc4a36a3ffeET6LOPg061Am1A",
+  "startedAt": "2026-03-19T01:28:58.451Z",
+  "finishedAt": "2026-03-19T01:29:57.542Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/f439dfe0-ec79-4811-a8fc-55a7309d8ecd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/f439dfe0-ec79-4811-a8fc-55a7309d8ecd/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，最近做因式分解题时总分解错，特别是在提公因式和公式法的选择上容易混淆。我比较喜欢自己思考，不太喜欢死记硬背。你能帮我理解一下为什么会错吗？希望能得到针对我的学习习惯的改进建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/f439dfe0-ec79-4811-a8fc-55a7309d8ecd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

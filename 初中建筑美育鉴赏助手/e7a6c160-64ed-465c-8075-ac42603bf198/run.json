@@ -1,0 +1,26 @@
+{
+  "runId": "e7a6c160-64ed-465c-8075-ac42603bf198",
+  "sceneName": "初中建筑美育鉴赏助手",
+  "title": "batch-初中建筑美育鉴赏助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中建筑美育鉴赏助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd7cd4faffe9mjnUNYJtENQ5Y",
+  "startedAt": "2026-03-18T19:54:03.902Z",
+  "finishedAt": "2026-03-18T19:54:48.858Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中建筑美育鉴赏助手/e7a6c160-64ed-465c-8075-ac42603bf198/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中建筑美育鉴赏助手/e7a6c160-64ed-465c-8075-ac42603bf198/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生家长，孩子喜欢用乐高搭建筑，但对历史文化不太懂。最近美育课学到英国大本钟和中国天坛，他问我有什么不一样，我也说不清。你作为美育专家能解释一下这两座建筑的风格、象征意义和社会价值吗？详细说说，帮我们理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中建筑美育鉴赏助手/e7a6c160-64ed-465c-8075-ac42603bf198/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

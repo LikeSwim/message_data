@@ -1,0 +1,26 @@
+{
+  "runId": "00bbf0d2-ba27-4675-bf7e-dd3c20c78fb7",
+  "sceneName": "初中生物分类与进化辅导员",
+  "title": "batch-初中生物分类与进化辅导员-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物分类与进化辅导员",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc961360ffex5bdbDNh1jqwu6",
+  "startedAt": "2026-03-19T00:06:06.741Z",
+  "finishedAt": "2026-03-19T00:06:42.932Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物分类与进化辅导员/00bbf0d2-ba27-4675-bf7e-dd3c20c78fb7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物分类与进化辅导员/00bbf0d2-ba27-4675-bf7e-dd3c20c78fb7/conversation-messages.json",
+  "studentInitialQuestion": "我是魏俊驰，34岁，任教于初中，平时喜欢无人机航拍、3D建模和工业设计，是学校航模社团和3D打印小组的指导老师。你是我的生物教学伙伴，能说说主要的：在生物分类体系与进化思想教学中，有哪些关键知识点最值得突出介绍？如何结合科技创新和工程实践激发学生兴趣？说说主要的",
+  "studentInitialQuestionPath": "data/student-questions/初中生物分类与进化辅导员/00bbf0d2-ba27-4675-bf7e-dd3c20c78fb7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

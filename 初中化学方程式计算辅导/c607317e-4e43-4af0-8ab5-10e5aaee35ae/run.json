@@ -1,0 +1,26 @@
+{
+  "runId": "c607317e-4e43-4af0-8ab5-10e5aaee35ae",
+  "sceneName": "初中化学方程式计算辅导",
+  "title": "batch-初中化学方程式计算辅导-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式计算辅导",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fde3f7e8ffeIoFbzuJFRjrVVe",
+  "startedAt": "2026-03-18T18:01:24.752Z",
+  "finishedAt": "2026-03-18T18:02:08.872Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式计算辅导/c607317e-4e43-4af0-8ab5-10e5aaee35ae/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式计算辅导/c607317e-4e43-4af0-8ab5-10e5aaee35ae/conversation-messages.json",
+  "studentInitialQuestion": "我最近在学初中化学方程式计算，总感觉有点难，能解释一下计算的基本步骤和常见的学习难点吗？最好举点实际例子和易错点，帮我分析分析。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式计算辅导/c607317e-4e43-4af0-8ab5-10e5aaee35ae/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

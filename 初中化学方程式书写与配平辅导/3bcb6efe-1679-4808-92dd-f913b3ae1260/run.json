@@ -1,0 +1,26 @@
+{
+  "runId": "3bcb6efe-1679-4808-92dd-f913b3ae1260",
+  "sceneName": "初中化学方程式书写与配平辅导",
+  "title": "batch-初中化学方程式书写与配平辅导-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式书写与配平辅导",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdcbab29ffevLilj49Cuwxxtp",
+  "startedAt": "2026-03-18T18:27:57.262Z",
+  "finishedAt": "2026-03-18T18:28:34.120Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式书写与配平辅导/3bcb6efe-1679-4808-92dd-f913b3ae1260/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式书写与配平辅导/3bcb6efe-1679-4808-92dd-f913b3ae1260/conversation-messages.json",
+  "studentInitialQuestion": "我最近在教学中发现有些学生总是混淆化学方程式的书写顺序和配平步骤。你能讲清楚点这两个环节的区别和各自容易出现的问题吗？希望能举些具体例子。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式书写与配平辅导/3bcb6efe-1679-4808-92dd-f913b3ae1260/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "a714fdba-2e0e-4ebd-91f6-8faf0dae01f0",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd39d649ffeBi2bpC3wQrlugu",
+  "startedAt": "2026-03-18T21:07:14.483Z",
+  "finishedAt": "2026-03-18T21:07:40.504Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/a714fdba-2e0e-4ebd-91f6-8faf0dae01f0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/a714fdba-2e0e-4ebd-91f6-8faf0dae01f0/conversation-messages.json",
+  "studentInitialQuestion": "I'm BellQuinn, I'm 14 and in 8th grade. I do competitive dance and love baking, so I like things to be lively and creative. When we talk about historical figures in class, like Empress Wu Zetian, I get excited about debates but find it hard to quickly decide what's good or bad about them. Can you simply say how I can look at both the achievements and mistakes of someone like Wu Zetian? Simple say it so I can get the main idea fast.",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/a714fdba-2e0e-4ebd-91f6-8faf0dae01f0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

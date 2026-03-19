@@ -1,0 +1,26 @@
+{
+  "runId": "700d7f27-f2f1-43d1-b0ac-207543e89be8",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc38b27effePCjzlrcne1IMXW",
+  "startedAt": "2026-03-19T01:48:05.193Z",
+  "finishedAt": "2026-03-19T01:48:48.266Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/700d7f27-f2f1-43d1-b0ac-207543e89be8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/700d7f27-f2f1-43d1-b0ac-207543e89be8/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学老师，最近发现我的班级学生在做几何证明题时总是无从下手，还老是死记公式。你作为数学教育专家，能详细说说初中几何证明题的教学活动怎么设计吗？最好能既培养逻辑思维又激发兴趣。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/700d7f27-f2f1-43d1-b0ac-207543e89be8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

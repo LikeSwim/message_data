@@ -1,0 +1,26 @@
+{
+  "runId": "67599c19-157b-43b0-bada-32d3fb6f1f07",
+  "sceneName": "初中几何证明思路引导师",
+  "title": "batch-初中几何证明思路引导师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中几何证明思路引导师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd869fe3ffeJtErbdLZXtY1hR",
+  "startedAt": "2026-03-18T19:43:22.134Z",
+  "finishedAt": "2026-03-18T19:45:22.153Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中几何证明思路引导师/67599c19-157b-43b0-bada-32d3fb6f1f07/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中几何证明思路引导师/67599c19-157b-43b0-bada-32d3fb6f1f07/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，最近学勾股定理和相关证明方法，总觉得枯燥，推理过程也难懂。我喜欢画画，性格活泼，家里希望我数学上能多发挥想象力。你能讲讲看，怎么用图像化和生活例子帮我理解几何定理证明思路，让学习变有趣吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中几何证明思路引导师/67599c19-157b-43b0-bada-32d3fb6f1f07/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

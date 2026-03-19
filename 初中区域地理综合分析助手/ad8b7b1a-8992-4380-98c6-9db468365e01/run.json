@@ -1,0 +1,26 @@
+{
+  "runId": "ad8b7b1a-8992-4380-98c6-9db468365e01",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb936bdffeD7qpqxsAJuRJUs",
+  "startedAt": "2026-03-18T23:27:43.928Z",
+  "finishedAt": "2026-03-18T23:28:28.826Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/ad8b7b1a-8992-4380-98c6-9db468365e01/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/ad8b7b1a-8992-4380-98c6-9db468365e01/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，最近地理课要讲南极洲的地理和人类活动。你能详细说说南极洲的环境、资源、国际合作，还有中国在南极都做了什么吗？也希望给我点学习建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/ad8b7b1a-8992-4380-98c6-9db468365e01/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

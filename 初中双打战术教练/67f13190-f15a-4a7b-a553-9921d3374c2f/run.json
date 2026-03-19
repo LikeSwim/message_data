@@ -1,0 +1,26 @@
+{
+  "runId": "67f13190-f15a-4a7b-a553-9921d3374c2f",
+  "sceneName": "初中双打战术教练",
+  "title": "batch-初中双打战术教练-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中双打战术教练",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbf0e89fffeXPWuEuWB2ks467",
+  "startedAt": "2026-03-19T03:06:31.128Z",
+  "finishedAt": "2026-03-19T03:09:35.652Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中双打战术教练/67f13190-f15a-4a7b-a553-9921d3374c2f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中双打战术教练/67f13190-f15a-4a7b-a553-9921d3374c2f/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中体育教研员，想整体提升学校羽毛球和乒乓球双打配合教学的质量。你作为体育教学专家，系统地讲解一下双打配合的核心理念、常见问题、分层教学和创新训练方法，还要融入团队协作、学生自主性培养以及中华优秀传统文化和社会主义核心价值观，能全面说说吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中双打战术教练/67f13190-f15a-4a7b-a553-9921d3374c2f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

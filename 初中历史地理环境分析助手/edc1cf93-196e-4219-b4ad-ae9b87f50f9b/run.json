@@ -1,0 +1,26 @@
+{
+  "runId": "edc1cf93-196e-4219-b4ad-ae9b87f50f9b",
+  "sceneName": "初中历史地理环境分析助手",
+  "title": "batch-初中历史地理环境分析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史地理环境分析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd58a26dffe67z8mab5Lhgg6q",
+  "startedAt": "2026-03-18T20:33:36.136Z",
+  "finishedAt": "2026-03-18T20:36:50.257Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史地理环境分析助手/edc1cf93-196e-4219-b4ad-ae9b87f50f9b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史地理环境分析助手/edc1cf93-196e-4219-b4ad-ae9b87f50f9b/conversation-messages.json",
+  "studentInitialQuestion": "你是地理与历史跨学科专家，能系统地讲解一下地理环境对历史进程的影响吗？从古代到现代、从中国到世界，全面分析地形、气候、水源、资源分布这些因素对历史事件和社会变化的作用，也帮我设计些适合初中生的探究活动和思维方法。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史地理环境分析助手/edc1cf93-196e-4219-b4ad-ae9b87f50f9b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "93dd6450-8990-4f38-8289-a5aaff30805c",
+  "sceneName": "初中诚信故事征集辅导",
+  "title": "batch-初中诚信故事征集辅导-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中诚信故事征集辅导",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fee9be62ffeKyJyJSnotNXkag",
+  "startedAt": "2026-03-18T13:15:29.045Z",
+  "finishedAt": "2026-03-18T13:16:05.527Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中诚信故事征集辅导/93dd6450-8990-4f38-8289-a5aaff30805c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中诚信故事征集辅导/93dd6450-8990-4f38-8289-a5aaff30805c/conversation-messages.json",
+  "studentInitialQuestion": "你是德育专家，能简短回答下在初中“身边的诚信故事征集”活动里，怎么让学生更积极分享诚信故事，并让诚信观念自然融入班级吗？简短回答下。",
+  "studentInitialQuestionPath": "data/student-questions/初中诚信故事征集辅导/93dd6450-8990-4f38-8289-a5aaff30805c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

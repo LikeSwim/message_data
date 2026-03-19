@@ -1,0 +1,26 @@
+{
+  "runId": "2acc2a64-5b94-429f-9b52-b101ba281b61",
+  "sceneName": "初中生物核心过程辨析助手",
+  "title": "batch-初中生物核心过程辨析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物核心过程辨析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc91aefaffeQyE4szID5yzwru",
+  "startedAt": "2026-03-19T00:10:54.589Z",
+  "finishedAt": "2026-03-19T00:12:35.123Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物核心过程辨析助手/2acc2a64-5b94-429f-9b52-b101ba281b61/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物核心过程辨析助手/2acc2a64-5b94-429f-9b52-b101ba281b61/conversation-messages.json",
+  "studentInitialQuestion": "我是初三女生谭真，喜欢养植物和折纸，平时比较内向，周末会和邻居一起照顾社区花园。最近生物课上学到光合作用和呼吸作用，我有点搞不清它们在植物生长中的关系和实际意义。你能深入说说看吗？希望能结合我的兴趣和日常经历，给我一些学习建议",
+  "studentInitialQuestionPath": "data/student-questions/初中生物核心过程辨析助手/2acc2a64-5b94-429f-9b52-b101ba281b61/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

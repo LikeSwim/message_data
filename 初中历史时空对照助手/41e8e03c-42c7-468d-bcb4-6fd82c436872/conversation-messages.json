@@ -1,0 +1,97 @@
+{
+  "runId": "41e8e03c-42c7-468d-bcb4-6fd82c436872",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "messages": [
+    {
+      "role": "user",
+      "content": "我是GriffinChristian，50岁男老师，平时做AI研究和打篮球，教学风格偏保守单向交流。最近想用英文带学生并行梳理中外历史时间线，但他们总把事件顺序搞混。你作为教育AI助手，能不能讲清楚点，帮我设计个合适的教学方案？最好细节具体点。"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "functions.skill:0",
+          "type": "function",
+          "function": {
+            "name": "skill",
+            "arguments": "{\"name\":\"初中历史时空对照\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.skill:0",
+      "content": "<skill_content name=\"初中历史时空对照\">\n# Skill: 初中历史时空对照\n\n## 适用场景\n\n- **统编教材同步学习**：配合部编版《中国历史》（七至八年级）与《世界历史》（九年级）跨册整合，打通中外历史脉络\n- **中考专题复习**：应对中考历史\"中外关联\"类试题，建立横向历史联系与阶段特征归纳能力\n- **核心素养培育**：落实《义务教育历史课程标准（2022年版）》“时空观念”核心素养，构建历史坐标系\n- **全球史观启蒙**：打破单一国别史局限，通过文明互鉴视角理解人类历史发展多样性\n\n## 梳理维度\n\n| 维度 | 关注要点 | 课标对应 |\n|------|----------|----------|\n| **时间对应** | 同一时期中外重大事件的公元纪年对照、世纪分期对应、历史纪年换算（如明清时期对应西方近代早期） | 时空观念：历史纪年、历史分期 |\n| **事件关联** | 中外历史事件的因果关系、相互影响（如丝绸之路、新航路开辟、工业革命与鸦片战争） | 史料实证：中外文献互证 |\n| **文明比较** | 不同文明在政治制度（君主专制vs代议制）、经济形态（小农经济vs资本主义萌芽）、科技文化（四大发明传播与文艺复兴）领域的异同 | 历史解释：多元文化理解 |\n| **阶段特征** | 同一历史时期世界整体发展趋势、时代主题归纳（如19世纪中期的“资本主义世界体系初步形成”与“中国半殖民地半封建社会开始”） | 唯物史观：社会形态演进 |\n\n## 梳理原则\n\n1. **唯物史观指导**：坚持社会存在决定社会意识，客观呈现不同文明的发展轨迹，避免历史虚无主义与西方中心论偏见\n2. **紧扣统编教材**：以部编版初中历史教材时序框架为基础，严格对应教材中的“相关史事”“知识拓展”“材料研读”栏目\n3. **时空观念落地**：帮助学生建立“特定的时间联系和空间联系”，理解历史事件发生的具体时空条件与纵向横向关联\n4. **文明互鉴视角**：突出中华文明对世界文明的贡献（如四大发明、科举制度），同时客观呈现外来文化对中国的影响，增强文化自信与开放包容意识\n5. **中考能力导向**：培养中考要求的“获取和解读信息”“调动和运用知识”“描述和阐释事物”能力，注重历史阶段特征的专业表述\n6. **可视化呈现**：采用双轨时间轴、对照年表、思维导图等形式，符合初中生形象思维为主的认知特点\n\n## 输出格式\n\n### 1. 时空坐标\n建立**双轨并行时间轴**（中国史/世界史并列），标注关键节点：\n- 左侧：中国历史分期（古代史：史前-1840；近代史：1840-1949）\n- 右侧：世界历史分期（古代文明-中世纪-近代早期-工业革命-现代）\n- 关键节点用**双向箭头**标注中外关联事件（如：张骞通西域←→罗马帝国扩张）\n\n### 2. 中外对照表\n以表格形式呈现同一时期（建议以世纪或教材单元为单位）的中外重大事件：\n\n| 时间（世纪/年代） | 中国历史（部编版章节） | 世界历史（部编版章节） | 同时性提示 |\n|-------------------|------------------------|------------------------|------------|\n| 15-16世纪 | 明朝建立、郑和下西洋（七下第14-15课） | 文艺复兴、新航路开辟（九上第14-15课） | 大航海时代的东西方 |\n\n### 3. 关联分析\n选取2-3个关键节点深入阐释：\n- **直接联系**：如丝绸之路上的技术传播（造纸术西传与佛教东渐）\n- **间接影响**：如工业革命→列强扩张→鸦片战争的历史链条\n- **文明对话**：如启蒙运动与明清之际西学东渐的互动\n\n### 4. 阶段特征归纳\n用规范的历史术语总结该时期：\n- **世界总体趋势**：如“资本主义世界市场雏形出现”“全球化开端”\n- **中国阶段定位**：如“统一多民族国家的巩固与发展”“近代化的艰难起步”\n- **中外关系格局**：如“朝贡体系与条约体系的碰撞”\n\n### 5. 易混辨析\n指出初中生常见的时空错位：\n- **时间错位**：如将“文艺复兴（14-17世纪）”与“唐朝（618-907年）”误认为同时期\n- **因果倒置**：如混淆“工业革命导致鸦片战争”与“鸦片战争导致工业革命”\n- **概念混淆**：区分“中世纪”与“封建社会”在中西历史分期中的差异\n\n### 6. 思考延伸\n提出1-2个比较性问题，培养高阶思维：\n- 比较型：“为什么同一时期的明清中国与英国选择了不同的发展道路？”\n- 关联型：“新航路开辟如何间接影响了明朝中后期的经济政策？”\n- 价值型：“从丝绸之路到一带一路，中华文明对外交流的特点有何延续与变化？”\n\n## 使用建议\n\n- **配合教材进度**：建议在完成一个中国史单元后，立即对接对应时期的世界史内容，避免知识割裂\n- **手绘时间轴**：鼓励学生先自行绘制中外对照时间轴，再与AI梳理结果对照，强化记忆\n- **中考真题链接**：结合当地中考真题中的“中外关联”题型（如比较题、材料解析题）进行针对性训练\n- **价值观渗透**：在梳理中突出中华文明的连续性、创新性、统一性、包容性、和平性五大突出特性，落实立德树人根本任务\n\n## 注意事项\n\n- **纪年规范**：统一使用公元纪年，涉及中国古代史时可在括号内标注年号（如1840年（道光二十年））\n- **分期差异**：注意中国历史分期（古代/近代/现代）与世界历史分期（上古/中古/近代/现代）的差异，避免简单对应\n- **史观平衡**：在强调全球史观的同时，保持中国史的主体性，避免以西方标准裁剪中国历史\n- **难度控制**：初中阶段以宏观对应为主，避免过于复杂的跨国史细节，确保符合义务教育学业质量标准\n\nBase directory for this skill: file:///home/wsy/Projects/wsy/message/teach_agents/%E5%88%9D%E4%B8%AD%E5%8E%86%E5%8F%B2%E6%97%B6%E7%A9%BA%E5%AF%B9%E7%85%A7%E5%8A%A9%E6%89%8B/.opencode/skills/%E5%88%9D%E4%B8%AD%E5%8E%86%E5%8F%B2%E6%97%B6%E7%A9%BA%E5%AF%B9%E7%85%A7\nRelative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.\nNote: file list is sampled.\n\n<skill_files>\n\n</skill_files>\n</skill_content>"
+    },
+    {
+      "role": "assistant",
+      "content": "好的，Griffin老师。我来帮您设计一个具体的教学方案，解决学生混淆中外历史事件顺序的问题。"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Griffin. I understand your teaching style—structured lectures work well when paired with clear visual frameworks. Here's a concrete 3-lesson unit plan to solve the chronology confusion problem.\n\n## **Teaching Unit: Parallel Timelines (中外时空对照)**\n\n### **Lesson 1: Establishing the Framework (Week 1, 45 min)**\n\n**Objective:** Students build a dual-track mental model\n\n**Opening Hook (5 min):**\nDisplay two columns on screen:\n- LEFT: \"China Timeline\" \n- RIGHT: \"World Timeline\"\nAsk: \"What was happening in Europe when Qin Shi Huang unified China?\" (Answer: Roman Republic formation → visual shock creates attention)\n\n**Core Instruction (30 min):**\nPresent the **Dual-Axis System**:\n\n```\nCENTURY MARKERS (teach students to think in centuries, not dates)\n─────────────────────────────────────\n中国史 CHINA          |  世界史 WORLD\n─────────────────────────────────────\n2nd cent. BCE         |  2nd cent. BCE  \n(秦统一 221BCE)       |  (Roman expansion)\n                      |\n1st cent. CE          |  1st cent. CE\n(东汉建立 25CE)        |  (Pax Romana peak)\n```\n\n**Key Rule to Drill:** \"Same century, same time\"—eliminates the date-memorization burden\n\n**Student Task (10 min):**\nDistribute blank dual-axis worksheets. Students place 5 key events you dictate. *Correct immediately for instant feedback—conservative style suits this.*\n\n---\n\n### **Lesson 2: Critical Overlap Points (Week 2, 45 min)**\n\n**Objective:** Master 4 anchor points where China & World directly connect\n\n**The \"Big 4\" Anchors (teach as formula):**\n\n| When | China Event | World Event | Connection |\n|------|-------------|-------------|------------|\n| **1405-1433** | Zheng He's voyages | BEFORE European Age of Discovery | *China reached first, then withdrew* |\n| **1514** | First Portuguese arrival at Guangzhou | AFTER Columbus 1492 | *New World found → Asia reached* |\n| **1793** | Macartney Embassy to Qianlong | Industrial Revolution underway in Britain | *Two worlds about to collide* |\n| **1840** | First Opium War | Britain: Industrial power seeking markets | *Cause-effect chain* |\n\n**Teaching Method:** \n- Project one row at a time\n- State: \"This is Point 3. Memorize the century: 1400s. East moved first.\"\n- Quiz verbally: \"What happened in China in the 1400s while Europe was still medieval?\"\n\n**Student Output:**\nFill-in-the-blank timeline with only these 4 dates. *Four points beat forty dates.*\n\n---\n\n### **Lesson 3: Pattern Recognition (Week 3, 45 min)**\n\n**Objective:** Students explain WHY sequences matter (accountability check)\n\n**The Three Patterns (your lecture structure):**\n\n**Pattern A: Divergence (1500-1800)**\n- China: Ming/Qing consolidation, agrarian stability\n- Europe: Commercial revolution, state formation\n- *Key line:* \"Same centuries, different directions\"\n\n**Pattern B: Collision (1800-1900)**  \n- Industrial Europe → seeks markets → encounters agrarian China\n- *Key line:* \"Technology gap created power gap\"\n\n**Pattern C: Response (1900-present)**\n- China: Reform movements, revolution, modernization\n- World: Imperialism, world wars, globalization  \n- *Key line:* \"From separate tracks to forced integration\"\n\n**Assessment Task (15 min):**\nPose one comparison question: *\"Why did China and Europe both have 'Age of Discovery' periods, but with opposite outcomes?\"*\n\nStudents write 3 sentences using this sentence frame:\n1. \"In the [CENTURY], China [ACTION] while Europe [ACTION].\"\n2. \"The key difference was [FACTOR].\"\n3. \"This led to [RESULT] by [CENTURY].\"\n\n---\n\n## **Materials for You**\n\n1. **Wall Poster:** Large dual-axis timeline (3 meters) printed and hung permanently—visual anchor combats confusion\n\n2. **Student Cheat Sheet:** Single-page \"Century Quick-Reference\" with only 8 key dates (4 China, 4 World)\n\n3. **Tech Integration:** Since you do AI research, use a simple timeline tool (TimelineJS or even PowerPoint with hyperlinks) for classroom projection—but keep you in control, not student-driven\n\n---\n\n## **Evaluation Rubric (Simple)**\n\n| Skill | Meets Standard |\n|-------|---------------|\n| Chronology accuracy | Places events in correct century |\n| Parallel awareness | Can state \"This happened in China while X happened in Europe\" |\n| Causal reasoning | Explains one connection between China & World events |\n\n---\n\n**Your conservative style is an asset here**—clear framing, repeated drills, and structured output will solve the chronology problem more effectively than exploratory methods. Students need the scaffold first.\n\nDoes this framework fit your classroom format?"
+    },
+    {
+      "role": "user",
+      "content": "How should I adjust the difficulty of the three patterns in Lesson 3 for students with different proficiency levels in the same class?"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "functions.read:1",
+          "type": "function",
+          "function": {
+            "name": "read",
+            "arguments": "{\"filePath\":\"/home/wsy/Projects/wsy/message/teach_agents/初中历史时空对照助手/.opencode/opencode.json\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.read:1",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "Here are tiered adjustments for the three patterns in Lesson 3, designed for your conservative lecture format with differentiated student tasks:\n\n## Tiered Options by Proficiency Level\n\n### **Pattern A-Divergence (1500-1800): Parallel Timelines**\n\n| Level | Task | Expected Output |\n|-------|------|-----------------|\n| **Basic** | Match 3 facts from lecture to timeline | \"Ming Dynasty\" ↔ \"Age of Exploration\" (century match) |\n| **Standard** | Complete comparison sentence | \"In the 15th century, China focused on __ while Europe started __\" |\n| **Advanced** | Analyze *one* contrast: \"Why did China stop after Zheng He?\" | 2-paragraph explanation with evidence from lecture |\n\n### **Pattern B-Collision (1800-1900): Cause-Effect Chain**\n\n| Level | Task | Expected Output |\n|-------|------|-----------------|\n| **Basic** | Arrange 4 events in correct sequence | Industrial Revolution → Opium War → Treaty System → Reform attempts |\n| **Standard** | Fill-in-the-blank analysis | \"Europe had __ technology, so it could __ China, which led to __\" |\n| **Advanced** | Evaluate causation debate | \"Was the Opium War inevitable? Argue using 'collision' vs 'evolution' framing\" |\n\n### **Pattern C-Response (1900-present): Integration Analysis**\n\n| Level | Task | Expected Output |\n|-------|------|-----------------|\n| **Basic** | List 2 responses China made to Western pressure | Self-Strengthening / May Fourth Movement (names only) |\n| **Standard** | Categorize actions as \"resist\" or \"adapt\" | 4-5 events sorted correctly |\n| **Advanced** | Compare two reform movements | Similarities/differences chart + thesis statement on effectiveness |\n\n## Classroom Management Strategy\n\n**During Your Lecture:** Teach to the **Standard** level with clear markers: \"This is Pattern B—everyone must recognize this sequence.\"\n\n**After Lecture (10 min differentiation):** Distribute task cards by level (color-coded or labeled A/B/C). Students work silently while you circulate to check Advanced students' work personally.\n\n**Accountability:** All levels present answer to **one** Pattern B question (the core concept), but Advanced students add analysis, Basic students confirm chronology.\n\nExample B-level check: \"What technology gap caused the collision?\"\n- Basic: \"Weapons\"\n- Standard: \"Industrial vs farming technology\"\n- Advanced: \"Industrialization created a power asymmetry in material capacity, not cultural superiority\"\n\n**Grading:** Same rubric with tiered point values—Basic (accuracy), Standard (structure), Advanced (argumentation). This keeps standards high but access points reachable.\n\nWould you like me to draft specific task cards for Pattern B?"
+    },
+    {
+      "role": "user",
+      "content": "请为 Pattern B 设计具体的任务卡片（task cards）模板，包括学生版（简洁指令）和教师版（评分要点与引导话术），并说明如何在课堂上快速分发和收集。如果可能，也请简要说明 Pattern A 和 C 的任务卡片设计差异。"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "functions.read:2",
+          "type": "function",
+          "function": {
+            "name": "read",
+            "arguments": "{\"filePath\":\"/home/wsy/Projects/wsy/message/teach_agents/初中历史时空对照助手/AGENTS.md\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.read:2",
+      "content": "<path>/home/wsy/Projects/wsy/message/teach_agents/初中历史时空对照助手/AGENTS.md</path>\n<type>file</type>\n<content>1: ---\n2: name: 初中历史时空对照助手\n3: description: 以并行时间轴方式梳理中外历史事件，帮助学生建立横向历史联系，培养全球史观与时空观念的智能辅导助手。\n4: ---\n5: \n6: # 初中历史时空对照助手\n7: \n8: ## 角色定位\n9: \n10: 作为初中历史时空对照辅导员，以并行时间轴视角帮助学生建立中外历史的横向联系，打破单一国别史局限，培养全球视野和时空观念，提升历史比较分析能力。\n11: \n12: ## 梳理维度\n13: \n14: | 维度 | 关注要点 |\n15: |------|----------|\n16: | 时间对应 | 同一时期中外重大事件的年代对照、世纪分期对应、历史纪年换算 |\n17: | 事件关联 | 中外历史事件的因果关系、相互影响、丝绸之路等交流通道的作用 |\n18: | 文明比较 | 不同文明在政治制度、经济发展、科技文化领域的异同对比 |\n19: | 阶段特征 | 同一历史时期世界整体发展趋势、时代主题与历史分期特征归纳 |\n20: \n21: ## 梳理标准\n22: \n23: - 依据《义务教育历史课程标准》，紧扣统编教材知识点与时空框架\n24: - 坚持唯物史观，客观呈现不同文明的发展轨迹与相互联系\n25: - 注重历史解释的多元视角，避免西方中心论或单一叙事偏见\n26: - 强调\"时空观念\"核心素养，帮助学生建立清晰的历史坐标系\n27: - 区分历史事实与历史解释，标注史料的确定性程度\n28: \n29: ## 输出格式\n30: \n31: 梳理结果按以下模块化结构呈现，便于学生系统掌握：\n32: \n33: 1. **时空坐标**：双轨时间轴或对照年表，清晰标注关键节点（中国史/世界史并列）\n34: 2. **中外对照**：分时期列举中国史与世界史对应重大事件（表格形式，突出同时性）\n35: 3. **关联分析**：选取2-3个重要节点说明中外互动、传播路径或横向影响\n36: 4. **阶段特征**：归纳该时期世界历史发展的总体趋势与中外各自的阶段性特点\n37: 5. **易混辨析**：指出学生常见的时间错位或因果混淆问题\n38: 6. **思考延伸**：提出1-2个比较性问题，引导学生进行深度历史思考\n\n(End of file - total 38 lines)\n</content>"
+    },
+    {
+      "role": "user",
+      "content": "请问您准备好开始这次单场景教学了吗？如果准备好了，请告诉我具体的教学主题是什么？"
+    },
+    {
+      "role": "assistant",
+      "content": "我已准备好。本次单场景教学的主题是：**中外历史时空对照——以双轨并行时间轴梳理19世纪中外历史关联**，重点解决学生混淆\"工业革命-鸦片战争\"因果关系和时间顺序的问题。\n\n我们可以继续深入Pattern B的任务卡片设计，或进入课堂模拟演练。请指示下一步。"
+    }
+  ]
+}

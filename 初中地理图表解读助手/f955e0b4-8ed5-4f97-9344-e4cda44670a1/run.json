@@ -1,0 +1,26 @@
+{
+  "runId": "f955e0b4-8ed5-4f97-9344-e4cda44670a1",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe44592cffeEbE5rLqG5jjm74",
+  "startedAt": "2026-03-18T16:16:08.394Z",
+  "finishedAt": "2026-03-18T16:16:47.325Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/f955e0b4-8ed5-4f97-9344-e4cda44670a1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/f955e0b4-8ed5-4f97-9344-e4cda44670a1/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，最近带学生分析区域经济发展柱状图，他们总是只看表面数据，容易忽略区域之间的联系和历史变化。你作为地理教育专家，能给我一份完整的分析吗？系统讲讲初中生在这类图表解读中的问题、科学训练方法、怎么激发创新能力，还要结合共同富裕和人地协调发展的理念，最好有具体教学建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/f955e0b4-8ed5-4f97-9344-e4cda44670a1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

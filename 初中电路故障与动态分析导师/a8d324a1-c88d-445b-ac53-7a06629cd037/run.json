@@ -1,0 +1,26 @@
+{
+  "runId": "a8d324a1-c88d-445b-ac53-7a06629cd037",
+  "sceneName": "初中电路故障与动态分析导师",
+  "title": "batch-初中电路故障与动态分析导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中电路故障与动态分析导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe3041dbffejhVfYz6EuZWhAi",
+  "startedAt": "2026-03-18T16:38:05.082Z",
+  "finishedAt": "2026-03-18T16:38:24.223Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中电路故障与动态分析导师/a8d324a1-c88d-445b-ac53-7a06629cd037/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中电路故障与动态分析导师/a8d324a1-c88d-445b-ac53-7a06629cd037/conversation-messages.json",
+  "studentInitialQuestion": "我是邱仪，今年28岁，是刚带初三物理的女老师，平时喜欢手工制作和看电影，风格比较放任。下班经常和手工社团朋友一起做工艺品，也会和同事去看电影。最近课堂上有学生在电路实验中总接错线，导致灯泡不亮或者实验做不下去。你作为物理学习顾问，能简要说明下学生通常容易在哪些环节出错，我在教学中可以用哪些简单有效的方法帮他们提升动态分析和排查电路故障的能力吗？简要说明下就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中电路故障与动态分析导师/a8d324a1-c88d-445b-ac53-7a06629cd037/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

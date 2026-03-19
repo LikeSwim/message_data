@@ -1,0 +1,16 @@
+{
+  "runId": "454596cb-c984-4555-a291-e4f5590fb8d1",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I'm a junior high student and sometimes get distracted in geography class. Can you help me simply explain what longitude and latitude are, and how they connect to time zones? Simple explanation is fine."
+    },
+    {
+      "role": "assistant",
+      "content": "I'll keep this simple and practical for you!\n\n## What Are Longitude and Latitude?\n\nThink of Earth like an **orange** that we need to locate any point on:\n\n- **Latitude** (纬线) = horizontal rings, parallel to the Equator\n  - Like the horizontal cuts you make when slicing an orange\n  - They run east-west but measure north-south position\n  - Equator is 0°, North Pole is 90°N, South Pole is 90°S\n\n- **Longitude** (经线) = vertical slices\n  - Like cutting an orange from top to bottom\n  - They run north-south but measure east-west position\n  - Prime Meridian (through Greenwich, London) is 0°\n  - Goes up to 180°E and 180°W\n\n## How Does Longitude Connect to Time Zones?\n\nHere's the simple trick:\n\n**Earth rotates 360° in 24 hours = 15° per hour**\n\nSo every 15° of longitude = 1 hour time difference\n\n- Beijing: around 116°E → UTC+8\n- New York: around 74°W → UTC-5\n\n**When you travel east**, the sun rises earlier → you gain time (add hours)  \n**When you travel west**, the sun rises later → you lose time (subtract hours)\n\n---\n\nWant me to show you a quick calculation example, or do you have a specific location you're curious about?"
+    }
+  ]
+}

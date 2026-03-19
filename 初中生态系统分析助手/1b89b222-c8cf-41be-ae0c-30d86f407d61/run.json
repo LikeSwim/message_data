@@ -1,0 +1,26 @@
+{
+  "runId": "1b89b222-c8cf-41be-ae0c-30d86f407d61",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb36e3bffeYdujutzxAN645C",
+  "startedAt": "2026-03-18T23:34:02.939Z",
+  "finishedAt": "2026-03-18T23:35:31.734Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/1b89b222-c8cf-41be-ae0c-30d86f407d61/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/1b89b222-c8cf-41be-ae0c-30d86f407d61/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物兴趣小组成员，最近大家在讨论生态系统结构与功能时有不同观点。你作为生物老师，能不能说说你的看法？最好举些例子说明这些知识对实际生活有什么帮助。",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/1b89b222-c8cf-41be-ae0c-30d86f407d61/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

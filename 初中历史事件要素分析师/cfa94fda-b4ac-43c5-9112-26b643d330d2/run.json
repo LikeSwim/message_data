@@ -1,0 +1,26 @@
+{
+  "runId": "cfa94fda-b4ac-43c5-9112-26b643d330d2",
+  "sceneName": "初中历史事件要素分析师",
+  "title": "batch-初中历史事件要素分析师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史事件要素分析师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd1ea783ffe2ECK4abKB39ML6",
+  "startedAt": "2026-03-18T21:36:55.921Z",
+  "finishedAt": "2026-03-18T21:38:02.477Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史事件要素分析师/cfa94fda-b4ac-43c5-9112-26b643d330d2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史事件要素分析师/cfa94fda-b4ac-43c5-9112-26b643d330d2/conversation-messages.json",
+  "studentInitialQuestion": "你是历史教研员，能给我全方位地讲解一下抗日战争吗？希望能从背景到过程、人物、影响都系统梳理，还能给出一些启发学生思考的教学建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史事件要素分析师/cfa94fda-b4ac-43c5-9112-26b643d330d2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

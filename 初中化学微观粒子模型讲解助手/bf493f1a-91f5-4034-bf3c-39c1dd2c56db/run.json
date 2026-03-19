@@ -1,0 +1,26 @@
+{
+  "runId": "bf493f1a-91f5-4034-bf3c-39c1dd2c56db",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd98121affeFaBpos1BHB20kZ",
+  "startedAt": "2026-03-18T19:24:18.785Z",
+  "finishedAt": "2026-03-18T19:25:37.117Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/bf493f1a-91f5-4034-bf3c-39c1dd2c56db/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/bf493f1a-91f5-4034-bf3c-39c1dd2c56db/conversation-messages.json",
+  "studentInitialQuestion": "我是初中科学社团的指导老师，最近组织学生探究微观粒子构成和模型，希望大家能系统地理解这部分内容。你作为教育专家，能系统地讲解一下相关知识、模型演变和教学建议吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/bf493f1a-91f5-4034-bf3c-39c1dd2c56db/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

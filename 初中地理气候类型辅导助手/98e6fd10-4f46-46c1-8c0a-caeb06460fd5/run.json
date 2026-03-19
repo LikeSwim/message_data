@@ -1,0 +1,26 @@
+{
+  "runId": "98e6fd10-4f46-46c1-8c0a-caeb06460fd5",
+  "sceneName": "初中地理气候类型辅导助手",
+  "title": "batch-初中地理气候类型辅导助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理气候类型辅导助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe5adc1effeMK7Ix2uFWOsJXC",
+  "startedAt": "2026-03-18T15:51:33.083Z",
+  "finishedAt": "2026-03-18T15:52:22.845Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理气候类型辅导助手/98e6fd10-4f46-46c1-8c0a-caeb06460fd5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理气候类型辅导助手/98e6fd10-4f46-46c1-8c0a-caeb06460fd5/conversation-messages.json",
+  "studentInitialQuestion": "我是申屠菊，27岁女老师，喜欢自然观察、摄影和园艺，常在教职工休息室分享心得，也会拍摄校园植物角照片发给学生家长。作为一名有同理心的地理教师，我希望你能解释一下世界气候类型的分布与成因，最好结合自然观察和园艺的体验，方便我在教学和与家长交流中用得上。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理气候类型辅导助手/98e6fd10-4f46-46c1-8c0a-caeb06460fd5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

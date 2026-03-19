@@ -1,0 +1,26 @@
+{
+  "runId": "2816b8ca-1db3-4801-8134-a86e35964746",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe3e8b03ffemM7pJd3LHTUGsp",
+  "startedAt": "2026-03-18T16:22:28.851Z",
+  "finishedAt": "2026-03-18T16:23:43.611Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/2816b8ca-1db3-4801-8134-a86e35964746/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/2816b8ca-1db3-4801-8134-a86e35964746/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，平时喜欢户外活动，但觉得地形图判读很抽象，实际用时容易出错。你作为地理老师，能解释一下地形图在户外活动中的应用吗？比如怎么选路线、避开危险区域，还能结合我的兴趣给些实用建议吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/2816b8ca-1db3-4801-8134-a86e35964746/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

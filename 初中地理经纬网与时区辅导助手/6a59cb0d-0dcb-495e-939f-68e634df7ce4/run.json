@@ -1,0 +1,26 @@
+{
+  "runId": "6a59cb0d-0dcb-495e-939f-68e634df7ce4",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理经纬网与时区辅导助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe6b3cb6fferdX29do5KMLAL3",
+  "startedAt": "2026-03-18T15:33:39.777Z",
+  "finishedAt": "2026-03-18T15:35:29.294Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/6a59cb0d-0dcb-495e-939f-68e634df7ce4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/6a59cb0d-0dcb-495e-939f-68e634df7ce4/conversation-messages.json",
+  "studentInitialQuestion": "You’re an education specialist and need to write a thorough, professional explanation of latitude, longitude, and time zone calculation for geography teachers. Please cover everything—history, scientific principles, real-life uses, common student mistakes, creative teaching tips, and how these ideas connect to Chinese traditional culture and values. Make sure the content is clear, organized, and includes specific classroom examples. Could you explain this in depth?",
+  "studentInitialQuestionPath": "data/student-questions/初中地理经纬网与时区辅导助手/6a59cb0d-0dcb-495e-939f-68e634df7ce4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

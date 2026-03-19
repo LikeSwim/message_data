@@ -1,0 +1,26 @@
+{
+  "runId": "d5c18314-68f5-4634-8877-af81bd50b820",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb9cd67ffegBnGH7evOfKhLQ",
+  "startedAt": "2026-03-18T14:07:50.926Z",
+  "finishedAt": "2026-03-18T14:08:54.136Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/d5c18314-68f5-4634-8877-af81bd50b820/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/d5c18314-68f5-4634-8877-af81bd50b820/conversation-messages.json",
+  "studentInitialQuestion": "你是一位有经验的道德与法治老师，我想请你彻底说清楚，怎么系统设计一套适合初中生的道德与法治课程体系？请包括课程目标、内容安排、教学方法、评价体系、家校社协同、创新实践活动这些方面，最好能充分体现社会主义核心价值观和中华传统美德。",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/d5c18314-68f5-4634-8877-af81bd50b820/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

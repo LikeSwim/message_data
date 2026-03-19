@@ -1,0 +1,26 @@
+{
+  "runId": "33acce80-cbd7-42ec-ac38-f0b3f96ca601",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcf19f68ffe65a18PxSAjejT4",
+  "startedAt": "2026-03-18T22:26:07.122Z",
+  "finishedAt": "2026-03-18T22:26:26.774Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/33acce80-cbd7-42ec-ac38-f0b3f96ca601/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/33acce80-cbd7-42ec-ac38-f0b3f96ca601/conversation-messages.json",
+  "studentInitialQuestion": "我是49岁的语文老师董煜婷，平时喜欢茶艺、写诗和越剧，逻辑性一般但善于倾听，跟教学同事关系挺好。最近备课时觉得名著阅读考查的评价标准有点模糊，尤其不知道怎么结合学生实际和语文学科特点来设计。你能帮我理解一下，名著阅读考查评价标准都应该考虑哪些方面吗？希望能结合我的背景和兴趣给点建议。帮我理解一下。",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/33acce80-cbd7-42ec-ac38-f0b3f96ca601/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

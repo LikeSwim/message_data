@@ -1,0 +1,26 @@
+{
+  "runId": "0bfa9c88-c31b-4b15-abf4-edd31b4b7b65",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe1fac77ffeZqO6dVIg0Kk8c1",
+  "startedAt": "2026-03-18T16:56:11.906Z",
+  "finishedAt": "2026-03-18T16:57:09.459Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/0bfa9c88-c31b-4b15-abf4-edd31b4b7b65/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/0bfa9c88-c31b-4b15-abf4-edd31b4b7b65/conversation-messages.json",
+  "studentInitialQuestion": "我是初中体育老师，短跑和接力项目教学一直想提升。你作为体育教育专家，能全面深入地讲讲教学设计吗？希望涉及起跑技术、接力棒交接、团队协作、课堂管理、评价和体育精神的培养。",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/0bfa9c88-c31b-4b15-abf4-edd31b4b7b65/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

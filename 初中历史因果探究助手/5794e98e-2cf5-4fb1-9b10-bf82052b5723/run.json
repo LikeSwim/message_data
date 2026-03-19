@@ -1,0 +1,26 @@
+{
+  "runId": "5794e98e-2cf5-4fb1-9b10-bf82052b5723",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd15078fffeMrq6h00rXDtdwT",
+  "startedAt": "2026-03-18T21:47:26.695Z",
+  "finishedAt": "2026-03-18T21:48:44.789Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/5794e98e-2cf5-4fb1-9b10-bf82052b5723/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/5794e98e-2cf5-4fb1-9b10-bf82052b5723/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初三学生，很喜欢历史，但总觉得‘辛亥革命’的原因特别复杂，写因果分析题时经常出错。你作为历史学习助手，能具体说说辛亥革命爆发的多重原因和历史意义吗？顺便帮我推荐点好理解的分析方法。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/5794e98e-2cf5-4fb1-9b10-bf82052b5723/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

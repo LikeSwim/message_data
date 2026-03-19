@@ -1,0 +1,26 @@
+{
+  "runId": "182faa8c-4c1b-4b88-8e5c-efe75332e1a2",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学推断与鉴定助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fda0cae1ffeGBqPUTnkOF79Cw",
+  "startedAt": "2026-03-18T19:14:47.191Z",
+  "finishedAt": "2026-03-18T19:15:36.233Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学推断与鉴定助手/182faa8c-4c1b-4b88-8e5c-efe75332e1a2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学推断与鉴定助手/182faa8c-4c1b-4b88-8e5c-efe75332e1a2/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生，最近对化学实验很感兴趣，特别想知道怎么通过实验和推理来判断未知物质。你能讲得详细点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学推断与鉴定助手/182faa8c-4c1b-4b88-8e5c-efe75332e1a2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

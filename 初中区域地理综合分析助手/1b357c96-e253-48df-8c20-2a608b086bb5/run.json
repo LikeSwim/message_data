@@ -1,0 +1,26 @@
+{
+  "runId": "1b357c96-e253-48df-8c20-2a608b086bb5",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcbfef70ffeRvbCwpDlYVefQ0",
+  "startedAt": "2026-03-18T23:20:23.428Z",
+  "finishedAt": "2026-03-18T23:21:38.631Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/1b357c96-e253-48df-8c20-2a608b086bb5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/1b357c96-e253-48df-8c20-2a608b086bb5/conversation-messages.json",
+  "studentInitialQuestion": "I'm DavisPaige, a 7th grader who loves baking and basketball and remembers things best with pictures. Sometimes I feel a bit too confident in group projects. Can you explain the US-Mexico-Canada region in geography, economy, and culture really thoroughly—like with maps, food, sports examples, and ideas for cool visual projects? Please give a full explanation.",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/1b357c96-e253-48df-8c20-2a608b086bb5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "294f44aa-5741-4d4a-a8a2-4d259238934a",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe422a67ffeaCFJbmEnYjD66G",
+  "startedAt": "2026-03-18T16:18:31.445Z",
+  "finishedAt": "2026-03-18T16:19:34.487Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/294f44aa-5741-4d4a-a8a2-4d259238934a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/294f44aa-5741-4d4a-a8a2-4d259238934a/conversation-messages.json",
+  "studentInitialQuestion": "你是我的地理学习助手，我在初中学习，最近练习解读世界人口密度分布图时有点困惑。能简单说说分析这类人口密度分布图的关键步骤和注意事项吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/294f44aa-5741-4d4a-a8a2-4d259238934a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

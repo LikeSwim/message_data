@@ -1,0 +1,26 @@
+{
+  "runId": "868cfdee-89e4-4983-923a-79423b63aa28",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fde8c048ffehAusjnFcXJt3LK",
+  "startedAt": "2026-03-18T17:56:11.311Z",
+  "finishedAt": "2026-03-18T17:56:39.920Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/868cfdee-89e4-4983-923a-79423b63aa28/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/868cfdee-89e4-4983-923a-79423b63aa28/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学兴趣班的学生，平常喜欢观察生活里的现象。你是化学学习助手，能讲讲看化学基本定律有哪些吗？还有这些定律为什么对我们的生活很重要？麻烦你详细说说，最好能举点例子，也鼓励我自己多思考和探究。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/868cfdee-89e4-4983-923a-79423b63aa28/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

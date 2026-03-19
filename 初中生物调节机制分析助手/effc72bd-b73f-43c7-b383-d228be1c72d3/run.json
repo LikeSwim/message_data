@@ -1,0 +1,26 @@
+{
+  "runId": "effc72bd-b73f-43c7-b383-d228be1c72d3",
+  "sceneName": "初中生物调节机制分析助手",
+  "title": "batch-初中生物调节机制分析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物调节机制分析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fca6d970ffeGd0snSpU1fje3R",
+  "startedAt": "2026-03-18T23:47:47.461Z",
+  "finishedAt": "2026-03-18T23:49:21.151Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物调节机制分析助手/effc72bd-b73f-43c7-b383-d228be1c72d3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物调节机制分析助手/effc72bd-b73f-43c7-b383-d228be1c72d3/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，学生基础比较薄弱，生命活动调节机制这块总是搞不清楚神经、体液、激素调节的联系和区别。你作为教育专家，能讲得详细点吗？最好能给我理论解释、生活例子、分层教学建议，还有怎么激发学生创新思维，帮我提升教学效果。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物调节机制分析助手/effc72bd-b73f-43c7-b383-d228be1c72d3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

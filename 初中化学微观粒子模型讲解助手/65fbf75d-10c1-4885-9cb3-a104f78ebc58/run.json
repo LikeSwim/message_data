@@ -1,0 +1,26 @@
+{
+  "runId": "65fbf75d-10c1-4885-9cb3-a104f78ebc58",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd991f4affePPg5wiR3TNn2O0",
+  "startedAt": "2026-03-18T19:23:09.872Z",
+  "finishedAt": "2026-03-18T19:23:32.289Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/65fbf75d-10c1-4885-9cb3-a104f78ebc58/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/65fbf75d-10c1-4885-9cb3-a104f78ebc58/conversation-messages.json",
+  "studentInitialQuestion": "我是化学兴趣班家长，我儿子喜欢做实验但觉得微观粒子的模型太抽象。你作为化学老师，能不能简单说说模型在化学学习中的作用？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/65fbf75d-10c1-4885-9cb3-a104f78ebc58/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

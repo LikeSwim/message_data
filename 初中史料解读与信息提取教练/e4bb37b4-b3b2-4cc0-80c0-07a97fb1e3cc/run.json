@@ -1,0 +1,26 @@
+{
+  "runId": "e4bb37b4-b3b2-4cc0-80c0-07a97fb1e3cc",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc5fba1cffevJhJD4JMbkvHmI",
+  "startedAt": "2026-03-19T01:05:27.345Z",
+  "finishedAt": "2026-03-19T01:07:58.186Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/e4bb37b4-b3b2-4cc0-80c0-07a97fb1e3cc/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/e4bb37b4-b3b2-4cc0-80c0-07a97fb1e3cc/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史老师，最近用《南京条约》原文做史料教学，但学生们解读和提取信息能力不太够。你作为历史教学顾问，能帮我详细讲讲怎么设计教学方案，让学生在课堂上学会史料解读和信息提取，还能培养历史思维和创新分析能力吗？我想深入了解",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/e4bb37b4-b3b2-4cc0-80c0-07a97fb1e3cc/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

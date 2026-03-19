@@ -1,0 +1,26 @@
+{
+  "runId": "1472fda8-f8ce-4045-bd89-ced998ef95be",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbfbbcabffeFZk0Z5QkrxiBho",
+  "startedAt": "2026-03-19T02:54:41.487Z",
+  "finishedAt": "2026-03-19T02:59:08.032Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/1472fda8-f8ce-4045-bd89-ced998ef95be/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/1472fda8-f8ce-4045-bd89-ced998ef95be/conversation-messages.json",
+  "studentInitialQuestion": "我刚开始带初中数学，讲函数和图像时发现学生反应一般，很难提起兴趣。你作为有经验的数学老师，能详细展开说说初中函数教学的知识点梳理、课堂互动和创新方法吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/1472fda8-f8ce-4045-bd89-ced998ef95be/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

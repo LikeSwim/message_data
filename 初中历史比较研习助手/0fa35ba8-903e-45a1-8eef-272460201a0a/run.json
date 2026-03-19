@@ -1,0 +1,26 @@
+{
+  "runId": "0fa35ba8-903e-45a1-8eef-272460201a0a",
+  "sceneName": "初中历史比较研习助手",
+  "title": "batch-初中历史比较研习助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史比较研习助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd6831eeffecX4RhMP7A2bU0D",
+  "startedAt": "2026-03-18T20:16:36.362Z",
+  "finishedAt": "2026-03-18T20:18:35.632Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史比较研习助手/0fa35ba8-903e-45a1-8eef-272460201a0a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史比较研习助手/0fa35ba8-903e-45a1-8eef-272460201a0a/conversation-messages.json",
+  "studentInitialQuestion": "我女儿刚上初一，对历史有点抵触，最近作业要比较戊戌变法和明治维新。你能帮我理解一下这两场改革核心内容和主要区别吗？最好能用点生活例子和有趣比喻让她能感兴趣。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史比较研习助手/0fa35ba8-903e-45a1-8eef-272460201a0a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

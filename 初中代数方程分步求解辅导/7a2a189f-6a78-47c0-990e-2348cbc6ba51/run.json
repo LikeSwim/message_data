@@ -1,0 +1,26 @@
+{
+  "runId": "7a2a189f-6a78-47c0-990e-2348cbc6ba51",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "batch-初中代数方程分步求解辅导-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中代数方程分步求解辅导",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec7416bffeHboV4hmshnd50V",
+  "startedAt": "2026-03-18T13:53:09.260Z",
+  "finishedAt": "2026-03-18T13:54:36.505Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中代数方程分步求解辅导/7a2a189f-6a78-47c0-990e-2348cbc6ba51/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中代数方程分步求解辅导/7a2a189f-6a78-47c0-990e-2348cbc6ba51/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学教研员，最近在研究怎么让学生更好地理解和应用代数方程分步求解，尤其希望探索不同学习风格和背景下的创新教学方法。你作为教育顾问，能详细说说代数方程分步求解的原理、教学流程、常见误区和突破策略吗？希望你结合实际案例和最新理念，深入分析如何根据学生的个性化需求制定分层教学方案，并给我一些能激发学生探究欲和独立思维的实用建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中代数方程分步求解辅导/7a2a189f-6a78-47c0-990e-2348cbc6ba51/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

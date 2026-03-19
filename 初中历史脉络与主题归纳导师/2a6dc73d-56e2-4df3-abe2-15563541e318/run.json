@@ -1,0 +1,26 @@
+{
+  "runId": "2a6dc73d-56e2-4df3-abe2-15563541e318",
+  "sceneName": "初中历史脉络与主题归纳导师",
+  "title": "batch-初中历史脉络与主题归纳导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史脉络与主题归纳导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd4848b0ffeQ3VRTQPB0KF4Y1",
+  "startedAt": "2026-03-18T20:51:27.688Z",
+  "finishedAt": "2026-03-18T20:53:55.242Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史脉络与主题归纳导师/2a6dc73d-56e2-4df3-abe2-15563541e318/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史脉络与主题归纳导师/2a6dc73d-56e2-4df3-abe2-15563541e318/conversation-messages.json",
+  "studentInitialQuestion": "我是高二学生郭菊燕，平时喜欢服装设计和视频剪辑，性格偏直觉判断，经常和时尚设计课程的同学一起参与创意社团的视频剪辑活动。最近在学世界近现代史时，我对历史事件背后的社会变革和文化潮流很感兴趣，但总觉得历史发展的脉络很难系统归纳。你作为历史学科专家，能从各个角度详细说说世界近现代史的发展脉络、主要主题，以及这些历史变革对现代社会和文化（比如时尚、艺术、设计）的影响吗？希望结合我的兴趣和学习习惯，给我具体分析和学习建议",
+  "studentInitialQuestionPath": "data/student-questions/初中历史脉络与主题归纳导师/2a6dc73d-56e2-4df3-abe2-15563541e318/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

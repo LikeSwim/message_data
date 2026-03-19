@@ -1,0 +1,26 @@
+{
+  "runId": "345a0dbc-02b7-4775-bcad-ab5af692871a",
+  "sceneName": "初中几何证明思路引导师",
+  "title": "batch-初中几何证明思路引导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中几何证明思路引导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd896aabffe7ieba3fi7SqPS6",
+  "startedAt": "2026-03-18T19:40:19.152Z",
+  "finishedAt": "2026-03-18T19:41:35.303Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中几何证明思路引导师/345a0dbc-02b7-4775-bcad-ab5af692871a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中几何证明思路引导师/345a0dbc-02b7-4775-bcad-ab5af692871a/conversation-messages.json",
+  "studentInitialQuestion": "我是初三女生，成绩还可以，但最近做几何定理证明（比如角平分线定理）时，总觉得能写出结论但是过程不太严密。性格有点急躁，喜欢画图但文字表达一般，妈妈希望我写证明题时条理清楚。你能全面分析一下怎么提升几何定理证明的结构性和表达能力吗？最好能结合我的情况讲讲具体训练方法、案例和心理建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中几何证明思路引导师/345a0dbc-02b7-4775-bcad-ab5af692871a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

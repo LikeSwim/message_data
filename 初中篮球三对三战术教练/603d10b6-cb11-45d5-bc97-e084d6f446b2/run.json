@@ -1,0 +1,26 @@
+{
+  "runId": "603d10b6-cb11-45d5-bc97-e084d6f446b2",
+  "sceneName": "初中篮球三对三战术教练",
+  "title": "batch-初中篮球三对三战术教练-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中篮球三对三战术教练",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd759ddaffelOPU0wuJgpWH3Z",
+  "startedAt": "2026-03-18T20:01:55.575Z",
+  "finishedAt": "2026-03-18T20:02:21.856Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中篮球三对三战术教练/603d10b6-cb11-45d5-bc97-e084d6f446b2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中篮球三对三战术教练/603d10b6-cb11-45d5-bc97-e084d6f446b2/conversation-messages.json",
+  "studentInitialQuestion": "你作为初中体育老师，能大概讲讲三对三篮球战术演练的核心要点吗？就是基本战术、分工和配合这些，简单说说就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中篮球三对三战术教练/603d10b6-cb11-45d5-bc97-e084d6f446b2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

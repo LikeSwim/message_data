@@ -1,0 +1,436 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773857174260
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d022072f4001ZRTachHiWn23Jn",
+      "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生首问:\n我是肖超，六年级学生，喜欢机器人和吉他，平时课外活动比较多，成绩一般但很喜欢团队合作。你能讲清楚点初中化学方程式的计算方法吗？最好结合我的兴趣和学习特点，举几个实际例子和建议。",
+        "id": "prt_d022072f4002KARqoCO470iL15",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d022072f4001ZRTachHiWn23Jn"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773857174265,
+        "completed": 1773857177509
+      },
+      "parentID": "msg_d022072f4001ZRTachHiWn23Jn",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中化学方程式计算辅导",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11773,
+        "input": 11653,
+        "output": 120,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "tool-calls",
+      "id": "msg_d022072f9001HYjKDad7SLdNDc",
+      "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "97b9451ea3b2a1865d6b056b15decc87ab0f4f42",
+        "id": "prt_d022073fb001TCJ5rg42Kjcjmc",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d022072f9001HYjKDad7SLdNDc"
+      },
+      {
+        "type": "reasoning",
+        "text": " Student肖超，六年级学生，即将升入初中，对机器人和吉他感兴趣，喜欢团队合作。他希望了解初中化学方程式的计算方法，希望结合他的兴趣和学习特点。\n\n首先，我需要了解当前场景的上下文。让我查看一下AGENTS.md、skills和当前配置。",
+        "time": {
+          "start": 1773857174524,
+          "end": 1773857177480
+        },
+        "id": "prt_d022073fc0014P9DeeAY7xhwzI",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d022072f9001HYjKDad7SLdNDc"
+      },
+      {
+        "type": "text",
+        "text": " 你好肖超！很高兴认识你。看到你喜欢机器人和吉他，还在乎团队合作，这些特点对学习化学方程式计算很有帮助！  \n让我先加载一下当前教学场景的指导资源，然后结合你的兴趣给你讲解。",
+        "time": {
+          "start": 1773857177481,
+          "end": 1773857177481
+        },
+        "id": "prt_d0220791d001uIXvM9hhrJePIR",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d022072f9001HYjKDad7SLdNDc"
+      },
+      {
+        "type": "tool",
+        "callID": " functions.skill:0",
+        "tool": "skill",
+        "state": {
+          "status": "completed",
+          "input": {
+            "name": "初中化学方程式计算步骤指导"
+          },
+          "output": "<skill_content name=\"初中化学方程式计算步骤指导\">\n# Skill: 初中化学方程式计算步骤指导\n\n## 适用场景\n\n- 初中化学方程式计算专题辅导（人教版/鲁教版/沪教版等统编教材第九/十单元）\n- 中考化学计算题规范答题训练与步骤分保障\n- 化学方程式计算易错点诊断与针对性纠正\n- 含杂质计算、过量判断、差量法等拓展题型突破\n- 初三化学总复习阶段的计算题规范化训练\n\n## 辅导维度\n\n基于《义务教育化学课程标准（2022年版）》中\"化学观念\"与\"科学思维\"核心素养要求，从以下维度系统开展辅导：\n\n| 维度 | 核心要点 | 素养对应 |\n|------|----------|----------|\n| **方程式规范性** | 化学式书写准确性、配平检查、反应条件（△/点燃/催化剂）与状态符号（↑↓）完整性 | 化学观念 |\n| **量的关系构建** | 相对分子质量（Mr）计算、质量比确定、纯净物质量与混合物质量的换算关系 | 科学思维 |\n| **解题步骤执行** | \"设→写→标→列→解→答\"六步法的逻辑连贯性与书写规范性 | 科学态度与责任 |\n| **计算方法选择** | 直接比例法、守恒法（质量守恒/元素守恒）、差量法的适用场景判断 | 科学思维 |\n| **易错点防范** | 单位统一与换算、相对质量与实际质量区分、化学计量数倍数关系处理 | 科学思维 |\n\n## 指导原则\n\n1. **规范先行，步骤得分**：严格遵循中考化学计算题评分细则，强调化学方程式配平检查、比例式规范建立、单位标注等关键步骤，确保\"步骤分\"不丢失，培养学生\"会做题且拿满分\"的应试能力。\n\n2. **三重表征转换**：强化\"宏观现象（质量关系）—微观粒子（化学计量数之比）—符号表达（化学方程式）\"的关联理解，帮助学生建立从定性到定量的化学思维跨越。\n\n3. **示范-模仿-迁移**：采用渐进式教学模式，先展示标准完整解法，再引导学生模仿关键步骤操作，最后通过变式训练实现方法内化与灵活应用。\n\n4. **错因分类诊断**：区分概念性错误（如方程式未配平、相对分子质量计算错误、化学式书写错误）与计算性错误（如算术失误、单位换算错误），实施精准纠正，避免重复犯错。\n\n5. **可视化辅助**：鼓励绘制物质转化关系图、质量关系线段图或表格，将抽象的数量关系具象化，降低认知负荷，特别适用于含杂质、多步反应等复杂情境。\n\n6. **价值引领**：结合工业生产（如炼铁含杂计算）、医药健康（如补钙剂含量测定）等真实情境，渗透化学服务社会发展的学科价值，体现\"立德树人\"根本任务。\n\n## 输出格式\n\n辅导响应按以下结构化流程组织，确保解题过程可追溯、方法可复现、规范可执行：\n\n### 1. 审题拆解\n- **信息提取**：用下划线或高亮标注已知条件（注意区分纯净物质量与混合物质量、是否过量、反应完全程度）与待求量\n- **关键判断**：确定反应类型、物质纯度、是否存在过量问题，明确\"谁完全反应\"这一计算前提\n\n### 2. 思路导航\n- **路径选择**：说明采用直接比例法、守恒法或差量法的依据与适用条件\n- **关系图示**：绘制简明的物质转化流程图或质量对应关系表，可视化展示已知量与未知量的逻辑关联\n\n### 3. 规范示范（六步法详解）\n完整展示\"设、写、标、列、解、答\"标准流程，关键步骤突出显示：\n\n- **设**：设未知量（必须带单位，如\"设需要碳酸钙的质量为x\"）\n- **写**：书写配平的化学方程式（检查化学式、配平、条件、↑↓符号完整性）\n- **标**：在化学式下方标出相对分子质量×化学计量数，下方对应写出实际质量（上下对齐，左右对应）\n- **列**：列出比例式（强调\"上下单位要相同，左右单位相对应\"原则）\n- **解**：求解未知量（展示关键计算步骤，注意有效数字与单位）\n- **答**：简明扼要作答（带单位，与设问保持逻辑一致）\n\n### 4. 方法提炼\n- **通用模板**：归纳此类题型的标准解题框架与检查清单\n- **记忆口诀**：提供易记口诀辅助规范操作（如：\"化学方程要配平，纯净质量代方程；上下单位须一致，左右单位要对应；杂质问题先换算，过量判断定谁完\"）\n\n### 5. 错例诊所\n- **典型错例**：列举1-2个学生常见错误解法（如：未配平方程式直接计算、将混合物质量直接代入计算、混淆溶质质量与溶液质量）\n- **错误剖析**：用醒目标注（如红笔批注）指出错误点，分析错误根源（概念混淆/计算失误/审题疏漏）\n- **防范策略**：给出避免此类错误的具体检查方法（如\"配平检查三步法\"）\n\n### 6. 变式巩固\n- **变式题目**：提供1道数据或情境改变的变式题（如：由求生成物质量改为求反应物纯度，或由恰好完全反应改为过量判断）\n- **阶梯提示**：\n  - 第一层：思路方向提示（\"本题需要先判断哪种反应物过量...\"）\n  - 第二层：关键步骤提示（\"注意将不纯的赤铁矿石质量换算为纯净的氧化铁质量...\"）\n\n### 7. 素养提升\n- **情境关联**：联系生产生活实际（如工业炼铁、实验室制氧、医药含量测定），说明化学计算的实际应用价值\n- **思维拓展**：简要提及高中化学计算的衔接点（如物质的量概念的萌芽），激发持续学习兴趣\n\n## 特别说明\n\n- **学段适配**：严格控制在初中化学知识范围内，不涉及高中物质的量、氧化还原配平等超纲内容，但可适当渗透守恒思想为高中奠基。\n- **书写规范**：强调中考答题卡书写要求（如化学方程式用\"——\"而非\"→\"，气体符号只在生成物标注等）。\n- **心理建设**：针对\"怕计算\"心理，通过分步拆解、可视化辅助降低畏难情绪，建立\"按步骤做就能得分\"的信心。\n\nBase directory for this skill: file:///home/wsy/Projects/wsy/message/teach_agents/%E5%88%9D%E4%B8%AD%E5%8C%96%E5%AD%A6%E6%96%B9%E7%A8%8B%E5%BC%8F%E8%AE%A1%E7%AE%97%E8%BE%85%E5%AF%BC/.opencode/skills/%E5%88%9D%E4%B8%AD%E5%8C%96%E5%AD%A6%E6%96%B9%E7%A8%8B%E5%BC%8F%E8%AE%A1%E7%AE%97%E6%AD%A5%E9%AA%A4%E6%8C%87%E5%AF%BC\nRelative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.\nNote: file list is sampled.\n\n<skill_files>\n\n</skill_files>\n</skill_content>",
+          "title": "Loaded skill: 初中化学方程式计算步骤指导",
+          "metadata": {
+            "name": "初中化学方程式计算步骤指导",
+            "dir": "/home/wsy/Projects/wsy/message/teach_agents/初中化学方程式计算辅导/.opencode/skills/初中化学方程式计算步骤指导",
+            "truncated": false
+          },
+          "time": {
+            "start": 1773857177368,
+            "end": 1773857177377
+          }
+        },
+        "id": "prt_d02207dd1001lT8SbesJe5y5nY",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d022072f9001HYjKDad7SLdNDc"
+      },
+      {
+        "type": "step-finish",
+        "reason": "tool-calls",
+        "snapshot": "97b9451ea3b2a1865d6b056b15decc87ab0f4f42",
+        "cost": 0,
+        "tokens": {
+          "total": 11773,
+          "input": 11653,
+          "output": 120,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d02207f8a001A6TZpTJwNCR7tg",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d022072f9001HYjKDad7SLdNDc"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773857177511,
+        "completed": 1773857202095
+      },
+      "parentID": "msg_d022072f4001ZRTachHiWn23Jn",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中化学方程式计算辅导",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 14348,
+        "input": 13380,
+        "output": 968,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d02207fa7001Qp9DO7eaCpwmBO",
+      "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "97b9451ea3b2a1865d6b056b15decc87ab0f4f42",
+        "id": "prt_d02208133001uxarcYjWBowAus",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d02207fa7001Qp9DO7eaCpwmBO"
+      },
+      {
+        "type": "reasoning",
+        "text": " 好的，我现在了解了初中化学方程式计算的主要方法。现在需要结合肖超的特点（喜欢机器人、吉他、团队合作）来给他讲解。让我先查看一下是否有参考文件帮助学生理解。",
+        "time": {
+          "start": 1773857177908,
+          "end": 1773857202057
+        },
+        "id": "prt_d02208134001bCrzoWKq4z5c7V",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d02207fa7001Qp9DO7eaCpwmBO"
+      },
+      {
+        "type": "text",
+        "text": " 很棒！现在让我给你详细介绍初中化学方程式计算的方法，特别结合你的兴趣特点（机器人、吉他、团队合作）。\n\n---\n\n## 🎯 先认识\"化学方程式\"是什么\n\n**机器人视角**：化学反应方程式就像\"乐高搭建说明书\"——左边是原料（乐高块），右边是成品（机器人），等号是\"组装线\"。\n\n**吉他视角**：就像弹吉他要调标准音（EADGBE），化学方程式也要\"配平\"——左右两边每种原子的个数必须相等！\n\n---\n\n## 核心方法：\"设→写→标→列→解→答\" 六步法\n\n### 📖 例题：加热5g高锰酸钾，能制得多少克氧气？\n\n**已知**：KMnO₄相对分子质量 = 158；O₂相对分子质量 = 32\n\n---\n\n### 步骤详解（结合你的特点）\n\n#### **1️⃣ 设（像写代码设定变量一样）**\n```\n设：生成氧气的质量为 x\n```\n\n#### **2️⃣ 写（像机器人组装流程图）**\n写出配平的化学方程式：\n```\n2KMnO₄  -△→  K₂MnO₄ + MnO₂ + O₂↑\n```\n\n**⚠️ 检查点**（像机器人调试）：\n- 化学式写对了吗？✓\n- 配平了吗？（左右K:2、Mn:2、O:左侧8=右侧8）✓  \n- 条件标了吗？（加热用△）✓\n- 气体标了吗？（O₂后面有↑）✓\n\n#### **3️⃣ 标（像吉他谱的小节号）**\n在方程式下方标出\"相对质量与实际质量\"：\n\n```\n2KMnO₄  ===△===>  K₂MnO₄ + MnO₂ + O₂↑\n 316                32\n  5g                 x\n```\n\n**计算 \\(316\\)**：\\(2 \\times (39+55+16\\times4) = 2 \\times 158 = 316\\)\n\n#### **4️⃣ 列（像团队合作——各自找位置）**\n建立比例关系（对应位置要对齐）：\n\n$$\\frac{316}{32} = \\frac{5g}{x}$$\n\n**口诀**：**\"上下单位要相同，左右单位相对应\"**\n\n#### **5️⃣ 解（计算过程）**\n$$x = \\frac{32 \\times 5g}{316} \\approx 0.506g$$\n\n#### **6️⃣ 答（结论交付）**\n**答**：加热5g高锰酸钾大约能制得 **0.51g** 氧气（保留两位小数）。\n\n---\n\n## 🎸 结合你的特点的学习建议\n\n### 1. **机器人式思维——模块化拆解**\n把计算题想象成机器人的\"传感器-处理器-执行器\"：\n- **传感器**：读取题目信息\n- **处理器**：建立量的对应关系\n- **执行器**：运算输出结果\n\n### 2. **吉他式节奏——步骤不能乱**\n学吉他要根据节拍，做计算也要按步骤：\n- 设→写→标→列→解→答，顺序不能颠倒！\n- 写方程式时像调音一样反复检查配平\n\n### 3. **团队合作模式——建立对应关系**\n化学方程式中，各物质的质量比是\"固定的团队配比\"：\n- 316份KMnO₄ 对应 32份O₂\n- 就像你团队里，多少吉他手配多少鼓手一样明确！\n\n---\n\n## 📋 给刚上初中的你的准备建议\n\n**六年级暑假可以做的事**：\n1. **预习基础**：熟记前20号元素符号（像背吉他弦的顺序）\n2. **计算能力**：练练分数、比例、一元一次方程（化学计算的核心数学工具）\n3. **观察生活**：关注化学反应质量变化（比如做饭、燃烧），建立\"质量守恒\"直觉\n\n---\n\n## 🤔 小测验\n\n如果你理解了刚才的方法，告诉我：\n> **如果题目给的不是5g高锰酸钾，而是\"含有10%杂质的5.5g混合物\"，上面哪个步骤需要修改？怎么改？**\n\n（提示：杂质不参与反应，你要先算出纯的KMnO₄质量！）\n\n---\n\n你想先试试这个练习，还是想让我再举其他类型的例子（比如炼铁、制氧气）？",
+        "time": {
+          "start": 1773857202060,
+          "end": 1773857202060
+        },
+        "id": "prt_d02208579001Bv7tqzhvR7iChz",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d02207fa7001Qp9DO7eaCpwmBO"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "snapshot": "97b9451ea3b2a1865d6b056b15decc87ab0f4f42",
+        "cost": 0,
+        "tokens": {
+          "total": 14348,
+          "input": 13380,
+          "output": 968,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d0220df8e0016P52wl0kcg0jx0",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d02207fa7001Qp9DO7eaCpwmBO"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773857212685
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d0221090d001j45jd0pzbSBsKO",
+      "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生追问:\n请详细讲解如果题目涉及含有杂质的反应物（比如刚才那个10%杂质的例子），具体应该在\"六步法\"的哪一步进行调整，以及调整的详细计算方法。同时，能否再举一个工业生产中的实际例子（比如炼铁）来让我练习这种含杂质的计算？",
+        "id": "prt_d0221090e001ivv2eTIoOeRiHf",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221090d001j45jd0pzbSBsKO"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773857212688,
+        "completed": 1773857248474
+      },
+      "parentID": "msg_d0221090d001j45jd0pzbSBsKO",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中化学方程式计算辅导",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 15902,
+        "input": 14398,
+        "output": 1504,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d0221090f001Kfn5PgROW15UOd",
+      "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "97b9451ea3b2a1865d6b056b15decc87ab0f4f42",
+        "id": "prt_d02210b1a001bz6JZKa7NtexhW",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221090f001Kfn5PgROW15UOd"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户想了解：\n1. 涉及含杂质反应物时，在\"六步法\"中哪一步需要调整\n2. 调整的详细计算方法\n3. 一个工业生产中的实际例子（如炼铁）来练习这种含杂质的计算\n\n我需要：\n1. 根据SKILL.md的指导，详细说明杂质处理在哪个步骤\n2. 解释转换的方法和计算过程\n3. 给出一个炼铁的实际例子，包含完整解答\n\n根据SKILL.md：\n- 杂质处理主要在\"审题拆解\"阶段，需要区分纯净物质量与混合物质量\n- \"标\"的步骤中，下方要对应纯净物质量\n- 有公式：纯净物质量 = 混合物质量 × 纯度（或 1 - 杂质质量分数）\n- 提到了炼铁的例子\n\n让我组织回答：\n1. 明确指出杂质处理是在\"标\"的步骤之前\n2. 解释换算方法\n3. 给炼铁例题\n\n炼铁常用的方程式：\nFe₂O₃ + 3CO =高温= 2Fe + 3CO₂\n\n需要的数据：\n- Fe₂O₃相对分子质量：56×2 + 16×3 = 160\n- Fe相对原子质量：56\n- 例题：1000吨含20%杂质的赤铁矿石，能冶炼出多少吨铁？\n\n让我详细说明杂质处理。",
+        "time": {
+          "start": 1773857213211,
+          "end": 1773857248444
+        },
+        "id": "prt_d02210b1b001Hw95prE7ClmiLg",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221090f001Kfn5PgROW15UOd"
+      },
+      {
+        "type": "text",
+        "text": " 完美的问题！含杂质计算是中考高频考点，也是最容易丢分的地方。让我详细给你拆解。\n\n---\n\n## 🎯 含杂质计算的关键调整\n\n### 调整位置：**在第2步\"写\"和第3步\"标\"之间**\n\n**标准流程**：\n1. **审题** → 发现\"含10%杂质\"的关键信息\n2. **写方程式** → 照常写\n3. **⚠️ 调整间隔** → 在这里插入\"纯度换算\"\n4. **标** → 标注纯净物质量\n5. **列→解→答** → 照常进行\n\n### 换算公式（必背）\n\n$$\\text{纯净物质量} = \\text{混合物质量} \\times \\text{纯度百分比}$$\n\n或\n\n$$\\text{纯净物质量} = \\text{混合物质量} \\times (1 - \\text{杂质质量分数})$$\n\n---\n\n## 📖 实例详解：刚才那个10%杂质的修改版\n\n### 原题变式\n> 用含有10%杂质的5.5g高锰酸钾样品（杂质不反应），加热后能制得多少克氧气？\n\n**已知**：KMnO₄相对分子质量 = 158；O₂相对分子质量 = 32\n**纯度** = 1 - 10% = 90%\n\n### 完整解答\n\n**1️⃣ 设**\n```\n设：生成氧气的质量为 x\n```\n\n**2️⃣ 写**\n```\n2KMnO₄  -△→  K₂MnO₄ + MnO₂ + O₂↑\n```\n\n**🔧 插入调整（关键步骤！）**\n```\n纯KMnO₄质量 = 5.5g × (1 - 10%) = 5.5g × 0.9 = 4.95g\n```\n\n**3️⃣ 标**\n```\n2KMnO₄  ===△===>  K₂MnO₄ + MnO₂ + O₂↑\n 316                                        32\n4.95g                                        x\n```\n\n**4️⃣ 列**\n$$\\frac{316}{32} = \\frac{4.95g}{x}$$\n\n**5️⃣ 解**\n$$x = \\frac{32 \\times 4.95g}{316} \\approx 0.501g$$\n\n**6️⃣ 答**\n**答**：生成氧气约 **0.50g**。\n\n> **💡 提醒**：如果不换算直接用5.5g计算，你会得到错误答案约 0.557g，一下就错了！\n\n---\n\n## 🏭 工业生产实例：炼铁中的含杂质计算\n\n### 例题\n某钢铁厂用1000吨含20%杂质的赤铁矿（主要成分是Fe₂O₃）进行冶炼，理论上可炼出多少吨铁？（假设反应完全）\n\n**已知**：\n- 赤铁矿主要成分为Fe₂O₃\n- Fe₂O₃的相对分子质量 = 56×2 + 16×3 = 160\n- Fe的相对原子质量 = 56\n- 杂质不参与反应\n\n### 详细解答\n\n**1️⃣ 设**\n```\n设：可炼出铁的质量为 x\n```\n\n**2️⃣ 写**\n```\nFe₂O₃ + 3CO ===高温=== 2Fe + 3CO₂\n```\n\n**🔧 纯度换算（关键！）**\n```\n纯Fe₂O₃质量 = 1000t × (1 - 20%) = 1000t × 0.8 = 800t\n```\n\n**3️⃣ 标**\n```\nFe₂O₃ + 3CO ===高温=== 2Fe + 3CO₂\n 160                     112（2×56）\n 800t                      x\n```\n\n**4️⃣ 列**\n$$\\frac{160}{112} = \\frac{800t}{x}$$\n\n**5️⃣ 解**\n$$x = \\frac{112 \\times 800t}{160} = 560t$$\n\n**6️⃣ 答**\n**答**：理论上可炼出 **560吨** 铁。\n\n---\n\n## 📝 实际应用与易错点\n\n### 实际意义\n这道题说明：\n- 1000吨矿石里，只有800吨是有效成分\n- 如果直接用1000吨计算，会得到700吨的错误答案！\n- 这就是钢铁厂为什么要检测矿石纯度的原因\n\n### 常见错误\n\n| 错误类型 | 错误示范 | 正确做法 |\n|---------|---------|---------|\n| ❌ 混淆计算对象 | 直接用混合物质量（5.5g或1000t）代入方程 | 必须先换算成纯净物质量 |\n| ❌ 纯度算反 | 1000t × 20% = 200t | 应该是1000t × (1-20%) = 800t |\n| ❌ 单位丢失 | x=560 | 必须写 x = 560t |\n\n---\n\n## 🎸 记忆口诀（背下来！）\n\n> **\"纯净质量代方程，杂质先除要记清；**\n> **上下单位须一致，左右单位要对应。\"**\n\n---\n\n## ✏️ 巩固练习\n\n再来一题比之前稍难点的，你来试试？\n\n**练习**：某补钙剂主要成分是CaCO₃。取10g该补钙剂（含20%杂质）与足量稀盐酸反应，能产生多少克CO₂？\n\n**提示**：\n1. 方程：**CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑**\n2. CaCO₃相对分子质量 = 100，CO₂相对分子质量 = 44\n3. 注意杂质不反应\n\n想挑战的话，算出答案后告诉我！如果你想看完整解答，我也可以马上给你。",
+        "time": {
+          "start": 1773857248446,
+          "end": 1773857248446
+        },
+        "id": "prt_d0221259d001r3CE1FudN36Wti",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221090f001Kfn5PgROW15UOd"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "snapshot": "97b9451ea3b2a1865d6b056b15decc87ab0f4f42",
+        "cost": 0,
+        "tokens": {
+          "total": 15902,
+          "input": 14398,
+          "output": 1504,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d022194bf001UNg35fJ26msyuW",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221090f001Kfn5PgROW15UOd"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773857271053
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d0221ed0d001Oaxo5ewLf3mhGz",
+      "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生追问:\n如果含杂质的反应物过量，而我们需要计算生成物的质量，这时应该先用纯度换算纯净物质量，还是先判断过量部分？这两个步骤的先后顺序是什么？",
+        "id": "prt_d0221ed0d002Wf5D8ycMqqndPH",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221ed0d001Oaxo5ewLf3mhGz"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773857271055,
+        "completed": 1773857299265
+      },
+      "parentID": "msg_d0221ed0d001Oaxo5ewLf3mhGz",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中化学方程式计算辅导",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 16953,
+        "input": 15739,
+        "output": 1214,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d0221ed0f001UYCI3FMT8l3L5q",
+      "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "97b9451ea3b2a1865d6b056b15decc87ab0f4f42",
+        "id": "prt_d0221eeae001QxZjPPY7vlE7c9",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221ed0f001UYCI3FMT8l3L5q"
+      },
+      {
+        "type": "reasoning",
+        "text": " 这是一个非常好的问题！涉及到含杂质计算与过量判断的复合题型。学生问的是：当含杂质的反应物过量时，计算生成物质量的步骤顺序是什么。\n\n关键点：\n1. 含杂质 - 需要纯度换算\n2. 反应物过量 - 需要判断哪种物质完全反应\n3. 这两个操作有先后顺序吗？\n\n让我分析一下：\n- 过量判断的目的是确定\"哪种反应物完全反应\"，然后以完全反应的物质为基准进行计算\n- 纯度换算的目的是得到纯净物的实际质量\n- 实际上，这两者是独立的，但需要明确逻辑顺序\n\n正确的顺序应该是：\n1. 先判断哪种物质过量（基于纯净物的物质的量或质量比）\n2. 确定完全反应的物质后，对该物质进行纯度换算（如果是混合物）\n3. 然后用换算后的纯净物质量进行计算\n\n或者换句话说：\n- 如果是判断过量，需要用纯净物的质量来判断\n- 所以可能需要先换算纯度，才能判断过量\n\n让我再仔细想：\n假设两种反应物都含杂质，我怎么判断谁过量？\n我需要有纯净物的质量才能比较化学计量比。\n\n所以正确顺序应该是：\n1. 如果有多个反应物，且都可能是混合物，需要先把它们都换算成纯净物质量\n2. 然后用纯净物质量判断哪种过量（根据化学方程式的计量比）\n3. 确定完全反应的物质后，以该纯净物质量为基准计算生成物\n\n但对于学生来说，更简单的理解是：\n关键原则：**始终用纯净物的质量进行化学计算**\n\n所以步骤应该是：\n1. 审题，明确哪些物质含杂质\n2. 将所有含杂质的反应物换算成纯净物质量\n3. 基于纯净物质量判断过量（谁完全反应）\n4. 以完全反应的纯净物质量为基准，计算生成物\n\n这样逻辑最清晰！",
+        "time": {
+          "start": 1773857271471,
+          "end": 1773857299232
+        },
+        "id": "prt_d0221eeaf001luLs0IqJCqerEo",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221ed0f001UYCI3FMT8l3L5q"
+      },
+      {
+        "type": "text",
+        "text": "  这是个**非常棒的深度问题**！涉及到两个知识点的交叉，也是中考的难点。让我给你理清逻辑：\n\n---\n\n## 🎯 核心原则：**始终用纯净物质量进行化学计算**\n\n无论是判断过量还是计算生成物，**化学方程式只认纯净物**！\n\n---\n\n## 📋 正确步骤顺序\n\n```\n题目给出混合物质量\n      ↓\n第1步：纯度换算 → 得到各反应物纯净物质量\n      ↓\n第2步：过量判断 → 基于纯净物质量，确定谁完全反应\n      ↓\n第3步：计算生成物 → 以\"完全反应的纯净物\"为基准\n```\n\n---\n\n## 🔍 为什么必须先换算再判断？\n\n### 假设场景\n用含10%杂质的5.5g碳酸钙与含20%杂质的4g稀盐酸反应，求生成的CO₂质量。\n\n**方程**：CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂↑\n\n### 错误做法（先判断后换算）\n\n❌ 直接用混合物质量判断：\n- 5.5g CaCO₃ vs 4g HCl\n- 看方程质量比：100:73\n- 5.5:4 = 1.375，100:73 ≈ 1.37\n- 好像恰好反应？\n\n**错！** 你比较的是混合物，不是实际参与反应的纯净物！\n\n### 正确做法（先换算后判断）\n\n✅ **第1步：先都换算成纯净物**\n- 纯CaCO₃ = 5.5g × 90% = 4.95g\n- 纯HCl = 4g × 80% = 3.2g\n\n✅ **第2步：再判断过量**\n设4.95g CaCO₃需要HCl质量为x：\n$$\\frac{100}{73} = \\frac{4.95g}{x}$$\n$$x = \\frac{73 \\times 4.95}{100} ≈ 3.61g$$\n\n**比较**：实际有3.2g HCl < 需要3.61g HCl\n**结论**：**HCl不足（完全反应），CaCO₃过量**\n\n✅ **第3步：以完全反应的HCl计算生成物**\n设生成CO₂质量为y：\n$$\\frac{73}{44} = \\frac{3.2g}{y}$$\n$$y = \\frac{44 \\times 3.2}{73} ≈ 1.93g$$\n\n---\n\n## 📝 总结口诀\n\n> **\"见混先换纯，再判谁反应，**\n> **完全反应物，代入求生成。\"**\n\n---\n\n## 🎸  guitar类比理解\n\n就像乐队演出：\n- **换算纯度** = 先检查每个乐器是不是都能正常使用（把坏掉的踢出去）\n- **判断过量** = 看谁的歌词/乐谱先唱完（完全反应）\n- **计算生成** = 以唱完的那个人为基准，确定整首歌的长度\n\n你**必须先确认乐器正常**，才能判断谁会先唱完！\n\n---\n\n## ⚡ 快速检查清单\n\n做这类题时，按这个顺序：\n1. [ ] 哪些物质是混合物？标出杂质含量\n2. [ ] 全部换算成纯净物质量（混合物质量 × 纯度）\n3. [ ] 假设其中一种完全反应，计算需要另一种多少\n4. [ ] 比较实际拥有量 vs 需要量，确定谁过量\n5. [ ] 以完全反应的纯净物质量，计算目标产物\n\n---\n\n## 🤔 思考题\n\n如果题目说\"恰好完全反应\"，你还需要判断过量吗？\n\n**答**：不需要！这时候直接用换算后的任意一种纯净物质量计算都可以（结果应该一样，可以互相验证）。\n\n想不想我再出一道**含杂质 + 过量判断**的综合练习题，你来完整做一遍？",
+        "time": {
+          "start": 1773857299235,
+          "end": 1773857299235
+        },
+        "id": "prt_d022210af001Bk0wMzsb20t7Jp",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221ed0f001UYCI3FMT8l3L5q"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "snapshot": "97b9451ea3b2a1865d6b056b15decc87ab0f4f42",
+        "cost": 0,
+        "tokens": {
+          "total": 16953,
+          "input": 15739,
+          "output": 1214,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d02225b25001O1x4h1j89sK0nK",
+        "sessionID": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+        "messageID": "msg_d0221ed0f001UYCI3FMT8l3L5q"
+      }
+    ]
+  }
+]

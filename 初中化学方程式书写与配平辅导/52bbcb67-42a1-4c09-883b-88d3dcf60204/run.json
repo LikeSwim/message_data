@@ -1,0 +1,26 @@
+{
+  "runId": "52bbcb67-42a1-4c09-883b-88d3dcf60204",
+  "sceneName": "初中化学方程式书写与配平辅导",
+  "title": "batch-初中化学方程式书写与配平辅导-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式书写与配平辅导",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdd3b3ddffe64lGQT0udirixc",
+  "startedAt": "2026-03-18T18:19:10.751Z",
+  "finishedAt": "2026-03-18T18:20:42.537Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式书写与配平辅导/52bbcb67-42a1-4c09-883b-88d3dcf60204/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式书写与配平辅导/52bbcb67-42a1-4c09-883b-88d3dcf60204/conversation-messages.json",
+  "studentInitialQuestion": "你作为化学教育专家，能不能全面分析一下初中学生在学习化学方程式书写和配平时常遇到的认知障碍、误区和成长路径？希望你结合课堂实际、案例分析和科学建议，详细讲讲怎么通过分层辅导、互动活动和价值观引导帮助他们逐步突破难点。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式书写与配平辅导/52bbcb67-42a1-4c09-883b-88d3dcf60204/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

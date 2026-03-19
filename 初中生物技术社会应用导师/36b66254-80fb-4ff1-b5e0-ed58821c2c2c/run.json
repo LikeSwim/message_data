@@ -1,0 +1,26 @@
+{
+  "runId": "36b66254-80fb-4ff1-b5e0-ed58821c2c2c",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc8c62a8ffeN5Kfpgz37gpAQd",
+  "startedAt": "2026-03-19T00:16:40.616Z",
+  "finishedAt": "2026-03-19T00:19:00.051Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/36b66254-80fb-4ff1-b5e0-ed58821c2c2c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/36b66254-80fb-4ff1-b5e0-ed58821c2c2c/conversation-messages.json",
+  "studentInitialQuestion": "我是六年级男生相宁，喜欢做科学实验、野外露营和书法，父母离异后和妈妈一起生活，周末去科学实验班和同龄人交流不多。老师说我在比赛和活动里不太主动，不过书法作品经常被展出。我一直对生物技术感兴趣，比如转基因食品、微生物发酵、克隆动物这些，但有点搞不懂这些技术和我们生活到底有什么实际联系，特别像我这样不喜欢竞争、喜欢动手实验的人，学这些内容到底有什么意义？你作为生物教育专家，能不能系统地讲解一下，还能结合我的兴趣和性格给我一些适合的学习建议？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/36b66254-80fb-4ff1-b5e0-ed58821c2c2c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

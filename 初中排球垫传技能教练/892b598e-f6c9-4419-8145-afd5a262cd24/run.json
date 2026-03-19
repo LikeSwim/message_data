@@ -1,0 +1,26 @@
+{
+  "runId": "892b598e-f6c9-4419-8145-afd5a262cd24",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcde4c99ffea8YyoprHOWvCKo",
+  "startedAt": "2026-03-18T22:47:12.311Z",
+  "finishedAt": "2026-03-18T22:48:07.303Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/892b598e-f6c9-4419-8145-afd5a262cd24/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/892b598e-f6c9-4419-8145-afd5a262cd24/conversation-messages.json",
+  "studentInitialQuestion": "我是五年级女生ClarkJade，喜欢传统武术、插花和摄影，但上体育课容易分心、紧张，老师说我边界感不清楚，希望我在排球垫球和传球接力时能更专注、合作。你作为体育教育专家，能详细展开说说怎么针对我这种情况设计个性化教学吗？最好能分步骤讲讲，举些创新活动和家庭支持的例子，还能结合我的兴趣给点建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/892b598e-f6c9-4419-8145-afd5a262cd24/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

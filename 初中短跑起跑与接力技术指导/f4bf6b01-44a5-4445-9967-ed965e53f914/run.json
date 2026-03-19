@@ -1,0 +1,26 @@
+{
+  "runId": "f4bf6b01-44a5-4445-9967-ed965e53f914",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe1b0c54ffe34cRFhBGVbPsmw",
+  "startedAt": "2026-03-18T17:01:15.046Z",
+  "finishedAt": "2026-03-18T17:02:06.245Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/f4bf6b01-44a5-4445-9967-ed965e53f914/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/f4bf6b01-44a5-4445-9967-ed965e53f914/conversation-messages.json",
+  "studentInitialQuestion": "我是初中体育老师，接力教学越来越复杂了。你作为体育教育专家，能详细分析下安全管理、心理辅导、技术进阶、团队建设、家校协同这些方面的关键做法吗？希望结合实际案例，详细分析下各个方面。",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/f4bf6b01-44a5-4445-9967-ed965e53f914/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

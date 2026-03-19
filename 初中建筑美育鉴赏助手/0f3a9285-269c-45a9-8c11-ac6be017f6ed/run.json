@@ -1,0 +1,26 @@
+{
+  "runId": "0f3a9285-269c-45a9-8c11-ac6be017f6ed",
+  "sceneName": "初中建筑美育鉴赏助手",
+  "title": "batch-初中建筑美育鉴赏助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中建筑美育鉴赏助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd77ebcaffeNqCsnwUg6IKJmg",
+  "startedAt": "2026-03-18T19:59:25.740Z",
+  "finishedAt": "2026-03-18T20:00:06.696Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中建筑美育鉴赏助手/0f3a9285-269c-45a9-8c11-ac6be017f6ed/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中建筑美育鉴赏助手/0f3a9285-269c-45a9-8c11-ac6be017f6ed/conversation-messages.json",
+  "studentInitialQuestion": "我是邓梓萌，五年级女生，喜欢中国风爵士舞和唱歌，是学校舞蹈社的领舞，经常自己制定练习时间表。老师最近让我们做‘中外经典建筑欣赏与比较’项目，要用舞蹈表现建筑美感。我有点不确定怎么设计舞蹈动作，也不太懂怎么表达中外建筑特点。你作为美育学习助手，能深入说说看吗？比如怎么选建筑和舞蹈主题、动作和队形怎么表现结构美和文化内涵，还能给我些团队合作和自我规划的小技巧吗？举些例子说明就更好了。",
+  "studentInitialQuestionPath": "data/student-questions/初中建筑美育鉴赏助手/0f3a9285-269c-45a9-8c11-ac6be017f6ed/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "aececd2a-ac43-4f51-b4af-a68a40893bf1",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd3aac75ffeH960ABJg7k8bwr",
+  "startedAt": "2026-03-18T21:06:18.440Z",
+  "finishedAt": "2026-03-18T21:07:14.482Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/aececd2a-ac43-4f51-b4af-a68a40893bf1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/aececd2a-ac43-4f51-b4af-a68a40893bf1/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，最近我们班在历史课上讨论怎么全面评价历史人物的功过，像秦始皇这种争议很大的人物。老师让我们既要说贡献，也要讲过错。我本身挺喜欢辩论，也爱查资料，但总觉得评价历史人物特别复杂，不知道怎么系统梳理。你能帮我全面分析一下吗？最好结合秦始皇的具体故事讲讲怎么用多角度看待他的功与过。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/aececd2a-ac43-4f51-b4af-a68a40893bf1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

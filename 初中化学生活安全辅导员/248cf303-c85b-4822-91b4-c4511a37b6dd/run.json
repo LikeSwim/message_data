@@ -1,0 +1,26 @@
+{
+  "runId": "248cf303-c85b-4822-91b4-c4511a37b6dd",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdb16957ffeEeu7IFNV3bJlVL",
+  "startedAt": "2026-03-18T18:56:38.050Z",
+  "finishedAt": "2026-03-18T18:57:32.936Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/248cf303-c85b-4822-91b4-c4511a37b6dd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/248cf303-c85b-4822-91b4-c4511a37b6dd/conversation-messages.json",
+  "studentInitialQuestion": "我住在城市高层，父母工作忙，经常自己在家。你作为生活安全导师，能不能用几句话说说初中化学知识在青少年独居家庭安全防护上的用处？结合我的独居实际，说说关键注意事项，也能聊聊传统文化里的安全理念吗？用几句话说说",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/248cf303-c85b-4822-91b4-c4511a37b6dd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

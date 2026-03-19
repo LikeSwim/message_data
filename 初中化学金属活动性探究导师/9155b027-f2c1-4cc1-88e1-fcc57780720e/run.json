@@ -1,0 +1,26 @@
+{
+  "runId": "9155b027-f2c1-4cc1-88e1-fcc57780720e",
+  "sceneName": "初中化学金属活动性探究导师",
+  "title": "batch-初中化学金属活动性探究导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学金属活动性探究导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdbb0d19ffe3ipFlswqoD1Y2f",
+  "startedAt": "2026-03-18T18:46:06.299Z",
+  "finishedAt": "2026-03-18T18:48:04.234Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中化学金属活动性探究导师/9155b027-f2c1-4cc1-88e1-fcc57780720e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学金属活动性探究导师/9155b027-f2c1-4cc1-88e1-fcc57780720e/conversation-messages.json",
+  "studentInitialQuestion": "你能帮我理解一下金属活动性规律在初中化学学习中的作用和常见应用吗？主要是它怎么帮我们解决实际问题，讲讲看",
+  "studentInitialQuestionPath": "data/student-questions/初中化学金属活动性探究导师/9155b027-f2c1-4cc1-88e1-fcc57780720e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

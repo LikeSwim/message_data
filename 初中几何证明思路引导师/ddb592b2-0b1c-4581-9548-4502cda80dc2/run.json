@@ -1,0 +1,26 @@
+{
+  "runId": "ddb592b2-0b1c-4581-9548-4502cda80dc2",
+  "sceneName": "初中几何证明思路引导师",
+  "title": "batch-初中几何证明思路引导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中几何证明思路引导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd84cb0cffeRJWeycv06VV30t",
+  "startedAt": "2026-03-18T19:45:22.158Z",
+  "finishedAt": "2026-03-18T19:48:08.590Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中几何证明思路引导师/ddb592b2-0b1c-4581-9548-4502cda80dc2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中几何证明思路引导师/ddb592b2-0b1c-4581-9548-4502cda80dc2/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的初中数学老师，对几何定理证明教学很感兴趣，但发现课堂上学生普遍思路单一、探索欲望不强，遇到复杂辅助线或多步论证就容易放弃。你能全面深入地讲讲，针对这种情况怎么设计分层、创新的几何定理证明教学吗？最好包括互动活动、探究学习、可视化工具，还有怎么自然融入科学精神和传统文化，促进学生逻辑思维和积极态度。",
+  "studentInitialQuestionPath": "data/student-questions/初中几何证明思路引导师/ddb592b2-0b1c-4581-9548-4502cda80dc2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

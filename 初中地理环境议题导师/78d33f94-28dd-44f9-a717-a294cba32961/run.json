@@ -1,0 +1,26 @@
+{
+  "runId": "78d33f94-28dd-44f9-a717-a294cba32961",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe7a4642ffeKFTBqxoRPs4ys0",
+  "startedAt": "2026-03-18T15:17:14.292Z",
+  "finishedAt": "2026-03-18T15:18:16.652Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/78d33f94-28dd-44f9-a717-a294cba32961/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/78d33f94-28dd-44f9-a717-a294cba32961/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，班里有几位兴趣驱动型的学生，也有一些基础比较薄弱的。你作为教育内容专家，能解释一下全球性环境问题对人类社会的影响，并帮我设计分层活动让不同类型的学生都能理解和参与吗？能解释一下吗",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/78d33f94-28dd-44f9-a717-a294cba32961/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

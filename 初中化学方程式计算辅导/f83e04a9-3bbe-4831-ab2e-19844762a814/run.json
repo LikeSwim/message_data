@@ -1,0 +1,26 @@
+{
+  "runId": "f83e04a9-3bbe-4831-ab2e-19844762a814",
+  "sceneName": "初中化学方程式计算辅导",
+  "title": "batch-初中化学方程式计算辅导-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式计算辅导",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fddc4bfbffeLYLt54K8v2V4Iw",
+  "startedAt": "2026-03-18T18:09:47.517Z",
+  "finishedAt": "2026-03-18T18:10:55.915Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式计算辅导/f83e04a9-3bbe-4831-ab2e-19844762a814/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式计算辅导/f83e04a9-3bbe-4831-ab2e-19844762a814/conversation-messages.json",
+  "studentInitialQuestion": "我是景金，一名48岁的老师，喜欢航模设计和野外生存训练，有时教学会觉得有点倦怠。你作为有经验的化学老师，讲讲看初中化学方程式计算的教学流程、常见误区和怎么结合我的兴趣做创新教学吧，也顺便说说怎么给自己加点动力。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式计算辅导/f83e04a9-3bbe-4831-ab2e-19844762a814/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

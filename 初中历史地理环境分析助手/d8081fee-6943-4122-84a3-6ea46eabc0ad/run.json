@@ -1,0 +1,26 @@
+{
+  "runId": "d8081fee-6943-4122-84a3-6ea46eabc0ad",
+  "sceneName": "初中历史地理环境分析助手",
+  "title": "batch-初中历史地理环境分析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史地理环境分析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd5b34fcffeAPtiym45o9RxU4",
+  "startedAt": "2026-03-18T20:30:47.545Z",
+  "finishedAt": "2026-03-18T20:32:00.251Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史地理环境分析助手/d8081fee-6943-4122-84a3-6ea46eabc0ad/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史地理环境分析助手/d8081fee-6943-4122-84a3-6ea46eabc0ad/conversation-messages.json",
+  "studentInitialQuestion": "我最近在历史课上听老师讲地理环境影响历史进程，大家讨论挺多，但我还是有点迷糊。你能大概讲讲主要影响吗？让我快速理清思路。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史地理环境分析助手/d8081fee-6943-4122-84a3-6ea46eabc0ad/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

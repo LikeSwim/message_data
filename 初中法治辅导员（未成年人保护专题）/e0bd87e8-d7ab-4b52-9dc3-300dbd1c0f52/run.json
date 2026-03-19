@@ -1,0 +1,26 @@
+{
+  "runId": "e0bd87e8-d7ab-4b52-9dc3-300dbd1c0f52",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe107a95ffejwNtHhzKsnoz3f",
+  "startedAt": "2026-03-18T17:12:47.715Z",
+  "finishedAt": "2026-03-18T17:13:44.424Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/e0bd87e8-d7ab-4b52-9dc3-300dbd1c0f52/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/e0bd87e8-d7ab-4b52-9dc3-300dbd1c0f52/conversation-messages.json",
+  "studentInitialQuestion": "我是RobinsonJasmine，29岁，记者，喜欢诗歌和有启发性的交流，工作风格比较随性但很自律，合作时喜欢低压力、界限也很清楚。你能详细说说《未成年人保护法》是怎么支持青少年在网络和公共场合安全、自由地表达自己的吗？最好结合我的新闻和诗歌兴趣举些例子和建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/e0bd87e8-d7ab-4b52-9dc3-300dbd1c0f52/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

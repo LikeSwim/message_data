@@ -1,0 +1,26 @@
+{
+  "runId": "90fc1cf5-fba1-4301-838b-ec9d455da959",
+  "sceneName": "初中传统色彩纹样美育导师",
+  "title": "batch-初中传统色彩纹样美育导师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中传统色彩纹样美育导师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fed30f29ffednYqQmQnCt257D",
+  "startedAt": "2026-03-18T13:40:15.700Z",
+  "finishedAt": "2026-03-18T13:41:19.168Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中传统色彩纹样美育导师/90fc1cf5-fba1-4301-838b-ec9d455da959/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中传统色彩纹样美育导师/90fc1cf5-fba1-4301-838b-ec9d455da959/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中美术老师，最近准备中国传统色彩与纹样之美主题课，学生基础不太一致，有些还挺排斥传统美育内容。简短回答下，怎么让学生更容易接受和喜欢这些内容？最好能给个课堂活动建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中传统色彩纹样美育导师/90fc1cf5-fba1-4301-838b-ec9d455da959/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

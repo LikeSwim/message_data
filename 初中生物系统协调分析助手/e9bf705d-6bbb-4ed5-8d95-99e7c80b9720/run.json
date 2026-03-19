@@ -1,0 +1,26 @@
+{
+  "runId": "e9bf705d-6bbb-4ed5-8d95-99e7c80b9720",
+  "sceneName": "初中生物系统协调分析助手",
+  "title": "batch-初中生物系统协调分析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物系统协调分析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6a986effeOaHyZwjhn1Fv2y",
+  "startedAt": "2026-03-19T00:53:36.265Z",
+  "finishedAt": "2026-03-19T00:54:46.588Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物系统协调分析助手/e9bf705d-6bbb-4ed5-8d95-99e7c80b9720/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物系统协调分析助手/e9bf705d-6bbb-4ed5-8d95-99e7c80b9720/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，最近学到人体系统的协调工作，尤其是消化、循环和呼吸系统之间的关系。我喜欢画漫画，用画图帮助记忆。你能用学生视角，具体说说这几个系统是怎么配合的，并建议我怎么用图解或漫画来帮助理解吗？能具体说说吗",
+  "studentInitialQuestionPath": "data/student-questions/初中生物系统协调分析助手/e9bf705d-6bbb-4ed5-8d95-99e7c80b9720/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

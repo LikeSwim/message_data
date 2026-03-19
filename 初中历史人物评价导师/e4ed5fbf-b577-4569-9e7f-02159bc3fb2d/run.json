@@ -1,0 +1,26 @@
+{
+  "runId": "e4ed5fbf-b577-4569-9e7f-02159bc3fb2d",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd38d6faffe75Wifq2IylrgDf",
+  "startedAt": "2026-03-18T21:08:19.836Z",
+  "finishedAt": "2026-03-18T21:09:55.245Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/e4ed5fbf-b577-4569-9e7f-02159bc3fb2d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/e4ed5fbf-b577-4569-9e7f-02159bc3fb2d/conversation-messages.json",
+  "studentInitialQuestion": "我是初三历史老师，班里学生差异挺大，有喜欢听故事的，也有觉得评价历史人物很主观的。最近准备带他们做一个关于清朝乾隆皇帝功过的专题讨论。你作为教育专家，能给我一份完整的分析吗？想要内容全面，能让基础弱的同学也参与进来，能力强的同学能深入思考，还能启发大家从不同角度评价乾隆，最好包括事迹、争议、教学建议和互动活动设计。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/e4ed5fbf-b577-4569-9e7f-02159bc3fb2d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

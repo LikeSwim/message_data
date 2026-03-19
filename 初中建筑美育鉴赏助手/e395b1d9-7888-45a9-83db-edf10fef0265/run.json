@@ -1,0 +1,26 @@
+{
+  "runId": "e395b1d9-7888-45a9-83db-edf10fef0265",
+  "sceneName": "初中建筑美育鉴赏助手",
+  "title": "batch-初中建筑美育鉴赏助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中建筑美育鉴赏助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd78b641ffei7iqZnA0MSZ9eS",
+  "startedAt": "2026-03-18T19:58:33.916Z",
+  "finishedAt": "2026-03-18T19:59:25.737Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中建筑美育鉴赏助手/e395b1d9-7888-45a9-83db-edf10fef0265/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中建筑美育鉴赏助手/e395b1d9-7888-45a9-83db-edf10fef0265/conversation-messages.json",
+  "studentInitialQuestion": "我是袁爱，17岁高二女生，动漫设计和舞蹈都很喜欢，在社团常带队比赛，平时竞争意识强也很注重和同学的关系，但专注力有点起伏。美育课要做‘中外经典建筑欣赏与比较’活动，我想结合动漫和建筑，但又担心和同学竞争时没新意。你作为美育专家，能讲清楚点吗？比如怎么把动漫和建筑欣赏结合，团队里怎么兼顾创新和协作，舞蹈怎么表现建筑美感，还有提升专注力的小建议。最好举些具体案例和做法。",
+  "studentInitialQuestionPath": "data/student-questions/初中建筑美育鉴赏助手/e395b1d9-7888-45a9-83db-edf10fef0265/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

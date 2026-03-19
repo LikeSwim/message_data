@@ -1,0 +1,26 @@
+{
+  "runId": "2016a262-892a-47e6-be79-aad24f3e11cf",
+  "sceneName": "初中地理河流地貌学习助手",
+  "title": "batch-初中地理河流地貌学习助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理河流地貌学习助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe931b2cffezCDnKXJ9IL2EuW",
+  "startedAt": "2026-03-18T14:50:05.742Z",
+  "finishedAt": "2026-03-18T14:50:45.791Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理河流地貌学习助手/2016a262-892a-47e6-be79-aad24f3e11cf/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理河流地貌学习助手/2016a262-892a-47e6-be79-aad24f3e11cf/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，班里有几个基础薄弱但特别好奇的学生，对河流地貌的发育过程很感兴趣。你作为地理学习助手，能不能用通俗的语言，讲讲看河流地貌发育的主要过程和影响，还能举些生活里的例子帮助他们理解吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理河流地貌学习助手/2016a262-892a-47e6-be79-aad24f3e11cf/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

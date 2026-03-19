@@ -1,0 +1,26 @@
+{
+  "runId": "41e8e03c-42c7-468d-bcb4-6fd82c436872",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd2c90e3ffeHQ6iX0qRz9tfOT",
+  "startedAt": "2026-03-18T21:21:44.209Z",
+  "finishedAt": "2026-03-18T21:23:48.140Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/41e8e03c-42c7-468d-bcb4-6fd82c436872/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/41e8e03c-42c7-468d-bcb4-6fd82c436872/conversation-messages.json",
+  "studentInitialQuestion": "我是GriffinChristian，50岁男老师，平时做AI研究和打篮球，教学风格偏保守单向交流。最近想用英文带学生并行梳理中外历史时间线，但他们总把事件顺序搞混。你作为教育AI助手，能不能讲清楚点，帮我设计个合适的教学方案？最好细节具体点。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/41e8e03c-42c7-468d-bcb4-6fd82c436872/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "991e7c70-1224-4bbf-bf7f-734767b87fdc",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe1ecb9fffeBx3Dqx10S4uID2",
+  "startedAt": "2026-03-18T16:57:09.464Z",
+  "finishedAt": "2026-03-18T16:57:35.062Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/991e7c70-1224-4bbf-bf7f-734767b87fdc/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/991e7c70-1224-4bbf-bf7f-734767b87fdc/conversation-messages.json",
+  "studentInitialQuestion": "你能简单说说就行，初中生学短跑起跑技术时容易碰到哪些难点？有什么建议适合他们吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/991e7c70-1224-4bbf-bf7f-734767b87fdc/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

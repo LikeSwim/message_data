@@ -1,0 +1,26 @@
+{
+  "runId": "304285da-799d-4abc-9f63-5d02ebad8214",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe16fec1ffeXy4TMJk8ZX7qlF",
+  "startedAt": "2026-03-18T17:05:40.664Z",
+  "finishedAt": "2026-03-18T17:08:56.074Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/304285da-799d-4abc-9f63-5d02ebad8214/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/304285da-799d-4abc-9f63-5d02ebad8214/conversation-messages.json",
+  "studentInitialQuestion": "我是胡丽丽，今年44岁，是老师，平时喜欢学习新技能和看书，教学时比较有仪式感和掌控欲，工作投入也很高，有时候会和生活界限模糊。你能讲讲看，《未成年人保护法》对我们老师有哪些要求，尤其在保护学生权益和促进他们健康成长方面？最好结合实际教学说说。",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/304285da-799d-4abc-9f63-5d02ebad8214/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

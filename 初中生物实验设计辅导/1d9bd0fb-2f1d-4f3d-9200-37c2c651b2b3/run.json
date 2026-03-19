@@ -1,0 +1,26 @@
+{
+  "runId": "1d9bd0fb-2f1d-4f3d-9200-37c2c651b2b3",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc79419affekPzaSed6sdzijG",
+  "startedAt": "2026-03-19T00:37:35.451Z",
+  "finishedAt": "2026-03-19T00:41:21.169Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/1d9bd0fb-2f1d-4f3d-9200-37c2c651b2b3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/1d9bd0fb-2f1d-4f3d-9200-37c2c651b2b3/conversation-messages.json",
+  "studentInitialQuestion": "你是生物教学专家，我是初中生物老师，班里学生水平不一，有的很爱科学探究，有的觉得实验没意思。要做“光照时间对植物生长的影响”实验，你能从各个角度详细说说吗？包括实验目的、变量控制、活动设计、兴趣激发和价值观渗透，最好针对不同学生给出建议和案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/1d9bd0fb-2f1d-4f3d-9200-37c2c651b2b3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

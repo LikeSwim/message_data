@@ -1,0 +1,26 @@
+{
+  "runId": "60036c5e-bef9-45ff-ab34-3f37e675ac7f",
+  "sceneName": "初中地理人口分布与迁移分析助手",
+  "title": "batch-初中地理人口分布与迁移分析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理人口分布与迁移分析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe535f97ffexC4N3hmYHy0yAP",
+  "startedAt": "2026-03-18T15:59:43.711Z",
+  "finishedAt": "2026-03-18T16:00:37.943Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/60036c5e-bef9-45ff-ab34-3f37e675ac7f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/60036c5e-bef9-45ff-ab34-3f37e675ac7f/conversation-messages.json",
+  "studentInitialQuestion": "你作为地理学科的专业老师，我是55岁的张彬，目前在学校和社区都积极参与文化活动。最近有一些年轻教师向我请教‘人口分布与迁移的原因分析’的系统讲解方法。他们希望我能全方位地讲解这个主题，包括理论基础、教学案例、互动方法及如何融入中华优秀传统文化与核心价值观。你能全方位地讲解一下吗？希望内容全面、系统，便于我做专题讲座和教研指导。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理人口分布与迁移分析助手/60036c5e-bef9-45ff-ab34-3f37e675ac7f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

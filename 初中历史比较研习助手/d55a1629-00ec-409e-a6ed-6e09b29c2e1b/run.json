@@ -1,0 +1,26 @@
+{
+  "runId": "d55a1629-00ec-409e-a6ed-6e09b29c2e1b",
+  "sceneName": "初中历史比较研习助手",
+  "title": "batch-初中历史比较研习助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史比较研习助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd62a24dffemZ3CTkxnL9G85s",
+  "startedAt": "2026-03-18T20:22:40.808Z",
+  "finishedAt": "2026-03-18T20:24:25.669Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史比较研习助手/d55a1629-00ec-409e-a6ed-6e09b29c2e1b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史比较研习助手/d55a1629-00ec-409e-a6ed-6e09b29c2e1b/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史老师，想设计一节关于中外改革比较分析的公开课，主题是戊戌变法和明治维新。你能彻底说清楚两场改革的背景、过程、结果和影响吗？最好能结合创新教学方法、高阶思维引导，还有积极的价值观和生活例子，让学生更深刻地理解历史现象和现实意义。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史比较研习助手/d55a1629-00ec-409e-a6ed-6e09b29c2e1b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

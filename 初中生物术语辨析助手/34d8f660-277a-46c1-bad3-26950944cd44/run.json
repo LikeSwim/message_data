@@ -1,0 +1,26 @@
+{
+  "runId": "34d8f660-277a-46c1-bad3-26950944cd44",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6cd853ffeYSr81szAvf2FAG",
+  "startedAt": "2026-03-19T00:51:08.834Z",
+  "finishedAt": "2026-03-19T00:51:31.594Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/34d8f660-277a-46c1-bad3-26950944cd44/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/34d8f660-277a-46c1-bad3-26950944cd44/conversation-messages.json",
+  "studentInitialQuestion": "有同学问我“动物细胞”和“植物细胞”到底有什么不同，我自己也有点模糊。用几句话说说，主要区别和联系是什么？核心要点要清楚，方便大家记忆。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/34d8f660-277a-46c1-bad3-26950944cd44/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

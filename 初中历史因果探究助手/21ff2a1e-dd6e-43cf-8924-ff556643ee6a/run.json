@@ -1,0 +1,26 @@
+{
+  "runId": "21ff2a1e-dd6e-43cf-8924-ff556643ee6a",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd13612cffe93oQotdNtrKGIG",
+  "startedAt": "2026-03-18T21:49:14.828Z",
+  "finishedAt": "2026-03-18T21:49:53.737Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/21ff2a1e-dd6e-43cf-8924-ff556643ee6a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/21ff2a1e-dd6e-43cf-8924-ff556643ee6a/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的初中历史老师，发现有些学生虽然能背出事件名称，但总是把‘抗日战争全面爆发’的因果链搞混，特别容易把直接的导火索和长期原因混在一起。你作为教学顾问，能系统地讲解一下‘抗日战争全面爆发’的历史背景、主要原因和影响吗？另外，能帮我设计一些适合不同基础学生的教学和互动活动吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/21ff2a1e-dd6e-43cf-8924-ff556643ee6a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

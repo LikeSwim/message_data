@@ -1,0 +1,70 @@
+{
+  "runId": "67a8cf2d-d2cd-48b6-a7c0-bf7980c560a0",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "messages": [
+    {
+      "role": "user",
+      "content": "My name is KellyTheodore, I'm a male 11th grader who likes math modeling competitions and badminton. Sometimes I need structured guidance and frequent feedback, and I don't mind making mistakes. Can you help me understand how I can efficiently learn and apply the process of inferring and identifying unknown substances in chemistry? Help me understand it, please."
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "functions.skill:0",
+          "type": "function",
+          "function": {
+            "name": "skill",
+            "arguments": "{\"name\":\"初中化学推断题辅导\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.skill:0",
+      "content": "<skill_content name=\"初中化学推断题辅导\">\n# Skill: 初中化学推断题辅导\n\n## 适用场景\n\n- **框图推断题**：涉及物质转化关系图（如A→B→C的连续转化、三角转化关系）\n- **实验鉴别题**：不用其他试剂鉴别组内物质、两两混合法鉴别、试剂选择鉴别\n- **混合物成分探究**：根据实验现象推断固体混合物或溶液中可能含有的物质\n- **密码式推断题**：以字母或汉字代表物质，根据反应现象推断具体物质\n- **中考专题复习**：二轮复习中的\"物质的转化与推断\"专题训练\n\n## 核心素养目标\n\n依据《义务教育化学课程标准（2022年版）》，本技能聚焦以下化学学科核心素养：\n\n- **证据推理与模型认知**：基于实验现象和物质性质进行逻辑推理，建立\"现象-性质-结论\"的思维模型\n- **宏观辨识与微观探析**：从离子角度理解复分解反应实质，建立宏观现象与微观粒子的联系\n- **科学态度与责任**：培养严谨求实的科学精神，认识化学推断在物质检验、环境检测中的实际应用价值\n\n## 辅导维度\n\n| 维度 | 关注要点 | 课标对应 |\n|------|----------|----------|\n| **突破口识别** | 特征颜色（含Cu²⁺蓝色、含Fe³⁺黄色、含Fe²⁺浅绿色）、特殊现象（沉淀颜色、气体生成、放热反应）、反应条件（高温、通电、催化剂） | 物质的多样性 |\n| **逻辑推理方法** | 顺推法（从已知反应物推导）、逆推法（从生成物反推）、假设验证法、排除法、交叉分析法 | 科学思维 |\n| **知识网络构建** | 酸碱盐通性网络、金属活动性顺序应用、碳及其氧化物转化三角（C-CO-CO₂）、钙的化合物转化（CaCO₃-CaO-Ca(OH)₂）、氧三角/碳三角关系 | 物质的化学变化 |\n| **实验鉴别设计** | 试剂选择原则（现象明显、操作简便、绿色环保）、鉴别顺序优化（先物理后化学、先简单后复杂）、空白对照与干扰排除 | 科学探究与实践 |\n| **规范表达训练** | 推断过程分步书写、\"一定含有/可能含有/一定不含\"的严谨表述、化学方程式配平与条件标注（↑↓符号、加热△、高温等） | 科学态度与责任 |\n\n## 辅导原则\n\n1. **支架式引导，拒绝直接给答案**  \n   采用\"提供线索→自主推理→验证反思\"的渐进模式。当学生卡壳时，给予阶梯式提示（如\"观察溶液颜色，你能想到哪些离子？\"→\"蓝色溶液通常含有什么金属离子？\"→\"铜离子常见的化合物有哪些？\"），而非直接告知答案。\n\n2. **证据意识优先**  \n   强调\"每一个结论必须有对应的实验现象或化学性质作为证据\"。要求学生标注推理依据（如：推断含CO₃²⁻ → 依据：加入稀盐酸产生使澄清石灰水变浑浊的气体）。\n\n3. **错误资源化利用**  \n   将错误推理转化为教学资源，引导学生进行元认知分析：\"你的推理在哪个环节出现了偏差？→ 忽略了什么条件？→ 如何修正？→ 这类错误如何避免？\"培养自我监控能力。\n\n4. **知识结构化梳理**  \n   引导学生绘制\"物质转化关系图\"和\"离子鉴别流程图\"，将零散知识网络化，建立\"以点带面\"的知识体系，符合中考\"知识系统化\"考查要求。\n\n5. **科学态度与安全教育**  \n   在涉及气体鉴别（如CO、H₂有毒）、强酸强碱使用时，渗透实验安全意识和绿色化学理念，体现立德树人根本任务。\n\n## 输出格式\n\n辅导过程按以下结构化流程组织，符合中考答题规范：\n\n### 1. 信息梳理表\n将题目文字信息转化为结构化数据：\n| 题眼信息 | 对应知识点 | 可能的物质 |\n|---------|-----------|-----------|\n| 蓝色溶液 | 含Cu²⁺ | CuSO₄、CuCl₂、Cu(NO₃)₂ |\n| 白色沉淀不溶于稀硝酸 | AgCl或BaSO₄ | 含Ag⁺或Ba²⁺与SO₄²⁻/Cl⁻反应 |\n\n### 2. 突破口定位\n指出2-3个关键题眼并说明判断依据：\n- **关键题眼1**：\"A为黑色固体\"→ 可能为CuO、Fe₃O₄、C、MnO₂，结合后续反应进一步限定\n- **关键题眼2**：\"两两混合产生气体\"→ 必含碳酸盐与酸，或铵盐与碱\n\n### 3. 推理路径图\n以流程图形式展示逻辑链：\n```\n已知现象 → 假设物质X → 验证与已知条件是否矛盾 → 确定/排除 → 推导相邻物质\n```\n\n### 4. 分步解析\n**第一步：确定核心物质**  \n依据：[具体现象或性质]  \n推理：[逻辑过程]  \n结论：[化学式]\n\n**第二步：推导转化关系**  \n利用[反应类型/物质性质]，结合[化学方程式]，推知B为...\n\n**第三步：整体验证**  \n检查所有物质是否满足题目全部条件，特别关注\"过量/少量\"等限定词。\n\n### 5. 方法总结\n提炼该类题型的通用解题策略：\n- **框图题**：找\"题眼\"（颜色、状态、反应条件）→ 定\"核心物质\" → 顺藤摸瓜\n- **鉴别题**：先物理（颜色、气味）后化学；优先选用\"指示剂法\"或\"两两混合法\"\n- **成分探究题**：\"一定含有\"（已验证）、\"可能含有\"（需进一步实验）、\"一定不含\"（与现象矛盾）\n\n### 6. 变式训练\n提供一道条件变化但方法相似的题目（如改变物质类别或反应条件），要求独立完成并说明所用策略，检验知识迁移能力。\n\n## 知识边界与限制\n\n- **物质范围**：严格限定在初中常见物质（酸：HCl、H₂SO₄、HNO₃；碱：NaOH、Ca(OH)₂、Ba(OH)₂；盐：Na₂CO₃、CaCO₃、NaCl、CuSO₄、AgNO₃、BaCl₂等；氧化物：CO、CO₂、CuO、Fe₂O₃、H₂O；单质：O₂、H₂、C、Fe、Cu等）\n- **反应类型**：化合、分解、置换、复分解反应，不涉及氧化还原配平、有机化学推断\n- **实验安全**：涉及有毒气体（CO）或腐蚀性试剂时，必须提示安全注意事项\n- **教材适配**：以人教版、沪教版等主流教材知识框架为基准，避免超纲内容（如络合反应、水解反应等）\n\n## 互动话术示例\n\n- **引导观察**：\"请仔细观察题目中的颜色描述，这在化学推断题中通常被称为'题眼'，你能联想到哪些物质？\"\n- **质疑验证**：\"你推断A是碳酸钙，但如果是碳酸钙，与盐酸反应后的溶液应该是什么颜色？与题目描述的'蓝色溶液'是否矛盾？\"\n- **鼓励反思**：\"虽然这次推断有误，但你注意到了沉淀颜色这个关键信息，这是很好的观察习惯。让我们看看是哪个推理环节需要调整...\"\n\nBase directory for this skill: file:///home/wsy/Projects/wsy/message/teach_agents/%E5%88%9D%E4%B8%AD%E5%8C%96%E5%AD%A6%E6%8E%A8%E6%96%AD%E4%B8%8E%E9%89%B4%E5%AE%9A%E5%8A%A9%E6%89%8B/.opencode/skills/%E5%88%9D%E4%B8%AD%E5%8C%96%E5%AD%A6%E6%8E%A8%E6%96%AD%E9%A2%98%E8%BE%85%E5%AF%BC\nRelative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.\nNote: file list is sampled.\n\n<skill_files>\n\n</skill_files>\n</skill_content>"
+    },
+    {
+      "role": "assistant",
+      "content": "Welcome, KellyTheodore! I'd be happy to help you learn and apply the process of inferring and identifying unknown substances in chemistry.\n\nWhile my expertise is specifically in **junior high chemistry** (grades 7-9, typically ages 12-15), the fundamental principles of chemical inference and identification are transferable to higher levels. Since you enjoy **math modeling competitions**, you'll likely appreciate the logical, evidence-based approach we use in chemistry inference problems."
+    },
+    {
+      "role": "assistant",
+      "content": "Great to meet you, KellyTheodore! As someone who enjoys **math modeling competitions**, you'll actually find chemistry inference quite familiar—it's essentially applying systematic logic to solve constraint-satisfaction problems, just with molecules instead of variables.\n\n## The Chemistry Inference Framework (Like a Math Model!)\n\nJust as you build models with constraints and optimize solutions, chemical inference follows this structured process:\n\n### 1. **Evidence Gathering** (Input Parameters)\n- **Color cues**: Blue solutions = Cu²⁺, yellow = Fe³⁺, light green = Fe²⁺\n- **Reaction phenomena**: Gas production, precipitation, temperature changes\n- **Reaction conditions**: Catalysts, heating requirements, pressure\n\n### 2. **Constraint Analysis** (Your Bread and Butter!)\nEach clue eliminates possibilities—exactly like bounding a feasible region in optimization:\n\n| Observation | Constraint Imposed | What It Excludes |\n|------------|-------------------|------------------|\n| White precipitate insoluble in HNO₃ | Contains Ag⁺ or Ba²⁺ + SO₄²⁻/Cl⁻ | Other cations |\n| Turns limewater milky | CO₂ present | Other gases |\n| Blue solution after reaction | Cu²⁺ in final solution | No copper metal precipitated |\n\n### 3. **Iterative Verification** (Sensitivity Analysis)\nEvery deduction must be tested against ALL given conditions—just like checking model robustness under different scenarios.\n\n## Learning Pathway for Your Profile\n\nSince you want **structured guidance with frequent feedback**, here's how we can work together:\n\n**Approach**: I'll present a problem, you attempt the reasoning, and I'll provide iterative feedback (similar to debugging code or refining a model).\n\n**Structure for each problem:**\n1. **Information table** - I'll help you organize clues systematically\n2. **Entry point identification** - Finding the \"highest-likelihood\" starting point (like choosing the most constrained variable)\n3. **Deductive chain** - Step-by-step logical progression (with your reasoning first!)\n4. **Validation step** - Checking consistency across all conditions\n5. **Method generalization** - Extracting patterns for future problems\n\n## Ready to Start?\n\nWould you like me to walk you through a **real inference problem** right now? I can show you the methodology in action, starting with a foundational problem and scaling up the complexity based on your comfort level.\n\nOr if you prefer, I can first explain the **chemical knowledge network** (acid-base-salt relationships, typical transformation routes) that serves as the \"library of functions\" for these problems.\n\n**What would be most helpful to begin with?** A concrete problem, or the theoretical framework overview?\n\n*(Note: I specialize in junior high chemistry fundamentals, so we'll build from there—the core deductive logic transfers perfectly to advanced chemistry!)*"
+    },
+    {
+      "role": "user",
+      "content": "我想从一个具体的推断问题开始实践，这样可以直接体验您提到的系统化推理过程。请提供一个适合入门的化学推断问题。"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "functions.skill:1",
+          "type": "function",
+          "function": {
+            "name": "skill",
+            "arguments": "{\"name\":\"初中化学鉴别题辅导\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.skill:1",
+      "content": "<skill_content name=\"初中化学鉴别题辅导\">\n# Skill: 初中化学鉴别题辅导\n\n## 适用场景\n\n- **中考备考**：中考化学推断题、鉴别题专项训练（框图推断、实验鉴别、离子共存分析）\n- **单元学习**：初中化学\"物质的鉴别与推断\"单元（人教版/鲁教版/沪教版九年级下册）\n- **综合应用**：酸碱盐知识模块的系统性整合与综合运用\n- **实验探究**：基于实验现象的物质检验方案设计与评价\n- **素养提升**：科学探究与实践核心素养的专项培养\n\n## 辅导维度\n\n| 维度 | 关注要点 | 课标对应 |\n|------|----------|----------|\n| **信息提取与转化** | 将文字描述/框图/实验现象转化为结构化信息（颜色、状态、反应条件、特征现象） | 科学探究：获取证据 |\n| **特征现象识别** | 特征颜色（含Cu²⁺蓝色、Fe³⁺黄色）、特殊沉淀（AgCl、BaSO₄不溶于酸）、气体生成（CO₂、NH₃、H₂） | 物质的性质与转化 |\n| **逻辑推理方法** | 顺推法、逆推法、假设验证法、排除法、框图转化关系分析 | 科学思维：推理与建模 |\n| **知识网络构建** | 酸碱盐通性、金属活动性顺序、离子共存规律、常见物质转化链（如C→CO→CO₂→CaCO₃） | 大概念：物质的多样性 |\n| **实验方案设计** | 试剂选择原则（现象明显、操作简便、无干扰）、鉴别顺序优化、空白对照意识 | 科学探究：设计实验方案 |\n| **规范表达** | 推断过程分步书写、化学方程式配平与条件标注、现象描述准确性（\"白色沉淀\"vs\"沉淀\"） | 科学态度与责任 |\n\n## 辅导原则\n\n1. **证据导向，严谨求实**  \n   强调\"每一个结论必须有对应的实验现象或化学性质作为证据\"，培养学生基于证据进行逻辑推理的科学思维，体现科学态度与社会责任核心素养。\n\n2. **支架式引导，最近发展区**  \n   采用\"提供线索→自主推理→验证反思\"的渐进模式，当学生卡壳时给予阶梯式提示（如\"观察溶液颜色\"\"回忆不溶于稀硝酸的沉淀有哪些\"），而非直接给出答案，符合维果茨基最近发展区理论。\n\n3. **错误资源化，容错教育**  \n   将错误推理转化为教学资源，引导学生进行元认知反思：\"哪里错了→为什么错（概念混淆？逻辑跳跃？）→如何修正\"，培养批判性思维与自我监控能力。\n\n4. **知识结构化，大概念统领**  \n   帮助学生建立\"物质的性质决定其鉴别方法\"的大概念，将零散的知识点（如各种沉淀颜色）整合为系统的知识网络（酸碱盐反应规律），促进知识迁移。\n\n5. **立德树人，科学精神**  \n   在推理过程中渗透严谨求实的科学态度，强调实验安全与环保意识（如鉴别试剂的选择应考虑环境影响），体现五育并举中的智育与劳育融合。\n\n## 输出格式\n\n辅导过程按以下结构化流程组织，符合中考化学答题规范：\n\n### 1. 信息梳理表\n将题目中的文字信息、框图、实验现象转化为结构化数据：\n- **颜色信息**：溶液颜色、沉淀颜色、固体颜色\n- **状态标记**：气体↑、沉淀↓、溶液(aq)\n- **反应条件**：高温(△)、通电、催化剂、点燃\n- **特征现象**：使澄清石灰水变浑浊、使酚酞变红、不溶于稀硝酸等\n\n### 2. 突破口定位\n指出2-3个关键题眼，并说明判断依据：\n- 示例：\"白色沉淀不溶于稀硝酸\"→可能为AgCl或BaSO₄\n- 示例：\"蓝色溶液\"→一定含Cu²⁺（如CuSO₄、CuCl₂、Cu(NO₃)₂）\n\n### 3. 推理路径图\n以流程图或思维导图形式展示\"假设-验证-结论\"的完整逻辑链：\n```\n特征现象A → 假设物质X → 验证与条件B是否矛盾 → 确定/排除 → 推导相邻物质Y\n```\n\n### 4. 分步解析\n**第一步：确定突破口**（依据+推理过程）  \n**第二步：推导相邻物质**（利用转化关系，如\"甲能转化为乙和丙，乙和丙能反应\"）  \n**第三步：验证整体合理性**（检查是否满足所有条件，有无遗漏限制条件）\n\n### 5. 方法总结\n提炼该类题型的通用解题策略：\n- **两两混合法**：适用于无标签试剂鉴别，通过列表法记录现象差异\n- **框图题找题眼技巧**：先找\"只进不出\"（生成物）、\"只出不进\"（反应物）、\"一进一出\"（中间产物）\n- **离子鉴别顺序**：先鉴CO₃²⁻（酸），再鉴SO₄²⁻（Ba²⁺），最后鉴Cl⁻（Ag⁺），避免干扰\n\n### 6. 变式训练\n提供一道类似但条件变化的题目（如改变物质范围、增加干扰离子、改为实验设计题），检验知识迁移与举一反三能力，难度梯度符合中考分层要求。\n\n### 7. 评价反馈\n- **过程性评价**：对推理逻辑的严密性、证据的充分性进行点评\n- **规范性评价**：化学方程式书写、现象描述术语的准确性\n- **激励性评语**：肯定思维亮点，指出提升方向，保护学习自信心\n\nBase directory for this skill: file:///home/wsy/Projects/wsy/message/teach_agents/%E5%88%9D%E4%B8%AD%E5%8C%96%E5%AD%A6%E6%8E%A8%E6%96%AD%E4%B8%8E%E9%89%B4%E5%AE%9A%E5%8A%A9%E6%89%8B/.opencode/skills/%E5%88%9D%E4%B8%AD%E5%8C%96%E5%AD%A6%E9%89%B4%E5%88%AB%E9%A2%98%E8%BE%85%E5%AF%BC\nRelative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.\nNote: file list is sampled.\n\n<skill_files>\n\n</skill_files>\n</skill_content>"
+    },
+    {
+      "role": "assistant",
+      "content": "好！我来提供一个**入门级的推断问题**，让我们一起体验系统化的推理过程。"
+    },
+    {
+      "role": "assistant",
+      "content": "很好！我们从一个经典的**框图推断题**开始。这题的难度适中，但包含推理的关键要素。\n\n## 📋 题目\n\n**已知条件：**\nA～F均为初中化学常见物质，其中：\n- **A** 为黑色固体\n- **B** 为蓝色溶液\n- **C** 为浅绿色溶液  \n- **D** 为红色固体单质\n- **E** 能使澄清石灰水变浑浊\n- **F** 为无色气体\n\n**它们的部分转化关系如下：**\n```\n     高温\nA --------→ D + E\n     B\n↓\n     C\n```\n\n**问题：**\n1. 写出A、B、C、D、E、F的化学式\n2. 写出A转化为D和E的反应方程式\n3. 描述C溶液的特征及验证方法\n\n---\n\n🎯 **你的任务：** 先尝试自己推理，然后将你的思考过程告诉我。\n\n**小提示（如果需要）：**\n- 🔹 先找\"突破口\"——哪些描述是独一无二的？\n- 🔹 颜色信息往往是突破口\n- 🔹 逐个验证你的假设是否符合所有条件\n\n**请按照以下格式回复：**\n1. 你认为的突破口是什么？依据是什么？\n2. 你的推理过程（可以简写）\n3. 你确定的各物质化学式\n\n期待看到你的推理！🚀"
+    }
+  ]
+}

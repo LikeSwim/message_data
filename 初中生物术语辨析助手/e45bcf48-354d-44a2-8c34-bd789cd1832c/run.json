@@ -1,0 +1,26 @@
+{
+  "runId": "e45bcf48-354d-44a2-8c34-bd789cd1832c",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6f4e58ffejN8FIZ1jJz56nD",
+  "startedAt": "2026-03-19T00:48:27.552Z",
+  "finishedAt": "2026-03-19T00:49:09.728Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/e45bcf48-354d-44a2-8c34-bd789cd1832c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/e45bcf48-354d-44a2-8c34-bd789cd1832c/conversation-messages.json",
+  "studentInitialQuestion": "我是RogersJulian，45岁的针灸师，平时喜欢练瑜伽和太极，注重身心平衡和气流的畅通。最近在和病人聊健康时，想把“自养”和“异养”这两个生物学术语讲清楚，但担心解释得不够贴切。你能具体说说吗？最好结合中医养生或日常饮食的例子说明，让我能在交流时既科学又易懂。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/e45bcf48-354d-44a2-8c34-bd789cd1832c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

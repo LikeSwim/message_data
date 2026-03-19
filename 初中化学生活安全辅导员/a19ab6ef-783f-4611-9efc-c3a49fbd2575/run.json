@@ -1,0 +1,26 @@
+{
+  "runId": "a19ab6ef-783f-4611-9efc-c3a49fbd2575",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdaf77b1ffekpWHJBG700MTQT",
+  "startedAt": "2026-03-18T18:58:45.442Z",
+  "finishedAt": "2026-03-18T19:01:30.937Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/a19ab6ef-783f-4611-9efc-c3a49fbd2575/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/a19ab6ef-783f-4611-9efc-c3a49fbd2575/conversation-messages.json",
+  "studentInitialQuestion": "我是赵鹤梦，38岁女声学工程师，喜欢音响设备DIY、音乐欣赏和乐器演奏，性格沉默、情绪稳定，平衡家庭和工作。你作为化学生活安全导师，能否全面深入地讲讲初中化学知识在家庭用水用电安全、防火防爆、食品安全、环境保护等各方面怎么用？结合我注重实用和情怀、家庭生活平衡的特点，举例分析具体场景和中华传统文化里的安全智慧，也能说说怎么增强家庭成员的安全意识和科学素养吗？能全面深入地讲讲吗",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/a19ab6ef-783f-4611-9efc-c3a49fbd2575/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

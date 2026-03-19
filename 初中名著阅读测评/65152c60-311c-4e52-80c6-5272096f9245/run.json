@@ -1,0 +1,26 @@
+{
+  "runId": "65152c60-311c-4e52-80c6-5272096f9245",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcf29034ffeDIKFMbRGq4UEa4",
+  "startedAt": "2026-03-18T22:25:05.479Z",
+  "finishedAt": "2026-03-18T22:26:07.118Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/65152c60-311c-4e52-80c6-5272096f9245/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/65152c60-311c-4e52-80c6-5272096f9245/conversation-messages.json",
+  "studentInitialQuestion": "你是我的学习助手，初中名著考查常见的误区有哪些？能帮我简短回答下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/65152c60-311c-4e52-80c6-5272096f9245/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

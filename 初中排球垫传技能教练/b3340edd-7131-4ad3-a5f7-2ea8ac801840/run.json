@@ -1,0 +1,26 @@
+{
+  "runId": "b3340edd-7131-4ad3-a5f7-2ea8ac801840",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcd7dbdbffevWzYwCDpx4TcVy",
+  "startedAt": "2026-03-18T22:54:15.581Z",
+  "finishedAt": "2026-03-18T22:56:12.480Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/b3340edd-7131-4ad3-a5f7-2ea8ac801840/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/b3340edd-7131-4ad3-a5f7-2ea8ac801840/conversation-messages.json",
+  "studentInitialQuestion": "你是初中体育课程负责人，要办一次‘排球垫球与传球接力’主题的体育节，参加学生基础差异大、积极性低、团队意识也不强。能从各个角度详细说说怎么系统设计这次活动吗？最好讲清楚分层训练、趣味竞赛、家校协同、文化融合、安全保障这些内容，还能给出具体流程和创新案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/b3340edd-7131-4ad3-a5f7-2ea8ac801840/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

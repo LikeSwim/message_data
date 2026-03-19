@@ -1,0 +1,26 @@
+{
+  "runId": "d0ebdd8f-5233-4e60-8342-4cfcf9231fa1",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学推断与鉴定助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fda00b4affeNalXZ26dr96IPJ",
+  "startedAt": "2026-03-18T19:15:36.237Z",
+  "finishedAt": "2026-03-18T19:17:50.680Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中化学推断与鉴定助手/d0ebdd8f-5233-4e60-8342-4cfcf9231fa1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学推断与鉴定助手/d0ebdd8f-5233-4e60-8342-4cfcf9231fa1/conversation-messages.json",
+  "studentInitialQuestion": "你是初中化学老师，能不能系统地讲解一下未知物质推断与鉴定的核心方法、实验流程、容易出错的地方，还有怎么在教学中培养学生的科学思维？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学推断与鉴定助手/d0ebdd8f-5233-4e60-8342-4cfcf9231fa1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

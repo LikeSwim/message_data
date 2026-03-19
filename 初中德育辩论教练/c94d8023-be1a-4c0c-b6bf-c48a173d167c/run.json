@@ -1,0 +1,26 @@
+{
+  "runId": "c94d8023-be1a-4c0c-b6bf-c48a173d167c",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb7c59fffe6SkdXn1eO7wWmt",
+  "startedAt": "2026-03-18T14:10:03.991Z",
+  "finishedAt": "2026-03-18T14:10:48.173Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/c94d8023-be1a-4c0c-b6bf-c48a173d167c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/c94d8023-be1a-4c0c-b6bf-c48a173d167c/conversation-messages.json",
+  "studentInitialQuestion": "你作为德育专家，能详细展开说说在初中‘负责任的公民’辩论赛里，怎么引导学生真正理解并践行负责任的公民行为吗？最好结合校园和社会的真实例子，详细分析下常见困惑和老师可以用的教育方法。",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/c94d8023-be1a-4c0c-b6bf-c48a173d167c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

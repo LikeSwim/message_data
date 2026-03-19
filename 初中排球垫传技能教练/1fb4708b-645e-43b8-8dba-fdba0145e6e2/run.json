@@ -1,0 +1,26 @@
+{
+  "runId": "1fb4708b-645e-43b8-8dba-fdba0145e6e2",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcdb2a8affe1W8RoouqsBq301",
+  "startedAt": "2026-03-18T22:50:38.829Z",
+  "finishedAt": "2026-03-18T22:51:08.342Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/1fb4708b-645e-43b8-8dba-fdba0145e6e2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/1fb4708b-645e-43b8-8dba-fdba0145e6e2/conversation-messages.json",
+  "studentInitialQuestion": "我是高一男生BrownJulian，喜欢骑行、跆拳道和动漫创作，但比较依赖指导、界限感强，听觉记忆好但理解一般。老师让我参加排球垫球和传球接力，我在团队合作时有点不适应。你能解释一下怎么结合我的兴趣和性格帮我提升参与度和团队协作吗？举些适合我的练习和沟通方法，分点说说。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/1fb4708b-645e-43b8-8dba-fdba0145e6e2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

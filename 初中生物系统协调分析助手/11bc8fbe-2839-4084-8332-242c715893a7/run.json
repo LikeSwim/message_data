@@ -1,0 +1,26 @@
+{
+  "runId": "11bc8fbe-2839-4084-8332-242c715893a7",
+  "sceneName": "初中生物系统协调分析助手",
+  "title": "batch-初中生物系统协调分析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物系统协调分析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6c76a6ffeaZSDNmDB4QTqB3",
+  "startedAt": "2026-03-19T00:51:32.645Z",
+  "finishedAt": "2026-03-19T00:52:27.357Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生物系统协调分析助手/11bc8fbe-2839-4084-8332-242c715893a7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物系统协调分析助手/11bc8fbe-2839-4084-8332-242c715893a7/conversation-messages.json",
+  "studentInitialQuestion": "我是高二的石力，平时喜欢研究围棋和露营技能，逻辑跳跃但不太爱合作，总是自己钻研。最近学到人体系统的协调工作时，关于消化系统和循环系统怎么一起配合完成营养运输我有点迷糊。你能结合生动例子，帮我解释一下它们是怎么协同工作的，并给我点可以自己实践或思考的小建议吗？能解释一下吗",
+  "studentInitialQuestionPath": "data/student-questions/初中生物系统协调分析助手/11bc8fbe-2839-4084-8332-242c715893a7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

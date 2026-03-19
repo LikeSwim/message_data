@@ -1,0 +1,26 @@
+{
+  "runId": "55b7bb33-49c9-41ed-af0a-61050d338cb3",
+  "sceneName": "初中历史章节框架师",
+  "title": "batch-初中历史章节框架师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史章节框架师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcfee242ffeuXA6S2RIlOYEur",
+  "startedAt": "2026-03-18T22:11:38.040Z",
+  "finishedAt": "2026-03-18T22:14:44.410Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史章节框架师/55b7bb33-49c9-41ed-af0a-61050d338cb3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史章节框架师/55b7bb33-49c9-41ed-af0a-61050d338cb3/conversation-messages.json",
+  "studentInitialQuestion": "我是家长，我女儿上初二，最近学历史总觉得《世界近代史》很难，重点、主线都分不清楚。你作为历史学习助手，能大概讲讲这一章的知识框架和主要内容吗？我想帮她理一理思路。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史章节框架师/55b7bb33-49c9-41ed-af0a-61050d338cb3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

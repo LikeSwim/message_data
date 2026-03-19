@@ -1,0 +1,26 @@
+{
+  "runId": "322d1773-3eec-43ea-bfcc-4f3224eeaa7b",
+  "sceneName": "初中生物调节机制分析助手",
+  "title": "batch-初中生物调节机制分析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物调节机制分析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fca1370fffedR1IZDOSudrWcy",
+  "startedAt": "2026-03-18T23:53:56.711Z",
+  "finishedAt": "2026-03-18T23:54:43.706Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物调节机制分析助手/322d1773-3eec-43ea-bfcc-4f3224eeaa7b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物调节机制分析助手/322d1773-3eec-43ea-bfcc-4f3224eeaa7b/conversation-messages.json",
+  "studentInitialQuestion": "我是DavisBrooke，36岁女老师，喜欢方言、羽毛球和画画，团队教学很注重细节。最近要上生命活动调节机制的专题课，想深入了解调节机制原理、教学方法和创新活动，还希望能自然融入科学精神和传统文化。你能讲得详细点吗？最好理论、教学建议和价值观都讲清楚，帮我提升课程深度和温度。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物调节机制分析助手/322d1773-3eec-43ea-bfcc-4f3224eeaa7b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

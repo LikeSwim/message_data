@@ -1,0 +1,26 @@
+{
+  "runId": "613b2fd0-2bb9-4794-931d-0a7312cff2cf",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc8696acffeSZmP03HO8b6j27",
+  "startedAt": "2026-03-19T00:23:01.709Z",
+  "finishedAt": "2026-03-19T00:23:34.063Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/613b2fd0-2bb9-4794-931d-0a7312cff2cf/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/613b2fd0-2bb9-4794-931d-0a7312cff2cf/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生，喜欢和爷爷奶奶一起种菜，最近听说有‘无土栽培’和‘智能农业’这些新技术，感觉挺新鲜，但我不太明白和传统种地有什么不同。你作为学习助手，能不能深入说说现代生物技术对农业生产带来了哪些变化？能举些适合和家人一起体验的例子吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/613b2fd0-2bb9-4794-931d-0a7312cff2cf/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

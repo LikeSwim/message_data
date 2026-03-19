@@ -1,0 +1,26 @@
+{
+  "runId": "52e8a81b-1168-4d15-9d3e-6c723959e73f",
+  "sceneName": "初中光学作图与原理讲解助手",
+  "title": "batch-初中光学作图与原理讲解助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中光学作图与原理讲解助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe0b107dffeAOmp4qc9OT0ThQ",
+  "startedAt": "2026-03-18T17:18:42.553Z",
+  "finishedAt": "2026-03-18T17:19:22.255Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中光学作图与原理讲解助手/52e8a81b-1168-4d15-9d3e-6c723959e73f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中光学作图与原理讲解助手/52e8a81b-1168-4d15-9d3e-6c723959e73f/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，最近老师教我们画光在空气和玻璃中传播的路径图，但我总是画错。你能简短回答下光线在不同介质传播时的作图要点和原理吗？能举个小例子帮我记住就更好了。",
+  "studentInitialQuestionPath": "data/student-questions/初中光学作图与原理讲解助手/52e8a81b-1168-4d15-9d3e-6c723959e73f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

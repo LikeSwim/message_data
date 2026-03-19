@@ -1,0 +1,26 @@
+{
+  "runId": "600fbbc6-97c3-4f9e-984b-016f9a9e814d",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理经纬网与时区辅导助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe6e5fafffeOQ8Zm1hHAMNx7O",
+  "startedAt": "2026-03-18T15:30:14.214Z",
+  "finishedAt": "2026-03-18T15:31:14.521Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/600fbbc6-97c3-4f9e-984b-016f9a9e814d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/600fbbc6-97c3-4f9e-984b-016f9a9e814d/conversation-messages.json",
+  "studentInitialQuestion": "As an educational expert working with students of varying abilities, can you explain the international date line and its connection to time zones? Why was it created, and how does it affect daily life and travel? Please share clear examples and any fun ways to help students remember this.",
+  "studentInitialQuestionPath": "data/student-questions/初中地理经纬网与时区辅导助手/600fbbc6-97c3-4f9e-984b-016f9a9e814d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

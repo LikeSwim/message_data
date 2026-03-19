@@ -1,0 +1,26 @@
+{
+  "runId": "95dd8475-e3de-485c-8ee8-bc06bc1eb538",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe412b4effeJLXnIFqxmZUmUV",
+  "startedAt": "2026-03-18T16:19:35.544Z",
+  "finishedAt": "2026-03-18T16:20:48.514Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/95dd8475-e3de-485c-8ee8-bc06bc1eb538/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/95dd8475-e3de-485c-8ee8-bc06bc1eb538/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理新教师，最近备课时发现班里有学生对地形图判读很畏难，特别不理解等高线和地形剖面图的绘制。你作为地理教学顾问，能详细说说实际教学中怎么系统地讲解地形图判读方法、等高线的作用和地形剖面图绘制技巧吗？还有针对学生心理特点，给些分层建议和激发兴趣的方法吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/95dd8475-e3de-485c-8ee8-bc06bc1eb538/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

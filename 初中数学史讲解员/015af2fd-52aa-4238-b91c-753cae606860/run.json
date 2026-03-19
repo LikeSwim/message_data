@@ -1,0 +1,26 @@
+{
+  "runId": "015af2fd-52aa-4238-b91c-753cae606860",
+  "sceneName": "初中数学史讲解员",
+  "title": "batch-初中数学史讲解员-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学史讲解员",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc26366affeO3bGtg8i4IOlA6",
+  "startedAt": "2026-03-19T02:08:17.807Z",
+  "finishedAt": "2026-03-19T02:09:22.413Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学史讲解员/015af2fd-52aa-4238-b91c-753cae606860/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学史讲解员/015af2fd-52aa-4238-b91c-753cae606860/conversation-messages.json",
+  "studentInitialQuestion": "我是初三女生孙依，喜欢书法和戏剧表演，最近写数学史作业，特别想知道历史上有哪些厉害的女性数学家。你能讲讲看她们都有哪些代表性成就吗？顺便说说她们的经历和哪些品质值得我学习，最好能结合独立成长和自我提升方面聊聊。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学史讲解员/015af2fd-52aa-4238-b91c-753cae606860/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "a5bda9f9-f267-43ca-9b56-83da59a5f4ef",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc1b621cffemdkRYXZEF3wNoB",
+  "startedAt": "2026-03-19T02:20:07.517Z",
+  "finishedAt": "2026-03-19T02:20:59.532Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/a5bda9f9-f267-43ca-9b56-83da59a5f4ef/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/a5bda9f9-f267-43ca-9b56-83da59a5f4ef/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学老师，最近发现学生在学“一次函数”和“二次函数”时特别容易混淆。你作为数学教研员，能不能从各个角度详细说说这两个概念的区别、表达式、图像、应用和误区？最好结合创新教学和传统文化，帮我提升学生理解和兴趣。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/a5bda9f9-f267-43ca-9b56-83da59a5f4ef/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

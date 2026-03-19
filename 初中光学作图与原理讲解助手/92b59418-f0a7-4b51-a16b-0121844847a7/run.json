@@ -1,0 +1,26 @@
+{
+  "runId": "92b59418-f0a7-4b51-a16b-0121844847a7",
+  "sceneName": "初中光学作图与原理讲解助手",
+  "title": "batch-初中光学作图与原理讲解助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中光学作图与原理讲解助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe0a7566ffeL7ofxUsreC39IO",
+  "startedAt": "2026-03-18T17:19:22.259Z",
+  "finishedAt": "2026-03-18T17:20:36.021Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中光学作图与原理讲解助手/92b59418-f0a7-4b51-a16b-0121844847a7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中光学作图与原理讲解助手/92b59418-f0a7-4b51-a16b-0121844847a7/conversation-messages.json",
+  "studentInitialQuestion": "王岚菊老师您好！我知道您团队协作能力很强、灵活变通，在学校教师群体中人缘特好，还经常组织插花活动。最近有学生在光的反射和折射现象的作图与原理解释上有点困惑。您能帮我理解一下，怎么用创新教学方法（比如插花、脱口秀元素等）帮助学生掌握光学现象的作图和原理，提升他们的兴趣和科学素养吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中光学作图与原理讲解助手/92b59418-f0a7-4b51-a16b-0121844847a7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

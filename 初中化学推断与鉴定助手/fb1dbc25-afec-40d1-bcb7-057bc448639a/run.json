@@ -1,0 +1,26 @@
+{
+  "runId": "fb1dbc25-afec-40d1-bcb7-057bc448639a",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学推断与鉴定助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdaaecbcffemaa0YncxYVtblv",
+  "startedAt": "2026-03-18T19:03:41.968Z",
+  "finishedAt": "2026-03-18T19:05:02.579Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学推断与鉴定助手/fb1dbc25-afec-40d1-bcb7-057bc448639a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学推断与鉴定助手/fb1dbc25-afec-40d1-bcb7-057bc448639a/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学老师，最近在教学中想让学生多参与一些推断和鉴定未知物质的实验活动。你觉得该怎么引导他们？说说你的看法。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学推断与鉴定助手/fb1dbc25-afec-40d1-bcb7-057bc448639a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

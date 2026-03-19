@@ -1,0 +1,26 @@
+{
+  "runId": "0f3f9b14-4492-4fd5-b94e-4c5444fb3aa1",
+  "sceneName": "初中历史事件要素分析师",
+  "title": "batch-初中历史事件要素分析师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史事件要素分析师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd1f537fffez07rUrO1uo1wqo",
+  "startedAt": "2026-03-18T21:36:11.893Z",
+  "finishedAt": "2026-03-18T21:36:55.916Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史事件要素分析师/0f3f9b14-4492-4fd5-b94e-4c5444fb3aa1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史事件要素分析师/0f3f9b14-4492-4fd5-b94e-4c5444fb3aa1/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，历史成绩一直不好，感觉新中国成立这段历史特别难记。你能不能深入说说看，从各方面分析下它的重大意义？最好多举点例子，还能教我点记忆的小方法。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史事件要素分析师/0f3f9b14-4492-4fd5-b94e-4c5444fb3aa1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

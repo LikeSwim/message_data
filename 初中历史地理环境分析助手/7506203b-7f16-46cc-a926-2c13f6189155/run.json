@@ -1,0 +1,26 @@
+{
+  "runId": "7506203b-7f16-46cc-a926-2c13f6189155",
+  "sceneName": "初中历史地理环境分析助手",
+  "title": "batch-初中历史地理环境分析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史地理环境分析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd5e49d4ffe442nYJMpULLCEi",
+  "startedAt": "2026-03-18T20:27:25.603Z",
+  "finishedAt": "2026-03-18T20:29:10.772Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史地理环境分析助手/7506203b-7f16-46cc-a926-2c13f6189155/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史地理环境分析助手/7506203b-7f16-46cc-a926-2c13f6189155/conversation-messages.json",
+  "studentInitialQuestion": "我是尚颖，30岁保安，喜欢钓鱼和下象棋，工作时习惯遵守流程但不太主动决策，休息也常在公园和老人交流。我挺想深入了解地理环境对历史进程的影响，能详细分析下各个方面吗？最好能结合我的兴趣和生活，帮我系统地讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史地理环境分析助手/7506203b-7f16-46cc-a926-2c13f6189155/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

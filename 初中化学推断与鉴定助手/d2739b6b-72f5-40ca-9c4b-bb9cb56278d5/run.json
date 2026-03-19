@@ -1,0 +1,26 @@
+{
+  "runId": "d2739b6b-72f5-40ca-9c4b-bb9cb56278d5",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学推断与鉴定助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd9dfe19ffeZ9DZb89PW45KIV",
+  "startedAt": "2026-03-18T19:17:50.685Z",
+  "finishedAt": "2026-03-18T19:18:14.030Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学推断与鉴定助手/d2739b6b-72f5-40ca-9c4b-bb9cb56278d5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学推断与鉴定助手/d2739b6b-72f5-40ca-9c4b-bb9cb56278d5/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，老师让我们学会推断和鉴定未知物质，你能简单说说就行，主要步骤和要注意什么？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学推断与鉴定助手/d2739b6b-72f5-40ca-9c4b-bb9cb56278d5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

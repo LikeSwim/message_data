@@ -1,0 +1,26 @@
+{
+  "runId": "46e2af7a-3668-4586-80d0-f7d03ebd5d4b",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc03cc35ffe5nLs4j4lVRfKdq",
+  "startedAt": "2026-03-19T02:45:53.218Z",
+  "finishedAt": "2026-03-19T02:47:31.510Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/46e2af7a-3668-4586-80d0-f7d03ebd5d4b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/46e2af7a-3668-4586-80d0-f7d03ebd5d4b/conversation-messages.json",
+  "studentInitialQuestion": "你作为数学学习助手，我叫黎慧娟，今年12岁，六年级女生，喜欢茶艺、吉他和编程，老师说我专注力很强。平时我学习挺自主，但偶尔也会比较依赖老师指导。帮我理解一下六年级数学里分数运算的知识点，可以系统梳理一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/46e2af7a-3668-4586-80d0-f7d03ebd5d4b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

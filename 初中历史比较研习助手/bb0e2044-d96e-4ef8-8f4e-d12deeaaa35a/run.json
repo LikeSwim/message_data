@@ -1,0 +1,26 @@
+{
+  "runId": "bb0e2044-d96e-4ef8-8f4e-d12deeaaa35a",
+  "sceneName": "初中历史比较研习助手",
+  "title": "batch-初中历史比较研习助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史比较研习助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd69a1b7ffe1XIJ500J79P1k5",
+  "startedAt": "2026-03-18T20:15:02.208Z",
+  "finishedAt": "2026-03-18T20:16:36.357Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中历史比较研习助手/bb0e2044-d96e-4ef8-8f4e-d12deeaaa35a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史比较研习助手/bb0e2044-d96e-4ef8-8f4e-d12deeaaa35a/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史教研员，最近在备课，需要详细展开说说中国戊戌变法和日本明治维新的比较分析。能不能从政治、经济、社会、文化等方面，带着具体实例和教学建议详细讲讲两场改革的异同、影响和原因？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史比较研习助手/bb0e2044-d96e-4ef8-8f4e-d12deeaaa35a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

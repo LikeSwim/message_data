@@ -1,0 +1,26 @@
+{
+  "runId": "355dd93c-a0d0-4526-a73d-ad365a09d612",
+  "sceneName": "初中几何证明思路引导师",
+  "title": "batch-初中几何证明思路引导师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中几何证明思路引导师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+  "startedAt": "2026-03-18T19:41:35.309Z",
+  "finishedAt": "2026-03-18T19:42:45.141Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中几何证明思路引导师/355dd93c-a0d0-4526-a73d-ad365a09d612/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中几何证明思路引导师/355dd93c-a0d0-4526-a73d-ad365a09d612/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，最近老师教我们全等三角形证明，但我总是不知道怎么加辅助线，感觉下手难。性格安静，喜欢自己琢磨但不太敢问老师，成绩也一般。你能帮我理解一下，辅助线在几何定理证明里有什么用，怎么判断什么时候要加，有没有简单好用的判断方法？",
+  "studentInitialQuestionPath": "data/student-questions/初中几何证明思路引导师/355dd93c-a0d0-4526-a73d-ad365a09d612/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

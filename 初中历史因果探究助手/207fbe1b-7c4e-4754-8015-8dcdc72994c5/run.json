@@ -1,0 +1,26 @@
+{
+  "runId": "207fbe1b-7c4e-4754-8015-8dcdc72994c5",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd1738c9ffepk7MOypAy2Aa7T",
+  "startedAt": "2026-03-18T21:45:01.827Z",
+  "finishedAt": "2026-03-18T21:46:05.585Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/207fbe1b-7c4e-4754-8015-8dcdc72994c5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/207fbe1b-7c4e-4754-8015-8dcdc72994c5/conversation-messages.json",
+  "studentInitialQuestion": "我是刚带初三的历史老师，班里有几个学生虽然很努力，但总是分不清历史事件的直接原因和深层原因，特别是在复习‘新文化运动’和‘五四运动’的因果关系时容易搞混。你作为历史学习顾问，能全面深入地讲讲这两个事件的因果链条、历史背景及其联系，并给我一些针对不同学生的教学建议和互动任务吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/207fbe1b-7c4e-4754-8015-8dcdc72994c5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

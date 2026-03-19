@@ -1,0 +1,26 @@
+{
+  "runId": "b0794908-e3c2-4b10-8a0c-5f540254ea43",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb6fba2ffeCi4841VYGI7yP9",
+  "startedAt": "2026-03-18T23:30:10.136Z",
+  "finishedAt": "2026-03-18T23:30:48.606Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/b0794908-e3c2-4b10-8a0c-5f540254ea43/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/b0794908-e3c2-4b10-8a0c-5f540254ea43/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生物老师，最近备课时发现学生对生态系统结构与功能的分析兴趣不高，理解也比较困难。你作为生物教育专家，能不能详细展开说说这部分内容？希望你能系统梳理知识体系、实际应用、课堂活动设计以及怎么激发学生的探究兴趣。",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/b0794908-e3c2-4b10-8a0c-5f540254ea43/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

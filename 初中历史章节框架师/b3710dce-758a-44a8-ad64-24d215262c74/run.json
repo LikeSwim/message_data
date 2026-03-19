@@ -1,0 +1,26 @@
+{
+  "runId": "b3710dce-758a-44a8-ad64-24d215262c74",
+  "sceneName": "初中历史章节框架师",
+  "title": "batch-初中历史章节框架师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史章节框架师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd000fe5ffevd9MR0O8iFlpRM",
+  "startedAt": "2026-03-18T22:10:20.817Z",
+  "finishedAt": "2026-03-18T22:11:38.036Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史章节框架师/b3710dce-758a-44a8-ad64-24d215262c74/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史章节框架师/b3710dce-758a-44a8-ad64-24d215262c74/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，最近复习历史时发现《中国古代科技与文化》这一章很有趣，但不知道怎么抓重点和主线。你作为历史老师，能具体说说这一章的知识框架、重点内容、难点和学习建议吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史章节框架师/b3710dce-758a-44a8-ad64-24d215262c74/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

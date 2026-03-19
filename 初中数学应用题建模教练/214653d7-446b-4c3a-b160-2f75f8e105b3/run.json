@@ -1,0 +1,26 @@
+{
+  "runId": "214653d7-446b-4c3a-b160-2f75f8e105b3",
+  "sceneName": "初中数学应用题建模教练",
+  "title": "batch-初中数学应用题建模教练-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学应用题建模教练",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc161cf9ffeUDkJJ4Kqd2n4LU",
+  "startedAt": "2026-03-19T02:25:52.892Z",
+  "finishedAt": "2026-03-19T02:26:39.418Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学应用题建模教练/214653d7-446b-4c3a-b160-2f75f8e105b3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学应用题建模教练/214653d7-446b-4c3a-b160-2f75f8e105b3/conversation-messages.json",
+  "studentInitialQuestion": "我是方光明，初二男生，平时喜欢绘画和国际象棋，性格有点过度自信，做题喜欢靠直觉但容易出错。最近遇到方程应用题，总是设未知数困难。你作为数学学习顾问，能帮我理解一下方程思想怎么用在设未知数上吗？最好结合我喜欢的国际象棋讲讲，详细说说怎么避免直觉陷阱。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学应用题建模教练/214653d7-446b-4c3a-b160-2f75f8e105b3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

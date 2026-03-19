@@ -1,0 +1,26 @@
+{
+  "runId": "a02355f3-6d7d-4c3f-991c-8d37a1f8395f",
+  "sceneName": "初中历史概念辨析助手",
+  "title": "batch-初中历史概念辨析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史概念辨析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd535d53ffeMRWqhoEaRXEm0O",
+  "startedAt": "2026-03-18T20:39:21.509Z",
+  "finishedAt": "2026-03-18T20:39:53.253Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史概念辨析助手/a02355f3-6d7d-4c3f-991c-8d37a1f8395f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史概念辨析助手/a02355f3-6d7d-4c3f-991c-8d37a1f8395f/conversation-messages.json",
+  "studentInitialQuestion": "你作为历史教育专家，我是一名对历史概念非常感兴趣的初中生，最近在自主阅读中发现“革命”和“改良”常常被放在一起讨论。我想让你全面分析一下这两个概念的异同、历史背景、实际案例及其对社会变革的长远影响，最好结合中国和世界历史的案例，帮助我建立系统的思辨能力。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史概念辨析助手/a02355f3-6d7d-4c3f-991c-8d37a1f8395f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

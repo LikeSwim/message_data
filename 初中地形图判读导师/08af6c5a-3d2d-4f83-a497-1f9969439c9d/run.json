@@ -1,0 +1,26 @@
+{
+  "runId": "08af6c5a-3d2d-4f83-a497-1f9969439c9d",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe381839ffeVLnQk1QlPLdNby",
+  "startedAt": "2026-03-18T16:29:31.452Z",
+  "finishedAt": "2026-03-18T16:31:52.757Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/08af6c5a-3d2d-4f83-a497-1f9969439c9d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/08af6c5a-3d2d-4f83-a497-1f9969439c9d/conversation-messages.json",
+  "studentInitialQuestion": "I'm GarciaOliver, a 16-year-old high school student focused on guitar, Go, and electronic music production. My focus fluctuates, I learn better with structured guidance, and I prefer passive collaboration due to being introverted. As a bilingual geography learning assistant, I want to deeply understand how to interpret different landforms on topographic maps, analyze slope and elevation changes, and apply these skills to both studies and my personal interests. Can you explain thoroughly and suggest learning strategies and creative exercises that fit my style and hobbies?",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/08af6c5a-3d2d-4f83-a497-1f9969439c9d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

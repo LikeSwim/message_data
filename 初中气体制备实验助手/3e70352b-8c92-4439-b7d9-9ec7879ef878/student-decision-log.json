@@ -1,0 +1,28 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "Hi Wilson! Here's the practical framework for choosing gas preparation apparatus:\n\n## 1. Generation Apparatus (How you make the gas)\n**Based on: Reactant states + Reaction conditions**\n\n| Scenario | Apparatus Type | Examples |\n|----------|---------------|----------|\n| Solid + Solid, needs heating | Test tube with delivery tube, slightly tilted downward | KMnO₄ or KClO₃ to make O₂ |\n| Solid + Liquid, room temp | Flask/conical flask with thistle funnel or dropping funnel | H₂O₂ + MnO₂ for O₂; CaCO₃ + HCl for CO₂; Zn + H₂SO₄ for H₂ |\n\n**Practical tip:** Thistle funnel needs liquid seal (bottom submerged), dropping funnel allows rate control.\n\n## 2. Collection Apparatus (How you capture the gas)\n**Based on: Gas density + Water solubility**\n\n| Gas Property | Method | Examples |\n|-------------|--------|----------|\n| Density > Air (MW > 29) | Upward air displacement | CO₂, O₂ |\n| Density < Air (MW < 29) | Downward air displacement | H₂, NH₃ |\n| Insoluble in water | Water displacement | O₂, H₂ (purer but wet) |\n\n**Practical tip:** Water displacement gives purer gas; air displacement gives dry gas but may be mixed with air.\n\n## Quick Memory Aid\n**\"Solid heats downward; liquid at room temp needs seal; heavy gas goes up, light goes down; insoluble uses water.\"**\n\nWant me to walk through a specific gas preparation scenario?",
+    "studentRawOutput": "FOLLOW_UP: 能否通过一个易错的具体案例（比如氨气NH3的制备与收集）来演示如何应用这个框架？特别是它密度小于空气但极易溶于水的情况，容易在选择收集方法时混淆。",
+    "parsedDecision": {
+      "type": "follow_up",
+      "question": "能否通过一个易错的具体案例（比如氨气NH3的制备与收集）来演示如何应用这个框架？特别是它密度小于空气但极易溶于水的情况，容易在选择收集方法时混淆。"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "Great example! NH₃ is perfect for showing how to resolve conflicts in the selection logic. Let's break it down:\n\n## NH₃ Preparation & Collection Case Study\n\n### Step 1: Reaction Analysis\n| Aspect | Detail |\n|--------|--------|\n| **Chemical Equation** | 2NH₄Cl(s) + Ca(OH)₂(s) → CaCl₂ + 2NH₃↑ + 2H₂O (requires heating △) |\n| **Reactant States** | Solid + Solid |\n| **Condition** | Heating required |\n\n**→ Apparatus Choice:** Same as KMnO₄ for O₂—**downward-tilted test tube** (prevents condensation from flowing back and cracking hot glass)\n\n---\n\n### Step 2: Gas Property Analysis\n\n| Property | NH₃ Behavior | Standard Rule | Conflict? |\n|----------|--------------|---------------|-----------|\n| **Molecular Weight** | 17 | < 29 (lighter than air) | — |\n| **Water Solubility** | Extremely soluble (1:700 ratio) | Usually for water displacement | **YES** |\n\n### Step 3: Resolution Logic\n\n```\nConflict Resolution:\n├─ Water displacement? ❌ ELIMINATED (NH₃ dissolves instantly)\n└─ Only option remaining: AIR DISPLACEMENT\n    └─ Direction: DOWNWARD (because NH₃ is lighter, it rises)\n```\n\n**Practical Tip:** Actually, I need to correct the common confusion here—\n\n**Downward air displacement** means the **bottle opening faces DOWNWARD** (gas enters from top, pushes air out from bottom). Since NH₃ rises, it fills from top down.\n\n---\n\n### Visual Comparison\n\n| Wrong Approach | Right Approach |\n|----------------|----------------|\n| Water displacement → NH₃ dissolves instantly, almost zero collection | Downward air displacement (inverted bottle) → works perfectly |\n| Upward air displacement → NH₃ escapes (too light, rises out) | Use downward displacement |\n\n---\n\n### The Framework Applied\n\n```\n1. Reactants: Solid mix + Heat → Downward-tilted test tube (same as O₂ from KMnO₃)\n2. Gas Properties:\n   ├─ MW=17 < 29 → Use air displacement\n   ├─ Insoluble? No → Eliminate water displacement\n   └─ Density < air → Downward displacement mode\n```\n\n## Quick Summary for NH₃\n✅ **Generate:** Solid + heat → Downward-tilted tube  \n✅ **Collect:** Downward air displacement only (NOT water)  \n⚠️ **Common Error:** Trying water displacement \"because we need purity\"—NH₃ is too soluble!\n\n## Extension Question\nIf you had to dry NH₃ gas after collection, could you use concentrated H₂SO₄ as a drying agent? Why or why not?",
+    "studentRawOutput": "FOLLOW_UP: Why can't concentrated H₂SO₄ be used as a drying agent for NH₃, and what should be used instead?",
+    "parsedDecision": {
+      "type": "follow_up",
+      "question": "Why can't concentrated H₂SO₄ be used as a drying agent for NH₃, and what should be used instead?"
+    }
+  },
+  {
+    "round": 3,
+    "teacherReplyText": "**You can't use concentrated H₂SO₄ because NH₃ is basic and reacts with it.**\n\nThe reaction:\n$$2NH_3 + H_2SO_4 → (NH_4)_2SO_4$$\n\nNH₃ gets absorbed and turned into ammonium sulfate. You lose your gas entirely.\n\n## What to Use Instead\n\n| Drying Agent | Can Use for NH₃? | Reason |\n|-------------|------------------|---------|\n| **CaO (quicklime)** | ✓ YES | Basic, doesn't react with NH₃ |\n| **NaOH solid** | ✓ YES | Basic, commonly used |\n| **碱石灰 (soda lime)** | ✓ YES | Mixture of NaOH + CaO—standard lab choice |\n| **Conc. H₂SO₄** | ✗ NO | Acid-base reaction consumes NH₃ |\n| **CaCl₂** | ✗ NO | Forms complex with NH₃ |\n\n**Practical Choice:** Use a **drying tube packed with soda lime (碱石灰)** filled between generation and collection apparatus.\n\n## General Rule\n**Acidic drying agent → Acidic/neutral gases only**  \n**Basic drying agent → Basic/neutral gases only**\n\nExample: H₂SO₄ works for CO₂, Cl₂, HCl, SO₂—but never for NH₃.",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "runId": "35895f42-4da3-4329-8b77-f6a1a316ab72",
+  "sceneName": "初中历史比较研习助手",
+  "title": "batch-初中历史比较研习助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史比较研习助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd6a575cffeD5i3ge96wJ6hwK",
+  "startedAt": "2026-03-18T20:14:15.712Z",
+  "finishedAt": "2026-03-18T20:15:02.204Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史比较研习助手/35895f42-4da3-4329-8b77-f6a1a316ab72/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史比较研习助手/35895f42-4da3-4329-8b77-f6a1a316ab72/conversation-messages.json",
+  "studentInitialQuestion": "我是KellyTyler，8年级学生，爱露营、跆拳道和乒乓球，平时有点拖延，也不太喜欢竞争。你能说说你的看法吗，关于中国的戊戌变法和日本明治维新这两场改革，它们有什么不一样，为什么一个成功一个失败？能结合我的兴趣和性格讲讲吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史比较研习助手/35895f42-4da3-4329-8b77-f6a1a316ab72/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

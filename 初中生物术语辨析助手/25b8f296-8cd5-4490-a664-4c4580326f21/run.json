@@ -1,0 +1,26 @@
+{
+  "runId": "25b8f296-8cd5-4490-a664-4c4580326f21",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc716364ffeSTBzTt6ZHxmBeL",
+  "startedAt": "2026-03-19T00:46:11.097Z",
+  "finishedAt": "2026-03-19T00:46:50.157Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/25b8f296-8cd5-4490-a664-4c4580326f21/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/25b8f296-8cd5-4490-a664-4c4580326f21/conversation-messages.json",
+  "studentInitialQuestion": "我最近在生物课小组讨论时发现大家对“生态系统”这个概念理解得不太一致，有人说就是动植物的集合，有人说还包括环境。你能详细展开说说，什么是生态系统？它有哪些重要组成部分？最好能结合城市和农村的生活案例，让我们小组成员都能准确理解并在讨论时用得上。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/25b8f296-8cd5-4490-a664-4c4580326f21/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

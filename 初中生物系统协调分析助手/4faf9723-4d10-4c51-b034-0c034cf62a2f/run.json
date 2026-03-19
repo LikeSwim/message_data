@@ -1,0 +1,26 @@
+{
+  "runId": "4faf9723-4d10-4c51-b034-0c034cf62a2f",
+  "sceneName": "初中生物系统协调分析助手",
+  "title": "batch-初中生物系统协调分析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物系统协调分析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6985b5ffe0xPbCjppXWJx1H",
+  "startedAt": "2026-03-19T00:54:46.593Z",
+  "finishedAt": "2026-03-19T00:57:14.364Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物系统协调分析助手/4faf9723-4d10-4c51-b034-0c034cf62a2f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物系统协调分析助手/4faf9723-4d10-4c51-b034-0c034cf62a2f/conversation-messages.json",
+  "studentInitialQuestion": "我对生物挺感兴趣，喜欢自己查资料和做实验，但人体系统的协作总感觉有点抽象。你能结合生活例子，讲讲看消化系统和循环系统是怎么分工协作、让人体获得和利用营养的吗？讲讲看",
+  "studentInitialQuestionPath": "data/student-questions/初中生物系统协调分析助手/4faf9723-4d10-4c51-b034-0c034cf62a2f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

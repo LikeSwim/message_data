@@ -1,0 +1,26 @@
+{
+  "runId": "b7899d34-dba8-4c38-ac42-4afc986129d3",
+  "sceneName": "初中历史概念辨析助手",
+  "title": "batch-初中历史概念辨析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史概念辨析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd541e29ffeS1xHtVvw4tft18",
+  "startedAt": "2026-03-18T20:38:32.147Z",
+  "finishedAt": "2026-03-18T20:39:21.504Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史概念辨析助手/b7899d34-dba8-4c38-ac42-4afc986129d3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史概念辨析助手/b7899d34-dba8-4c38-ac42-4afc986129d3/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中历史新手教师，班里学生基础比较薄弱。最近讲到“革命”和“改良”的时候，学生总是混淆。你能用几句话说说这两个概念的主要区别吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史概念辨析助手/b7899d34-dba8-4c38-ac42-4afc986129d3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

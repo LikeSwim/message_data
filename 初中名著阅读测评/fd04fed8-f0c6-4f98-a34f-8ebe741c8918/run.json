@@ -1,0 +1,26 @@
+{
+  "runId": "fd04fed8-f0c6-4f98-a34f-8ebe741c8918",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcf6da5fffeCizJiTeyNslfsS",
+  "startedAt": "2026-03-18T22:20:24.349Z",
+  "finishedAt": "2026-03-18T22:23:01.857Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/fd04fed8-f0c6-4f98-a34f-8ebe741c8918/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/fd04fed8-f0c6-4f98-a34f-8ebe741c8918/conversation-messages.json",
+  "studentInitialQuestion": "最近班里的同学对《西游记》名著阅读考查都觉得挺困惑的。你是我的教学顾问，能不能深入讲解一下，《西游记》在初中名著考查时有哪些教学目标、重点难点，怎么分层推进，还有没有什么创新型的教学办法？最好能举例说明怎么激发不同层次学生的兴趣和思考，也希望你能结合一些传统文化和价值观来讲讲。能深入讲解一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/fd04fed8-f0c6-4f98-a34f-8ebe741c8918/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

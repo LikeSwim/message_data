@@ -1,0 +1,26 @@
+{
+  "runId": "ca1c0fe6-f223-4c31-9bb7-0eeb19b754d0",
+  "sceneName": "初中数学发散探究引导师",
+  "title": "batch-初中数学发散探究引导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学发散探究引导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc46222cffeBTgDljcYnbsC8g",
+  "startedAt": "2026-03-19T01:33:25.833Z",
+  "finishedAt": "2026-03-19T01:34:54.714Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学发散探究引导师/ca1c0fe6-f223-4c31-9bb7-0eeb19b754d0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学发散探究引导师/ca1c0fe6-f223-4c31-9bb7-0eeb19b754d0/conversation-messages.json",
+  "studentInitialQuestion": "我是九年级学生，数学成绩一般，但很喜欢观察生活。老师最近让我们探究‘校园每天浪费了多少餐巾纸’，我觉得挺有意思但不知道怎么入手。你作为学习顾问，能不能讲讲看，我该从哪些角度去开展这个发散性问题？最好举些例子帮我理清思路。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学发散探究引导师/ca1c0fe6-f223-4c31-9bb7-0eeb19b754d0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

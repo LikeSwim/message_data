@@ -1,0 +1,26 @@
+{
+  "runId": "9e36582e-37b2-4f4d-a7b3-7284bd794dec",
+  "sceneName": "初中化学方程式计算辅导",
+  "title": "batch-初中化学方程式计算辅导-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式计算辅导",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fde59aa2ffe114LU85saa5XCR",
+  "startedAt": "2026-03-18T17:59:37.557Z",
+  "finishedAt": "2026-03-18T18:01:24.746Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式计算辅导/9e36582e-37b2-4f4d-a7b3-7284bd794dec/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式计算辅导/9e36582e-37b2-4f4d-a7b3-7284bd794dec/conversation-messages.json",
+  "studentInitialQuestion": "我是归海凡豪，今年6岁，一年级学生，喜欢书法和数独，理解速度有点慢，做事习惯依赖家教和老师监督。你作为化学教学专家，能系统地讲解一下初中化学方程式计算的方法吗？希望你能结合我喜欢书法和数独的兴趣，设计一些适合我的实践活动和案例，并告诉家教和老师怎么针对我这样的孩子进行辅导。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式计算辅导/9e36582e-37b2-4f4d-a7b3-7284bd794dec/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

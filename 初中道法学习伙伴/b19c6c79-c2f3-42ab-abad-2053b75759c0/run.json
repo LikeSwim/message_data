@@ -1,0 +1,26 @@
+{
+  "runId": "b19c6c79-c2f3-42ab-abad-2053b75759c0",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec2bbbdffece0ldPelO2T5Ax",
+  "startedAt": "2026-03-18T13:58:05.625Z",
+  "finishedAt": "2026-03-18T13:58:44.111Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/b19c6c79-c2f3-42ab-abad-2053b75759c0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/b19c6c79-c2f3-42ab-abad-2053b75759c0/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，最近我们班有同学在网络上发了些不当言论，大家都在讨论这事。你作为道德与法治老师，能解释一下网络言论自由和法律责任的关系吗？我们初中生应该怎么规范自己的网络行为？",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/b19c6c79-c2f3-42ab-abad-2053b75759c0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

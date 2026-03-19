@@ -1,0 +1,26 @@
+{
+  "runId": "e3ba7d47-c668-456c-97c2-0622b7560df1",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe1e679effevaIMoh1Avuwe5w",
+  "startedAt": "2026-03-18T16:57:35.067Z",
+  "finishedAt": "2026-03-18T16:57:57.971Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/e3ba7d47-c668-456c-97c2-0622b7560df1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/e3ba7d47-c668-456c-97c2-0622b7560df1/conversation-messages.json",
+  "studentInitialQuestion": "我教初中体育，接力棒交接有视觉和非视觉两种方式，能解释一下它们的区别和各自适用的场景吗？最好举点例子。",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/e3ba7d47-c668-456c-97c2-0622b7560df1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

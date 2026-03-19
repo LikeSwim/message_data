@@ -1,0 +1,26 @@
+{
+  "runId": "664d5503-2b08-47fc-8b9c-77ab183fb01f",
+  "sceneName": "初中建筑美育鉴赏助手",
+  "title": "batch-初中建筑美育鉴赏助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中建筑美育鉴赏助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd7fb741ffe5Z717LZCR53Wck",
+  "startedAt": "2026-03-18T19:50:53.682Z",
+  "finishedAt": "2026-03-18T19:51:40.237Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中建筑美育鉴赏助手/664d5503-2b08-47fc-8b9c-77ab183fb01f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中建筑美育鉴赏助手/664d5503-2b08-47fc-8b9c-77ab183fb01f/conversation-messages.json",
+  "studentInitialQuestion": "你作为美育专家，我最近在初中美育课上学到中国的故宫和法国的巴黎圣母院，但我还不太清楚该怎么从美育角度欣赏和对比它们。能解释一下这两座建筑的美学特点、历史价值和各自的文化精神吗？详细讲讲，举些例子让我容易理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中建筑美育鉴赏助手/664d5503-2b08-47fc-8b9c-77ab183fb01f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "6fd9c31f-8121-4b6c-b68b-6a14df0e399b",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdf3b810ffe8EBzvv3l6TSOHL",
+  "startedAt": "2026-03-18T17:44:11.325Z",
+  "finishedAt": "2026-03-18T17:47:37.866Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/6fd9c31f-8121-4b6c-b68b-6a14df0e399b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/6fd9c31f-8121-4b6c-b68b-6a14df0e399b/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中化学老师，你作为化学教育专家，能给我一份完整的分析吗？系统梳理一下初中化学基本定律（比如质量守恒定律、定比例定律等）的核心内容、历史发展、生活和实验应用、常见教学误区、培养学生科学精神的方法等。请结合初中生的认知特点，分点结构化讲解，并给出针对性的教学建议，同时自然融入社会主义核心价值观和中华优秀传统文化，提升学生科学素养。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/6fd9c31f-8121-4b6c-b68b-6a14df0e399b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

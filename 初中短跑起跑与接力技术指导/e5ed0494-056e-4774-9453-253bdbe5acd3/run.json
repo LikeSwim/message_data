@@ -1,0 +1,26 @@
+{
+  "runId": "e5ed0494-056e-4774-9453-253bdbe5acd3",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe217af8ffeS6FzmuZeTFC8Wf",
+  "startedAt": "2026-03-18T16:54:13.509Z",
+  "finishedAt": "2026-03-18T16:54:57.649Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/e5ed0494-056e-4774-9453-253bdbe5acd3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/e5ed0494-056e-4774-9453-253bdbe5acd3/conversation-messages.json",
+  "studentInitialQuestion": "作为体育教研员，想把初中短跑接力棒交接技术教得更系统。你能详细讲讲分步教学方法、常见问题和怎么解决，还有怎么用分组或游戏提升学生兴趣吗？请帮我详细讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/e5ed0494-056e-4774-9453-253bdbe5acd3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

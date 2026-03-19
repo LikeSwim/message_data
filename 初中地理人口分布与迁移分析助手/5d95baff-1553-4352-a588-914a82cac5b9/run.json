@@ -1,0 +1,26 @@
+{
+  "runId": "5d95baff-1553-4352-a588-914a82cac5b9",
+  "sceneName": "初中地理人口分布与迁移分析助手",
+  "title": "batch-初中地理人口分布与迁移分析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理人口分布与迁移分析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe4e17fbffeHzLHLK6ViTvLM3",
+  "startedAt": "2026-03-18T16:05:29.723Z",
+  "finishedAt": "2026-03-18T16:08:17.916Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/5d95baff-1553-4352-a588-914a82cac5b9/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/5d95baff-1553-4352-a588-914a82cac5b9/conversation-messages.json",
+  "studentInitialQuestion": "你作为地理学科专家，我希望系统学习‘人口分布与迁移的原因分析’这一知识点，内容要涵盖理论框架、历史变化、现实案例、教学方法、中华优秀传统文化的自然融入、社会主义核心价值观的引导等方面。你能全方位地讲解一下吗？内容越全面、系统越好，适合深入学习。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理人口分布与迁移分析助手/5d95baff-1553-4352-a588-914a82cac5b9/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

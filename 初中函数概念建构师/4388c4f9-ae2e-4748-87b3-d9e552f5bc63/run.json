@@ -1,0 +1,26 @@
+{
+  "runId": "4388c4f9-ae2e-4748-87b3-d9e552f5bc63",
+  "sceneName": "初中函数概念建构师",
+  "title": "batch-初中函数概念建构师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中函数概念建构师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+  "startedAt": "2026-03-18T17:23:40.560Z",
+  "finishedAt": "2026-03-18T17:28:39.637Z",
+  "followUpCount": 2,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中函数概念建构师/4388c4f9-ae2e-4748-87b3-d9e552f5bc63/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中函数概念建构师/4388c4f9-ae2e-4748-87b3-d9e552f5bc63/conversation-messages.json",
+  "studentInitialQuestion": "我是MartinezDennis，一名28岁的男老师，最近在教学中对怎么向学生讲清楚函数概念很迷茫。你作为数学教育专家，能说说你的看法吗？希望能结合我喜欢音乐制作、PC组装和露营这些兴趣，帮我找到更贴近学生的讲解方式，同时也能缓解我的职业压力。",
+  "studentInitialQuestionPath": "data/student-questions/初中函数概念建构师/4388c4f9-ae2e-4748-87b3-d9e552f5bc63/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

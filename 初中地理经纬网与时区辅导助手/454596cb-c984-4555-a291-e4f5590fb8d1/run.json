@@ -1,0 +1,26 @@
+{
+  "runId": "454596cb-c984-4555-a291-e4f5590fb8d1",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理经纬网与时区辅导助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe718291ffeFQh41saree3k66",
+  "startedAt": "2026-03-18T15:26:48.683Z",
+  "finishedAt": "2026-03-18T15:27:05.679Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/454596cb-c984-4555-a291-e4f5590fb8d1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/454596cb-c984-4555-a291-e4f5590fb8d1/conversation-messages.json",
+  "studentInitialQuestion": "I'm a junior high student and sometimes get distracted in geography class. Can you help me simply explain what longitude and latitude are, and how they connect to time zones? Simple explanation is fine.",
+  "studentInitialQuestionPath": "data/student-questions/初中地理经纬网与时区辅导助手/454596cb-c984-4555-a291-e4f5590fb8d1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

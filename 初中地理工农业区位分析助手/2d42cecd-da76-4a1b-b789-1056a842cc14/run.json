@@ -1,0 +1,26 @@
+{
+  "runId": "2d42cecd-da76-4a1b-b789-1056a842cc14",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe9d17f1ffe9QvzfxRtC332Hg",
+  "startedAt": "2026-03-18T14:39:11.188Z",
+  "finishedAt": "2026-03-18T14:41:39.937Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/2d42cecd-da76-4a1b-b789-1056a842cc14/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/2d42cecd-da76-4a1b-b789-1056a842cc14/conversation-messages.json",
+  "studentInitialQuestion": "我是江苏苏北小镇的初二地理兴趣小组成员，最近我们地理竞赛要分析农业和工业的区位因素。我对家乡的农业和工业园发展很感兴趣，但区位因素总觉得很抽象。你作为地理竞赛辅导老师，能不能系统地讲讲影响农业和工业区位选择的主要因素、它们之间有什么不同？结合我们苏北实际举例说明，我想深入了解。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/2d42cecd-da76-4a1b-b789-1056a842cc14/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

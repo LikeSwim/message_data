@@ -1,0 +1,26 @@
+{
+  "runId": "f96e8dbc-1bf1-4243-a245-c8b93c441275",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb0dc9affey4BR4iKao8KLvp",
+  "startedAt": "2026-03-18T23:36:51.291Z",
+  "finishedAt": "2026-03-18T23:37:29.818Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/f96e8dbc-1bf1-4243-a245-c8b93c441275/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/f96e8dbc-1bf1-4243-a245-c8b93c441275/conversation-messages.json",
+  "studentInitialQuestion": "我最近在生物课上听到生态系统结构与功能分析，但感觉内容很杂乱。你作为学习助手，能不能讲清楚这部分知识？希望你能详细说说主要分类、构成要素和它们之间的关系。",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/f96e8dbc-1bf1-4243-a245-c8b93c441275/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

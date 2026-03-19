@@ -1,0 +1,26 @@
+{
+  "runId": "6ab5d915-22ae-4d0a-9c62-9ee022896a34",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb03766ffeshv1bOTrlnGK9W",
+  "startedAt": "2026-03-18T14:18:19.153Z",
+  "finishedAt": "2026-03-18T14:19:11.604Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/6ab5d915-22ae-4d0a-9c62-9ee022896a34/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/6ab5d915-22ae-4d0a-9c62-9ee022896a34/conversation-messages.json",
+  "studentInitialQuestion": "我是罗月月老师，经常组织艺术和科学实验的跨学科活动，也喜欢团队协作。在‘负责任的公民’辩论赛中，我该怎么发挥自己的优势，促进学生责任感和创新能力发展？你可以说说你的看法，最好结合具体做法和案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/6ab5d915-22ae-4d0a-9c62-9ee022896a34/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

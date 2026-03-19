@@ -1,0 +1,26 @@
+{
+  "runId": "4d5cfc09-430f-4c55-bed9-9cc44090cee5",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feadf304ffeuNw1cS0FR0MBJ0",
+  "startedAt": "2026-03-18T14:20:47.735Z",
+  "finishedAt": "2026-03-18T14:22:38.119Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/4d5cfc09-430f-4c55-bed9-9cc44090cee5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/4d5cfc09-430f-4c55-bed9-9cc44090cee5/conversation-messages.json",
+  "studentInitialQuestion": "你是地理老师助手，我叫周翰征，14岁，初二，男生，喜欢3D建模和电子竞技，也喜欢游泳，平时记忆不太连贯，容易焦虑但做事很有行动力，和同龄人关系挺理性，在社团里有归属感。能深入讲解一下板块运动和地貌塑造的原理吗？最好能结合我的兴趣，比如3D建模或者电子竞技，分析下我学习上的困难，再推荐点适合我的互动学习方法和创新表达活动，让我能主动探索、理解得更透彻。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/4d5cfc09-430f-4c55-bed9-9cc44090cee5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "fd6ec83c-7a75-4443-b3d7-d0b949ec8abf",
+  "sceneName": "初中电路故障与动态分析导师",
+  "title": "batch-初中电路故障与动态分析导师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中电路故障与动态分析导师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe322310ffen4elApAGcn14Cp",
+  "startedAt": "2026-03-18T16:36:00.712Z",
+  "finishedAt": "2026-03-18T16:38:05.074Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中电路故障与动态分析导师/fd6ec83c-7a75-4443-b3d7-d0b949ec8abf/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中电路故障与动态分析导师/fd6ec83c-7a75-4443-b3d7-d0b949ec8abf/conversation-messages.json",
+  "studentInitialQuestion": "我是初中物理老师，最近在带初三毕业班，发现班里有几个同学在做串并联电路实验时总是遇到灯泡不亮或者电流表、电压表示数异常的问题，分析和排查电路故障的能力提升很慢。你作为物理专家，可以全面分析一下初中生在电路故障与动态分析方面常见的困惑和误区吗？详细讲讲该怎么培养他们多角度思考和动态排查电路故障的能力，最好结合实际课堂和实验教学举些例子，说说怎么激发学生科学探究精神和创新能力。",
+  "studentInitialQuestionPath": "data/student-questions/初中电路故障与动态分析导师/fd6ec83c-7a75-4443-b3d7-d0b949ec8abf/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

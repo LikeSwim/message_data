@@ -1,0 +1,26 @@
+{
+  "runId": "cc9c6fd7-63c5-428c-abab-f7d4e1b5d721",
+  "sceneName": "初中偶像观思辨引导员",
+  "title": "batch-初中偶像观思辨引导员-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中偶像观思辨引导员",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fce72481ffeIqosIhxBna62Iw",
+  "startedAt": "2026-03-18T22:37:33.940Z",
+  "finishedAt": "2026-03-18T22:38:46.641Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中偶像观思辨引导员/cc9c6fd7-63c5-428c-abab-f7d4e1b5d721/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中偶像观思辨引导员/cc9c6fd7-63c5-428c-abab-f7d4e1b5d721/conversation-messages.json",
+  "studentInitialQuestion": "我是MooreSummer，41岁女老师，喜欢电影、舞蹈和越剧，管理随性但有改革精神，注重美育融合。你作为德育美育教研员，能系统地讲解一下初中‘我的偶像观’主题班会如何做课程设计吗？讲讲教学目标、活动和创新点，尽量全面些。",
+  "studentInitialQuestionPath": "data/student-questions/初中偶像观思辨引导员/cc9c6fd7-63c5-428c-abab-f7d4e1b5d721/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

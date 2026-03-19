@@ -1,0 +1,26 @@
+{
+  "runId": "af806a23-3515-4557-9a02-1852e6554d85",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcbb8612ffed2GExX85jOhrhQ",
+  "startedAt": "2026-03-18T23:25:12.555Z",
+  "finishedAt": "2026-03-18T23:26:10.377Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/af806a23-3515-4557-9a02-1852e6554d85/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/af806a23-3515-4557-9a02-1852e6554d85/conversation-messages.json",
+  "studentInitialQuestion": "I'm DavisElla, an 8th grader who likes reading and piano but sometimes puts things off and gets a bit overconfident. Could you briefly explain why Brazil is important in global geography—like its location, resources, economy, and culture? Please keep it concise.",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/af806a23-3515-4557-9a02-1852e6554d85/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

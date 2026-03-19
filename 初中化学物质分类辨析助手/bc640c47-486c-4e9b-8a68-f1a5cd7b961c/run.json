@@ -1,0 +1,26 @@
+{
+  "runId": "bc640c47-486c-4e9b-8a68-f1a5cd7b961c",
+  "sceneName": "初中化学物质分类辨析助手",
+  "title": "batch-初中化学物质分类辨析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学物质分类辨析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd8dae5cffeY6w3WYZM3WJyFX",
+  "startedAt": "2026-03-18T19:35:39.674Z",
+  "finishedAt": "2026-03-18T19:36:19.807Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学物质分类辨析助手/bc640c47-486c-4e9b-8a68-f1a5cd7b961c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学物质分类辨析助手/bc640c47-486c-4e9b-8a68-f1a5cd7b961c/conversation-messages.json",
+  "studentInitialQuestion": "我是MurphySamuel，57岁男老师，喜欢组织家庭活动也爱打门球。在课堂上我想和学生讲清楚初中化学物质分类的标准、容易混淆的地方和一些生活里的实际例子。你作为化学顾问，能详细说说吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学物质分类辨析助手/bc640c47-486c-4e9b-8a68-f1a5cd7b961c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

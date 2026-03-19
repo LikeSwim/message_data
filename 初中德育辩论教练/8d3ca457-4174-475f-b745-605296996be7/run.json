@@ -1,0 +1,26 @@
+{
+  "runId": "8d3ca457-4174-475f-b745-605296996be7",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb30101ffeSBiQy277pJ0Mbm",
+  "startedAt": "2026-03-18T14:15:16.468Z",
+  "finishedAt": "2026-03-18T14:17:05.632Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/8d3ca457-4174-475f-b745-605296996be7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/8d3ca457-4174-475f-b745-605296996be7/conversation-messages.json",
+  "studentInitialQuestion": "我最近在网上看到初中‘负责任的公民’辩论赛，能帮我概括一下这种活动对学生道德成长有什么积极影响吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/8d3ca457-4174-475f-b745-605296996be7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

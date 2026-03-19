@@ -1,0 +1,26 @@
+{
+  "runId": "1ffa79b3-7a5c-4614-9e7a-4b3bafb656ea",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fde85085ffesbNAbBd13sIDO3",
+  "startedAt": "2026-03-18T17:56:39.924Z",
+  "finishedAt": "2026-03-18T17:57:26.157Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/1ffa79b3-7a5c-4614-9e7a-4b3bafb656ea/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/1ffa79b3-7a5c-4614-9e7a-4b3bafb656ea/conversation-messages.json",
+  "studentInitialQuestion": "你是化学教育专家，我是MillerSofia，49岁的女性心理咨询师，注重个人成长和自我提升，平常通过瑜伽和冥想调节情绪，也喜欢研究情绪管理和自我成长。你能详细说说化学基本定律的核心内容、实际意义，以及这些定律怎么能启发我们在个人成长、自我调适和心理健康方面的思考吗？请分点讲讲，也结合一下心理咨询师的专业视角。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/1ffa79b3-7a5c-4614-9e7a-4b3bafb656ea/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

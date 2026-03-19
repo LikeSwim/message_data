@@ -1,0 +1,26 @@
+{
+  "runId": "4de0067d-4b3e-4bc8-8cf4-e28daf928287",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fea215beffe5y2yR1BK71Q3lP",
+  "startedAt": "2026-03-18T14:33:45.276Z",
+  "finishedAt": "2026-03-18T14:35:37.894Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/4de0067d-4b3e-4bc8-8cf4-e28daf928287/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/4de0067d-4b3e-4bc8-8cf4-e28daf928287/conversation-messages.json",
+  "studentInitialQuestion": "你是地理学科教研员，最近学校准备开展板块运动和地貌塑造主题的综合性项目学习。能不能从各个角度详细说说板块运动和地貌塑造的理论、典型地貌案例、跨学科融合方法、团队协作和创新表达活动设计？还希望听听怎么通过项目制培养学生科学精神、探究能力和团队合作意识。请自然融入中华优秀传统文化理念和社会主义核心价值观。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/4de0067d-4b3e-4bc8-8cf4-e28daf928287/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

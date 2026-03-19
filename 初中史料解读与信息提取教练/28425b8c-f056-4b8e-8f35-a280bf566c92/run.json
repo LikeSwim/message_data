@@ -1,0 +1,26 @@
+{
+  "runId": "28425b8c-f056-4b8e-8f35-a280bf566c92",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc5c9da4ffezb15VxFR7tBIK2",
+  "startedAt": "2026-03-19T01:08:52.438Z",
+  "finishedAt": "2026-03-19T01:11:07.497Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/28425b8c-f056-4b8e-8f35-a280bf566c92/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/28425b8c-f056-4b8e-8f35-a280bf566c92/conversation-messages.json",
+  "studentInitialQuestion": "我是初中家长，女儿刚上七年级，对历史有点抵触。你作为知识导师，能帮我理解一下怎么用史料解读的方法激发她兴趣，还能教她掌握信息提取的基本技巧吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/28425b8c-f056-4b8e-8f35-a280bf566c92/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

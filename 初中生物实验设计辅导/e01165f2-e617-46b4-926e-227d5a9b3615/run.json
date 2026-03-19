@@ -1,0 +1,26 @@
+{
+  "runId": "e01165f2-e617-46b4-926e-227d5a9b3615",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc7532cfffeeh7V4kdEwwoUOx",
+  "startedAt": "2026-03-19T00:42:01.382Z",
+  "finishedAt": "2026-03-19T00:42:44.211Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/e01165f2-e617-46b4-926e-227d5a9b3615/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/e01165f2-e617-46b4-926e-227d5a9b3615/conversation-messages.json",
+  "studentInitialQuestion": "你是生物教育专家，我是初中生物老师，学生做“光对植物生长影响”实验时总是搞不清变量控制，还容易误判结果。讲清楚点变量控制的理论、常见误区和纠正办法吧，最好结合我的学生情况给点建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/e01165f2-e617-46b4-926e-227d5a9b3615/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "f8eb6193-3998-428c-a2fa-b319add9ceea",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fea29ae7ffe569RjZBuC69Xny",
+  "startedAt": "2026-03-18T14:33:11.184Z",
+  "finishedAt": "2026-03-18T14:33:45.271Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/f8eb6193-3998-428c-a2fa-b319add9ceea/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/f8eb6193-3998-428c-a2fa-b319add9ceea/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，麻烦你简要说明下板块运动和地貌塑造之间有什么关系？突出几个关键点，学生容易记住就行。顺便能给个简单的互动建议，帮助学生加深印象吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/f8eb6193-3998-428c-a2fa-b319add9ceea/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

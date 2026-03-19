@@ -1,0 +1,26 @@
+{
+  "runId": "91ebc40e-558b-4600-8d42-d278125c5c09",
+  "sceneName": "初中历史概念辨析助手",
+  "title": "batch-初中历史概念辨析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史概念辨析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd526a81ffey626ehSpBhUudC",
+  "startedAt": "2026-03-18T20:40:23.669Z",
+  "finishedAt": "2026-03-18T20:41:09.235Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史概念辨析助手/91ebc40e-558b-4600-8d42-d278125c5c09/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史概念辨析助手/91ebc40e-558b-4600-8d42-d278125c5c09/conversation-messages.json",
+  "studentInitialQuestion": "Hi, I am MartinEric, a 12-year-old 6th grade student who is independent, well-rounded, and can maintain sustained focus while balancing hobbies like roller skating, Go (Weiqi), and street dance. I want to understand the difference and connection between 'revolution' and 'reform' in history class. Can you explain it in detail for me, preferably with a clear comparison table and some real-life analogies, so I can relate it to my own experiences? Please detailedly explain.",
+  "studentInitialQuestionPath": "data/student-questions/初中历史概念辨析助手/91ebc40e-558b-4600-8d42-d278125c5c09/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "11fe4cde-4570-4494-8880-45ca9719212c",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc2ec13dffet1VCP6ys0MfEa6",
+  "startedAt": "2026-03-19T01:58:57.976Z",
+  "finishedAt": "2026-03-19T02:01:23.792Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/11fe4cde-4570-4494-8880-45ca9719212c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/11fe4cde-4570-4494-8880-45ca9719212c/conversation-messages.json",
+  "studentInitialQuestion": "我是新入职的初中数学老师，学校要求我们下学期重点做‘图形与变换’主题活动。你能从各个角度详细说说这个主题活动的整体设计吗？想知道活动目标、分层策略、课堂互动、学生个性发展、家校协作、评价体系，还有怎么在活动里自然融入创新、尊重、担当这些价值观。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/11fe4cde-4570-4494-8880-45ca9719212c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

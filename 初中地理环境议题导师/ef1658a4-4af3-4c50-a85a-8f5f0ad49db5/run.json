@@ -1,0 +1,26 @@
+{
+  "runId": "ef1658a4-4af3-4c50-a85a-8f5f0ad49db5",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe75e563ffe0BSZZD06np1dsQ",
+  "startedAt": "2026-03-18T15:22:01.236Z",
+  "finishedAt": "2026-03-18T15:25:13.246Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/ef1658a4-4af3-4c50-a85a-8f5f0ad49db5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/ef1658a4-4af3-4c50-a85a-8f5f0ad49db5/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，发现学生对环境问题的跨学科探究很感兴趣，但合作能力和创新表达还需提升。你作为教育专家，我想深入了解全球性环境问题的系统知识结构，以及如何设计多样的跨学科、创新参与活动，让不同层次学生都能有收获。我想深入了解",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/ef1658a4-4af3-4c50-a85a-8f5f0ad49db5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "57ea6acb-387d-40ca-98c7-1d16de7a8443",
+  "sceneName": "初中生物核心过程辨析助手",
+  "title": "batch-初中生物核心过程辨析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物核心过程辨析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc941a33ffeV0c0xvxmhnJgK5",
+  "startedAt": "2026-03-19T00:08:16.070Z",
+  "finishedAt": "2026-03-19T00:09:49.562Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物核心过程辨析助手/57ea6acb-387d-40ca-98c7-1d16de7a8443/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物核心过程辨析助手/57ea6acb-387d-40ca-98c7-1d16de7a8443/conversation-messages.json",
+  "studentInitialQuestion": "我是胡嘉怡，初二女生，平时喜欢美妆、视频剪辑和益智游戏，分析能力比较强。生物老师让我们做光合作用和呼吸作用的对比分析，你能给我一份完整的分析吗？最好用表格、对比和生活例子，帮我归纳和批判性思考",
+  "studentInitialQuestionPath": "data/student-questions/初中生物核心过程辨析助手/57ea6acb-387d-40ca-98c7-1d16de7a8443/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

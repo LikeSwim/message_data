@@ -1,0 +1,26 @@
+{
+  "runId": "9d5386ae-712a-4ec8-b96b-6244439ec103",
+  "sceneName": "初中传统色彩纹样美育导师",
+  "title": "batch-初中传统色彩纹样美育导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中传统色彩纹样美育导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fed926e4ffezLxYzVo57WGc3J",
+  "startedAt": "2026-03-18T13:33:36.402Z",
+  "finishedAt": "2026-03-18T13:35:22.685Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中传统色彩纹样美育导师/9d5386ae-712a-4ec8-b96b-6244439ec103/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中传统色彩纹样美育导师/9d5386ae-712a-4ec8-b96b-6244439ec103/conversation-messages.json",
+  "studentInitialQuestion": "我是付若琳，54岁，女老师，喜欢舞蹈、社区活动和方言研究，教学风格不太注重形式，有时候过度投入会模糊师生界限，对工作压力也比较敏感。你能系统地讲解一下初中中国传统色彩与纹样之美的课程设计和实践路径吗？包括课程目标、知识讲解、课堂活动、分层教学、创新实践、成果展示和情感关怀这些方面，特别想知道怎么在课堂上自然融入中华美育价值观，同时还要注意师生互动和老师自己调节压力的方法。系统地讲解一下。",
+  "studentInitialQuestionPath": "data/student-questions/初中传统色彩纹样美育导师/9d5386ae-712a-4ec8-b96b-6244439ec103/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

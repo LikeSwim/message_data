@@ -1,0 +1,26 @@
+{
+  "runId": "3bb94c18-c040-4b7a-9e17-748f381e91ee",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc4f58bcffe8dbikMQZK4YTQD",
+  "startedAt": "2026-03-19T01:23:20.844Z",
+  "finishedAt": "2026-03-19T01:23:51.143Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/3bb94c18-c040-4b7a-9e17-748f381e91ee/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/3bb94c18-c040-4b7a-9e17-748f381e91ee/conversation-messages.json",
+  "studentInitialQuestion": "我是初二数学老师，班里有几个学生在解一元二次方程时总把公式记混，把求根公式和判别式弄错，计算结果也经常出错。能不能概括一下这些错题产生的原因，以及有什么针对性的改进建议？他们记忆力一般，做题时还容易紧张。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/3bb94c18-c040-4b7a-9e17-748f381e91ee/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

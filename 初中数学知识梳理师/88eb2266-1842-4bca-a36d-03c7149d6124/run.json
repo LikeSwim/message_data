@@ -1,0 +1,26 @@
+{
+  "runId": "88eb2266-1842-4bca-a36d-03c7149d6124",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc07f827ffeeTlMjMZNol3EA1",
+  "startedAt": "2026-03-19T02:41:19.829Z",
+  "finishedAt": "2026-03-19T02:45:53.211Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/88eb2266-1842-4bca-a36d-03c7149d6124/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/88eb2266-1842-4bca-a36d-03c7149d6124/conversation-messages.json",
+  "studentInitialQuestion": "我是初三数学老师，班里学生基础不太均衡，马上就要中考了，大家对几何证明和图形变换的题特别头疼。你作为数学专家，能彻底说清楚初中几何的核心知识点、易错点和提升建议吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/88eb2266-1842-4bca-a36d-03c7149d6124/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

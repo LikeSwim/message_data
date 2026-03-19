@@ -1,0 +1,26 @@
+{
+  "runId": "b655c6d6-4529-4712-af4b-616715edfaff",
+  "sceneName": "初中数学史讲解员",
+  "title": "batch-初中数学史讲解员-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学史讲解员",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc282d71ffezc54vwom6EBU70",
+  "startedAt": "2026-03-19T02:06:07.833Z",
+  "finishedAt": "2026-03-19T02:06:30.078Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学史讲解员/b655c6d6-4529-4712-af4b-616715edfaff/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学史讲解员/b655c6d6-4529-4712-af4b-616715edfaff/conversation-messages.json",
+  "studentInitialQuestion": "我是老师，最近在数学课上讲数学史觉得有点枯燥，自己逻辑性也不是很强，偶尔会自信心不太足。你能简单说说，有什么方法能让数学史讲解变得有趣一点，还能体现人文关怀吗？我比较喜欢故事和跟学生交流情感。简短回答下。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学史讲解员/b655c6d6-4529-4712-af4b-616715edfaff/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

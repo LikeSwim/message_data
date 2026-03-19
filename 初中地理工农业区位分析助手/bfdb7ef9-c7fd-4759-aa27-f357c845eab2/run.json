@@ -1,0 +1,26 @@
+{
+  "runId": "bfdb7ef9-c7fd-4759-aa27-f357c845eab2",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe9ad78dffeZgNXBhRdZVtNTM",
+  "startedAt": "2026-03-18T14:41:39.944Z",
+  "finishedAt": "2026-03-18T14:43:12.531Z",
+  "followUpCount": 2,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/bfdb7ef9-c7fd-4759-aa27-f357c845eab2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/bfdb7ef9-c7fd-4759-aa27-f357c845eab2/conversation-messages.json",
+  "studentInitialQuestion": "你作为初中地理老师，我是湖南农村的初三学生，最近复习地理时对农业和工业区位的区别有点迷糊，尤其交通影响工业区位这一点没太明白。能不能简短回答下，农业和工业区位分别受哪些主要因素影响？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/bfdb7ef9-c7fd-4759-aa27-f357c845eab2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

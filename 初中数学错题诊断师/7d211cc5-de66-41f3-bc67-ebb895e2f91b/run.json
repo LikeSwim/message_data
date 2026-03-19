@@ -1,0 +1,26 @@
+{
+  "runId": "7d211cc5-de66-41f3-bc67-ebb895e2f91b",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc494fc5ffeJ6olgPQnJKkHi0",
+  "startedAt": "2026-03-19T01:29:57.548Z",
+  "finishedAt": "2026-03-19T01:30:33.250Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/7d211cc5-de66-41f3-bc67-ebb895e2f91b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/7d211cc5-de66-41f3-bc67-ebb895e2f91b/conversation-messages.json",
+  "studentInitialQuestion": "我是初二数学老师，班里一些学生解二元一次方程组时经常把代入法和加减法混用，步骤很乱，答案也错了。这些孩子喜欢分组讨论，容易受同伴影响。你能解释一下出现这种错题的原因吗？也希望给些适合他们的改进建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/7d211cc5-de66-41f3-bc67-ebb895e2f91b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

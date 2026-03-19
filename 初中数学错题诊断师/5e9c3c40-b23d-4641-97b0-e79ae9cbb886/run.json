@@ -1,0 +1,26 @@
+{
+  "runId": "5e9c3c40-b23d-4641-97b0-e79ae9cbb886",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc4b2259ffeFL0sZFIcHwDpD3",
+  "startedAt": "2026-03-19T01:27:58.112Z",
+  "finishedAt": "2026-03-19T01:28:58.447Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/5e9c3c40-b23d-4641-97b0-e79ae9cbb886/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/5e9c3c40-b23d-4641-97b0-e79ae9cbb886/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中数学老师，最近发现学生在解应用题时总是漏掉单位换算，尤其是长度和面积类。你作为数学教育专家，能帮我详细讲讲这类错题的原因和改进方法吗？希望能结合不同学生特点和教学建议，说说如何在教学中尊重差异和培养合作精神。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/5e9c3c40-b23d-4641-97b0-e79ae9cbb886/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

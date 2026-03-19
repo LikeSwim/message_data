@@ -1,0 +1,26 @@
+{
+  "runId": "55d4ba4c-2a71-44c3-97ef-090baa9df6bb",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcba1494ffeXpLai1ODAHup40",
+  "startedAt": "2026-03-18T23:26:47.141Z",
+  "finishedAt": "2026-03-18T23:27:43.925Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/55d4ba4c-2a71-44c3-97ef-090baa9df6bb/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/55d4ba4c-2a71-44c3-97ef-090baa9df6bb/conversation-messages.json",
+  "studentInitialQuestion": "你是地理专家，能不能全方位地讲解一下东南亚这个区域？最好讲讲地理、国家、经济、文化、历史等各方面，还能给点适合初中生合作探究的建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/55d4ba4c-2a71-44c3-97ef-090baa9df6bb/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

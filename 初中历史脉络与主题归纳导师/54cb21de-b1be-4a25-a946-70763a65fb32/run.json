@@ -1,0 +1,26 @@
+{
+  "runId": "54cb21de-b1be-4a25-a946-70763a65fb32",
+  "sceneName": "初中历史脉络与主题归纳导师",
+  "title": "batch-初中历史脉络与主题归纳导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史脉络与主题归纳导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd41d44cffe38wdO0UupOrKZf",
+  "startedAt": "2026-03-18T20:58:30.697Z",
+  "finishedAt": "2026-03-18T20:59:50.272Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史脉络与主题归纳导师/54cb21de-b1be-4a25-a946-70763a65fb32/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史脉络与主题归纳导师/54cb21de-b1be-4a25-a946-70763a65fb32/conversation-messages.json",
+  "studentInitialQuestion": "我最近在备考，觉得历史发展的脉络很复杂，尤其世界史的主题归纳让我有点迷茫。你作为历史学习助手，能大概讲讲世界史发展的主要脉络和主题吗？说说核心要点就行",
+  "studentInitialQuestionPath": "data/student-questions/初中历史脉络与主题归纳导师/54cb21de-b1be-4a25-a946-70763a65fb32/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

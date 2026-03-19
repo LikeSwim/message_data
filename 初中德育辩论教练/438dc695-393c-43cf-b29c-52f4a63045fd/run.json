@@ -1,0 +1,26 @@
+{
+  "runId": "438dc695-393c-43cf-b29c-52f4a63045fd",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feaf6a82ffe15uWf8sp27fGn5",
+  "startedAt": "2026-03-18T14:19:11.608Z",
+  "finishedAt": "2026-03-18T14:19:59.399Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/438dc695-393c-43cf-b29c-52f4a63045fd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/438dc695-393c-43cf-b29c-52f4a63045fd/conversation-messages.json",
+  "studentInitialQuestion": "我是高一的邓玲，喜欢服装设计和外语学习，合作意识挺强，批判性思维也不错，就是有点拖延。你作为学习助手，能讲讲看我在‘负责任的公民’辩论赛里怎么结合兴趣和优势，提升团队贡献和责任感吗？最好举几个例子。",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/438dc695-393c-43cf-b29c-52f4a63045fd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "0e3f42bb-7ba9-4a72-bac8-2e86b4312080",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc354a49ffejT1qR74C3iVd7E",
+  "startedAt": "2026-03-19T01:51:49.678Z",
+  "finishedAt": "2026-03-19T01:55:41.979Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/0e3f42bb-7ba9-4a72-bac8-2e86b4312080/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/0e3f42bb-7ba9-4a72-bac8-2e86b4312080/conversation-messages.json",
+  "studentInitialQuestion": "我是一名有十年经验的初中数学骨干教师，最近学校要求我们做‘函数与生活’主题活动，希望提升学生数学应用和创新能力。你能全方位地讲解一下这个初中函数主题活动的整体设计思路吗？想听听教学目标、活动流程、学生分层、家校协作、跨学科融合、评价方法，还有怎么自然融入诚信、创新、责任这些核心价值观。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/0e3f42bb-7ba9-4a72-bac8-2e86b4312080/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

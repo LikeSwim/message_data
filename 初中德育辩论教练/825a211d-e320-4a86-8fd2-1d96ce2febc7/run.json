@@ -1,0 +1,26 @@
+{
+  "runId": "825a211d-e320-4a86-8fd2-1d96ce2febc7",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb71904ffe1xYMFqoTTBZJZe",
+  "startedAt": "2026-03-18T14:10:48.178Z",
+  "finishedAt": "2026-03-18T14:12:57.403Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/825a211d-e320-4a86-8fd2-1d96ce2febc7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/825a211d-e320-4a86-8fd2-1d96ce2febc7/conversation-messages.json",
+  "studentInitialQuestion": "我是初中道德与法治老师，我们学校要办‘负责任的公民’辩论赛。你作为教育专家，能全面深入地讲讲负责任公民的核心素养和培养路径吗？还想听听美育活动对责任感形成有哪些促进作用，麻烦结合学生心理、团队协作和实际困境系统讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/825a211d-e320-4a86-8fd2-1d96ce2febc7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

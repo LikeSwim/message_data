@@ -1,0 +1,26 @@
+{
+  "runId": "6a935b97-b5ff-452a-b606-d674db74bbfd",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe1ff9adffezN9iHvHG9yx56V",
+  "startedAt": "2026-03-18T16:55:52.137Z",
+  "finishedAt": "2026-03-18T16:56:11.902Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/6a935b97-b5ff-452a-b606-d674db74bbfd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/6a935b97-b5ff-452a-b606-d674db74bbfd/conversation-messages.json",
+  "studentInitialQuestion": "你能说说主要的短跑接力棒交接问题和怎么快速纠正吗？我马上就要上课了，主要讲讲就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/6a935b97-b5ff-452a-b606-d674db74bbfd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "dfc1aab6-7eea-48fc-af6f-17f0bb180b6f",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理经纬网与时区辅导助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe6990edffen9viRFEBx7MMjJ",
+  "startedAt": "2026-03-18T15:35:29.296Z",
+  "finishedAt": "2026-03-18T15:36:39.958Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/dfc1aab6-7eea-48fc-af6f-17f0bb180b6f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/dfc1aab6-7eea-48fc-af6f-17f0bb180b6f/conversation-messages.json",
+  "studentInitialQuestion": "我是廖云锦，34岁女老师，跨学科应用能力较强，平时和同事一起做很多跨学科教学项目，周末喜欢在家烘焙、邀请亲友聚会。你能详细分析一下初中地理'经纬网与时区计算'在跨学科教学中的应用吗？请从教学难点、创新方法、和数学物理历史融合的案例、学生常见误区与解决策略说说，还要自然融入中华优秀传统文化和社会主义核心价值观，结构要清晰、内容系统，适合教学研讨参考。请详细分析各个方面。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理经纬网与时区辅导助手/dfc1aab6-7eea-48fc-af6f-17f0bb180b6f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

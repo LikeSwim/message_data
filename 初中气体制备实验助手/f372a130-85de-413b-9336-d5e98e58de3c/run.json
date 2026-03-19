@@ -1,0 +1,26 @@
+{
+  "runId": "f372a130-85de-413b-9336-d5e98e58de3c",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcc63126ffe61hTb6R9SKCFdL",
+  "startedAt": "2026-03-18T23:13:33.395Z",
+  "finishedAt": "2026-03-18T23:14:47.014Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/f372a130-85de-413b-9336-d5e98e58de3c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/f372a130-85de-413b-9336-d5e98e58de3c/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中家长，女儿最近在学典型气体的实验室制备，对装置选择和原理有些困惑。你能帮我理解一下初中阶段氧气、氢气、二氧化碳制备时装置选择的主要依据和注意事项吗？最好举些实际例子和生活类比。",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/f372a130-85de-413b-9336-d5e98e58de3c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

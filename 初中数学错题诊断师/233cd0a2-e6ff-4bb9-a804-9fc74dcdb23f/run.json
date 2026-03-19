@@ -1,0 +1,26 @@
+{
+  "runId": "233cd0a2-e6ff-4bb9-a804-9fc74dcdb23f",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc48c453ffeO4aCo2PizpH8sg",
+  "startedAt": "2026-03-19T01:30:33.254Z",
+  "finishedAt": "2026-03-19T01:32:03.366Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/233cd0a2-e6ff-4bb9-a804-9fc74dcdb23f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/233cd0a2-e6ff-4bb9-a804-9fc74dcdb23f/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学老师，你作为数学教育专家，能不能给我一份完整的分析？我们班学生学概率初步时总因为题目语境理解不清，分不清“事件必然发生”和“可能发生”，错题率一直很高。希望你能结合学生性格、学习习惯和传统文化，给出全面、系统、个性化的改进建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/233cd0a2-e6ff-4bb9-a804-9fc74dcdb23f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

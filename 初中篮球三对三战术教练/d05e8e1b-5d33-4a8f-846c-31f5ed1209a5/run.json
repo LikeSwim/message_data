@@ -1,0 +1,26 @@
+{
+  "runId": "d05e8e1b-5d33-4a8f-846c-31f5ed1209a5",
+  "sceneName": "初中篮球三对三战术教练",
+  "title": "batch-初中篮球三对三战术教练-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中篮球三对三战术教练",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd6c5c84ffehvCtUebaWN08YR",
+  "startedAt": "2026-03-18T20:12:03.312Z",
+  "finishedAt": "2026-03-18T20:13:08.130Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中篮球三对三战术教练/d05e8e1b-5d33-4a8f-846c-31f5ed1209a5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中篮球三对三战术教练/d05e8e1b-5d33-4a8f-846c-31f5ed1209a5/conversation-messages.json",
+  "studentInitialQuestion": "你是初中体育老师，能说说三对三篮球战术演练里最常用的三种基础战术吗？主要作用是什么，概括一下就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中篮球三对三战术教练/d05e8e1b-5d33-4a8f-846c-31f5ed1209a5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

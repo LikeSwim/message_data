@@ -1,0 +1,26 @@
+{
+  "runId": "f69f760d-203d-4d38-a6e5-460094449fbd",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc1c5136ffezOQ4SFNBA0QB0U",
+  "startedAt": "2026-03-19T02:19:06.304Z",
+  "finishedAt": "2026-03-19T02:19:29.639Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/f69f760d-203d-4d38-a6e5-460094449fbd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/f69f760d-203d-4d38-a6e5-460094449fbd/conversation-messages.json",
+  "studentInitialQuestion": "我的学生EdwardsMarcus，四年级，喜欢跆拳道、田径和围棋，逻辑很好但容易分心。你作为数学教育专家，能不能概括一下“面积”和“体积”的定义和主要区别？最好能结合运动或围棋举个简单的例子，让他一眼看懂重点。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/f69f760d-203d-4d38-a6e5-460094449fbd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

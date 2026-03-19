@@ -1,0 +1,26 @@
+{
+  "runId": "c2c17b83-5a98-4db9-9f86-0adc1bef9385",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe17e106ffeeFreKwMfPn8RIV",
+  "startedAt": "2026-03-18T17:04:42.737Z",
+  "finishedAt": "2026-03-18T17:05:20.002Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/c2c17b83-5a98-4db9-9f86-0adc1bef9385/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/c2c17b83-5a98-4db9-9f86-0adc1bef9385/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，爸妈总喜欢查我手机聊天记录，感觉自己的隐私都没了。你能讲得详细点吗？想知道《未成年人保护法》在家庭里是怎么保护我们隐私的，还有家长这样做到底合不合理，有什么沟通方法和心理建议？",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/c2c17b83-5a98-4db9-9f86-0adc1bef9385/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

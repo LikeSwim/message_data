@@ -1,0 +1,26 @@
+{
+  "runId": "28101bcb-06fa-4651-bb48-6fc749b2b8c9",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc1e48baffeXjOP9NGYhZx78J",
+  "startedAt": "2026-03-19T02:16:57.410Z",
+  "finishedAt": "2026-03-19T02:18:34.394Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/28101bcb-06fa-4651-bb48-6fc749b2b8c9/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/28101bcb-06fa-4651-bb48-6fc749b2b8c9/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的初中数学老师，你作为资深教师，能不能全面分析一下学生为什么总是分不清“有理数”和“整数”？想听听你对这两个概念的区别、常见误区、生活应用和教学方法的深入看法，最好还能结合点传统文化启发我怎么设计课堂。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/28101bcb-06fa-4651-bb48-6fc749b2b8c9/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

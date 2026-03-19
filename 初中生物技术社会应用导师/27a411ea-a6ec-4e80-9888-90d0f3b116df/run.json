@@ -1,0 +1,26 @@
+{
+  "runId": "27a411ea-a6ec-4e80-9888-90d0f3b116df",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc8a469cffewfXB0qfXuPQ9Wk",
+  "startedAt": "2026-03-19T00:19:00.057Z",
+  "finishedAt": "2026-03-19T00:20:06.076Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/27a411ea-a6ec-4e80-9888-90d0f3b116df/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/27a411ea-a6ec-4e80-9888-90d0f3b116df/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，最近上课学到转基因技术，听说能让农作物更抗病、产量高，但网上也有人说转基因食品不安全，还可能影响环境。你怎么看转基因食品的好处和坏处？说说你的看法",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/27a411ea-a6ec-4e80-9888-90d0f3b116df/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

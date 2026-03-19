@@ -1,0 +1,26 @@
+{
+  "runId": "7c4a796e-c881-4713-879b-6d80ac36db69",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcc43a49ffeMkEpeUE6GGG3G9",
+  "startedAt": "2026-03-18T23:15:40.946Z",
+  "finishedAt": "2026-03-18T23:16:41.422Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/7c4a796e-c881-4713-879b-6d80ac36db69/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/7c4a796e-c881-4713-879b-6d80ac36db69/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，这阵子老师让我们比较美国、德国和日本的地理和经济情况，要从地理位置、资源、经济发展、文化交流等方面分析，还要举生活里的例子。你能帮我理解一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/7c4a796e-c881-4713-879b-6d80ac36db69/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

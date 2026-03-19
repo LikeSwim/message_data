@@ -1,0 +1,26 @@
+{
+  "runId": "d9b4022d-0a72-4f2e-a335-050650805dbf",
+  "sceneName": "初中地理河流地貌学习助手",
+  "title": "batch-初中地理河流地貌学习助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理河流地貌学习助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe889894ffeqCFFjYdICWyjUt",
+  "startedAt": "2026-03-18T15:01:35.714Z",
+  "finishedAt": "2026-03-18T15:04:55.082Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理河流地貌学习助手/d9b4022d-0a72-4f2e-a335-050650805dbf/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理河流地貌学习助手/d9b4022d-0a72-4f2e-a335-050650805dbf/conversation-messages.json",
+  "studentInitialQuestion": "我是地理教研组组长，准备组织一次关于河流地貌发育与影响的专题教研。你作为地理教育专家，能不能彻底说清楚河流地貌的发育过程、地貌类型、形成条件、演化机制、对自然环境和人类活动的影响，还有教学设计重点难点、分层讲解策略和生态保护的价值观怎么自然融入？请系统讲解并结合实际教学案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理河流地貌学习助手/d9b4022d-0a72-4f2e-a335-050650805dbf/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

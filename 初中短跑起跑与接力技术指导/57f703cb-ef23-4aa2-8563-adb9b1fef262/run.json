@@ -1,0 +1,26 @@
+{
+  "runId": "57f703cb-ef23-4aa2-8563-adb9b1fef262",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe20ce84ffeCu5rnlRDWWJAAz",
+  "startedAt": "2026-03-18T16:54:57.653Z",
+  "finishedAt": "2026-03-18T16:55:52.133Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/57f703cb-ef23-4aa2-8563-adb9b1fef262/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/57f703cb-ef23-4aa2-8563-adb9b1fef262/conversation-messages.json",
+  "studentInitialQuestion": "我现在在带初中体育，短跑起跑姿势总是教得不太明白。你能详细说说分阶段指导的方法吗？给我举些具体例子。",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/57f703cb-ef23-4aa2-8563-adb9b1fef262/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

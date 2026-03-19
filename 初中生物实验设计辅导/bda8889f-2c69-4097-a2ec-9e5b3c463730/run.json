@@ -1,0 +1,26 @@
+{
+  "runId": "bda8889f-2c69-4097-a2ec-9e5b3c463730",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc7d8f34ffer9gUoR0ljfT6Ho",
+  "startedAt": "2026-03-19T00:32:53.448Z",
+  "finishedAt": "2026-03-19T00:33:41.800Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/bda8889f-2c69-4097-a2ec-9e5b3c463730/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/bda8889f-2c69-4097-a2ec-9e5b3c463730/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，班里有些逻辑强但动手能力弱的学生，在做“酵母菌发酵条件”实验时，经常忽略变量控制的细节。你能全面分析一下变量控制的理论、常见问题、操作流程和创新教学方法吗？结合我的教学情况给出分层建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/bda8889f-2c69-4097-a2ec-9e5b3c463730/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "afc55b5e-a126-47d6-86e2-8608ff315623",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc5ce53cffe8JCrRibYoaXc6F",
+  "startedAt": "2026-03-19T01:08:34.108Z",
+  "finishedAt": "2026-03-19T01:08:52.435Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/afc55b5e-a126-47d6-86e2-8608ff315623/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/afc55b5e-a126-47d6-86e2-8608ff315623/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，学中国古代统一，老师让我们用《秦始皇统一六国》的史料解读和信息提取。你作为学习助手，能用几句话说说史料解读能帮我学到什么历史信息，还有怎么做比较好吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/afc55b5e-a126-47d6-86e2-8608ff315623/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "4c3091a0-54a8-4dc5-bb93-5f7c767e0f0d",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe7b6ac9ffejUI00a82f7kVAP",
+  "startedAt": "2026-03-18T15:15:59.408Z",
+  "finishedAt": "2026-03-18T15:17:14.285Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/4c3091a0-54a8-4dc5-bb93-5f7c767e0f0d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/4c3091a0-54a8-4dc5-bb93-5f7c767e0f0d/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生家长，孩子刚开始学地理，对全球性环境问题的概念还挺模糊。你作为地理教育专家，能简要说明下什么是全球性环境问题，并给我点亲子互动的学习建议吗？简要说明下",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/4c3091a0-54a8-4dc5-bb93-5f7c767e0f0d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

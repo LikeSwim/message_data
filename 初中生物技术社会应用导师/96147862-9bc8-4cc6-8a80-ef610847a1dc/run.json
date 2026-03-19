@@ -1,0 +1,26 @@
+{
+  "runId": "96147862-9bc8-4cc6-8a80-ef610847a1dc",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc858393ffeW055biH37RIjBE",
+  "startedAt": "2026-03-19T00:24:12.134Z",
+  "finishedAt": "2026-03-19T00:24:35.888Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/96147862-9bc8-4cc6-8a80-ef610847a1dc/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/96147862-9bc8-4cc6-8a80-ef610847a1dc/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，老师布置作业要总结生物技术在医学方面的应用。其实我对这个没什么特别兴趣，你能帮我概括一下医学里常见的生物技术应用都有哪些？简单说说就行",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/96147862-9bc8-4cc6-8a80-ef610847a1dc/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

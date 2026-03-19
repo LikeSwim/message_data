@@ -1,0 +1,26 @@
+{
+  "runId": "b8470fc9-1c61-42bb-85f0-f5b2a587b4bc",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdb6534dffeOP4yJmouFRSY0U",
+  "startedAt": "2026-03-18T18:51:16.011Z",
+  "finishedAt": "2026-03-18T18:52:02.596Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/b8470fc9-1c61-42bb-85f0-f5b2a587b4bc/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/b8470fc9-1c61-42bb-85f0-f5b2a587b4bc/conversation-messages.json",
+  "studentInitialQuestion": "我平常很喜欢在家做小实验，也常用厨房用品和同学一起探究各种化学现象。你作为我的生活安全导师，怎么看初中化学知识在我们家庭实验和生活安全里的用处？可以结合我喜欢动手和探索的习惯，说说安全注意事项、实际例子，也能聊聊中华传统文化里的安全智慧吗？说说你的看法",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/b8470fc9-1c61-42bb-85f0-f5b2a587b4bc/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

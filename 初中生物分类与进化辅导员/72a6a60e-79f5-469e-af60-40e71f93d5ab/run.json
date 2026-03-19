@@ -1,0 +1,26 @@
+{
+  "runId": "72a6a60e-79f5-469e-af60-40e71f93d5ab",
+  "sceneName": "初中生物分类与进化辅导员",
+  "title": "batch-初中生物分类与进化辅导员-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物分类与进化辅导员",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fca076b6ffe6EGs2hFq1HBx9F",
+  "startedAt": "2026-03-18T23:54:44.755Z",
+  "finishedAt": "2026-03-18T23:58:59.612Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物分类与进化辅导员/72a6a60e-79f5-469e-af60-40e71f93d5ab/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物分类与进化辅导员/72a6a60e-79f5-469e-af60-40e71f93d5ab/conversation-messages.json",
+  "studentInitialQuestion": "我是一名刚刚接手初中生物课的新老师，班上学生基础和兴趣差异很大，有的同学喜欢观察自然，有的对理论知识感兴趣，还有部分学生对生物分类体系和进化思想很困惑。你作为生物教育专家，能从各个角度详细说说在教学“生物分类体系与进化思想”这一单元时，应该如何进行分层教学设计、激发不同学生兴趣、解决常见误区，并融入探究和反思，让学生主动思考和持续改进学习效果吗？从各个角度详细说说",
+  "studentInitialQuestionPath": "data/student-questions/初中生物分类与进化辅导员/72a6a60e-79f5-469e-af60-40e71f93d5ab/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

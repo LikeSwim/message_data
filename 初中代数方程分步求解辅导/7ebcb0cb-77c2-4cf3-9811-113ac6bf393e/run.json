@@ -1,0 +1,26 @@
+{
+  "runId": "7ebcb0cb-77c2-4cf3-9811-113ac6bf393e",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "batch-初中代数方程分步求解辅导-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中代数方程分步求解辅导",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fecd3f19ffex0uzsBB7n2kiIh",
+  "startedAt": "2026-03-18T13:46:36.636Z",
+  "finishedAt": "2026-03-18T13:47:20.051Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中代数方程分步求解辅导/7ebcb0cb-77c2-4cf3-9811-113ac6bf393e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中代数方程分步求解辅导/7ebcb0cb-77c2-4cf3-9811-113ac6bf393e/conversation-messages.json",
+  "studentInitialQuestion": "我是六年级的潘天，平时喜欢吉他、轮滑和玩游戏，但学数学的时候我分析问题总是比较浅，最近老师讲代数方程分步求解，我有点不太明白每一步要注意什么。你作为我的数学学习助手，帮我理解一下代数方程分步求解的关键步骤和容易出错的地方吧，也希望你结合我的兴趣和性格，给我一些能帮我更好思考的建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中代数方程分步求解辅导/7ebcb0cb-77c2-4cf3-9811-113ac6bf393e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

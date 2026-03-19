@@ -1,0 +1,26 @@
+{
+  "runId": "e043ab02-cbc1-4f83-ad71-7400898c5ed7",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcc5118bffe5dBSiI2kw5qxaU",
+  "startedAt": "2026-03-18T23:14:47.018Z",
+  "finishedAt": "2026-03-18T23:15:39.891Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/e043ab02-cbc1-4f83-ad71-7400898c5ed7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/e043ab02-cbc1-4f83-ad71-7400898c5ed7/conversation-messages.json",
+  "studentInitialQuestion": "你作为一名有经验的化学老师，能不能说说初中常见气体实验室制备时装置选择的主要依据？突出核心要点，用简单实例说明就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/e043ab02-cbc1-4f83-ad71-7400898c5ed7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

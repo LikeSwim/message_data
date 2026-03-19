@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "I'll keep this simple and practical for you!\n\n## What Are Longitude and Latitude?\n\nThink of Earth like an **orange** that we need to locate any point on:\n\n- **Latitude** (纬线) = horizontal rings, parallel to the Equator\n  - Like the horizontal cuts you make when slicing an orange\n  - They run east-west but measure north-south position\n  - Equator is 0°, North Pole is 90°N, South Pole is 90°S\n\n- **Longitude** (经线) = vertical slices\n  - Like cutting an orange from top to bottom\n  - They run north-south but measure east-west position\n  - Prime Meridian (through Greenwich, London) is 0°\n  - Goes up to 180°E and 180°W\n\n## How Does Longitude Connect to Time Zones?\n\nHere's the simple trick:\n\n**Earth rotates 360° in 24 hours = 15° per hour**\n\nSo every 15° of longitude = 1 hour time difference\n\n- Beijing: around 116°E → UTC+8\n- New York: around 74°W → UTC-5\n\n**When you travel east**, the sun rises earlier → you gain time (add hours)  \n**When you travel west**, the sun rises later → you lose time (subtract hours)\n\n---\n\nWant me to show you a quick calculation example, or do you have a specific location you're curious about?",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "runId": "0c09be5d-ab2b-4734-b7d9-b97953759d21",
+  "sceneName": "初中生物系统协调分析助手",
+  "title": "batch-初中生物系统协调分析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物系统协调分析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc65f028ffehjMcpSGnN31lom",
+  "startedAt": "2026-03-19T00:58:41.487Z",
+  "finishedAt": "2026-03-19T01:02:48.577Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生物系统协调分析助手/0c09be5d-ab2b-4734-b7d9-b97953759d21/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物系统协调分析助手/0c09be5d-ab2b-4734-b7d9-b97953759d21/conversation-messages.json",
+  "studentInitialQuestion": "我是负责校本教研的教研员，准备组织一次关于“初中生物人体各系统协调工作”的主题研讨。参与老师教学风格不一，有人希望内容讲解更系统，也有人想融入传统文化和核心价值观。你能从科学知识体系、教学策略、创新表达方法（比如流程图、角色扮演、合作探究）、传统文化与价值观融合、学生创造力培养、具体教学案例等角度，详细分析下各个方面吗？详细分析下各个方面",
+  "studentInitialQuestionPath": "data/student-questions/初中生物系统协调分析助手/0c09be5d-ab2b-4734-b7d9-b97953759d21/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

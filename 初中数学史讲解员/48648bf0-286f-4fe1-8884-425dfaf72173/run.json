@@ -1,0 +1,26 @@
+{
+  "runId": "48648bf0-286f-4fe1-8884-425dfaf72173",
+  "sceneName": "初中数学史讲解员",
+  "title": "batch-初中数学史讲解员-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学史讲解员",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc2370ceffelwCtU93c8cwk8s",
+  "startedAt": "2026-03-19T02:11:19.468Z",
+  "finishedAt": "2026-03-19T02:13:03.404Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学史讲解员/48648bf0-286f-4fe1-8884-425dfaf72173/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学史讲解员/48648bf0-286f-4fe1-8884-425dfaf72173/conversation-messages.json",
+  "studentInitialQuestion": "我是四年级学生江滨邦，喜欢踢足球和下国际象棋，老师让我们了解中国古代数学家的故事。你能详细说说一个有趣的数学家吗？最好讲讲他的成长经历和怎么解决难题的，还有这些故事对我学习和比赛有什么启发。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学史讲解员/48648bf0-286f-4fe1-8884-425dfaf72173/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

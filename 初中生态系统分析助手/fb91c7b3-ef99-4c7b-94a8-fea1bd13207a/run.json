@@ -1,0 +1,26 @@
+{
+  "runId": "fb91c7b3-ef99-4c7b-94a8-fea1bd13207a",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb04619ffeuVfrM3lNZzflP1",
+  "startedAt": "2026-03-18T23:37:29.822Z",
+  "finishedAt": "2026-03-18T23:39:12.909Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/fb91c7b3-ef99-4c7b-94a8-fea1bd13207a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/fb91c7b3-ef99-4c7b-94a8-fea1bd13207a/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，对生态系统结构与功能分析很感兴趣，希望能全面系统地掌握这部分内容。你作为生物教育专家，能不能全面深入地讲讲生态系统结构与功能？包括理论基础、实际应用、创新探究、人与自然关系还有中国传统文化里的相关观点。",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/fb91c7b3-ef99-4c7b-94a8-fea1bd13207a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

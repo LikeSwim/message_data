@@ -1,0 +1,26 @@
+{
+  "runId": "d0318dc5-ecba-4a42-bc8b-9f4e92364a9d",
+  "sceneName": "初中历史脉络与主题归纳导师",
+  "title": "batch-初中历史脉络与主题归纳导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史脉络与主题归纳导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd3df107ffeHWuVF97pgIeoCr",
+  "startedAt": "2026-03-18T21:02:45.488Z",
+  "finishedAt": "2026-03-18T21:03:50.715Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史脉络与主题归纳导师/d0318dc5-ecba-4a42-bc8b-9f4e92364a9d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史脉络与主题归纳导师/d0318dc5-ecba-4a42-bc8b-9f4e92364a9d/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生家长，最近发现孩子对世界历史发展的脉络理解不深，只记住零散事件，主题归纳也做不到。你作为历史教育专家，能讲清楚怎么引导孩子梳理世界历史发展的脉络和主题吗？最好举些具体方法和例子",
+  "studentInitialQuestionPath": "data/student-questions/初中历史脉络与主题归纳导师/d0318dc5-ecba-4a42-bc8b-9f4e92364a9d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

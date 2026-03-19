@@ -1,0 +1,26 @@
+{
+  "runId": "9355bb94-7739-4a00-9a13-4aeb69e1baca",
+  "sceneName": "初中地理气候类型辅导助手",
+  "title": "batch-初中地理气候类型辅导助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理气候类型辅导助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe5f7e73ffefGip62axROekoJ",
+  "startedAt": "2026-03-18T15:46:29.380Z",
+  "finishedAt": "2026-03-18T15:49:25.599Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理气候类型辅导助手/9355bb94-7739-4a00-9a13-4aeb69e1baca/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理气候类型辅导助手/9355bb94-7739-4a00-9a13-4aeb69e1baca/conversation-messages.json",
+  "studentInitialQuestion": "Hi, I'm JamesEliza, a senior high student who enjoys makeup, table tennis, and foreign language learning. Sometimes I feel both included and alienated in group activities. Could you briefly explain the global distribution and causes of world climate types? If possible, connect it to my interests and social experiences so I can understand it better.",
+  "studentInitialQuestionPath": "data/student-questions/初中地理气候类型辅导助手/9355bb94-7739-4a00-9a13-4aeb69e1baca/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "8ed7d543-f0fe-4d2c-8762-1ef528a8376b",
+  "sceneName": "初中地理河流地貌学习助手",
+  "title": "batch-初中地理河流地貌学习助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理河流地貌学习助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe8c0689ffeWhcrmRB2EOKsSx",
+  "startedAt": "2026-03-18T14:57:50.959Z",
+  "finishedAt": "2026-03-18T14:58:54.126Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理河流地貌学习助手/8ed7d543-f0fe-4d2c-8762-1ef528a8376b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理河流地貌学习助手/8ed7d543-f0fe-4d2c-8762-1ef528a8376b/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，喜欢用手工模型学习地理，理解能力还行但容易漏掉细节。你作为地理学习助手，能不能详细展开说说河流地貌的发育过程、常见地貌类型、形成机制，还有这些地貌对人类社会和自然环境的具体影响？最好能结合生活场景和动手实践建议，帮助我更好地理解和记住这些知识。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理河流地貌学习助手/8ed7d543-f0fe-4d2c-8762-1ef528a8376b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

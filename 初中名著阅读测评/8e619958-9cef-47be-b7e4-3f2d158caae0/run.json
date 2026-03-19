@@ -1,0 +1,26 @@
+{
+  "runId": "8e619958-9cef-47be-b7e4-3f2d158caae0",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcfa34fcffe8xSWsROnhNY2ZC",
+  "startedAt": "2026-03-18T22:16:44.541Z",
+  "finishedAt": "2026-03-18T22:20:24.346Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/8e619958-9cef-47be-b7e4-3f2d158caae0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/8e619958-9cef-47be-b7e4-3f2d158caae0/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中语文老师，班里有些同学对名著阅读总是提不起兴趣，提到考试就更没劲了。你能帮我理解一下，初中生为什么对名著阅读考查这么不积极？背后都有哪些原因？帮我理解一下。",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/8e619958-9cef-47be-b7e4-3f2d158caae0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "830e3258-9281-4e0d-97ed-d67644334034",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe174f74ffenOXeCd6vLa0f9o",
+  "startedAt": "2026-03-18T17:05:20.005Z",
+  "finishedAt": "2026-03-18T17:05:40.660Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/830e3258-9281-4e0d-97ed-d67644334034/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/830e3258-9281-4e0d-97ed-d67644334034/conversation-messages.json",
+  "studentInitialQuestion": "我是初中政治老师，学生问我，如果在学校里遇到老师或同学对未成年人有不当言语或行为，该怎么用《未成年人保护法》保护自己？简要说明下主要做法和要注意的地方。",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/830e3258-9281-4e0d-97ed-d67644334034/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

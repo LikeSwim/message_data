@@ -1,0 +1,26 @@
+{
+  "runId": "6fb45373-3a24-4286-a7e7-a1b366f53c2e",
+  "sceneName": "初中化学方程式计算辅导",
+  "title": "batch-初中化学方程式计算辅导-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式计算辅导",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fde79315ffeHXCfbufKhVlies",
+  "startedAt": "2026-03-18T17:57:27.214Z",
+  "finishedAt": "2026-03-18T17:59:37.551Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中化学方程式计算辅导/6fb45373-3a24-4286-a7e7-a1b366f53c2e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式计算辅导/6fb45373-3a24-4286-a7e7-a1b366f53c2e/conversation-messages.json",
+  "studentInitialQuestion": "我是AndersonZara，今年28岁，是一名咖啡师，平时喜欢下象棋和玩MOBA电竞，对目标和沟通都很注重精准和阶段性。我最近想系统提升初中化学方程式的计算能力。你作为化学教育专家，能详细展开说说相关计算方法吗？希望你能结合我的兴趣和性格，比如象棋思维、电竞策略，以及咖啡师的工作场景，给我一些实际案例和学习建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式计算辅导/6fb45373-3a24-4286-a7e7-a1b366f53c2e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

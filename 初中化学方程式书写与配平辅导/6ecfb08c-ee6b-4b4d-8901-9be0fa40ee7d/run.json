@@ -1,0 +1,26 @@
+{
+  "runId": "6ecfb08c-ee6b-4b4d-8901-9be0fa40ee7d",
+  "sceneName": "初中化学方程式书写与配平辅导",
+  "title": "batch-初中化学方程式书写与配平辅导-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式书写与配平辅导",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdd24d4cffes6SSCOlxvSgid8",
+  "startedAt": "2026-03-18T18:20:42.541Z",
+  "finishedAt": "2026-03-18T18:21:26.494Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式书写与配平辅导/6ecfb08c-ee6b-4b4d-8901-9be0fa40ee7d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式书写与配平辅导/6ecfb08c-ee6b-4b4d-8901-9be0fa40ee7d/conversation-messages.json",
+  "studentInitialQuestion": "我叫庾舒菁，初二女生，喜欢冥想和乐高积木，性格比较兴趣驱动，容易拖延，逻辑不太强，记忆混乱，和老师、父母沟通也不太顺利。化学方程式书写和配平总让我觉得步骤很乱，理不清思路。你能讲清楚点初中化学方程式书写与配平的基本方法、常见难点，还有一些适合我的梳理技巧吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式书写与配平辅导/6ecfb08c-ee6b-4b4d-8901-9be0fa40ee7d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

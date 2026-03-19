@@ -1,0 +1,19 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "## 🇧🇷 Why Brazil Matters in Global Geography\n\n**地理位置 (Geographic Location)**\n- **Latitudinal advantage**: Most of Brazil lies in the tropics (between 5°N and 33°S), giving it abundant sunshine and rainfall year-round\n- **Continental position**: Largest country in South America, occupying half the continent; borders 10 countries\n- **Coastal access**: 7,400km Atlantic coastline with major ports (Rio, São Paulo, Santos) driving global trade\n\n**自然资源 (Resources)**\n- **\"Earth's Lungs\"**: Amazon rainforest (~60% of global tropical forests) stores massive carbon, regulates global climate\n- **Resource powerhouse**: World's #1 coffee producer; top 5 in soybeans, beef, iron ore, bauxite, and renewable water resources\n\n**经济实力 (Economic Strength)**\n- **Agricultural giant**: Feeds the world—exports soy, coffee, sugar, beef to China, EU, US\n- **Industrial diversity**: Aerospace (Embraer), automotive, petrochemicals, and hydroelectric power\n- **BRICS member**: Part of major emerging economies bloc, influencing global economic governance\n\n**文化影响力 (Cultural Impact)**\n- **Diversity melting pot**: Portuguese + African + Indigenous + Italian/Japanese immigrant heritage\n- **Global soft power**: Football (5× World Cup champs!), Carnival, Samba, Bossa Nova music spread worldwide\n- **Environmental voice**: Key player in climate negotiations, protecting (and balancing exploitation of) the Amazon\n\n---\n\n**Bottom line**: Brazil's sheer size (5th largest country), tropical location, resource wealth, and position as Latin America's leader make it a **global heavyweight** in food security, climate stability, and cultural exchange.\n\nWant to dive deeper into any specific aspect, DavisElla? 🗺️",
+    "studentRawOutput": "FOLLOW_UP: How does Brazil balance the economic exploitation of the Amazon rainforest with environmental conservation, and what specific challenges does it face in protecting the \"Earth's Lungs\" while meeting development needs?",
+    "parsedDecision": {
+      "type": "follow_up",
+      "question": "How does Brazil balance the economic exploitation of the Amazon rainforest with environmental conservation, and what specific challenges does it face in protecting the \"Earth's Lungs\" while meeting development needs?"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "## 🌳 Brazil's Amazon Dilemma: Development vs. Conservation\n\n### **人地关系诊断 (Human-Environment Diagnosis)**\n\n| **核心矛盾** | **具体表现** | **深层原因** |\n|-------------|-------------|-------------|\n| **经济利益** | 非法伐木、金矿开采、大豆/牧场扩张（每年损失约10,000 km²雨林） | 贫困压力、土地投机、全球农产品需求 |\n| **生态价值** | 吸收25%全球陆地碳排放；庇护10%地球物种；调节南美水循环 | 雨林生态系统的全球公共品属性vs国家主权冲突 |\n\n---\n\n### **关键挑战 (Key Challenges)**\n\n**1️⃣ 治理难题**\n- **地理障碍**: 亚马逊面积达550万 km²，巴西境内占60%—监管如同\"大海捞针\"\n- **执法困境**: 警力不足+腐败+与当地权贵的利益纠葛\n- **非法活动隐蔽**: 采矿砍伐多发生在偏远地区，卫星监控滞后\n\n**2️⃣ 社会经济压力**\n- **贫困驱动**: 北部亚马逊州GDP仅为东南沿海1/3，百姓依赖毁林谋生\n- **农业利益集团游说**: 大豆/肉牛出口商的政治影响力巨大\n- **基础设施缺口**: 合法经济机会少，\"不砍树就挨饿\"的现实\n\n**3️⃣ 国际分歧**\n- **主权vs全球责任**: \"这是我们的土地，凭什么外国指手画脚？\"\n- **资金承诺落空**: 发达国家承诺的\"碳补偿金\"（如2009年哥本哈根承诺每年1000亿美元）迟迟不到位\n\n---\n\n### **平衡之道 (Balancing Strategies)**\n\n**✅ 保护举措**\n- **保护区网络**: 建立280个联邦保护区（占巴西亚马逊23%）\n- **卫星监控**: \"DETER\"系统实时监测毁林热点\n- **原住民权利**: 承认土著领地是最佳碳汇（毁林率低至1.5% vs 周边地区20%+）\n- **绿色经济**: 开发可持续巴西坚果/橡胶产业，创造替代生计\n\n**⚖️ 妥协尝试**\n- **\"减少毁林排放\"计划(REDD+)**: 获挪威捐赠13亿美元减缓毁林\n- **可持续发展保护区**: 允许原住民可持续采集+生态旅游\n- **2023新政策**: 卢拉政府承诺2030年结束非法毁林（但农业团体强烈反对）\n\n---\n\n### **反思 (Critical Thinking)**\n\n> **这不是非黑即白的选择。** 正如你练琴—既需要刻苦练习（发展），也要保护手指不过劳损伤（可持续）。\n\n**核心问题**: 全球消费者吃着巴西大豆喂的猪肉、用着雨林木材做家具，却要求巴西独自承担保护成本—这公平吗？\n\n**思考题**: If you had to choose—feed a hungry family by cutting trees, or protect the rainforest for global climate—what would you do? 🤔",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

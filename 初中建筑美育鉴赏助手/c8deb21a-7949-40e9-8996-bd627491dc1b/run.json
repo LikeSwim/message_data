@@ -1,0 +1,26 @@
+{
+  "runId": "c8deb21a-7949-40e9-8996-bd627491dc1b",
+  "sceneName": "初中建筑美育鉴赏助手",
+  "title": "batch-初中建筑美育鉴赏助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中建筑美育鉴赏助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd7d8669ffeXGvb3FEx1iKxy6",
+  "startedAt": "2026-03-18T19:53:18.478Z",
+  "finishedAt": "2026-03-18T19:54:03.898Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中建筑美育鉴赏助手/c8deb21a-7949-40e9-8996-bd627491dc1b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中建筑美育鉴赏助手/c8deb21a-7949-40e9-8996-bd627491dc1b/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初二学生，喜欢画画和世界建筑。老师让我们比较中国的长城和意大利的比萨斜塔，也要思考它们的美学和历史价值。你能讲讲看这两座建筑在造型、功能和文化意义上的不同吗？说具体点，举点例子让我容易理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中建筑美育鉴赏助手/c8deb21a-7949-40e9-8996-bd627491dc1b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

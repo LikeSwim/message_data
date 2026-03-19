@@ -1,0 +1,26 @@
+{
+  "runId": "620df9a6-e49d-4ced-b594-62ecfe2db96f",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe38d634ffeqptk59PXi7uyez",
+  "startedAt": "2026-03-18T16:28:42.819Z",
+  "finishedAt": "2026-03-18T16:29:31.447Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/620df9a6-e49d-4ced-b594-62ecfe2db96f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/620df9a6-e49d-4ced-b594-62ecfe2db96f/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的初中地理老师，班里学生基础差异挺大，有的对地形图完全不懂，有的能自主学习。你作为地理教学专家，能系统地讲解一下地形图判读与应用的教学流程、重点难点、分层指导策略和个性化成长建议吗？最好能兼顾基础薄弱和有探究力的学生，还结合中华优秀传统文化和核心价值观，提点具体实践方案。",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/620df9a6-e49d-4ced-b594-62ecfe2db96f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "1a7ed1f7-d8e4-4765-9034-a25722f8935b",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd124791ffeuQqfd3IRXHWb4r",
+  "startedAt": "2026-03-18T21:50:26.915Z",
+  "finishedAt": "2026-03-18T21:51:44.021Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/1a7ed1f7-d8e4-4765-9034-a25722f8935b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/1a7ed1f7-d8e4-4765-9034-a25722f8935b/conversation-messages.json",
+  "studentInitialQuestion": "我是历史老师，班里有学生问我‘戊戌变法’失败的主要原因和后果，我想给他们一个简明扼要的答案。你作为历史学科支持助手，可以用几句话说说戊戌变法失败的因果关系和历史影响吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/1a7ed1f7-d8e4-4765-9034-a25722f8935b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

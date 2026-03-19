@@ -1,0 +1,26 @@
+{
+  "runId": "98b97be2-d896-4177-8f03-ed1026f9f03c",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc2fb80affex0JbaWWXO9oc5A",
+  "startedAt": "2026-03-19T01:57:54.795Z",
+  "finishedAt": "2026-03-19T01:58:22.025Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/98b97be2-d896-4177-8f03-ed1026f9f03c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/98b97be2-d896-4177-8f03-ed1026f9f03c/conversation-messages.json",
+  "studentInitialQuestion": "我是范勇耀老师，53岁，做事条理性强，喜欢策略性妥协，平时教学比较严谨但也挺灵活，骑行俱乐部里我是可靠的跟随者，围棋圈里擅长策略妥协。你作为数学教学顾问，说说你的看法，怎么为我设计适合的初中数学教学活动，既能发挥我的条理和策略优势，还能在团队里自然融入合作和尊重这些中华优秀传统文化。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/98b97be2-d896-4177-8f03-ed1026f9f03c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

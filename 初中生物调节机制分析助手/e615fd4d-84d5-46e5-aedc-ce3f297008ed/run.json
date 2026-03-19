@@ -1,0 +1,26 @@
+{
+  "runId": "e615fd4d-84d5-46e5-aedc-ce3f297008ed",
+  "sceneName": "初中生物调节机制分析助手",
+  "title": "batch-初中生物调节机制分析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物调节机制分析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fca56b75ffe3z90bFE2lUTXDI",
+  "startedAt": "2026-03-18T23:49:21.156Z",
+  "finishedAt": "2026-03-18T23:50:02.205Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物调节机制分析助手/e615fd4d-84d5-46e5-aedc-ce3f297008ed/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物调节机制分析助手/e615fd4d-84d5-46e5-aedc-ce3f297008ed/conversation-messages.json",
+  "studentInitialQuestion": "我是BrownBenjamin，今年50岁男老师，喜欢登山和品茶，生活挺有条理但逻辑分析弱点。最近教生命活动调节机制，神经调节和体液调节总是理不清思路。你能帮我理解一下吗？最好结构清楚点，还能给点教学建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物调节机制分析助手/e615fd4d-84d5-46e5-aedc-ce3f297008ed/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "a622f287-4a62-44b6-b032-5b0ea9ca5f36",
+  "sceneName": "初中历史章节框架师",
+  "title": "batch-初中历史章节框架师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史章节框架师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd00e83fffeVjPYuny5zqHFkR",
+  "startedAt": "2026-03-18T22:09:25.429Z",
+  "finishedAt": "2026-03-18T22:10:20.812Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史章节框架师/a622f287-4a62-44b6-b032-5b0ea9ca5f36/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史章节框架师/a622f287-4a62-44b6-b032-5b0ea9ca5f36/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生，对世界历史很感兴趣，但觉得历史章节太多，有时候分不清各章节之间的逻辑关系。你作为历史教育专家，能帮我深入讲解一下初中世界史各章节的知识框架、逻辑联系、重点难点，还有怎么用创新方法提高学习兴趣和理解吗？我想深入了解。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史章节框架师/a622f287-4a62-44b6-b032-5b0ea9ca5f36/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

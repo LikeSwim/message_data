@@ -1,0 +1,26 @@
+{
+  "runId": "4082dfef-18fa-4f92-84fd-ca7ca1622dbb",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcf152a6ffeQp4sYhQiLIAv9W",
+  "startedAt": "2026-03-18T22:26:26.776Z",
+  "finishedAt": "2026-03-18T22:29:41.856Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/4082dfef-18fa-4f92-84fd-ca7ca1622dbb/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/4082dfef-18fa-4f92-84fd-ca7ca1622dbb/conversation-messages.json",
+  "studentInitialQuestion": "你是语文名著阅读考查的专业顾问，能不能详细分析下各个方面：现在初中名著阅读考查主要存在哪些问题？有没有创新的解决办法？具体实施途径怎么设计？还有怎么在教学中自然融入传统文化和价值观？希望你能全面、系统、深入地讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/4082dfef-18fa-4f92-84fd-ca7ca1622dbb/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

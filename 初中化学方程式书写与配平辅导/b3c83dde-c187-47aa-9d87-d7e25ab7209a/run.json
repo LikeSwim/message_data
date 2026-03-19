@@ -1,0 +1,26 @@
+{
+  "runId": "b3c83dde-c187-47aa-9d87-d7e25ab7209a",
+  "sceneName": "初中化学方程式书写与配平辅导",
+  "title": "batch-初中化学方程式书写与配平辅导-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式书写与配平辅导",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdc8e261ffe5JgjQLcyqC8ZPL",
+  "startedAt": "2026-03-18T18:30:59.736Z",
+  "finishedAt": "2026-03-18T18:32:45.724Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式书写与配平辅导/b3c83dde-c187-47aa-9d87-d7e25ab7209a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式书写与配平辅导/b3c83dde-c187-47aa-9d87-d7e25ab7209a/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学老师，想请你详细展开说说化学方程式书写与配平技巧在教学中的应用。希望你讲讲怎么针对不同基础的学生设计教学方案，如何通过互动实验和小组合作帮助他们掌握知识，以及怎样在教学中自然渗透科学精神和合作价值观。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式书写与配平辅导/b3c83dde-c187-47aa-9d87-d7e25ab7209a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

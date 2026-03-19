@@ -1,0 +1,26 @@
+{
+  "runId": "456a1840-acdb-4869-9ab4-3312c6f8df63",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb52034ffe7Ndgt8Tl73J7oC",
+  "startedAt": "2026-03-18T14:12:57.409Z",
+  "finishedAt": "2026-03-18T14:13:45.120Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/456a1840-acdb-4869-9ab4-3312c6f8df63/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/456a1840-acdb-4869-9ab4-3312c6f8df63/conversation-messages.json",
+  "studentInitialQuestion": "你作为初中班主任，能详细分析下在‘负责任的公民’辩论赛筹备、实施、总结各阶段，如何全面培养学生责任意识吗？请从道德认知、情感体验、行为训练、团队协作、家校联动等方面详细分析下各个方面，并结合案例说明效果。",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/456a1840-acdb-4869-9ab4-3312c6f8df63/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

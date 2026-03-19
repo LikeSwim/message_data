@@ -1,0 +1,26 @@
+{
+  "runId": "a15c1c58-7ee6-4f54-9a8b-961800db20de",
+  "sceneName": "初中化学金属活动性探究导师",
+  "title": "batch-初中化学金属活动性探究导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学金属活动性探究导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdc57cd3ffeJUwJlM31luyOjC",
+  "startedAt": "2026-03-18T18:34:42.339Z",
+  "finishedAt": "2026-03-18T18:38:13.535Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中化学金属活动性探究导师/a15c1c58-7ee6-4f54-9a8b-961800db20de/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学金属活动性探究导师/a15c1c58-7ee6-4f54-9a8b-961800db20de/conversation-messages.json",
+  "studentInitialQuestion": "作为初中化学老师，你能详细展开说说金属活动性规律吗？包括它是怎么形成的、主要内容、教学重点难点和典型实验，还有帮助学生理解的方法",
+  "studentInitialQuestionPath": "data/student-questions/初中化学金属活动性探究导师/a15c1c58-7ee6-4f54-9a8b-961800db20de/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

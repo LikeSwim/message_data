@@ -1,0 +1,26 @@
+{
+  "runId": "f885784f-f8ba-4d1c-8c82-d64b6cae3c8f",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd39709dffenPjKoZa7PjAw0N",
+  "startedAt": "2026-03-18T21:07:40.508Z",
+  "finishedAt": "2026-03-18T21:08:19.832Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/f885784f-f8ba-4d1c-8c82-d64b6cae3c8f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/f885784f-f8ba-4d1c-8c82-d64b6cae3c8f/conversation-messages.json",
+  "studentInitialQuestion": "我刚上初中，历史基础一般，对历史人物也挺感兴趣，但老师让我们评价岳飞是不是英雄，还有他有没有不足，我有点分不清。你能帮我理解一下怎么评价历史人物的功过吗？讲讲看怎么找到证据、怎么思考他们的贡献和问题。帮我理解一下。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/f885784f-f8ba-4d1c-8c82-d64b6cae3c8f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "0885be98-57f2-4b5d-94cf-423839386d41",
+  "sceneName": "初中建筑美育鉴赏助手",
+  "title": "batch-初中建筑美育鉴赏助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中建筑美育鉴赏助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd7c2559ffeoOD51m1SLG24MV",
+  "startedAt": "2026-03-18T19:54:48.862Z",
+  "finishedAt": "2026-03-18T19:57:38.426Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中建筑美育鉴赏助手/0885be98-57f2-4b5d-94cf-423839386d41/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中建筑美育鉴赏助手/0885be98-57f2-4b5d-94cf-423839386d41/conversation-messages.json",
+  "studentInitialQuestion": "你是美育教学助手，我是初中美术老师，班里有些同学觉得‘中外经典建筑’没意思，就是死记硬背。你能简单说说，为什么要学习和比较这些建筑？对学生美育和德育有什么实际意义？说说主要点就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中建筑美育鉴赏助手/0885be98-57f2-4b5d-94cf-423839386d41/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "5f0463af-aafe-4b85-ad1f-f94d228986fc",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcc98b43ffeNQeobNNOT61gYe",
+  "startedAt": "2026-03-18T23:09:53.721Z",
+  "finishedAt": "2026-03-18T23:13:33.388Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/5f0463af-aafe-4b85-ad1f-f94d228986fc/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/5f0463af-aafe-4b85-ad1f-f94d228986fc/conversation-messages.json",
+  "studentInitialQuestion": "我最近在教学中遇到一个难题，学生在学习氧气、氢气和二氧化碳的实验室制备时，对装置选择的依据和原理总是模糊不清。你作为我的学习助手，能不能深入说说看怎么帮助学生全面理解这些气体的装置选择、原理分析，并提出一些创新的教学方法？",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/5f0463af-aafe-4b85-ad1f-f94d228986fc/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

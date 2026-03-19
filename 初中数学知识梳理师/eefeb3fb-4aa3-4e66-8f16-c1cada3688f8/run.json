@@ -1,0 +1,26 @@
+{
+  "runId": "eefeb3fb-4aa3-4e66-8f16-c1cada3688f8",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc08e3c4ffev7DzzVulDG8po5",
+  "startedAt": "2026-03-19T02:40:18.310Z",
+  "finishedAt": "2026-03-19T02:41:19.827Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/eefeb3fb-4aa3-4e66-8f16-c1cada3688f8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/eefeb3fb-4aa3-4e66-8f16-c1cada3688f8/conversation-messages.json",
+  "studentInitialQuestion": "我是初二男生，最近在学一次函数，总觉得公式和图像之间的关系有点混乱，尤其不太明白它到底在表达什么。平时我喜欢打篮球，也想数学能跟运动一样有趣。你能结合我的情况，说说你的看法，把初中函数知识点系统梳理一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/eefeb3fb-4aa3-4e66-8f16-c1cada3688f8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

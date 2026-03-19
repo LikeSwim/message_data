@@ -1,0 +1,26 @@
+{
+  "runId": "c89cbb5c-d3cb-4942-bac6-23533d09bd57",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "batch-初中代数方程分步求解辅导-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中代数方程分步求解辅导",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec50034ffedp5aoKPWjySQNI",
+  "startedAt": "2026-03-18T13:55:37.029Z",
+  "finishedAt": "2026-03-18T13:56:56.285Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中代数方程分步求解辅导/c89cbb5c-d3cb-4942-bac6-23533d09bd57/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中代数方程分步求解辅导/c89cbb5c-d3cb-4942-bac6-23533d09bd57/conversation-messages.json",
+  "studentInitialQuestion": "我是初一女生刘弄莲，平时喜欢科学实验、轮滑和插花，学习时容易分心，经常需要老师提醒。最近学代数方程分步求解总是搞不清楚顺序，会出错。你作为我的数学学习助手，简短回答下代数方程分步求解的主要步骤吧，也希望你能给我一些容易分心时的小技巧，帮我理清思路，提高做题效率。",
+  "studentInitialQuestionPath": "data/student-questions/初中代数方程分步求解辅导/c89cbb5c-d3cb-4942-bac6-23533d09bd57/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

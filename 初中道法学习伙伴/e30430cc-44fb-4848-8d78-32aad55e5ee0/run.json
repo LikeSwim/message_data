@@ -1,0 +1,26 @@
+{
+  "runId": "e30430cc-44fb-4848-8d78-32aad55e5ee0",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec3c1c1ffetX130s5wnNcVVv",
+  "startedAt": "2026-03-18T13:56:57.339Z",
+  "finishedAt": "2026-03-18T13:58:05.620Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/e30430cc-44fb-4848-8d78-32aad55e5ee0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/e30430cc-44fb-4848-8d78-32aad55e5ee0/conversation-messages.json",
+  "studentInitialQuestion": "我是小学二年级女生宁儿，喜欢绘画和串珠，老师说我在这些课上很专注，但其他时候容易分心，还需要提醒才能集中。我有时候自信心会波动，思考问题喜欢跳着来。你作为政治学科专家，能详细展开说说怎么帮助我在道德与法治课上集中注意力、提升自信，并养成好的学习习惯吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/e30430cc-44fb-4848-8d78-32aad55e5ee0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

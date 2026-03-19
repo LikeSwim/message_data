@@ -1,0 +1,26 @@
+{
+  "runId": "ec678b70-6064-4572-af4e-11222e5edfb3",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdeb406cffe2X4XpVnoGwZUJ1",
+  "startedAt": "2026-03-18T17:53:27.434Z",
+  "finishedAt": "2026-03-18T17:53:51.210Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/ec678b70-6064-4572-af4e-11222e5edfb3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/ec678b70-6064-4572-af4e-11222e5edfb3/conversation-messages.json",
+  "studentInitialQuestion": "我是初中男生，动手能力还不错，就是不太喜欢背书，平常喜欢做点小实验。你是化学实验辅导员，能大概讲讲化学基本定律的主要内容吗？最好能举几个手边能做的小实验或生活中的现象。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/ec678b70-6064-4572-af4e-11222e5edfb3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

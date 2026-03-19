@@ -1,0 +1,26 @@
+{
+  "runId": "c9310462-1e11-4724-88b5-21a09a4eccfe",
+  "sceneName": "初中生物调节机制分析助手",
+  "title": "batch-初中生物调节机制分析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物调节机制分析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcab128bffeY8yhYf6nmiYuFV",
+  "startedAt": "2026-03-18T23:43:10.702Z",
+  "finishedAt": "2026-03-18T23:45:29.536Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物调节机制分析助手/c9310462-1e11-4724-88b5-21a09a4eccfe/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物调节机制分析助手/c9310462-1e11-4724-88b5-21a09a4eccfe/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，想系统掌握生命活动调节机制的分析方法，包括神经、体液、激素调节的原理，还希望能有教学案例、创新任务设计，以及怎么在教学中融入科学精神和生命尊重等价值观。你能给我一份完整的分析吗？越全面越好，方便我实际教学参考。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物调节机制分析助手/c9310462-1e11-4724-88b5-21a09a4eccfe/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

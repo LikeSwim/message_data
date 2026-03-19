@@ -1,0 +1,26 @@
+{
+  "runId": "7b15e755-8ab6-4659-985d-8a40e1c3610d",
+  "sceneName": "初中地理人口分布与迁移分析助手",
+  "title": "batch-初中地理人口分布与迁移分析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理人口分布与迁移分析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe541e88ffeu90mmx00DNe3IA",
+  "startedAt": "2026-03-18T15:58:54.830Z",
+  "finishedAt": "2026-03-18T15:59:43.706Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/7b15e755-8ab6-4659-985d-8a40e1c3610d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/7b15e755-8ab6-4659-985d-8a40e1c3610d/conversation-messages.json",
+  "studentInitialQuestion": "我是初二女生张丽，喜欢跆拳道和编程，但有时候遇到问题会有点焦虑，也需要老师鼓励。最近地理课要分析人口分布和迁移的原因，我想把握住主要的知识点。你可以说说主要的人口分布与迁移原因吗？最好能结合一些实际例子，方便我记住。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理人口分布与迁移分析助手/7b15e755-8ab6-4659-985d-8a40e1c3610d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

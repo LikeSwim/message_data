@@ -1,0 +1,26 @@
+{
+  "runId": "7405110c-868d-46c9-be73-560574fce1eb",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "batch-初中代数方程分步求解辅导-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中代数方程分步求解辅导",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fecc9582ffe5x6mHxjnYVZ5xw",
+  "startedAt": "2026-03-18T13:47:20.055Z",
+  "finishedAt": "2026-03-18T13:50:39.747Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中代数方程分步求解辅导/7405110c-868d-46c9-be73-560574fce1eb/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中代数方程分步求解辅导/7405110c-868d-46c9-be73-560574fce1eb/conversation-messages.json",
+  "studentInitialQuestion": "我是一名刚入职的初中数学老师，发现很多学生在解代数方程的时候遇到复杂步骤就容易慌乱跳步，最后答案老是错。你作为数学教研员，能简要说明下代数方程分步求解的核心要点和教学建议吗？我想在有限的课堂时间里帮学生提高解题规范性。",
+  "studentInitialQuestionPath": "data/student-questions/初中代数方程分步求解辅导/7405110c-868d-46c9-be73-560574fce1eb/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

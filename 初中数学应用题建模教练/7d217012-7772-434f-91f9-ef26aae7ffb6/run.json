@@ -1,0 +1,26 @@
+{
+  "runId": "7d217012-7772-434f-91f9-ef26aae7ffb6",
+  "sceneName": "初中数学应用题建模教练",
+  "title": "batch-初中数学应用题建模教练-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学应用题建模教练",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc1275dcffey51DHjyF6VRwnU",
+  "startedAt": "2026-03-19T02:29:52.284Z",
+  "finishedAt": "2026-03-19T02:30:13.053Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学应用题建模教练/7d217012-7772-434f-91f9-ef26aae7ffb6/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学应用题建模教练/7d217012-7772-434f-91f9-ef26aae7ffb6/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初二学生，觉得几何证明题辅助线太难想了。你作为数学思维导师，能大概讲讲转化与化归思想在添加辅助线时是怎么用的吗？说说主要的几种模型就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学应用题建模教练/7d217012-7772-434f-91f9-ef26aae7ffb6/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

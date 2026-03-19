@@ -1,0 +1,26 @@
+{
+  "runId": "afd478a3-9fca-4b16-ba8c-c6b451eb5575",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd2aacc9ffeIxFi8o6XRYtdKM",
+  "startedAt": "2026-03-18T21:23:48.144Z",
+  "finishedAt": "2026-03-18T21:25:54.866Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/afd478a3-9fca-4b16-ba8c-c6b451eb5575/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/afd478a3-9fca-4b16-ba8c-c6b451eb5575/conversation-messages.json",
+  "studentInitialQuestion": "我叫方日，26岁男老师，最近有点教学倦怠，平时喜欢骑行和露营。备课时碰到中外历史时间线并行梳理，不知道怎么快速理清主要并行节点。你能大概讲讲吗？有点教学建议就更好了。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/afd478a3-9fca-4b16-ba8c-c6b451eb5575/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

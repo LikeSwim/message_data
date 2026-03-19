@@ -1,0 +1,26 @@
+{
+  "runId": "ec679853-d14f-418c-bbaf-873733542077",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe3d66f7ffe5MdDdpXzTd16ns",
+  "startedAt": "2026-03-18T16:23:43.616Z",
+  "finishedAt": "2026-03-18T16:26:17.434Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/ec679853-d14f-418c-bbaf-873733542077/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/ec679853-d14f-418c-bbaf-873733542077/conversation-messages.json",
+  "studentInitialQuestion": "我是一个认真踏实的初中女生，老师让我们总结地形图判读的常见错误和注意事项。我怕遗漏关键点。你作为地理学习助手，能简要说明下初中地形图判读中容易出错的地方和要注意的要点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/ec679853-d14f-418c-bbaf-873733542077/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

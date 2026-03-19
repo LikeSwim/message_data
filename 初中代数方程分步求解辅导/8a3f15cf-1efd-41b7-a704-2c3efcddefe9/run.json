@@ -1,0 +1,26 @@
+{
+  "runId": "8a3f15cf-1efd-41b7-a704-2c3efcddefe9",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "batch-初中代数方程分步求解辅导-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中代数方程分步求解辅导",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec8d571ffeooUO8NMj5s1n1S",
+  "startedAt": "2026-03-18T13:51:25.828Z",
+  "finishedAt": "2026-03-18T13:52:00.546Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中代数方程分步求解辅导/8a3f15cf-1efd-41b7-a704-2c3efcddefe9/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中代数方程分步求解辅导/8a3f15cf-1efd-41b7-a704-2c3efcddefe9/conversation-messages.json",
+  "studentInitialQuestion": "我是二年级学生赵定，喜欢打乒乓球、学书法、弹吉他，做作业时常常需要家长和老师督促，还容易拖拉。最近学了代数方程分步求解，我理解得比较慢，总是有些地方记不住。你作为我的数学学习助手，能解释一下代数方程分步求解的基本步骤和常见问题吗？也希望你结合我的兴趣和个性，给我一些简单好用的小技巧，让我能慢慢学会自己检查和思考答案。",
+  "studentInitialQuestionPath": "data/student-questions/初中代数方程分步求解辅导/8a3f15cf-1efd-41b7-a704-2c3efcddefe9/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

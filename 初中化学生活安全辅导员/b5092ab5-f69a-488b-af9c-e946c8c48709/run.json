@@ -1,0 +1,26 @@
+{
+  "runId": "b5092ab5-f69a-488b-af9c-e946c8c48709",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdb8ddbcffewb59RFmstlFW6F",
+  "startedAt": "2026-03-18T18:48:28.298Z",
+  "finishedAt": "2026-03-18T18:49:15.981Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/b5092ab5-f69a-488b-af9c-e946c8c48709/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/b5092ab5-f69a-488b-af9c-e946c8c48709/conversation-messages.json",
+  "studentInitialQuestion": "我是初三女生，家里刚刚装修，爸妈很担心空气质量影响我们全家的健康。你作为生活安全导师，能不能深入说说看初中化学知识在家庭空气安全、甲醛和有害气体防护方面怎么用？我喜欢在客厅做作业，还养了宠物，具体讲讲化学原理、检测防护办法，多举些实际例子，也能聊聊中华传统文化里的居家安全智慧吗？深入说说看",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/b5092ab5-f69a-488b-af9c-e946c8c48709/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "9e9f750f-f129-46b6-916b-c78fd5bcc809",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学推断与鉴定助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fda527f6ffecqaTunDSFiP6Al",
+  "startedAt": "2026-03-18T19:10:01.220Z",
+  "finishedAt": "2026-03-18T19:13:10.445Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中化学推断与鉴定助手/9e9f750f-f129-46b6-916b-c78fd5bcc809/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学推断与鉴定助手/9e9f750f-f129-46b6-916b-c78fd5bcc809/conversation-messages.json",
+  "studentInitialQuestion": "你作为化学学科的教研员，有没有什么好方法能结合生活实际，让学生更感兴趣地学会推断和鉴定未知物质？说说你的看法。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学推断与鉴定助手/9e9f750f-f129-46b6-916b-c78fd5bcc809/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

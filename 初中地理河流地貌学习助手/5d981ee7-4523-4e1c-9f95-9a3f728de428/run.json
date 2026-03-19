@@ -1,0 +1,26 @@
+{
+  "runId": "5d981ee7-4523-4e1c-9f95-9a3f728de428",
+  "sceneName": "初中地理河流地貌学习助手",
+  "title": "batch-初中地理河流地貌学习助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理河流地貌学习助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe8a602bffe8GNxqYT6Wc41yS",
+  "startedAt": "2026-03-18T14:59:39.085Z",
+  "finishedAt": "2026-03-18T15:00:12.867Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理河流地貌学习助手/5d981ee7-4523-4e1c-9f95-9a3f728de428/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理河流地貌学习助手/5d981ee7-4523-4e1c-9f95-9a3f728de428/conversation-messages.json",
+  "studentInitialQuestion": "我是喜欢探究式学习的初中生，平时喜欢和同学讨论地理现象，对河流地貌的成因和影响有自己的想法但不确定是不是对。你作为地理知识导师，能不能说说你的看法，从科学角度分析一下河流地貌的发育和影响，并给我一些可以进一步探究的问题吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理河流地貌学习助手/5d981ee7-4523-4e1c-9f95-9a3f728de428/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

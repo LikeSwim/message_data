@@ -1,0 +1,26 @@
+{
+  "runId": "f2bb25d2-b7fd-4a18-9d8a-b5125d60ce8b",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc7cd246ffeCB7va1O462ULxO",
+  "startedAt": "2026-03-19T00:33:41.805Z",
+  "finishedAt": "2026-03-19T00:34:19.483Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/f2bb25d2-b7fd-4a18-9d8a-b5125d60ce8b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/f2bb25d2-b7fd-4a18-9d8a-b5125d60ce8b/conversation-messages.json",
+  "studentInitialQuestion": "你是生物教育专家，我是初中生物新手老师，学生在做“观察种子萌发条件”实验时总是分不清自变量和因变量。帮我理解一下怎么才能清楚地讲变量控制，还能举点例子和给些建议吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/f2bb25d2-b7fd-4a18-9d8a-b5125d60ce8b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "805d35c3-d776-4838-9936-81f1211d1b8f",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2febcfd67ffe0Go7KgMhrHXQX5",
+  "startedAt": "2026-03-18T14:04:22.031Z",
+  "finishedAt": "2026-03-18T14:05:03.908Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/805d35c3-d776-4838-9936-81f1211d1b8f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/805d35c3-d776-4838-9936-81f1211d1b8f/conversation-messages.json",
+  "studentInitialQuestion": "我是初一女生，性格有点内向，最近在班级活动里和同学沟通有点困难。你作为政治学科专家，帮我理解一下道德与法治学里怎么提升人际沟通能力，让我在集体生活里更自信、融入班级？能结合实际案例说说吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/805d35c3-d776-4838-9936-81f1211d1b8f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

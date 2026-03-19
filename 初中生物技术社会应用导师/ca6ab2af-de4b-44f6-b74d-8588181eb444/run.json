@@ -1,0 +1,26 @@
+{
+  "runId": "ca6ab2af-de4b-44f6-b74d-8588181eb444",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc843f52ffeZpukU4LMWPWnLh",
+  "startedAt": "2026-03-19T00:25:35.140Z",
+  "finishedAt": "2026-03-19T00:28:11.201Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/ca6ab2af-de4b-44f6-b74d-8588181eb444/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/ca6ab2af-de4b-44f6-b74d-8588181eb444/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，老师上课讲到‘生物多样性保护’，还说跟生物技术发展有关系。我有点搞不明白，这两者是怎么联系的？你能大概讲讲吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/ca6ab2af-de4b-44f6-b74d-8588181eb444/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

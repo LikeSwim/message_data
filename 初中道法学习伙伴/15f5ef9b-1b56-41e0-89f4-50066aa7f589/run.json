@@ -1,0 +1,26 @@
+{
+  "runId": "15f5ef9b-1b56-41e0-89f4-50066aa7f589",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2febb3303ffewlf1LJz2l9kAQn",
+  "startedAt": "2026-03-18T14:06:19.379Z",
+  "finishedAt": "2026-03-18T14:07:50.921Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/15f5ef9b-1b56-41e0-89f4-50066aa7f589/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/15f5ef9b-1b56-41e0-89f4-50066aa7f589/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，最近因为学习压力和父母沟通时有些矛盾。你作为政治学科专家，说说你的看法吧，怎么在家庭里有效沟通、化解冲突，同时在道德与法治学习中提升家庭成员的理解和信任？",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/15f5ef9b-1b56-41e0-89f4-50066aa7f589/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

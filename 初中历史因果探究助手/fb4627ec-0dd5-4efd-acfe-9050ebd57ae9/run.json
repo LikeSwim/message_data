@@ -1,0 +1,26 @@
+{
+  "runId": "fb4627ec-0dd5-4efd-acfe-9050ebd57ae9",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd12c92affedh1NWSyoDwkm1J",
+  "startedAt": "2026-03-18T21:49:53.741Z",
+  "finishedAt": "2026-03-18T21:50:26.911Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/fb4627ec-0dd5-4efd-acfe-9050ebd57ae9/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/fb4627ec-0dd5-4efd-acfe-9050ebd57ae9/conversation-messages.json",
+  "studentInitialQuestion": "我是初二的学生，平时历史考试总在‘文化大革命’的因果分析题上丢分，老是搞不清它的起因和经过。你作为历史学习助手，能不能讲清楚点‘文化大革命’发生的主要原因和过程，还能教教我怎么理清这些因果关系？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/fb4627ec-0dd5-4efd-acfe-9050ebd57ae9/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

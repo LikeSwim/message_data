@@ -1,0 +1,26 @@
+{
+  "runId": "0c159c0a-53bb-46b6-afa4-fd3c41feea6a",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe969c4fffe56upqo25lUYz1J",
+  "startedAt": "2026-03-18T14:46:17.255Z",
+  "finishedAt": "2026-03-18T14:46:45.575Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/0c159c0a-53bb-46b6-afa4-fd3c41feea6a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/0c159c0a-53bb-46b6-afa4-fd3c41feea6a/conversation-messages.json",
+  "studentInitialQuestion": "你是地理教研组专家，我是梁兆，56岁男老师，喜欢观鸟和家谱编修，教学严谨但对个人价值观话题有点防御。最近给初中生讲农业与工业区位因素时，学生总问实际生活的例子，我觉得教材案例不够贴近。你能解释一下怎么用生动的生活化实例讲清楚农业与工业区位因素吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/0c159c0a-53bb-46b6-afa4-fd3c41feea6a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

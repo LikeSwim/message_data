@@ -1,0 +1,26 @@
+{
+  "runId": "33d51daa-36c4-4b9d-9adb-996d33253ca7",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feaea6ccffeoYw6pdgNtTKobQ",
+  "startedAt": "2026-03-18T14:20:00.484Z",
+  "finishedAt": "2026-03-18T14:20:47.732Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/33d51daa-36c4-4b9d-9adb-996d33253ca7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/33d51daa-36c4-4b9d-9adb-996d33253ca7/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，最近在地理课上学到板块运动与地貌塑造，但还是有点模糊。能解释一下板块运动的基本原理以及它怎么影响地貌形成吗？最好能举几个生活中能感受到的例子，让我更容易理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/33d51daa-36c4-4b9d-9adb-996d33253ca7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

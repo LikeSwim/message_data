@@ -1,0 +1,26 @@
+{
+  "runId": "287e81aa-20f4-4c24-8069-b81fc75fc796",
+  "sceneName": "初中历史事件要素分析师",
+  "title": "batch-初中历史事件要素分析师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史事件要素分析师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd195793ffeugnA4N4dWx1iLk",
+  "startedAt": "2026-03-18T21:42:44.071Z",
+  "finishedAt": "2026-03-18T21:45:00.773Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史事件要素分析师/287e81aa-20f4-4c24-8069-b81fc75fc796/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史事件要素分析师/287e81aa-20f4-4c24-8069-b81fc75fc796/conversation-messages.json",
+  "studentInitialQuestion": "我是老师孙萍，喜欢旅行和视频剪辑。你能大概讲讲长征的重大历史要素吗？核心内容简单说说就行，方便我在课上用。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史事件要素分析师/287e81aa-20f4-4c24-8069-b81fc75fc796/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "2608fa70-d28e-4af1-a93f-8fb9781ad47a",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd9ae47bffeAY46Hft9BICblk",
+  "startedAt": "2026-03-18T19:21:13.850Z",
+  "finishedAt": "2026-03-18T19:21:58.697Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/2608fa70-d28e-4af1-a93f-8fb9781ad47a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/2608fa70-d28e-4af1-a93f-8fb9781ad47a/conversation-messages.json",
+  "studentInitialQuestion": "我女儿今年13岁，刚开始学初中化学，对微观粒子的构成和模型不太懂。你作为教学顾问，能结合她的年龄和基础，详细说说相关知识点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/2608fa70-d28e-4af1-a93f-8fb9781ad47a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

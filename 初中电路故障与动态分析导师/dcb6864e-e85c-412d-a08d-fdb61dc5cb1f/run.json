@@ -1,0 +1,26 @@
+{
+  "runId": "dcb6864e-e85c-412d-a08d-fdb61dc5cb1f",
+  "sceneName": "初中电路故障与动态分析导师",
+  "title": "batch-初中电路故障与动态分析导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中电路故障与动态分析导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe2ff711ffe3zyOaiKEQRTFo0",
+  "startedAt": "2026-03-18T16:38:24.227Z",
+  "finishedAt": "2026-03-18T16:39:30.033Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中电路故障与动态分析导师/dcb6864e-e85c-412d-a08d-fdb61dc5cb1f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中电路故障与动态分析导师/dcb6864e-e85c-412d-a08d-fdb61dc5cb1f/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中物理教研组长，最近要组织一次全校范围的电路故障与动态分析专题教研活动。你作为物理教学专家，能全面深入地讲讲初中物理电路故障与动态分析的教学策略和学生常见思维障碍吗？系统分析一下动态排查电路故障的方法、常见误区、能力培养路径，还希望结合创新实验设计、分层教学、跨学科合作等方面，给出可操作的建议和评价方式，帮我们老师提升学生科学思维、合作探究和创新能力。",
+  "studentInitialQuestionPath": "data/student-questions/初中电路故障与动态分析导师/dcb6864e-e85c-412d-a08d-fdb61dc5cb1f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

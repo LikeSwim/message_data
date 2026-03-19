@@ -1,0 +1,26 @@
+{
+  "runId": "b97eaca6-c56a-4e53-b542-4d735ca47853",
+  "sceneName": "初中数学史讲解员",
+  "title": "batch-初中数学史讲解员-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学史讲解员",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc27db3cffeurhT607dHgnkvw",
+  "startedAt": "2026-03-19T02:06:30.080Z",
+  "finishedAt": "2026-03-19T02:07:20.950Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学史讲解员/b97eaca6-c56a-4e53-b542-4d735ca47853/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学史讲解员/b97eaca6-c56a-4e53-b542-4d735ca47853/conversation-messages.json",
+  "studentInitialQuestion": "我是初二女生姚彤，平时喜欢游泳和折纸，就是数学这一块自己学起来总觉得没劲，老要老师和补习班督促。你能全面深入地讲讲数学史吗？最好说说有哪些有趣的历史故事和重要人物，还能结合我这些兴趣帮我提点学数学的办法吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学史讲解员/b97eaca6-c56a-4e53-b542-4d735ca47853/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

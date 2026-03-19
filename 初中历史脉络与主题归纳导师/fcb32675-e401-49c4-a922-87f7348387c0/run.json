@@ -1,0 +1,26 @@
+{
+  "runId": "fcb32675-e401-49c4-a922-87f7348387c0",
+  "sceneName": "初中历史脉络与主题归纳导师",
+  "title": "batch-初中历史脉络与主题归纳导师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史脉络与主题归纳导师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd4b438affenVy6PpPEkwq5TJ",
+  "startedAt": "2026-03-18T20:48:11.193Z",
+  "finishedAt": "2026-03-18T20:51:27.680Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史脉络与主题归纳导师/fcb32675-e401-49c4-a922-87f7348387c0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史脉络与主题归纳导师/fcb32675-e401-49c4-a922-87f7348387c0/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中历史老师，最近班里有学生总是分不清中国古代历史发展的脉络，尤其对朝代更替和社会变革容易混淆。你作为历史教育专家，能帮我讲清楚中国古代史的主要发展脉络和主题吗？讲清楚点，最好举些典型例子",
+  "studentInitialQuestionPath": "data/student-questions/初中历史脉络与主题归纳导师/fcb32675-e401-49c4-a922-87f7348387c0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "584eadef-14ef-4bfa-8e21-6573e0bd0cca",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe93c066ffeKonYMOGJRhhAJy",
+  "startedAt": "2026-03-18T14:49:24.629Z",
+  "finishedAt": "2026-03-18T14:50:04.684Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/584eadef-14ef-4bfa-8e21-6573e0bd0cca/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/584eadef-14ef-4bfa-8e21-6573e0bd0cca/conversation-messages.json",
+  "studentInitialQuestion": "你是初中地理教学专家，我是湖北荆州初三学生，喜欢历史和地理，也喜欢用地图看家乡变化。最近学农业与工业区位因素，老师讲得有点笼统，我想深入理解。你能讲得详细点吗？帮我分析农业和工业区位选择的主要因素、实际应用、联系与区别，结合荆州及周边实际举例说明。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/584eadef-14ef-4bfa-8e21-6573e0bd0cca/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "022f95b6-66ed-4987-917d-5157e90e3911",
+  "sceneName": "初中诚信故事征集辅导",
+  "title": "batch-初中诚信故事征集辅导-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中诚信故事征集辅导",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feecbb1cffeTcNtObuf1nyyQg",
+  "startedAt": "2026-03-18T13:12:13.273Z",
+  "finishedAt": "2026-03-18T13:13:16.868Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中诚信故事征集辅导/022f95b6-66ed-4987-917d-5157e90e3911/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中诚信故事征集辅导/022f95b6-66ed-4987-917d-5157e90e3911/conversation-messages.json",
+  "studentInitialQuestion": "我是TaylorOliver，一名40岁的老师，经常优先考虑家长的期望，也喜欢电源适配器研究、瑜伽和树木学，但有时会选择性参与学校讨论。你作为德育专家，能结合我的性格和兴趣，帮我系统分析一下在初中“身边的诚信故事征集”活动中可能遇到的挑战，以及活动设计、师生家校沟通、学生激励、故事筛选与评价、个性化成长支持等方面应该怎么做吗？还希望你能结合核心价值观和传统文化，给我详细讲讲。给我一份完整的分析。",
+  "studentInitialQuestionPath": "data/student-questions/初中诚信故事征集辅导/022f95b6-66ed-4987-917d-5157e90e3911/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "b2ac6954-550e-4ef4-839b-235d8f4d24b3",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd351be2ffeMZrEcsqaX9pRvq",
+  "startedAt": "2026-03-18T21:12:24.344Z",
+  "finishedAt": "2026-03-18T21:13:24.070Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/b2ac6954-550e-4ef4-839b-235d8f4d24b3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/b2ac6954-550e-4ef4-839b-235d8f4d24b3/conversation-messages.json",
+  "studentInitialQuestion": "我是崔雅，初三女生，喜欢吉他、硬笔书法和编程。性格有点情绪化但也理性，会主动合作但有时容易盲从别人。老师让我们小组讨论王安石或慈禧太后的功过评价，我觉得自己容易跟着别人走，不太会独立思考。你能讲清楚点怎么用自己的视角评价历史人物的功过吗？最好举例说明怎么避免盲从、学会独立分析。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/b2ac6954-550e-4ef4-839b-235d8f4d24b3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

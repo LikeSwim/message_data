@@ -1,0 +1,26 @@
+{
+  "runId": "0bf40f77-f58b-4e98-84fd-38580176f2ca",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb66554ffeB8ZgdePjbmvJ7O",
+  "startedAt": "2026-03-18T23:30:48.610Z",
+  "finishedAt": "2026-03-18T23:33:29.174Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/0bf40f77-f58b-4e98-84fd-38580176f2ca/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/0bf40f77-f58b-4e98-84fd-38580176f2ca/conversation-messages.json",
+  "studentInitialQuestion": "我是吴怀，初二男生，喜欢科学实验和编程（Python/Scratch），平时也有艺体特长，学习很自律，爸妈是科研工作者，经常陪我做实验。最近生物课学到生态系统结构与功能分析，我想深入理解并结合我的兴趣探索。你作为AI生物老师，能不能深入讲解一下这部分内容？最好能结合科学实验和编程的角度给我一些建议，让我在生活中能主动分析生态系统。",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/0bf40f77-f58b-4e98-84fd-38580176f2ca/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

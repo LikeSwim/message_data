@@ -1,0 +1,26 @@
+{
+  "runId": "fa13b1dc-119f-4a01-93c5-7be811e634a2",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcdc9d39ffeSjJPbMKYK0k7RH",
+  "startedAt": "2026-03-18T22:49:03.933Z",
+  "finishedAt": "2026-03-18T22:50:38.824Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/fa13b1dc-119f-4a01-93c5-7be811e634a2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/fa13b1dc-119f-4a01-93c5-7be811e634a2/conversation-messages.json",
+  "studentInitialQuestion": "我是初中体育老师，班里有不少基础薄弱、积极性低、合作能力参差不齐的学生。你作为体育课程设计专家，能全方位地讲解一下排球垫球和传球接力的分层教学设计吗？最好能细分训练方案、创新玩法、激励措施、家校合作和团队文化建设这些方面，还能举些案例或流程清单。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/fa13b1dc-119f-4a01-93c5-7be811e634a2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

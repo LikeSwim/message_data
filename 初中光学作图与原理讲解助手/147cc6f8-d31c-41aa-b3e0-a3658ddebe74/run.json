@@ -1,0 +1,26 @@
+{
+  "runId": "147cc6f8-d31c-41aa-b3e0-a3658ddebe74",
+  "sceneName": "初中光学作图与原理讲解助手",
+  "title": "batch-初中光学作图与原理讲解助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中光学作图与原理讲解助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe0f9444ffeKepHR5NoJJFBeh",
+  "startedAt": "2026-03-18T17:13:45.481Z",
+  "finishedAt": "2026-03-18T17:14:50.074Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中光学作图与原理讲解助手/147cc6f8-d31c-41aa-b3e0-a3658ddebe74/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中光学作图与原理讲解助手/147cc6f8-d31c-41aa-b3e0-a3658ddebe74/conversation-messages.json",
+  "studentInitialQuestion": "我是初一男生，平时喜欢画画但物理难题让我有些害怕。最近在课堂上遇到光的反射作图很头疼，总感觉步骤搞不清楚。你能给我一份完整的分析，系统、细致地分步骤讲讲光的反射现象的作图方法和原理吗？能结合激发兴趣、克服难点，还有点生活例子和传统文化启发就更好了。",
+  "studentInitialQuestionPath": "data/student-questions/初中光学作图与原理讲解助手/147cc6f8-d31c-41aa-b3e0-a3658ddebe74/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

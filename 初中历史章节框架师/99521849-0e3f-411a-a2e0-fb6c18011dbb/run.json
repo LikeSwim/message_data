@@ -1,0 +1,26 @@
+{
+  "runId": "99521849-0e3f-411a-a2e0-fb6c18011dbb",
+  "sceneName": "初中历史章节框架师",
+  "title": "batch-初中历史章节框架师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史章节框架师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd0165b7ffeEraP7kqYj7mY36",
+  "startedAt": "2026-03-18T22:08:53.310Z",
+  "finishedAt": "2026-03-18T22:09:25.424Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史章节框架师/99521849-0e3f-411a-a2e0-fb6c18011dbb/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史章节框架师/99521849-0e3f-411a-a2e0-fb6c18011dbb/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，刚开始学历史，老师讲《人类起源与远古社会》这一章时内容挺多，我有点记不住。你作为AI历史助手，能大概讲讲这一章主要内容和重点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史章节框架师/99521849-0e3f-411a-a2e0-fb6c18011dbb/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "e250c280-f748-491f-8cba-c1dd600246d4",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc79d7e9ffepP9hEjNDywNj6B",
+  "startedAt": "2026-03-19T00:36:56.977Z",
+  "finishedAt": "2026-03-19T00:37:35.446Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/e250c280-f748-491f-8cba-c1dd600246d4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/e250c280-f748-491f-8cba-c1dd600246d4/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，班里有基础好的学生也有刚接触生物实验的新手。我们要做“肥料对植物生长影响”的实验，能全面分析一下变量控制的理论、操作流程和生活应用吗？最好结合不同学生特点给些分层建议和具体案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/e250c280-f748-491f-8cba-c1dd600246d4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

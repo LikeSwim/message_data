@@ -1,0 +1,26 @@
+{
+  "runId": "3ee7fd8e-312a-466c-bf56-1b14f38edba8",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd376244ffeoH51daRBmiCBMG",
+  "startedAt": "2026-03-18T21:09:55.250Z",
+  "finishedAt": "2026-03-18T21:10:18.309Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/3ee7fd8e-312a-466c-bf56-1b14f38edba8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/3ee7fd8e-312a-466c-bf56-1b14f38edba8/conversation-messages.json",
+  "studentInitialQuestion": "I'm ThomasLucas, an 8-year-old in third grade. I love skateboarding and street dance, and I'm just beginning to think more practically but usually just look at things simply. My teacher asked us to discuss if someone like Genghis Khan was a good leader or did bad things. I can't really tell. Can you say your thoughts in a way that's easy for me to understand, maybe with a simple example? Just say your opinion.",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/3ee7fd8e-312a-466c-bf56-1b14f38edba8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

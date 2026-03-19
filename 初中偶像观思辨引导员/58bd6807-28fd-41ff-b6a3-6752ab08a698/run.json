@@ -1,0 +1,26 @@
+{
+  "runId": "58bd6807-28fd-41ff-b6a3-6752ab08a698",
+  "sceneName": "初中偶像观思辨引导员",
+  "title": "batch-初中偶像观思辨引导员-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中偶像观思辨引导员",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fce96c66ffeDJS2K5ay62hbWW",
+  "startedAt": "2026-03-18T22:35:04.464Z",
+  "finishedAt": "2026-03-18T22:35:44.751Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中偶像观思辨引导员/58bd6807-28fd-41ff-b6a3-6752ab08a698/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中偶像观思辨引导员/58bd6807-28fd-41ff-b6a3-6752ab08a698/conversation-messages.json",
+  "studentInitialQuestion": "我是学校心理老师，最近有个性格内向但成绩很好的学生，因为偶像在社交媒体上出了负面新闻，情绪很低落，影响了自信和社交。你作为德育专家，能深入说说看，怎么帮助他正确面对偶像负面信息，保持自我认同和健康成长吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中偶像观思辨引导员/58bd6807-28fd-41ff-b6a3-6752ab08a698/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

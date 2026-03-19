@@ -1,0 +1,26 @@
+{
+  "runId": "a9312c4c-a819-4711-8b3d-134fee0c55a4",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc70cacaffelxQmydKDwnA3MW",
+  "startedAt": "2026-03-19T00:46:50.160Z",
+  "finishedAt": "2026-03-19T00:47:09.604Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/a9312c4c-a819-4711-8b3d-134fee0c55a4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/a9312c4c-a819-4711-8b3d-134fee0c55a4/conversation-messages.json",
+  "studentInitialQuestion": "我是JacksonJulia，一名31岁的生物老师，平时热爱自然观察和写作，喜欢用清晰沟通和户外活动来平衡工作与生活。最近发现学生们在学习“细胞分裂”时很容易混淆有丝分裂和减数分裂。你能简要说明下这两个过程的主要区别，并举一个生活化的例子方便课堂讲解吗？内容要够清晰、便于学生理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/a9312c4c-a819-4711-8b3d-134fee0c55a4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

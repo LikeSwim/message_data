@@ -1,0 +1,26 @@
+{
+  "runId": "a1cb2025-0923-4ebc-b61e-b5854fec877a",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe7952a6ffev1C8cfFcP28CVz",
+  "startedAt": "2026-03-18T15:18:16.657Z",
+  "finishedAt": "2026-03-18T15:20:16.682Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/a1cb2025-0923-4ebc-b61e-b5854fec877a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/a1cb2025-0923-4ebc-b61e-b5854fec877a/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理教研员，近期要组织一次主题教学研讨。你作为资深教育专家，能从各个角度详细说说全球性环境问题的成因、对策、教学创新实践，以及如何自然融入中华优秀传统文化和核心价值观吗？同时给出具体可操作的教学方案。从各个角度详细说说",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/a1cb2025-0923-4ebc-b61e-b5854fec877a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

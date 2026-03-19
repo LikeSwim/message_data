@@ -1,0 +1,26 @@
+{
+  "runId": "2961a1fd-5474-4674-8ce2-37e208338ced",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc7e0d06ffe8bN2KvvDvyyxA7",
+  "startedAt": "2026-03-19T00:32:20.038Z",
+  "finishedAt": "2026-03-19T00:32:53.445Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/2961a1fd-5474-4674-8ce2-37e208338ced/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/2961a1fd-5474-4674-8ce2-37e208338ced/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的初中生物老师，学生基础一般但都喜欢动手做实验。我想设计“探究光对植物生长的影响”的实验，怎么让他们理解变量控制的重要性？大概讲讲核心要点和一些建议吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/2961a1fd-5474-4674-8ce2-37e208338ced/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "48b16198-53eb-4e93-b5e2-c719302ba446",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe962daeffeZyOnp8TcPtrMyc",
+  "startedAt": "2026-03-18T14:46:45.579Z",
+  "finishedAt": "2026-03-18T14:47:52.748Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/48b16198-53eb-4e93-b5e2-c719302ba446/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/48b16198-53eb-4e93-b5e2-c719302ba446/conversation-messages.json",
+  "studentInitialQuestion": "我是福建沿海城市的初二女生，家里做食品加工生意，喜欢和爸爸讨论工厂选址和农产品采购。最近地理课学到农业和工业区位分析，发现家庭生意和课本挺有联系。能具体说说农业和工业区位分析有哪些主要因素吗？结合沿海城市实际和生活经验举例说明。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/48b16198-53eb-4e93-b5e2-c719302ba446/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

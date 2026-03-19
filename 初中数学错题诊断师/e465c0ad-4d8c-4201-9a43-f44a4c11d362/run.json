@@ -1,0 +1,26 @@
+{
+  "runId": "e465c0ad-4d8c-4201-9a43-f44a4c11d362",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc4cccfeffeRQNRuRQTbBkmeJ",
+  "startedAt": "2026-03-19T01:26:08.889Z",
+  "finishedAt": "2026-03-19T01:27:15.950Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/e465c0ad-4d8c-4201-9a43-f44a4c11d362/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/e465c0ad-4d8c-4201-9a43-f44a4c11d362/conversation-messages.json",
+  "studentInitialQuestion": "我是数学老师，你作为数学学习顾问，能不能彻底说清楚初中生在解一元一次不等式时常见错题的类型和深层原因？我的学生有粗心的也有特别谨慎的，都容易在不同环节出错。希望你能全面系统地分析，并结合个性化建议、传统文化和价值观深入讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/e465c0ad-4d8c-4201-9a43-f44a4c11d362/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

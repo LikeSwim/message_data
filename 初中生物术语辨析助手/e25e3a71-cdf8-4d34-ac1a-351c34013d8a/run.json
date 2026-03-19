@@ -1,0 +1,26 @@
+{
+  "runId": "e25e3a71-cdf8-4d34-ac1a-351c34013d8a",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc7482b2ffegfslSLPKoSBut4",
+  "startedAt": "2026-03-19T00:42:45.272Z",
+  "finishedAt": "2026-03-19T00:43:34.180Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/e25e3a71-cdf8-4d34-ac1a-351c34013d8a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/e25e3a71-cdf8-4d34-ac1a-351c34013d8a/conversation-messages.json",
+  "studentInitialQuestion": "我是初二男生吕迪，最近在生物课上总是把“渗透”和“扩散”这两个术语弄混了。老师让我们分析这两个概念的区别和联系，还要求结合生活实例详细说明。你作为我的学习助手，能不能详细展开说说，把它们的定义、机制、真实生活中的例子，以及怎么更高效区分的方法都讲清楚吗？最好能结合我喜欢轮滑、机器人制作和动漫绘画这些兴趣点，让我更容易理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/e25e3a71-cdf8-4d34-ac1a-351c34013d8a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

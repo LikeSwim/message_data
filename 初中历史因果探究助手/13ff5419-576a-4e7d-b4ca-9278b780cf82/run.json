@@ -1,0 +1,26 @@
+{
+  "runId": "13ff5419-576a-4e7d-b4ca-9278b780cf82",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd111a5affecJ33Qgp6h3PhmJ",
+  "startedAt": "2026-03-18T21:51:44.026Z",
+  "finishedAt": "2026-03-18T21:55:49.707Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/13ff5419-576a-4e7d-b4ca-9278b780cf82/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/13ff5419-576a-4e7d-b4ca-9278b780cf82/conversation-messages.json",
+  "studentInitialQuestion": "我是初三历史老师，班上有几位同学历史基础比较薄弱，经常把‘太平天国运动’的成因和后果搞混。你是历史教学专家，能讲得详细点，帮我分析太平天国运动的多重原因、发展阶段和历史影响吗？另外，能给基础弱的学生一些实用的教学建议和互动练习吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/13ff5419-576a-4e7d-b4ca-9278b780cf82/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

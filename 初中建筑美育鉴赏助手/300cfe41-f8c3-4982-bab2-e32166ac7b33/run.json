@@ -1,0 +1,26 @@
+{
+  "runId": "300cfe41-f8c3-4982-bab2-e32166ac7b33",
+  "sceneName": "初中建筑美育鉴赏助手",
+  "title": "batch-初中建筑美育鉴赏助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中建筑美育鉴赏助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd7f062effeg23QgZ7bWAqY9N",
+  "startedAt": "2026-03-18T19:51:40.238Z",
+  "finishedAt": "2026-03-18T19:52:25.292Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中建筑美育鉴赏助手/300cfe41-f8c3-4982-bab2-e32166ac7b33/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中建筑美育鉴赏助手/300cfe41-f8c3-4982-bab2-e32166ac7b33/conversation-messages.json",
+  "studentInitialQuestion": "你是教学顾问，我带的班有几个对建筑很感兴趣但表达能力一般的学生。最近讲到埃及金字塔和北京天坛，他们总抓不住重点，你能简短回答下这两种建筑在结构和审美上的主要差别吗？说清楚主要点，让学生好理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中建筑美育鉴赏助手/300cfe41-f8c3-4982-bab2-e32166ac7b33/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

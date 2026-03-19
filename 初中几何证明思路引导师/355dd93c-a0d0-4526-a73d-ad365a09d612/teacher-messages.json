@@ -1,0 +1,327 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773862895327
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d0277bedf001J5ee60vZlAyTJ6",
+      "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生首问:\n我是初二学生，最近老师教我们全等三角形证明，但我总是不知道怎么加辅助线，感觉下手难。性格安静，喜欢自己琢磨但不太敢问老师，成绩也一般。你能帮我理解一下，辅助线在几何定理证明里有什么用，怎么判断什么时候要加，有没有简单好用的判断方法？",
+        "id": "prt_d0277bedf002t1I7J2VYEq0svO",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277bedf001J5ee60vZlAyTJ6"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773862895330,
+        "completed": 1773862898292
+      },
+      "parentID": "msg_d0277bedf001J5ee60vZlAyTJ6",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中几何证明思路引导师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11374,
+        "input": 11224,
+        "output": 150,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "tool-calls",
+      "id": "msg_d0277bee2001uuOIzaTZa8C1JU",
+      "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "ea665f8d94230acb0719d00cff017feb520d1406",
+        "id": "prt_d0277bf91001f7bj7O0x3Jgp31",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277bee2001uuOIzaTZa8C1JU"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户是初二学生，正在学习全等三角形证明，但对辅助线感到困惑。用户性格安静，喜欢自己琢磨但不太敢问老师。\n\n根据AGENTS.md，我需要：\n1. 采用苏格拉底式提问法引导学生自主思考\n2. 不直接给出完整答案\n3. 帮助学生建立\"分析-联想-验证\"的思维习惯\n4. 遵循辅导维度和辅导标准\n\n这是一个关于\"辅助线\"的问题，我应该加载相应的skill来更好地帮助学生。让我先使用\"初中几何辅助线策略\"这个skill。",
+        "time": {
+          "start": 1773862895506,
+          "end": 1773862898259
+        },
+        "id": "prt_d0277bf92001s24Vz5yDMhAq8Y",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277bee2001uuOIzaTZa8C1JU"
+      },
+      {
+        "type": "text",
+        "text": " 我来帮你理解辅助线的作用和判断方法。先加载相关的教学资源。",
+        "time": {
+          "start": 1773862898260,
+          "end": 1773862898260
+        },
+        "id": "prt_d0277c7ec0013AeDxov7zjB5gk",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277bee2001uuOIzaTZa8C1JU"
+      },
+      {
+        "type": "tool",
+        "callID": " functions.skill:0",
+        "tool": "skill",
+        "state": {
+          "status": "completed",
+          "input": {
+            "name": "初中几何辅助线策略"
+          },
+          "output": "<skill_content name=\"初中几何辅助线策略\">\n# Skill: 初中几何辅助线策略\n\n## 适用场景\n\n- **三角形模块**：全等三角形判定（SSS/SAS/ASA/AAS/HL）中构造全等条件，等腰/等边三角形\"三线合一\"应用，直角三角形斜边中线性质\n- **四边形模块**：平行四边形判定中的对角线构造，梯形辅助线（平移腰、作高、延长两腰），特殊四边形中的对称性利用\n- **圆模块**：垂径定理应用（作弦心距），圆周角与圆心角关系（构造同弧所对圆周角），切线性质（连接圆心与切点），两圆位置关系（连心线、公切线）\n- **综合应用**：中考几何压轴题中复杂图形的分解与转化，\"将军饮马\"类最值问题中的对称构造\n\n## 辅助线策略维度\n\n| 策略类型 | 适用情境 | 构造方法 | 关联定理 |\n|---------|---------|---------|---------|\n| **倍长中线** | 涉及三角形中线、中点，需转移线段或角 | 延长中线至二倍长度，连接端点构造全等 | 全等三角形判定（SAS）、平行四边形判定 |\n| **截长补短** | 证明线段和差关系（a+b=c 或 a-b=c） | 在长边上截取短线段，或延长短线段构造等长线段 | 全等三角形判定、等腰三角形性质 |\n| **作垂线/高** | 涉及面积、特殊角（30°/45°/60°）、距离问题 | 从顶点向对边或对边延长线作垂线 | 勾股定理、三角函数、等面积法 |\n| **连接对角线** | 四边形问题，需转化为三角形问题 | 连接四边形对角线，构造全等或相似三角形 | 三角形内角和、全等/相似判定 |\n| **平移构造** | 分散的条件集中，或构造平行四边形 | 平移某线段使端点重合，或平移对角线 | 平行四边形判定与性质、平行线性质 |\n| **旋转/翻折** | 共端点等线段（如正方形、等腰直角三角形） | 将图形绕某点旋转特定角度，或沿对称轴翻折 | 旋转全等、轴对称性质、共线点判定 |\n| **构造圆** | 共顶点等线段、四点共圆判定 | 以定点为圆心作辅助圆，或证明四点共圆 | 圆周角定理、圆内接四边形性质 |\n| **特殊点连线** | 涉及重心、垂心、外心、内心 | 连接顶点与特殊点，或连接两个特殊点 | 三角形五心性质、欧拉线 |\n\n## 引导原则\n\n1. **时机判断优先**：引导学生先分析\"为什么需要辅助线\"（条件分散？图形不完整？缺少全等条件？），再决定\"如何添加\"，避免盲目作线\n2. **特征联想驱动**：通过提问激活\"基本图形\"记忆（如\"看到中点想到什么？\"\"是否有共端点等线段？\"），建立条件与辅助线类型的条件反射\n3. **尝试-验证-调整**：允许学生提出辅助线猜想，通过逻辑推演验证可行性，若产生矛盾则引导分析原因并调整策略，培养元认知能力\n4. **规范作图要求**：强调辅助线用虚线表示，保留作图痕迹，标注字母规范，符合中考答题书写标准\n5. **一题多解比较**：对典型题目提供不同辅助线方案（如\"倍长中线\"vs\"中位线\"），比较优劣，培养优化意识与发散思维\n6. **核心素养渗透**：在辅助线构造中渗透转化与化归思想（将未知转化为已知，复杂转化为简单），体现数学抽象与逻辑推理素养\n\n## 输出格式\n\n辅导过程按以下结构化流程展开，遵循\"不直接给答案，只给脚手架\"的苏格拉底式引导：\n\n### 1. 图形解构（观察阶段）\n提出启发性问题帮助学生识别图形特征：\n- \"图中存在哪些特殊点？（中点、交点、切点）\"\n- \"哪些线段或角具有特殊关系？（相等、垂直、倍数）\"\n- \"已知条件在图形中的位置分布有何特点？（集中还是分散？）\"\n\n### 2. 策略匹配（构思阶段）\n根据图形特征提供2-3种辅助线添加思路供选择：\n- **方案A**：基于[具体特征，如\"两个中点\"]，建议尝试[策略，如\"连接构造中位线\"]，可能实现[目标，如\"线段平行且一半关系\"]\n- **方案B**：基于[具体特征，如\"共端点等线段\"]，建议尝试[策略，如\"旋转90°构造全等\"]，可能实现[目标，如\"角度转化\"]\n- **方案C**（进阶）：若上述无效，提示[更复杂策略，如\"反证法假设+辅助圆\"]\n\n### 3. 关键突破（实施阶段）\n针对选定方案给出阶梯式提示：\n- **初级提示**：回忆相关定理（\"请背诵中位线定理的条件与结论\"）\n- **中级提示**：观察特定关系（\"注意△ABC中，若延长AD至E使DE=AD，能否证明△ABD≌△ECD？\"）\n- **高级提示**：逻辑衔接（\"现在你需要证明哪两个三角形全等？还缺什么条件？\"）\n\n### 4. 逻辑检验（验证阶段）\n引导学生自查辅助线添加后的证明过程：\n- \"辅助线是否创造了新的可用条件？\"\n- \"全等三角形的对应边/角是否准确对应？\"\n- \"证明过程中是否存在循环论证？（即用结论证明结论）\"\n- \"每一步是否有明确的定理或已知条件作为依据？\"\n\n### 5. 方法迁移（总结阶段）\n归纳可复用的辅助线添加经验：\n- **口诀提炼**：如\"见中点，想倍长；见角分，作垂线；见切线，连半径；见直径，想直角\"\n- **模型识别**：总结本题所属几何模型（如\"手拉手模型\"\"半角模型\"\"一线三等角\"）\n- **变式拓展**：提供图形变式（如去掉某个条件或改变图形位置），询问辅助线策略是否需要调整\n\n## 与课标对接说明\n\n本技能严格遵循《义务教育数学课程标准（2022年版）》要求：\n- **学段目标**：落实第四学段（7-9年级）\"图形与几何\"领域要求，掌握基本几何事实（基本事实9-14），理解定义、命题、定理、推论的意义\n- **核心素养**：重点发展\"几何直观\"（利用图形描述和分析问题）与\"推理能力\"（包括合情推理与演绎推理），辅助线添加过程体现\"转化与化归\"的数学思想\n- **学业质量**：对接中考要求，确保学生能规范书写证明过程（已知、求证、证明），辅助线作法表述准确，逻辑链条完整（大前提-小前提-结论）\n- **育人价值**：在严谨的几何证明中培养理性精神，在辅助线构造的\"山重水复疑无路，柳暗花明又一村\"中体验数学探究的乐趣，增强学习自信\n\n## 典型辅助线场景速查\n\n| 题目关键词 | 首选策略 | 次选策略 | 注意事项 |\n|-----------|---------|---------|---------|\n| 中点+平行 | 倍长中线构造全等 | 构造中位线 | 注意全等三角形的对应顶点 |\n| 角平分线+垂线 | 延长垂线与另一边相交 | 向两边作垂线段 | 利用角平分线性质（距离相等） |\n| 正方形/等腰直角 | 旋转90°构造全等 | 作对角线利用对称性 | 旋转中心与旋转方向的确定 |\n| 圆中弦长计算 | 作弦心距构造直角三角形 | 连接半径构成等腰三角形 | 垂径定理的\"知二推三\"应用 |\n| 线段和差证明 | 截长法（在长边上截取） | 补短法（延长短边） | 截长/补短后需证明剩余线段相等 |\n\nBase directory for this skill: file:///home/wsy/Projects/wsy/message/teach_agents/%E5%88%9D%E4%B8%AD%E5%87%A0%E4%BD%95%E8%AF%81%E6%98%8E%E6%80%9D%E8%B7%AF%E5%BC%95%E5%AF%BC%E5%B8%88/.opencode/skills/%E5%88%9D%E4%B8%AD%E5%87%A0%E4%BD%95%E8%BE%85%E5%8A%A9%E7%BA%BF%E7%AD%96%E7%95%A5\nRelative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.\nNote: file list is sampled.\n\n<skill_files>\n\n</skill_files>\n</skill_content>",
+          "title": "Loaded skill: 初中几何辅助线策略",
+          "metadata": {
+            "name": "初中几何辅助线策略",
+            "dir": "/home/wsy/Projects/wsy/message/teach_agents/初中几何证明思路引导师/.opencode/skills/初中几何辅助线策略",
+            "truncated": false
+          },
+          "time": {
+            "start": 1773862898165,
+            "end": 1773862898178
+          }
+        },
+        "id": "prt_d0277c9960018IQOqU9HUkrpKm",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277bee2001uuOIzaTZa8C1JU"
+      },
+      {
+        "type": "step-finish",
+        "reason": "tool-calls",
+        "snapshot": "ea665f8d94230acb0719d00cff017feb520d1406",
+        "cost": 0,
+        "tokens": {
+          "total": 11374,
+          "input": 11224,
+          "output": 150,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d0277ca55001E8PQEILR2Yl2vf",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277bee2001uuOIzaTZa8C1JU"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773862898295,
+        "completed": 1773862908124
+      },
+      "parentID": "msg_d0277bedf001J5ee60vZlAyTJ6",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中几何证明思路引导师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 13831,
+        "input": 13336,
+        "output": 495,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d0277ca76001ZAra6RgujAzQtb",
+      "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "ea665f8d94230acb0719d00cff017feb520d1406",
+        "id": "prt_d0277ccc5001zfJMf1Wriwcnk0",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277ca76001ZAra6RgujAzQtb"
+      },
+      {
+        "type": "reasoning",
+        "text": "  现在我已经加载了辅助线策略的skill，可以开始回答学生的问题了。\n\n学生的问题是关于辅助线在全等三角形证明中的作用，什么时候需要加，以及判断方法。\n\n根据skill中的引导原则和我作为\"初中几何证明思路引导师\"的角色定位，我需要：\n1. 不直接给答案，采用苏格拉底式提问引导\n2. 先分析\"为什么需要辅助线\"（时机判断优先）\n3. 通过启发性问题帮助学生理解辅助线的作用\n4. 提供简单好用的判断方法（口诀或特征联想）\n\n让我按照辅导流程来组织回答：",
+        "time": {
+          "start": 1773862898886,
+          "end": 1773862908089
+        },
+        "id": "prt_d0277ccc6001GbNmd1MblkxxsB",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277ca76001ZAra6RgujAzQtb"
+      },
+      {
+        "type": "text",
+        "text": " 辅助线的核心价值在于**把\"不会\"变成\"会\"**——通过构造新的图形关系，把分散的条件集中到可证的三角形中。\n\n让我用几个问题帮你建立判断思路：\n\n---\n\n**【作用理解】**\n思考一下：你现在遇到的全等三角形证明题，直接用已知条件是不是经常差一个边或一个角对不上？\n\n如果是这样，辅助线的作用就是**造出那个\"差的一点点\"**——可能是构造一个和已知三角形全等的新三角形，也可能是把某条线段转移到新的位置。\n\n---\n\n**【时机判断】记住这个简单口诀：**\n\n| 看到什么特征 | 想到什么辅助线 | 目的 |\n|-------------|---------------|------|\n| **中点** | 倍长中线 | 构造全等三角形，转移线段/角 |\n| **角平分线+垂线** | 延长垂线或向两边作垂 | 利用角平分线性质造全等 |\n| **线段和差**（证a+b=c） | 截长或补短 | 把和差关系变成相等关系 |\n| **两个中点** | 连接构造中位线 | 得到平行且一半的关系 |\n\n---\n\n**【实战检验】**\n给你一个简单的判断方法：\n1. **先不画辅助线，看已知条件**——你能找到几组可能全等的三角形？\n2. **对照全等判定**（SSS/SAS/ASA/AAS/HL）——缺什么条件？\n3. **缺的条件能否通过一条线造出来？**——如果能，就是加辅助线的时机。\n\n---\n\n**【你的思考】**\n回想一下，你最近做的哪道全等证明题让你卡住了？告诉我题目的已知条件（比如有没有中点、角平分线、特殊角），我们可以一起分析该用什么辅助线策略。",
+        "time": {
+          "start": 1773862908091,
+          "end": 1773862908091
+        },
+        "id": "prt_d0277d589001WmQCQpgH6LSzeV",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277ca76001ZAra6RgujAzQtb"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "snapshot": "ea665f8d94230acb0719d00cff017feb520d1406",
+        "cost": 0,
+        "tokens": {
+          "total": 13831,
+          "input": 13336,
+          "output": 495,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d0277f0bd0013atSJP2NvY5pFc",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0277ca76001ZAra6RgujAzQtb"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773862918541
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d0278198d001c6r2CIrnAs4wvW",
+      "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生追问:\n我遇到一道具体题目：在△ABC中，AD是BC边上的中线，点E在AC上，BE交AD于点F，且AE=EF。求证：AC=BF。我尝试找全等三角形但总是缺条件，这符合你说的\"差一点点\"的情况吗？该用哪种辅助线策略？",
+        "id": "prt_d0278198e001soFf5nI3H6ASLr",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d0278198d001c6r2CIrnAs4wvW"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773862918548,
+        "completed": 1773862935564
+      },
+      "parentID": "msg_d0278198d001c6r2CIrnAs4wvW",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中几何证明思路引导师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 14611,
+        "input": 13749,
+        "output": 862,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d02781994001AlD29DJo23RKNN",
+      "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "ea665f8d94230acb0719d00cff017feb520d1406",
+        "id": "prt_d02781b2d001tk5DQM7zHeYEvV",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d02781994001AlD29DJo23RKNN"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户遇到了一道具体的几何证明题，涉及中线和特殊条件AE=EF。让我分析一下这个题目的特征：\n\n1. **图形特征**：\n   - △ABC，AD是BC边上的中线 → 有重点D\n   - E在AC上，BE交AD于F\n   - AE=EF（这是一个关键条件）\n\n2. **目标**：求证AC=BF\n\n3. **分析难点**：\n   - AC和BF看起来没有直接的关系\n   - 要证AC=BF，需要找全等三角形，但这两段线段在不同位置\n   - 有中线AD，这是典型的\"倍长中线\"应用场景\n   - AE=EF提示可能有等腰三角形或利用这个相等关系\n\n4. **辅助线策略**：\n   - 看到有中线AD，应该考虑\"倍长中线\"策略\n   - 倍长AD到点G，使DG=AD，连接BG、CG\n   - 这样可以构造平行四边形ABGC，或者构造全等三角形\n   - 根据倍长中线模型，可以证明△ADC≌△GDB，从而AC=BG\n   - 接下来只需证明BF=BG即可\n   - 利用AE=EF这个条件，结合倍长后的新图形，找角度关系\n\n这道题确实很符合\"差一点点\"的情况。用户需要正确的引导来理解：\n1. 为什么需要加辅助线（条件分散）\n2. 选择什么策略（倍长中线）\n3. 怎么用AE=EF这个条件\n\n我需要按照AGENTS.md的辅导流程来回答：\n1. 思路激活\n\n\n2. 路径探索\n3. 关键提示\n4. 逻辑检验（虽然现在还没到这一步，但可以提示）\n5. 方法总结\n\n接下来将深入探索解题的可能性。通过仔细分析图形中线段和角度的关系，我发现了多种潜在的证明路径。关键在于灵活运用中线和等腰三角形的性质，构建巧妙的辅助线策略。我将逐步拆解问题，寻找最直接的证明方法。",
+        "time": {
+          "start": 1773862918959,
+          "end": 1773862935529
+        },
+        "id": "prt_d02781b2f001nu1QRXJAa6sVMa",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d02781994001AlD29DJo23RKNN"
+      },
+      {
+        "type": "text",
+        "text": " 这个题目**非常典型**，完美符合\"差一点点\"的情况！让我带你分析：\n\n---\n\n## 【思路激活】\n\n观察这个图形，回答我两个问题：\n1. **AC和BF**在图中的位置关系是什么？（分散在两侧，还是共线？）\n2. **中线AD**意味着什么？（哪个点是中点？）\n\n---\n\n## 【路径探索】\n\n根据图形特征，我提供**两种可能的策略**：\n\n**方案A：倍长中线（推荐）**\n- **原理**：利用AD是中线，延长AD至G使DG=AD，连接BG\n- **突破点**：构造全等三角形转移AC到BG的位置，再证BG=BF\n- **关键**：利用AE=EF得到等腰三角形的角相等关系\n\n**方案B：过B作平行线**\n- **原理**：过B作AC的平行线交AD延长线于G\n- **突破点**：利用平行线和中点构造全等\n- **关键**：同样是用AE=EF证明角相等\n\n---\n\n## 【关键提示——倍长中线法】\n\n既然有中线，我们试试**方案A**：\n\n1. **延长AD至点G，使DG=AD，连接BG**\n   > 现在你看看能不能找到一对全等三角形？（提示：AD是公共边，D是中点）\n\n2. **证明AC=BG**\n   > 如果能证△ADC≌△GDB，那AC就转移到了BG的位置。还差什么条件？（回忆SAS判定）\n\n3. **利用AE=EF**\n   > 既然AE=EF，你能在图中找到相等的角吗？（等腰三角形底角相等）\n   \n   > 证明BF=BG，也就是证明△BFG是等腰三角形，需要什么条件？\n\n---\n\n## 【你的下一步】\n\n按照上面的提示：\n1. 先画出辅助线（虚线），标注点G\n2. 试着写出△ADC≌△GDB的过程\n3. 告诉我：证完全等后，AC等于谁？接下来要证什么？\n\n卡在哪一步随时告诉我，我会给你更具体的提示！",
+        "time": {
+          "start": 1773862935531,
+          "end": 1773862935531
+        },
+        "id": "prt_d02783b8a001t1l5v8QgfQEdMt",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d02781994001AlD29DJo23RKNN"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "snapshot": "ea665f8d94230acb0719d00cff017feb520d1406",
+        "cost": 0,
+        "tokens": {
+          "total": 14611,
+          "input": 13749,
+          "output": 862,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d02785bed0015NDMqY4yeTV45P",
+        "sessionID": "ses_2fd884128ffeT9zZEuLgZjvTVE",
+        "messageID": "msg_d02781994001AlD29DJo23RKNN"
+      }
+    ]
+  }
+]

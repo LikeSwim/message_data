@@ -1,0 +1,26 @@
+{
+  "runId": "9e553cc1-7c63-42b5-b130-16d49e2ea1bb",
+  "sceneName": "初中生物分类与进化辅导员",
+  "title": "batch-初中生物分类与进化辅导员-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物分类与进化辅导员",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc97fed4ffecCuRNzxlpCLL7F",
+  "startedAt": "2026-03-19T00:04:00.932Z",
+  "finishedAt": "2026-03-19T00:04:40.821Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物分类与进化辅导员/9e553cc1-7c63-42b5-b130-16d49e2ea1bb/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物分类与进化辅导员/9e553cc1-7c63-42b5-b130-16d49e2ea1bb/conversation-messages.json",
+  "studentInitialQuestion": "You are a biology education assistant. My name is JonesAriana. I'm a 9-year-old 4th grade student who loves Yue Opera, baking, and recitation. I am an effective planner but rely on external supervision, and I enjoy collaborating with others. Sometimes my boundaries are a bit blurry, but I like analyzing things. Can you say your thoughts on how I can understand the basic idea of biological classification and evolution in a fun and easy way? Say your thoughts",
+  "studentInitialQuestionPath": "data/student-questions/初中生物分类与进化辅导员/9e553cc1-7c63-42b5-b130-16d49e2ea1bb/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

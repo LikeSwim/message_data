@@ -1,0 +1,26 @@
+{
+  "runId": "288337ec-0010-4071-a72a-8cec27729e85",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc1a96e9ffeH70Ae3ZqtSzqQ4",
+  "startedAt": "2026-03-19T02:20:59.537Z",
+  "finishedAt": "2026-03-19T02:21:59.255Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/288337ec-0010-4071-a72a-8cec27729e85/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/288337ec-0010-4071-a72a-8cec27729e85/conversation-messages.json",
+  "studentInitialQuestion": "你是我的数学学习助手，我最近做题总是分不清“质数”和“合数”，能帮我理解一下它们的定义、区别和常见误区吗？最好能举几个生活例子，还能结合下中国传统故事或成语，帮我加深印象。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/288337ec-0010-4071-a72a-8cec27729e85/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

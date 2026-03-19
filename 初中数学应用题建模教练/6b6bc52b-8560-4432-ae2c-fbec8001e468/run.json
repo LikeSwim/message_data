@@ -1,0 +1,26 @@
+{
+  "runId": "6b6bc52b-8560-4432-ae2c-fbec8001e468",
+  "sceneName": "初中数学应用题建模教练",
+  "title": "batch-初中数学应用题建模教练-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学应用题建模教练",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc0f3f83ffeDx5fxOVZlchAQe",
+  "startedAt": "2026-03-19T02:33:22.800Z",
+  "finishedAt": "2026-03-19T02:35:22.829Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学应用题建模教练/6b6bc52b-8560-4432-ae2c-fbec8001e468/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学应用题建模教练/6b6bc52b-8560-4432-ae2c-fbec8001e468/conversation-messages.json",
+  "studentInitialQuestion": "我是一名教研组长，需要为全组老师做初中数学思想方法的系统培训。你作为课程设计师，能从各个角度详细说说初中数学七大核心思想的教学体系吗？全方位地指导一下，包括识别标志、典型题型和培训活动方案，最好融入一些中国传统数学文化。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学应用题建模教练/6b6bc52b-8560-4432-ae2c-fbec8001e468/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

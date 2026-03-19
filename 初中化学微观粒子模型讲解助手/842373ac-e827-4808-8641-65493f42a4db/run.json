@@ -1,0 +1,26 @@
+{
+  "runId": "842373ac-e827-4808-8641-65493f42a4db",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd96e014ffeag8aea0rMmOQSf",
+  "startedAt": "2026-03-18T19:25:37.123Z",
+  "finishedAt": "2026-03-18T19:25:55.051Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/842373ac-e827-4808-8641-65493f42a4db/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/842373ac-e827-4808-8641-65493f42a4db/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初二学生，最近学微观粒子构成和模型遇到点困惑。你作为化学学习助手，能简短回答下它们的主要内容和作用吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/842373ac-e827-4808-8641-65493f42a4db/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

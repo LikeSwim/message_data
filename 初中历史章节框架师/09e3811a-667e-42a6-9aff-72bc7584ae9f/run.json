@@ -1,0 +1,26 @@
+{
+  "runId": "09e3811a-667e-42a6-9aff-72bc7584ae9f",
+  "sceneName": "初中历史章节框架师",
+  "title": "batch-初中历史章节框架师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史章节框架师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd0669dfffesAf4DdFweovO9F",
+  "startedAt": "2026-03-18T22:03:24.572Z",
+  "finishedAt": "2026-03-18T22:07:30.508Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史章节框架师/09e3811a-667e-42a6-9aff-72bc7584ae9f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史章节框架师/09e3811a-667e-42a6-9aff-72bc7584ae9f/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初二学生，历史成绩一般但喜欢历史故事，最近学《世界近现代史》总记不清重大事件的时间和影响。你作为我的学习助手，能深入讲解一下这一章的知识结构、重点难点和复习建议吗？还有怎么通过趣味活动和探究任务提升记忆力和理解力，能深入讲解一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史章节框架师/09e3811a-667e-42a6-9aff-72bc7584ae9f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

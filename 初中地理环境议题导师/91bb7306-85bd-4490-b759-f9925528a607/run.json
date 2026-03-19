@@ -1,0 +1,26 @@
+{
+  "runId": "91bb7306-85bd-4490-b759-f9925528a607",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe81fb45ffennfnEFjkFOPxzO",
+  "startedAt": "2026-03-18T15:08:49.206Z",
+  "finishedAt": "2026-03-18T15:11:10.903Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/91bb7306-85bd-4490-b759-f9925528a607/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/91bb7306-85bd-4490-b759-f9925528a607/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的初中地理老师，班里既有基础薄弱的学生，也有很爱探究的同学。你作为地理教学专家，能全面分析一下全球性环境问题的成因与对策，还帮我设计下分层参与的活动，让不同学生都能激发创新思维和责任感吗？全面分析一下",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/91bb7306-85bd-4490-b759-f9925528a607/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

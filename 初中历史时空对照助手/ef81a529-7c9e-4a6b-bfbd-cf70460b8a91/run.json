@@ -1,0 +1,26 @@
+{
+  "runId": "ef81a529-7c9e-4a6b-bfbd-cf70460b8a91",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd32391affeY0dHFrtFtzi3o7",
+  "startedAt": "2026-03-18T21:15:32.274Z",
+  "finishedAt": "2026-03-18T21:19:23.204Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/ef81a529-7c9e-4a6b-bfbd-cf70460b8a91/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/ef81a529-7c9e-4a6b-bfbd-cf70460b8a91/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史老师，发现学生总是把中国和世界历史的时间线混淆，能帮我讲清楚点吗？想要一份中外历史并行梳理的详细解释，最好有具体细节和例子，方便学生理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/ef81a529-7c9e-4a6b-bfbd-cf70460b8a91/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

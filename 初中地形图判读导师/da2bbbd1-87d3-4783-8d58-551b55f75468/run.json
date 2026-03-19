@@ -1,0 +1,26 @@
+{
+  "runId": "da2bbbd1-87d3-4783-8d58-551b55f75468",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe4012f8ffemIEDUvdXUBgwCk",
+  "startedAt": "2026-03-18T16:20:48.517Z",
+  "finishedAt": "2026-03-18T16:22:28.846Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/da2bbbd1-87d3-4783-8d58-551b55f75468/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/da2bbbd1-87d3-4783-8d58-551b55f75468/conversation-messages.json",
+  "studentInitialQuestion": "我是一个对地理有些兴趣，但学地形图判读时总分不清地势高低和坡度变化。你作为地理学习助手，能解释一下怎么用地形图和等高线判断地势高低、坡度陡缓吗？最好举点常见的例子帮我掌握这些技巧。",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/da2bbbd1-87d3-4783-8d58-551b55f75468/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "ce44aa4d-8338-445f-aa04-10fb41c41e35",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe98d585ffetlVf5if4p1MkBz",
+  "startedAt": "2026-03-18T14:43:51.541Z",
+  "finishedAt": "2026-03-18T14:44:57.446Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/ce44aa4d-8338-445f-aa04-10fb41c41e35/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/ce44aa4d-8338-445f-aa04-10fb41c41e35/conversation-messages.json",
+  "studentInitialQuestion": "我是WilliamsLouis，16岁，男，国际学校10年级学生，喜欢摄影、视频剪辑和无人机设计。你作为地理与科技融合的教育顾问，我在地理课上遇到‘农业与工业区位因素分析’这个主题，老师要求结合科技创新和现实案例系统分析。我对技术如何影响区位特别感兴趣，但表达时总没自信。能全面深入地讲讲农业和工业区位选择的主要因素、联系和区别，以及像无人机、智能农业这些科技如何影响现代区位决策吗？结合实际案例和社会价值观帮我分析一下。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/ce44aa4d-8338-445f-aa04-10fb41c41e35/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

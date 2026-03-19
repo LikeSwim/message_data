@@ -1,0 +1,26 @@
+{
+  "runId": "aa15b0fb-e0b6-4cfa-a499-360c471eef7b",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd22ea03ffesgij8vjviy1Sdk",
+  "startedAt": "2026-03-18T21:32:16.758Z",
+  "finishedAt": "2026-03-18T21:34:52.942Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/aa15b0fb-e0b6-4cfa-a499-360c471eef7b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/aa15b0fb-e0b6-4cfa-a499-360c471eef7b/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史老师，班里有几个学生注意力不集中，对世界历史兴趣也不高。你作为历史教学助手，能深入讲解下怎么用并行梳理中外历史时间线提升他们的兴趣和专注力吗？希望有科学创新的教学方法和具体建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/aa15b0fb-e0b6-4cfa-a499-360c471eef7b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

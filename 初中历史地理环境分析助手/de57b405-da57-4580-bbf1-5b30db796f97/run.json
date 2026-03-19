@@ -1,0 +1,26 @@
+{
+  "runId": "de57b405-da57-4580-bbf1-5b30db796f97",
+  "sceneName": "初中历史地理环境分析助手",
+  "title": "batch-初中历史地理环境分析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史地理环境分析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd5caeffffe8KBhYwfW7QGgT1",
+  "startedAt": "2026-03-18T20:29:10.778Z",
+  "finishedAt": "2026-03-18T20:29:42.512Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史地理环境分析助手/de57b405-da57-4580-bbf1-5b30db796f97/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史地理环境分析助手/de57b405-da57-4580-bbf1-5b30db796f97/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生，最近在想地理环境为什么会影响中国历史，有的地方能发展强大王朝，有的却一直落后。能深入讲解一下吗？举些例子帮我分析，也给我点学习建议吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史地理环境分析助手/de57b405-da57-4580-bbf1-5b30db796f97/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

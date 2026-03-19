@@ -1,0 +1,26 @@
+{
+  "runId": "b9b8d22d-bd2c-41ea-83c7-57b958997164",
+  "sceneName": "初中传统色彩纹样美育导师",
+  "title": "batch-初中传统色彩纹样美育导师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中传统色彩纹样美育导师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fedc8c7bffeLTGdWAi6nEy1Kk",
+  "startedAt": "2026-03-18T13:29:53.794Z",
+  "finishedAt": "2026-03-18T13:30:23.548Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中传统色彩纹样美育导师/b9b8d22d-bd2c-41ea-83c7-57b958997164/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中传统色彩纹样美育导师/b9b8d22d-bd2c-41ea-83c7-57b958997164/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生家长，孩子性格比较内向，对美术课兴趣一般。最近老师给他们布置了关于中国传统色彩和纹样的作业。能不能讲讲看，在家里怎么激发孩子对这些传统美育内容的兴趣，有没有什么简单的互动活动可以让他主动参与体验？讲讲看。",
+  "studentInitialQuestionPath": "data/student-questions/初中传统色彩纹样美育导师/b9b8d22d-bd2c-41ea-83c7-57b958997164/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

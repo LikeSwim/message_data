@@ -1,0 +1,26 @@
+{
+  "runId": "86bc2bca-4782-4497-a397-6efce4d5600a",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdb8282dffeHXDjS4Xcy9aOH7",
+  "startedAt": "2026-03-18T18:49:15.983Z",
+  "finishedAt": "2026-03-18T18:51:16.005Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/86bc2bca-4782-4497-a397-6efce4d5600a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/86bc2bca-4782-4497-a397-6efce4d5600a/conversation-messages.json",
+  "studentInitialQuestion": "我是农村初二男生，最近村里有人把农药当饮料喝了，家里很担心。你是化学教育专家，能不能讲得详细点初中化学知识在农村家庭用药和饮水安全方面怎么用？结合我们农村常见的生活条件和习惯，分析化学知识怎么帮我们预防误食误用、保障安全，也能说说传统农村生活里的安全经验和价值观吗？能讲得详细点吗",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/86bc2bca-4782-4497-a397-6efce4d5600a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

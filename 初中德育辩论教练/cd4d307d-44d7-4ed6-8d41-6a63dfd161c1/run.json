@@ -1,0 +1,26 @@
+{
+  "runId": "cd4d307d-44d7-4ed6-8d41-6a63dfd161c1",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb8cd70ffeHoaSuEmh9qVVQc",
+  "startedAt": "2026-03-18T14:08:55.243Z",
+  "finishedAt": "2026-03-18T14:10:03.987Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/cd4d307d-44d7-4ed6-8d41-6a63dfd161c1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/cd4d307d-44d7-4ed6-8d41-6a63dfd161c1/conversation-messages.json",
+  "studentInitialQuestion": "我是高三的蔡兰，最近参加了“负责任的公民”辩论赛。我擅长动漫设计和演讲，但有时候容易分心。你能用几句话说说，负责任的公民到底是什么？在辩论中我怎么能展现出自己的优势？",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/cd4d307d-44d7-4ed6-8d41-6a63dfd161c1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

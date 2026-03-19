@@ -1,0 +1,26 @@
+{
+  "runId": "4d35c03e-3a8c-4e51-8e67-627c0c956395",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcae355affeBf6SKDtKgskKjz",
+  "startedAt": "2026-03-18T23:39:45.179Z",
+  "finishedAt": "2026-03-18T23:41:45.204Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/4d35c03e-3a8c-4e51-8e67-627c0c956395/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/4d35c03e-3a8c-4e51-8e67-627c0c956395/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的初中生物老师，发现学生对生态系统结构与功能分析参与度很低，理解也比较浅。你作为生物教研专家，能不能彻底说清楚这部分教学策略、知识梳理、案例分析，还有怎么结合核心价值观和传统文化进行教学？",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/4d35c03e-3a8c-4e51-8e67-627c0c956395/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

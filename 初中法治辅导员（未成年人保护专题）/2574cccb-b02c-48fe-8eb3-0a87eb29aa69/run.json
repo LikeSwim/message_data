@@ -1,0 +1,26 @@
+{
+  "runId": "2574cccb-b02c-48fe-8eb3-0a87eb29aa69",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe19f139ffeAXGXpWmiUACxoz",
+  "startedAt": "2026-03-18T17:02:27.523Z",
+  "finishedAt": "2026-03-18T17:02:56.883Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/2574cccb-b02c-48fe-8eb3-0a87eb29aa69/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/2574cccb-b02c-48fe-8eb3-0a87eb29aa69/conversation-messages.json",
+  "studentInitialQuestion": "我是初一女生李凌菲，喜欢吉他和动漫设计，在学校艺术社团很活跃，家里一般都是我妈照顾我，爸爸因为工作经常不在家。我性格比较有艺术特长，也很讲逻辑，但有时候理解东西会慢一点，情绪还算稳定。你能具体说说《未成年人保护法》在我这些校园生活、兴趣发展、家庭环境里能提供哪些保护和支持吗？举点例子更好。",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/2574cccb-b02c-48fe-8eb3-0a87eb29aa69/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

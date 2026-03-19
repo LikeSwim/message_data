@@ -1,0 +1,26 @@
+{
+  "runId": "9943bb1d-9990-45e6-88e6-6b8e81485e6b",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcdd7a71ffeXRwYPtbA343a1s",
+  "startedAt": "2026-03-18T22:48:07.305Z",
+  "finishedAt": "2026-03-18T22:49:03.929Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/9943bb1d-9990-45e6-88e6-6b8e81485e6b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/9943bb1d-9990-45e6-88e6-6b8e81485e6b/conversation-messages.json",
+  "studentInitialQuestion": "我是刚接触排球垫球和传球接力的学生，你能简要说明下这两个技能的主要动作要点和安全注意吗？分点说清楚就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/9943bb1d-9990-45e6-88e6-6b8e81485e6b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

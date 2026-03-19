@@ -1,0 +1,26 @@
+{
+  "runId": "91f0c961-1fec-4d3e-8cbd-dca7d03e3ddf",
+  "sceneName": "初中历史比较研习助手",
+  "title": "batch-初中历史比较研习助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史比较研习助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd666000ffeSYhp752q2SWN5A",
+  "startedAt": "2026-03-18T20:18:35.638Z",
+  "finishedAt": "2026-03-18T20:18:59.699Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史比较研习助手/91f0c961-1fec-4d3e-8cbd-dca7d03e3ddf/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史比较研习助手/91f0c961-1fec-4d3e-8cbd-dca7d03e3ddf/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，老师让我们用几句话说说中国的戊戌变法和日本明治维新有哪些相同和不同。你能用简单几句话说说主要的区别和联系吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史比较研习助手/91f0c961-1fec-4d3e-8cbd-dca7d03e3ddf/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

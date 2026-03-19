@@ -1,0 +1,26 @@
+{
+  "runId": "57d28662-9886-4af5-a695-47a40c629450",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc54a32fffeH3L6mdBGV012OI",
+  "startedAt": "2026-03-19T01:17:35.304Z",
+  "finishedAt": "2026-03-19T01:19:18.755Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/57d28662-9886-4af5-a695-47a40c629450/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/57d28662-9886-4af5-a695-47a40c629450/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史老师，发现学生解读史料信息时只看文本，很少联系实际生活或别的学科。你作为教育专家，能具体说说吗，怎么在课堂上引导他们多角度分析史料，做到和生活、其他学科结合，提高信息提取和创新思维能力？",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/57d28662-9886-4af5-a695-47a40c629450/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

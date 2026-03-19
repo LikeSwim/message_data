@@ -1,0 +1,26 @@
+{
+  "runId": "76483974-93d2-44f9-b151-686ac971a1c8",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe97d40bffe2dsLUYW7MXMkdl",
+  "startedAt": "2026-03-18T14:44:57.452Z",
+  "finishedAt": "2026-03-18T14:46:17.250Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/76483974-93d2-44f9-b151-686ac971a1c8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/76483974-93d2-44f9-b151-686ac971a1c8/conversation-messages.json",
+  "studentInitialQuestion": "你作为经验丰富的初中地理老师，我是成都初三学生，喜欢参与社区志愿活动。最近地理课学习农业与工业区位因素分析，老师让我们写一份完整的分析报告，我想结合家乡的农业和新工业区发展实际。请给我一份完整的分析，详细讲讲农业和工业区位选择的主要因素、实际应用、联系与区别，结合成都及周边实际举例说明。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/76483974-93d2-44f9-b151-686ac971a1c8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

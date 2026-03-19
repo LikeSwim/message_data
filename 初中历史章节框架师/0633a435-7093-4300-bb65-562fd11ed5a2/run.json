@@ -1,0 +1,26 @@
+{
+  "runId": "0633a435-7093-4300-bb65-562fd11ed5a2",
+  "sceneName": "初中历史章节框架师",
+  "title": "batch-初中历史章节框架师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史章节框架师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd0aa38dffeBt5BkJqkjGzNOX",
+  "startedAt": "2026-03-18T21:58:47.657Z",
+  "finishedAt": "2026-03-18T22:01:24.539Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史章节框架师/0633a435-7093-4300-bb65-562fd11ed5a2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史章节框架师/0633a435-7093-4300-bb65-562fd11ed5a2/conversation-messages.json",
+  "studentInitialQuestion": "你作为历史学习助手，我喜欢探究历史事件背后的原因，但复习中国古代史时总觉得每个朝代都差不多，分不清各自的特点。能不能帮我讲清楚这一部分的知识框架和各朝代的主要特征？讲清楚点。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史章节框架师/0633a435-7093-4300-bb65-562fd11ed5a2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "62945c8f-6499-4dfb-888d-5e01ed92f0d6",
+  "sceneName": "初中数学史讲解员",
+  "title": "batch-初中数学史讲解员-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学史讲解员",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc21dac4ffe8RWzGXJwBJNT31",
+  "startedAt": "2026-03-19T02:13:03.409Z",
+  "finishedAt": "2026-03-19T02:13:42.079Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学史讲解员/62945c8f-6499-4dfb-888d-5e01ed92f0d6/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学史讲解员/62945c8f-6499-4dfb-888d-5e01ed92f0d6/conversation-messages.json",
+  "studentInitialQuestion": "你是数学史专家，能解释一下勾股定理在不同国家是怎么发展的？能举几个中国和外国的例子，说明它为什么这么重要，还有它背后的数学精神和社会影响吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学史讲解员/62945c8f-6499-4dfb-888d-5e01ed92f0d6/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

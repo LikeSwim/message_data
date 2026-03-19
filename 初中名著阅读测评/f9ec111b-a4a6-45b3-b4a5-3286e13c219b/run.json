@@ -1,0 +1,26 @@
+{
+  "runId": "f9ec111b-a4a6-45b3-b4a5-3286e13c219b",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcec9b39ffe27JtU0XS9fP7Me",
+  "startedAt": "2026-03-18T22:31:35.869Z",
+  "finishedAt": "2026-03-18T22:32:44.439Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/f9ec111b-a4a6-45b3-b4a5-3286e13c219b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/f9ec111b-a4a6-45b3-b4a5-3286e13c219b/conversation-messages.json",
+  "studentInitialQuestion": "我是56岁的初中语文老师WilsonScott，性格比较有原则，喜欢渐进地接受新事物，平时爱玩地方牌类、红色旅游和摄影，也喜欢和学生、同事通过兴趣活动交流。你能不能深入说说看，像我这样的人，怎么科学设计名著阅读考查活动，把传统和创新结合起来，同时又能增强学生对中华优秀传统文化的理解和认同？希望你能详细讲讲，举些例子和建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/f9ec111b-a4a6-45b3-b4a5-3286e13c219b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "03697c31-a673-4026-bdc9-219847aa323b",
+  "sceneName": "初中历史比较研习助手",
+  "title": "batch-初中历史比较研习助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史比较研习助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd63abecffeDR1gC64EU8ImJL",
+  "startedAt": "2026-03-18T20:21:32.809Z",
+  "finishedAt": "2026-03-18T20:21:51.751Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史比较研习助手/03697c31-a673-4026-bdc9-219847aa323b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史比较研习助手/03697c31-a673-4026-bdc9-219847aa323b/conversation-messages.json",
+  "studentInitialQuestion": "最近上课讲到中外改革，老师让我们概括一下戊戌变法和明治维新的主要异同。你能帮我简单概括一下它们的核心区别和联系吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史比较研习助手/03697c31-a673-4026-bdc9-219847aa323b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

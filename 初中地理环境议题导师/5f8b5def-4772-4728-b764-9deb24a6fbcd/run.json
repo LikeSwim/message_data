@@ -1,0 +1,26 @@
+{
+  "runId": "5f8b5def-4772-4728-b764-9deb24a6fbcd",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe7fd1bbffeMqgUP798U5qkIr",
+  "startedAt": "2026-03-18T15:11:10.909Z",
+  "finishedAt": "2026-03-18T15:15:59.403Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/5f8b5def-4772-4728-b764-9deb24a6fbcd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/5f8b5def-4772-4728-b764-9deb24a6fbcd/conversation-messages.json",
+  "studentInitialQuestion": "我女儿刚上初中，对环境问题很感兴趣，但她容易分心，也喜欢小组合作学习。你作为AI学习助手，能全方位地讲解一下全球性环境问题的成因与对策，还结合她的兴趣和习惯设计下具体的创新互动活动，帮她更好理解并参与吗？全方位地讲解一下",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/5f8b5def-4772-4728-b764-9deb24a6fbcd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

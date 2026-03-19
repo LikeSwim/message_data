@@ -1,0 +1,26 @@
+{
+  "runId": "90344795-6579-474a-97b6-22f65b91ee39",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbf50d6fffeU1GXN8WnA4wSE1",
+  "startedAt": "2026-03-19T03:01:59.559Z",
+  "finishedAt": "2026-03-19T03:04:30.504Z",
+  "followUpCount": 2,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/90344795-6579-474a-97b6-22f65b91ee39/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/90344795-6579-474a-97b6-22f65b91ee39/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，最近学概率和统计，老师让我们总结知识点，可我觉得有些地方很容易混淆。你能简单说说这块主要知识点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/90344795-6579-474a-97b6-22f65b91ee39/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

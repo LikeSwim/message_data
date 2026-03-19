@@ -1,0 +1,26 @@
+{
+  "runId": "8db20b6a-7d27-4113-8e57-afce9abc6731",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe1328aaffedZJa5HDsnfAPIh",
+  "startedAt": "2026-03-18T17:09:52.077Z",
+  "finishedAt": "2026-03-18T17:12:47.709Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/8db20b6a-7d27-4113-8e57-afce9abc6731/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/8db20b6a-7d27-4113-8e57-afce9abc6731/conversation-messages.json",
+  "studentInitialQuestion": "我是初中政治老师，学校准备办一个未成年人保护法主题活动。你能全方位地讲解一下这部法律的主要内容、怎么实施、跟校园生活相关的重点条款吗？最好结合案例帮我设计具体的法律教育方案和建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/8db20b6a-7d27-4113-8e57-afce9abc6731/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

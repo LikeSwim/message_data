@@ -1,0 +1,26 @@
+{
+  "runId": "e02673d2-e81a-48ab-b63b-e3e4c3206067",
+  "sceneName": "初中建筑美育鉴赏助手",
+  "title": "batch-初中建筑美育鉴赏助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中建筑美育鉴赏助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd774bc8ffe3EymPKwZZAPM7Y",
+  "startedAt": "2026-03-18T20:00:06.700Z",
+  "finishedAt": "2026-03-18T20:01:54.522Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中建筑美育鉴赏助手/e02673d2-e81a-48ab-b63b-e3e4c3206067/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中建筑美育鉴赏助手/e02673d2-e81a-48ab-b63b-e3e4c3206067/conversation-messages.json",
+  "studentInitialQuestion": "我是秦雨嫣，33岁老师，喜欢戏剧表演和茶艺，管理风格注重框架但细节随性，在教师群体里挺有威信。最近要带初中生做‘中外经典建筑欣赏与比较’美育项目，希望把戏剧、茶艺兴趣融入课堂，还要提升学生审美和批判性思维。你作为美育教学专家，能详细展开说说吗？比如怎么融合戏剧、茶艺和建筑欣赏，如何引导不同层次学生表达和创新，怎么自然结合核心价值观和多元文化，再给点团队管理和激励的建议。结构清楚些，内容具体点。",
+  "studentInitialQuestionPath": "data/student-questions/初中建筑美育鉴赏助手/e02673d2-e81a-48ab-b63b-e3e4c3206067/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

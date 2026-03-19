@@ -1,0 +1,26 @@
+{
+  "runId": "4242905a-6294-4b5e-8689-22a1b57f099e",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd9a354affeRn6GrUcrxPF2sC",
+  "startedAt": "2026-03-18T19:21:58.701Z",
+  "finishedAt": "2026-03-18T19:23:09.869Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/4242905a-6294-4b5e-8689-22a1b57f099e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/4242905a-6294-4b5e-8689-22a1b57f099e/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，复习微观粒子构成和模型时总搞不清分子、原子和离子的区别。你作为化学学习助手，可以结合我的困扰，说说你的看法，帮我理清这几个概念吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/4242905a-6294-4b5e-8689-22a1b57f099e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

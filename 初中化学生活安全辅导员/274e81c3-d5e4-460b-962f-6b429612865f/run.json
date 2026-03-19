@@ -1,0 +1,26 @@
+{
+  "runId": "274e81c3-d5e4-460b-962f-6b429612865f",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdb4961affe6ZO5DIcNFAyNUC",
+  "startedAt": "2026-03-18T18:53:09.980Z",
+  "finishedAt": "2026-03-18T18:55:37.323Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/274e81c3-d5e4-460b-962f-6b429612865f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/274e81c3-d5e4-460b-962f-6b429612865f/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学科普志愿者，在社区做安全讲座时发现很多家长对食品添加剂和饮水消毒很有疑问。你作为化学教育专家，能具体说说初中化学知识在食品安全和饮水消毒方面有哪些实际用处吗？结合我们社区家庭的实际情况，举些常见例子，也能聊聊中华传统文化里的饮食安全智慧和相关价值观吗？能具体说说吗",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/274e81c3-d5e4-460b-962f-6b429612865f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

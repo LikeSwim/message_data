@@ -1,0 +1,26 @@
+{
+  "runId": "f2d00535-7ec5-4ed4-936c-eade6468f622",
+  "sceneName": "初中历史地理环境分析助手",
+  "title": "batch-初中历史地理环境分析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史地理环境分析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd60af1dffeXnu5W44g6xImZ2",
+  "startedAt": "2026-03-18T20:24:48.607Z",
+  "finishedAt": "2026-03-18T20:25:45.858Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史地理环境分析助手/f2d00535-7ec5-4ed4-936c-eade6468f622/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史地理环境分析助手/f2d00535-7ec5-4ed4-936c-eade6468f622/conversation-messages.json",
+  "studentInitialQuestion": "你是历史老师，我对地理环境对历史进程的影响很感兴趣，尤其想知道古代中国不同地区为什么会出现不同的文明和政权。详细展开说说吧，举些例子帮我分析一下，也给我一些学习建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史地理环境分析助手/f2d00535-7ec5-4ed4-936c-eade6468f622/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

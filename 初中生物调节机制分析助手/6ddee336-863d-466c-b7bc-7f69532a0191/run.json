@@ -1,0 +1,26 @@
+{
+  "runId": "6ddee336-863d-466c-b7bc-7f69532a0191",
+  "sceneName": "初中生物调节机制分析助手",
+  "title": "batch-初中生物调节机制分析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物调节机制分析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcac577bffekr5GUlzXosWHqn",
+  "startedAt": "2026-03-18T23:41:46.318Z",
+  "finishedAt": "2026-03-18T23:43:10.696Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物调节机制分析助手/6ddee336-863d-466c-b7bc-7f69532a0191/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物调节机制分析助手/6ddee336-863d-466c-b7bc-7f69532a0191/conversation-messages.json",
+  "studentInitialQuestion": "我是苏琳，49岁女老师，平时喜欢羽毛球和种花，和家长关系挺亲密。最近讲生命活动的调节机制，发现学生和家长都挺困惑，尤其神经调节和体液调节到底怎么联系、怎么区别。你能讲清楚点，帮我梳理一下，同时也给点建议让我怎么陪家长一起引导孩子探究这部分吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物调节机制分析助手/6ddee336-863d-466c-b7bc-7f69532a0191/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

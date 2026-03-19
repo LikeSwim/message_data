@@ -1,0 +1,26 @@
+{
+  "runId": "34da3c46-bbe1-4eb3-ada1-f819238f4399",
+  "sceneName": "初中生物核心过程辨析助手",
+  "title": "batch-初中生物核心过程辨析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物核心过程辨析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc8cebb1ffeqWdpHkZCSJjne9",
+  "startedAt": "2026-03-19T00:16:06.728Z",
+  "finishedAt": "2026-03-19T00:16:39.560Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物核心过程辨析助手/34da3c46-bbe1-4eb3-ada1-f819238f4399/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物核心过程辨析助手/34da3c46-bbe1-4eb3-ada1-f819238f4399/conversation-messages.json",
+  "studentInitialQuestion": "你能帮我理解一下光合作用和呼吸作用的根本区别、主要联系吗？还有在考试时怎么不容易混淆，帮我讲明白点",
+  "studentInitialQuestionPath": "data/student-questions/初中生物核心过程辨析助手/34da3c46-bbe1-4eb3-ada1-f819238f4399/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

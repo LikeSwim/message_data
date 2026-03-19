@@ -1,0 +1,26 @@
+{
+  "runId": "345caab5-6c4f-49da-aeb3-dc050aecbd22",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd13d67bffeNikZE0OyYp2nUk",
+  "startedAt": "2026-03-18T21:48:44.794Z",
+  "finishedAt": "2026-03-18T21:49:14.824Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/345caab5-6c4f-49da-aeb3-dc050aecbd22/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/345caab5-6c4f-49da-aeb3-dc050aecbd22/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，最近在课堂上学到‘土地改革’，老师让我简单总结一下土地改革的因果关系。你作为历史学科小助手，能帮我概括一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/345caab5-6c4f-49da-aeb3-dc050aecbd22/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

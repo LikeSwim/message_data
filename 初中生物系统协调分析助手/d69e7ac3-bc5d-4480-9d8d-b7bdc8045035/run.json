@@ -1,0 +1,26 @@
+{
+  "runId": "d69e7ac3-bc5d-4480-9d8d-b7bdc8045035",
+  "sceneName": "初中生物系统协调分析助手",
+  "title": "batch-初中生物系统协调分析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物系统协调分析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc60fbacffe0U3IFku4BVD3mo",
+  "startedAt": "2026-03-19T01:04:06.218Z",
+  "finishedAt": "2026-03-19T01:05:26.290Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物系统协调分析助手/d69e7ac3-bc5d-4480-9d8d-b7bdc8045035/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物系统协调分析助手/d69e7ac3-bc5d-4480-9d8d-b7bdc8045035/conversation-messages.json",
+  "studentInitialQuestion": "我是曾真涵，44岁的老师，喜欢社区活动和舞蹈，性格开放但对压力有点敏感，也喜欢反思。最近备课时发现学生在学人体系统协调时，常常搞混消化、循环、呼吸、神经等系统的分工和协作。你作为生物教育专家，能不能从科学原理、生活应用、教学创新、学生心理和传统文化等多角度，全面分析怎么帮助学生建立系统观念和提升生命健康意识？从各个角度详细说说",
+  "studentInitialQuestionPath": "data/student-questions/初中生物系统协调分析助手/d69e7ac3-bc5d-4480-9d8d-b7bdc8045035/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

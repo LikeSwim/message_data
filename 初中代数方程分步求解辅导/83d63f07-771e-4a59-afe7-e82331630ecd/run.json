@@ -1,0 +1,26 @@
+{
+  "runId": "83d63f07-771e-4a59-afe7-e82331630ecd",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "batch-初中代数方程分步求解辅导-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中代数方程分步求解辅导",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec5ec98ffeEmjEN0CrQTx7iB",
+  "startedAt": "2026-03-18T13:54:36.512Z",
+  "finishedAt": "2026-03-18T13:55:37.025Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中代数方程分步求解辅导/83d63f07-771e-4a59-afe7-e82331630ecd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中代数方程分步求解辅导/83d63f07-771e-4a59-afe7-e82331630ecd/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学老师，面对学生在代数方程分步求解时常常遇到各种困惑，像移项、合并同类项、检验答案这些环节特别容易理解错。你作为数学专家，能从各个角度详细说说如何系统地指导初中生进行代数方程分步求解吗？希望你能全面介绍知识体系、教学策略、易错分析、学生心理和习惯培养，还能结合中华优秀传统文化和科学精神给出创新性的建议，帮我们老师和学生都能真正实现提升。",
+  "studentInitialQuestionPath": "data/student-questions/初中代数方程分步求解辅导/83d63f07-771e-4a59-afe7-e82331630ecd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

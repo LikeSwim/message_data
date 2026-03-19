@@ -1,0 +1,26 @@
+{
+  "runId": "d52144ea-4b86-4109-a55d-4eb94306bb56",
+  "sceneName": "初中偶像观思辨引导员",
+  "title": "batch-初中偶像观思辨引导员-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中偶像观思辨引导员",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fce550e6ffeZVOJad2gWVE3Ao",
+  "startedAt": "2026-03-18T22:39:33.649Z",
+  "finishedAt": "2026-03-18T22:42:37.065Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中偶像观思辨引导员/d52144ea-4b86-4109-a55d-4eb94306bb56/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中偶像观思辨引导员/d52144ea-4b86-4109-a55d-4eb94306bb56/conversation-messages.json",
+  "studentInitialQuestion": "我最近教学生讨论偶像话题，发现他们很看重外貌和流行。你作为德育专家，讲讲看怎么引导学生重视偶像的内在美和社会贡献，提高他们的价值判断力吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中偶像观思辨引导员/d52144ea-4b86-4109-a55d-4eb94306bb56/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

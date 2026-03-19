@@ -1,0 +1,26 @@
+{
+  "runId": "fae19334-b745-4953-93de-ef7831c21dc8",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc1ccdd5ffeWkEqj7e6oBLnJ6",
+  "startedAt": "2026-03-19T02:18:34.400Z",
+  "finishedAt": "2026-03-19T02:19:06.300Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/fae19334-b745-4953-93de-ef7831c21dc8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/fae19334-b745-4953-93de-ef7831c21dc8/conversation-messages.json",
+  "studentInitialQuestion": "我是二年级学生WhiteStella，7岁女生，喜欢烘焙、养植物和街舞，性格有时感性有时理性。你作为AI数学老师，能解释一下“乘法交换律”和“乘法结合律”的区别吗？如果能结合我的兴趣，比如烘焙或舞蹈举例就太好了，也希望你能帮我在生活中培养逻辑和创造力。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/fae19334-b745-4953-93de-ef7831c21dc8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

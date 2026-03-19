@@ -1,0 +1,26 @@
+{
+  "runId": "eb8727fa-3a7e-439a-8646-cf4bc5ab84a0",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc707ed1ffefiddCgJenWorco",
+  "startedAt": "2026-03-19T00:47:09.608Z",
+  "finishedAt": "2026-03-19T00:47:54.930Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/eb8727fa-3a7e-439a-8646-cf4bc5ab84a0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/eb8727fa-3a7e-439a-8646-cf4bc5ab84a0/conversation-messages.json",
+  "studentInitialQuestion": "我是WilsonSkylar，今年10岁，在五年级读书。我喜欢讲故事、玩手机摄影和街舞，但生物课上听老师讲“光合作用”和“呼吸作用”总是觉得很难理解。你是我的学习支持者，能不能系统地讲解一下这两个过程的区别和联系？最好多举些生活化例子，比如植物和人呼吸、运动时的能量变化，还能推荐些适合我这种喜欢动手、故事、拍照的学习方法，帮我建立信心。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/eb8727fa-3a7e-439a-8646-cf4bc5ab84a0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

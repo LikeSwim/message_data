@@ -1,0 +1,26 @@
+{
+  "runId": "f7c93a18-a19d-491e-9ddd-eb121a69c933",
+  "sceneName": "初中电路故障与动态分析导师",
+  "title": "batch-初中电路故障与动态分析导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中电路故障与动态分析导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe29a17cffe6lNQWgcXDQDRAw",
+  "startedAt": "2026-03-18T16:45:19.356Z",
+  "finishedAt": "2026-03-18T16:48:02.891Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中电路故障与动态分析导师/f7c93a18-a19d-491e-9ddd-eb121a69c933/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中电路故障与动态分析导师/f7c93a18-a19d-491e-9ddd-eb121a69c933/conversation-messages.json",
+  "studentInitialQuestion": "我是初中物理老师，带实验班时经常碰到学生做电路实验时出现故障，比如灯泡不亮、电流表没反应或者数据异常，很多学生不知道怎么下手排查。你作为物理专家，能具体说说初中电路实验中常见的动态故障类型，还有每种故障该怎么科学分析和排查吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中电路故障与动态分析导师/f7c93a18-a19d-491e-9ddd-eb121a69c933/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

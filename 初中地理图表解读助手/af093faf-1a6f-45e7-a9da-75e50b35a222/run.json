@@ -1,0 +1,26 @@
+{
+  "runId": "af093faf-1a6f-45e7-a9da-75e50b35a222",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe471817fferfHYKJPFLvoyMu",
+  "startedAt": "2026-03-18T16:13:08.451Z",
+  "finishedAt": "2026-03-18T16:14:36.416Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/af093faf-1a6f-45e7-a9da-75e50b35a222/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/af093faf-1a6f-45e7-a9da-75e50b35a222/conversation-messages.json",
+  "studentInitialQuestion": "我是老师万炫宇，最近精力有点不济但还是很注重条理性，也喜欢下棋和野外定向。你作为地理教育专家，能讲讲看怎么用科学方法引导学生批判性分析地理图表数据（比如城市经济结构的饼图），同时让他们自主探究，还能引导人地协调发展的价值观？最好有具体的教学建议和案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/af093faf-1a6f-45e7-a9da-75e50b35a222/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "3af4ddb5-fb52-4d61-814f-cf1668e31c27",
+  "sceneName": "初中历史概念辨析助手",
+  "title": "batch-初中历史概念辨析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史概念辨析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd4ce263ffebqK6Zru3MG82ax",
+  "startedAt": "2026-03-18T20:46:26.193Z",
+  "finishedAt": "2026-03-18T20:47:04.505Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史概念辨析助手/3af4ddb5-fb52-4d61-814f-cf1668e31c27/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史概念辨析助手/3af4ddb5-fb52-4d61-814f-cf1668e31c27/conversation-messages.json",
+  "studentInitialQuestion": "你是我的历史学习助手，我是一名对社会变革很感兴趣的学生。最近在学习“革命”和“改良”这两个词的时候遇到了困惑。你能详细说说这两个历史核心概念的不同点和各自代表的历史意义吗？最好能鼓励我联系当下社会现象思考。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史概念辨析助手/3af4ddb5-fb52-4d61-814f-cf1668e31c27/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "3a016cdc-5c86-4a3d-8733-a456a5b924a2",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe1e0e22ffeRublMQinE6KjLF",
+  "startedAt": "2026-03-18T16:57:57.975Z",
+  "finishedAt": "2026-03-18T17:00:20.430Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/3a016cdc-5c86-4a3d-8733-a456a5b924a2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/3a016cdc-5c86-4a3d-8733-a456a5b924a2/conversation-messages.json",
+  "studentInitialQuestion": "我是初中体育老师，最近在组织短跑接力练习。你能讲得详细点吗，怎么结合分组竞赛和合作活动来提升学生团队协作和运动热情？",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/3a016cdc-5c86-4a3d-8733-a456a5b924a2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

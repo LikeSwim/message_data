@@ -1,0 +1,26 @@
+{
+  "runId": "e787b608-8f13-4c4c-9dcc-0d80178fd844",
+  "sceneName": "初中篮球三对三战术教练",
+  "title": "batch-初中篮球三对三战术教练-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中篮球三对三战术教练",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd753bdaffeldXAeJ0hynSsS3",
+  "startedAt": "2026-03-18T20:02:21.858Z",
+  "finishedAt": "2026-03-18T20:03:45.764Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中篮球三对三战术教练/e787b608-8f13-4c4c-9dcc-0d80178fd844/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中篮球三对三战术教练/e787b608-8f13-4c4c-9dcc-0d80178fd844/conversation-messages.json",
+  "studentInitialQuestion": "我是初中体育教研员，你作为教育专家，能彻底说清楚三对三篮球战术演练的所有细节吗？包括理论、教学流程、常见战术、团队协作和评价这些，想听你系统全面地讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中篮球三对三战术教练/e787b608-8f13-4c4c-9dcc-0d80178fd844/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "15b8cd19-735f-467e-bdb7-177ea57ce3ce",
+  "sceneName": "初中几何证明思路引导师",
+  "title": "batch-初中几何证明思路引导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中几何证明思路引导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd8b9977ffeFV37z8kdnzVUXE",
+  "startedAt": "2026-03-18T19:37:56.100Z",
+  "finishedAt": "2026-03-18T19:40:19.150Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中几何证明思路引导师/15b8cd19-735f-467e-bdb7-177ea57ce3ce/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中几何证明思路引导师/15b8cd19-735f-467e-bdb7-177ea57ce3ce/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学老师，班里有几个基础比较弱、对几何兴趣也不高的学生。每次讲三角形全等的证明，他们都抓不住要点，也容易把步骤搞混。你能概括一下怎么教这类学生几何定理证明，让他们掌握核心思路还愿意参与吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中几何证明思路引导师/15b8cd19-735f-467e-bdb7-177ea57ce3ce/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

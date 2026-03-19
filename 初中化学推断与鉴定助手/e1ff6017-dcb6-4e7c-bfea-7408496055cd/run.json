@@ -1,0 +1,26 @@
+{
+  "runId": "e1ff6017-dcb6-4e7c-bfea-7408496055cd",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学推断与鉴定助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fda9b679ffeBI4dhRNA6yzDKW",
+  "startedAt": "2026-03-18T19:05:02.586Z",
+  "finishedAt": "2026-03-18T19:05:56.646Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学推断与鉴定助手/e1ff6017-dcb6-4e7c-bfea-7408496055cd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学推断与鉴定助手/e1ff6017-dcb6-4e7c-bfea-7408496055cd/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生，最近学到推断和鉴定未知物质，你能大概讲讲主要的方法和思路吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学推断与鉴定助手/e1ff6017-dcb6-4e7c-bfea-7408496055cd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "94669536-bec9-4da9-86a2-1d36446ceb8d",
+  "sceneName": "初中地理气候类型辅导助手",
+  "title": "batch-初中地理气候类型辅导助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理气候类型辅导助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe628941ffeGfk3uwU9d6ZEjk",
+  "startedAt": "2026-03-18T15:43:10.007Z",
+  "finishedAt": "2026-03-18T15:46:29.374Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理气候类型辅导助手/94669536-bec9-4da9-86a2-1d36446ceb8d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理气候类型辅导助手/94669536-bec9-4da9-86a2-1d36446ceb8d/conversation-messages.json",
+  "studentInitialQuestion": "你作为地理学科专家，能不能全面分析一下世界气候类型的分布与成因？希望能涵盖全球各主要气候类型、成因分析、典型地区举例以及一些创新教学建议，适合初中阶段的深入学习。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理气候类型辅导助手/94669536-bec9-4da9-86a2-1d36446ceb8d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

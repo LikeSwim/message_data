@@ -1,0 +1,26 @@
+{
+  "runId": "e6fbed60-29a5-48dc-a215-3e786ec415c7",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe4a7c3fffeAj0uF5jqPYwP3k",
+  "startedAt": "2026-03-18T16:09:26.203Z",
+  "finishedAt": "2026-03-18T16:10:26.667Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/e6fbed60-29a5-48dc-a215-3e786ec415c7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/e6fbed60-29a5-48dc-a215-3e786ec415c7/conversation-messages.json",
+  "studentInitialQuestion": "I'm GarciaJoseph, a senior high student who's proactive and strong in STEM, but my memory can be a bit fragmented and I rely on external guidance. You, as a geography education expert, can you help me deeply understand how to analyze climate change line graphs in geography exams? I'd love examples that connect to basketball and badminton team dynamics, plus strategies to reinforce my memory and use my STEM strengths. Also, talk about how this connects with responsibility and harmony with nature. Please, detailed talk.",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/e6fbed60-29a5-48dc-a215-3e786ec415c7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

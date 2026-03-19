@@ -1,0 +1,26 @@
+{
+  "runId": "67e5a62a-fbd7-4604-b845-134cf95ac70b",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcd9aad1ffen3C6uwzum2H91J",
+  "startedAt": "2026-03-18T22:52:17.061Z",
+  "finishedAt": "2026-03-18T22:54:15.575Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/67e5a62a-fbd7-4604-b845-134cf95ac70b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/67e5a62a-fbd7-4604-b845-134cf95ac70b/conversation-messages.json",
+  "studentInitialQuestion": "你是排球教学专家，针对初中生刚开始学垫球，怎么设计有趣又有效的练习让他们掌握动作要领，同时增强团队协作？能具体说说吗？举些活动方案和案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/67e5a62a-fbd7-4604-b845-134cf95ac70b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

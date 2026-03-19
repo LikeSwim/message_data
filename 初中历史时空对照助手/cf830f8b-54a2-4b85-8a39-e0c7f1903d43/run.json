@@ -1,0 +1,26 @@
+{
+  "runId": "cf830f8b-54a2-4b85-8a39-e0c7f1903d43",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd232785ffe1SgnghRTPDHgLC",
+  "startedAt": "2026-03-18T21:32:01.010Z",
+  "finishedAt": "2026-03-18T21:32:16.754Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/cf830f8b-54a2-4b85-8a39-e0c7f1903d43/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/cf830f8b-54a2-4b85-8a39-e0c7f1903d43/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，老师让我们用时间轴对比中外历史主要事件，但我不太明白为什么要这样做。你能帮我理解一下，中外历史时间线并行梳理到底有什么意义？最好有细节和例子。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/cf830f8b-54a2-4b85-8a39-e0c7f1903d43/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "298f8547-c3a2-4ef6-a744-372610c598d3",
+  "sceneName": "初中地理河流地貌学习助手",
+  "title": "batch-初中地理河流地貌学习助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理河流地貌学习助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe89402affe7JRMGbP4DH2qNd",
+  "startedAt": "2026-03-18T15:00:52.812Z",
+  "finishedAt": "2026-03-18T15:01:35.710Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理河流地貌学习助手/298f8547-c3a2-4ef6-a744-372610c598d3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理河流地貌学习助手/298f8547-c3a2-4ef6-a744-372610c598d3/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，对地理兴趣一般，最近在复习河流地貌。你是我的学习助手，能不能用几句话说说河流地貌的主要类型和它们对人类生活的影响？别太复杂，核心内容讲清楚就好。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理河流地貌学习助手/298f8547-c3a2-4ef6-a744-372610c598d3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

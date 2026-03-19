@@ -1,0 +1,26 @@
+{
+  "runId": "7e50b8ed-bfbc-46e9-ab80-9fe5e5eff77a",
+  "sceneName": "初中地理河流地貌学习助手",
+  "title": "batch-初中地理河流地貌学习助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理河流地貌学习助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe8f5c76ffeZQBu9ezbbmdnzL",
+  "startedAt": "2026-03-18T14:54:12.354Z",
+  "finishedAt": "2026-03-18T14:57:50.952Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理河流地貌学习助手/7e50b8ed-bfbc-46e9-ab80-9fe5e5eff77a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理河流地貌学习助手/7e50b8ed-bfbc-46e9-ab80-9fe5e5eff77a/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理教研员，最近组织老师们讨论河流地貌的教学设计。你作为地理教学顾问，能不能详细说说河流地貌发育的主要特点、影响因素，还有教学中容易出现的误区？最好能结合一些教学案例，提出改进建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理河流地貌学习助手/7e50b8ed-bfbc-46e9-ab80-9fe5e5eff77a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

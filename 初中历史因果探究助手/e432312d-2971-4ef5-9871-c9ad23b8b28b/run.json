@@ -1,0 +1,26 @@
+{
+  "runId": "e432312d-2971-4ef5-9871-c9ad23b8b28b",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd0d5ab0ffekMO6bzM9A2opMv",
+  "startedAt": "2026-03-18T21:55:49.709Z",
+  "finishedAt": "2026-03-18T21:56:24.605Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/e432312d-2971-4ef5-9871-c9ad23b8b28b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/e432312d-2971-4ef5-9871-c9ad23b8b28b/conversation-messages.json",
+  "studentInitialQuestion": "WilliamsFaith是一位6岁的女生，现在上一年级，喜欢钢琴、朗诵和运动，性格活泼但有时会有点小紧张。她最近很好奇地问：‘为什么美国会有南北战争？这场战争之后发生了什么？’你作为她的历史学习伙伴，能深入说说看，用她能听懂的方式，讲讲这场战争的原因和后果吗？还可以用一些有趣的故事和互动方法，帮她理解和表达自己的想法吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/e432312d-2971-4ef5-9871-c9ad23b8b28b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

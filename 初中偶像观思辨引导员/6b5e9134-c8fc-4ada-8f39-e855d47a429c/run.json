@@ -1,0 +1,26 @@
+{
+  "runId": "6b5e9134-c8fc-4ada-8f39-e855d47a429c",
+  "sceneName": "初中偶像观思辨引导员",
+  "title": "batch-初中偶像观思辨引导员-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中偶像观思辨引导员",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcea58fdffenW3CZ29KIEmcAu",
+  "startedAt": "2026-03-18T22:34:03.901Z",
+  "finishedAt": "2026-03-18T22:34:25.170Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中偶像观思辨引导员/6b5e9134-c8fc-4ada-8f39-e855d47a429c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中偶像观思辨引导员/6b5e9134-c8fc-4ada-8f39-e855d47a429c/conversation-messages.json",
+  "studentInitialQuestion": "我是林友，高二男生，喜欢摄影、街舞和国际象棋，竞争意识强但理解较慢，偶像选择既看兴趣也想提升自己，有点功利。你作为学生成长顾问，能具体说说怎样建立适合我的偶像观，让偶像真正成为成长动力吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中偶像观思辨引导员/6b5e9134-c8fc-4ada-8f39-e855d47a429c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "cdce7c55-8804-4549-998e-a1a9a8a29cfd",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc19ad9ffferTcPiQOnMRhlbI",
+  "startedAt": "2026-03-19T02:21:59.261Z",
+  "finishedAt": "2026-03-19T02:22:46.187Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/cdce7c55-8804-4549-998e-a1a9a8a29cfd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/cdce7c55-8804-4549-998e-a1a9a8a29cfd/conversation-messages.json",
+  "studentInitialQuestion": "我是动物饲养员周颖，喜欢户外徒步、宠物训练和园艺种植，性格实用又有情怀。你作为数学知识导师，能不能详细说说“统计平均数”和“中位数”的区别和常见误区？最好结合动物饲养或园艺管理举个实际例子，还能自然带入点中华传统文化或核心价值观，帮我在工作和生活中灵活用上。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/cdce7c55-8804-4549-998e-a1a9a8a29cfd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

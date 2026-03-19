@@ -1,0 +1,26 @@
+{
+  "runId": "2a6c1d5f-2b2a-4085-88ad-6951a8c75da3",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学推断与鉴定助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fda8e34cffejUafY05HRhCk2z",
+  "startedAt": "2026-03-18T19:05:56.650Z",
+  "finishedAt": "2026-03-18T19:07:35.359Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学推断与鉴定助手/2a6c1d5f-2b2a-4085-88ad-6951a8c75da3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学推断与鉴定助手/2a6c1d5f-2b2a-4085-88ad-6951a8c75da3/conversation-messages.json",
+  "studentInitialQuestion": "你作为我的化学学习助手，能讲得详细点吗？我想了解初中阶段怎么系统培养学生推断和鉴定未知物质的能力，包括教学方法、活动设计和容易出错的地方。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学推断与鉴定助手/2a6c1d5f-2b2a-4085-88ad-6951a8c75da3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "df33119b-64ee-409e-b9cd-40b7f2ac3755",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理经纬网与时区辅导助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe6d7418ffektmaI7UKI0Go5b",
+  "startedAt": "2026-03-18T15:31:14.525Z",
+  "finishedAt": "2026-03-18T15:32:18.115Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/df33119b-64ee-409e-b9cd-40b7f2ac3755/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/df33119b-64ee-409e-b9cd-40b7f2ac3755/conversation-messages.json",
+  "studentInitialQuestion": "You're helping a high school teacher plan a creative geography lesson for a class with students of various interests and abilities. Could you deeply explain some innovative ways to teach latitude, longitude, and time zone calculation—including interactive activities, case studies, historical context, and methods for tackling common misunderstandings? Please also discuss how these ideas connect to real-world issues, artistic creativity, and critical thinking, and how to engage students who are easily distracted or creatively inclined. Please expand on this in detail.",
+  "studentInitialQuestionPath": "data/student-questions/初中地理经纬网与时区辅导助手/df33119b-64ee-409e-b9cd-40b7f2ac3755/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

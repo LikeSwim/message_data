@@ -1,0 +1,26 @@
+{
+  "runId": "0cb31cda-9bb1-4107-affb-93af929dc88f",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe499005ffewgbkZa8O5m6UeG",
+  "startedAt": "2026-03-18T16:10:26.672Z",
+  "finishedAt": "2026-03-18T16:11:57.802Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/0cb31cda-9bb1-4107-affb-93af929dc88f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/0cb31cda-9bb1-4107-affb-93af929dc88f/conversation-messages.json",
+  "studentInitialQuestion": "我是地理学科教学组组长，最近在教师研讨会上，大家都说学生分析地理统计图时容易出错，比如数据解读偏差、忽略多维信息、批判性思维不足。你作为专业地理教育专家，能从各个角度详细说说初中生在地理图表数据解读中常见误区、科学教学方法和创新能力培养吗？最好结合中华优秀传统文化和人地协调发展理念，提出具体的教学建议和评价方案。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/0cb31cda-9bb1-4107-affb-93af929dc88f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

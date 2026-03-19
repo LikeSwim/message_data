@@ -1,0 +1,26 @@
+{
+  "runId": "01f10236-2474-4694-8982-03875424cd13",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe764903ffeqTRN73zTaqS5vj",
+  "startedAt": "2026-03-18T15:21:35.736Z",
+  "finishedAt": "2026-03-18T15:22:01.232Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/01f10236-2474-4694-8982-03875424cd13/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/01f10236-2474-4694-8982-03875424cd13/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生家长，孩子对环保话题很有热情，但有时候比较急躁，不太喜欢枯燥的理论。你作为AI地理助教，能说说你的看法，比如全球性环境问题对青少年成长和责任感培养的意义，以及适合孩子参与的生活化活动建议吗？说说你的看法",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/01f10236-2474-4694-8982-03875424cd13/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

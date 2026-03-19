@@ -1,0 +1,26 @@
+{
+  "runId": "3e70352b-8c92-4439-b7d9-9ec7879ef878",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcd03616ffeUjJiqDVJ4uOIao",
+  "startedAt": "2026-03-18T23:02:36.768Z",
+  "finishedAt": "2026-03-18T23:04:00.452Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/3e70352b-8c92-4439-b7d9-9ec7879ef878/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/3e70352b-8c92-4439-b7d9-9ec7879ef878/conversation-messages.json",
+  "studentInitialQuestion": "Hi, I'm WilsonJordan, a 16-year-old senior high student. I balance VR development and athletics, and I like practical, actionable advice. Could you use a few sentences to explain what are the main considerations for choosing experimental apparatus when preparing common gases like oxygen, hydrogen, and carbon dioxide in chemistry class? I'd prefer a practical, concise answer.",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/3e70352b-8c92-4439-b7d9-9ec7879ef878/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

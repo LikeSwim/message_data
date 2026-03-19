@@ -1,0 +1,26 @@
+{
+  "runId": "bd12f19a-761a-44d7-b2a5-e6ca112d3398",
+  "sceneName": "初中几何证明思路引导师",
+  "title": "batch-初中几何证明思路引导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中几何证明思路引导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd8240e2ffec0YKK4ne8ma6OY",
+  "startedAt": "2026-03-18T19:48:08.597Z",
+  "finishedAt": "2026-03-18T19:49:18.626Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中几何证明思路引导师/bd12f19a-761a-44d7-b2a5-e6ca112d3398/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中几何证明思路引导师/bd12f19a-761a-44d7-b2a5-e6ca112d3398/conversation-messages.json",
+  "studentInitialQuestion": "我是初二班主任，最近发现班里学生做几何定理证明难度都挺大，大家不太自信，也不会归纳总结。你是几何教学专家，能不能系统地讲解一下，针对初中不同层次学生怎么搭建有效的几何定理证明教学体系？最好说说分层分步教学、典型案例、同伴互助、生活化引导、流程图和表格这些工具怎么用，还有怎么自然融入价值观，激发大家积极参与和自主探究。",
+  "studentInitialQuestionPath": "data/student-questions/初中几何证明思路引导师/bd12f19a-761a-44d7-b2a5-e6ca112d3398/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

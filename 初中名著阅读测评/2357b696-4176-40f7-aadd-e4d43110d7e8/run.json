@@ -1,0 +1,26 @@
+{
+  "runId": "2357b696-4176-40f7-aadd-e4d43110d7e8",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcf3a16affeLhGFN2CFmb0pJK",
+  "startedAt": "2026-03-18T22:23:55.536Z",
+  "finishedAt": "2026-03-18T22:25:05.476Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/2357b696-4176-40f7-aadd-e4d43110d7e8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/2357b696-4176-40f7-aadd-e4d43110d7e8/conversation-messages.json",
+  "studentInitialQuestion": "我是初中语文教研组长，最近要组织一次关于名著阅读考查的专题教研。你是语文教育专家，能不能系统地讲解一下初中名著阅读考查的整体设计思路？希望能从教学目标、重难点、分层推进、创新教学设计、评价方式，再到怎么自然融入传统文化和价值观等角度，全面、深入、系统地说说。",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/2357b696-4176-40f7-aadd-e4d43110d7e8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

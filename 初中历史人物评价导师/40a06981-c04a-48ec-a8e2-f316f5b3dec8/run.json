@@ -1,0 +1,26 @@
+{
+  "runId": "40a06981-c04a-48ec-a8e2-f316f5b3dec8",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd35e425ffe9OZEQTYvEG7yIf",
+  "startedAt": "2026-03-18T21:11:33.073Z",
+  "finishedAt": "2026-03-18T21:12:24.339Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/40a06981-c04a-48ec-a8e2-f316f5b3dec8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/40a06981-c04a-48ec-a8e2-f316f5b3dec8/conversation-messages.json",
+  "studentInitialQuestion": "I'm GarciaHannah, 15 years old and in 9th grade. I like yoga and programming, but I'm usually quiet and not that confident when talking in class. My teacher wants us to look at both the good and bad sides of Sun Yat-sen, but I don't want to make it complicated. Can you use a few sentences to explain how I can evaluate his achievements and faults? Just keep it brief so I get the main point.",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/40a06981-c04a-48ec-a8e2-f316f5b3dec8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

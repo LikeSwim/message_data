@@ -1,0 +1,26 @@
+{
+  "runId": "f91b8efc-3a9d-41aa-90b9-74291e040a72",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcf47310ffeZS6d27YqA8n4iE",
+  "startedAt": "2026-03-18T22:23:01.863Z",
+  "finishedAt": "2026-03-18T22:23:55.532Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/f91b8efc-3a9d-41aa-90b9-74291e040a72/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/f91b8efc-3a9d-41aa-90b9-74291e040a72/conversation-messages.json",
+  "studentInitialQuestion": "你是我的学习助手，能不能讲讲看，面对班里阅读能力差异比较大的情况，怎么设计一个有效的分层名著阅读考查方案？希望你能说说分层目标怎么设定，还有差异化辅导的方法。讲讲看。",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/f91b8efc-3a9d-41aa-90b9-74291e040a72/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

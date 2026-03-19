@@ -1,0 +1,26 @@
+{
+  "runId": "92fdc2db-e9f9-415e-b3a1-b2573a5275ab",
+  "sceneName": "初中诚信故事征集辅导",
+  "title": "batch-初中诚信故事征集辅导-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中诚信故事征集辅导",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fee871f3ffeEQ2iaE3Pu214fV",
+  "startedAt": "2026-03-18T13:16:54.145Z",
+  "finishedAt": "2026-03-18T13:18:33.089Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中诚信故事征集辅导/92fdc2db-e9f9-415e-b3a1-b2573a5275ab/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中诚信故事征集辅导/92fdc2db-e9f9-415e-b3a1-b2573a5275ab/conversation-messages.json",
+  "studentInitialQuestion": "你是德育专家，能帮我理解一下初中“身边的诚信故事征集”活动对学生人格和班级氛围有什么积极影响吗？最好结合实际案例讲讲诚信故事怎么帮助学生形成正确价值观和健康心理。帮我理解一下。",
+  "studentInitialQuestionPath": "data/student-questions/初中诚信故事征集辅导/92fdc2db-e9f9-415e-b3a1-b2573a5275ab/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

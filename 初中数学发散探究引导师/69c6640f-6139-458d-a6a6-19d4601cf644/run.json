@@ -1,0 +1,26 @@
+{
+  "runId": "69c6640f-6139-458d-a6a6-19d4601cf644",
+  "sceneName": "初中数学发散探究引导师",
+  "title": "batch-初中数学发散探究引导师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学发散探究引导师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc413e87ffeiwJurKn3vnc3tp",
+  "startedAt": "2026-03-19T01:38:46.263Z",
+  "finishedAt": "2026-03-19T01:42:32.012Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学发散探究引导师/69c6640f-6139-458d-a6a6-19d4601cf644/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学发散探究引导师/69c6640f-6139-458d-a6a6-19d4601cf644/conversation-messages.json",
+  "studentInitialQuestion": "我是初中学生家长，女儿性格活泼但有点粗心，做数学开放题容易漏条件，也不太会发散思考。你作为教育专家，能讲得详细点吗？请帮我分析下造成这种情况的原因，怎么结合她的性格培养发散思维，还有家长在家里能做哪些事情帮助她更好地探究数学发散性问题。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学发散探究引导师/69c6640f-6139-458d-a6a6-19d4601cf644/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

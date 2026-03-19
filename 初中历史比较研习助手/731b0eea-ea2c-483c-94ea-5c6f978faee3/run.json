@@ -1,0 +1,26 @@
+{
+  "runId": "731b0eea-ea2c-483c-94ea-5c6f978faee3",
+  "sceneName": "初中历史比较研习助手",
+  "title": "batch-初中历史比较研习助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史比较研习助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd6601feffeJZnUKcwum1qNzT",
+  "startedAt": "2026-03-18T20:18:59.703Z",
+  "finishedAt": "2026-03-18T20:20:55.661Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中历史比较研习助手/731b0eea-ea2c-483c-94ea-5c6f978faee3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史比较研习助手/731b0eea-ea2c-483c-94ea-5c6f978faee3/conversation-messages.json",
+  "studentInitialQuestion": "我是MillerDaniel，8年级男生，喜欢玩无人机和踢足球，但逻辑思维不太强，视觉记忆和理解比较快。你能彻底说清楚中国戊戌变法和日本明治维新这两场改革吗？希望能用图片、流程图或者实际活动帮我理解一下背景、过程、结果和影响，还能不能教我一些提升逻辑思维的比较分析方法？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史比较研习助手/731b0eea-ea2c-483c-94ea-5c6f978faee3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

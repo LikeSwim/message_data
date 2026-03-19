@@ -1,0 +1,26 @@
+{
+  "runId": "432da168-de11-4824-b5fa-9458b4a7c56e",
+  "sceneName": "初中历史地理环境分析助手",
+  "title": "batch-初中历史地理环境分析助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史地理环境分析助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd5a18f4ffeNaNTwE7pduDuKl",
+  "startedAt": "2026-03-18T20:32:00.259Z",
+  "finishedAt": "2026-03-18T20:33:36.130Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中历史地理环境分析助手/432da168-de11-4824-b5fa-9458b4a7c56e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史地理环境分析助手/432da168-de11-4824-b5fa-9458b4a7c56e/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，对地理环境和历史关系特别感兴趣，像气候、地形、河流这些因素到底怎么影响历史进程？能具体说说吗？最好举几个生活中能联想到的例子。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史地理环境分析助手/432da168-de11-4824-b5fa-9458b4a7c56e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

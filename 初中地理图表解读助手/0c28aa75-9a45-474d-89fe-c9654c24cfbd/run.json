@@ -1,0 +1,26 @@
+{
+  "runId": "0c28aa75-9a45-474d-89fe-c9654c24cfbd",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe45c074ffeQiyUoM4WQ4rWiP",
+  "startedAt": "2026-03-18T16:14:36.421Z",
+  "finishedAt": "2026-03-18T16:16:08.388Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/0c28aa75-9a45-474d-89fe-c9654c24cfbd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/0c28aa75-9a45-474d-89fe-c9654c24cfbd/conversation-messages.json",
+  "studentInitialQuestion": "你作为地理教学专家，我是林珊，老师，平时喜欢学习新技能和参加社区乒乓球活动，也常组织教师研讨会。能不能讲清楚点，在教学中怎么帮助学生系统分析地理图表数据，尤其是培养他们细致观察和创新思维，有哪些实用的教学策略？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/0c28aa75-9a45-474d-89fe-c9654c24cfbd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

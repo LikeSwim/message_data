@@ -1,0 +1,26 @@
+{
+  "runId": "1bb1c6a4-8be7-45fb-b4ed-2098f94634cd",
+  "sceneName": "初中电路故障与动态分析导师",
+  "title": "batch-初中电路故障与动态分析导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中电路故障与动态分析导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe2b344bffe5fmjuc4Wl3Sk8d",
+  "startedAt": "2026-03-18T16:43:36.237Z",
+  "finishedAt": "2026-03-18T16:45:19.350Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中电路故障与动态分析导师/1bb1c6a4-8be7-45fb-b4ed-2098f94634cd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中电路故障与动态分析导师/1bb1c6a4-8be7-45fb-b4ed-2098f94634cd/conversation-messages.json",
+  "studentInitialQuestion": "你作为初中物理教学专家，能系统地讲解一下初中物理电路故障与动态分析的核心知识点、常见故障类型和动态排查方法吗？希望你结合实验设计、学生能力培养、科学精神渗透等方面，讲讲分层教学和创新评价的综合策略，帮老师们全面提升学生的电路分析和创新实践能力。",
+  "studentInitialQuestionPath": "data/student-questions/初中电路故障与动态分析导师/1bb1c6a4-8be7-45fb-b4ed-2098f94634cd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

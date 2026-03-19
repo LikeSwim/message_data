@@ -1,0 +1,26 @@
+{
+  "runId": "d7191fd2-eb5b-4089-82d5-1d02a9399a08",
+  "sceneName": "初中历史概念辨析助手",
+  "title": "batch-初中历史概念辨析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史概念辨析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd52e150ffeTcHmgTTTeHFxoP",
+  "startedAt": "2026-03-18T20:39:53.257Z",
+  "finishedAt": "2026-03-18T20:40:23.665Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史概念辨析助手/d7191fd2-eb5b-4089-82d5-1d02a9399a08/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史概念辨析助手/d7191fd2-eb5b-4089-82d5-1d02a9399a08/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，你作为我的历史学习助手，最近我在复习时对“革命”和“改良”这两个词的具体含义和背后的历史意义有点模糊。能不能详细讲讲这两个概念的本质区别、各自的历史作用和现实启示？最好能鼓励我思考一下现实生活中的类似现象。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史概念辨析助手/d7191fd2-eb5b-4089-82d5-1d02a9399a08/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "f6fc9547-1121-4847-8ad5-297444ff450c",
+  "sceneName": "初中地理人口分布与迁移分析助手",
+  "title": "batch-初中地理人口分布与迁移分析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理人口分布与迁移分析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe528bbcffeboq8KsGSvavZ8X",
+  "startedAt": "2026-03-18T16:00:37.947Z",
+  "finishedAt": "2026-03-18T16:01:38.385Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/f6fc9547-1121-4847-8ad5-297444ff450c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/f6fc9547-1121-4847-8ad5-297444ff450c/conversation-messages.json",
+  "studentInitialQuestion": "I'm BrownJack, a 10-year-old 5th-grader who loves chess, skateboarding, and VR games. I usually stay focused and plan my activities well. In geography class, we're learning about why people live in some places and move to others, but I don't fully get how all the reasons connect. Can you explain this and give examples, maybe connecting it to things like chess or skateboarding, so it's easier for me to understand?",
+  "studentInitialQuestionPath": "data/student-questions/初中地理人口分布与迁移分析助手/f6fc9547-1121-4847-8ad5-297444ff450c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

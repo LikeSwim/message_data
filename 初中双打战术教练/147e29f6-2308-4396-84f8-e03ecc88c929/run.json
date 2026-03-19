@@ -1,0 +1,26 @@
+{
+  "runId": "147e29f6-2308-4396-84f8-e03ecc88c929",
+  "sceneName": "初中双打战术教练",
+  "title": "batch-初中双打战术教练-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中双打战术教练",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbf22ea1ffe0AxKaBL3322Sd6",
+  "startedAt": "2026-03-19T03:05:07.674Z",
+  "finishedAt": "2026-03-19T03:06:31.122Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中双打战术教练/147e29f6-2308-4396-84f8-e03ecc88c929/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中双打战术教练/147e29f6-2308-4396-84f8-e03ecc88c929/conversation-messages.json",
+  "studentInitialQuestion": "说说你的看法：我是ThompsonJacob，31岁，男性兽医，平时喜欢科学探究、徒步、园艺（种植宠物友好型植物）和野生动物/宠物摄影，性格偏重实践，生活方式讲究结构和亲近自然。你作为体育教学顾问，怎么结合我的兴趣和性格，把乒乓球或羽毛球双打配合训练有效地融入我的生活，让我既能提升团队协作又能激发创造力？",
+  "studentInitialQuestionPath": "data/student-questions/初中双打战术教练/147e29f6-2308-4396-84f8-e03ecc88c929/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

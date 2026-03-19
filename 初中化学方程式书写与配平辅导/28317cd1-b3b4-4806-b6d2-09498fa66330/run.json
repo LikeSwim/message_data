@@ -1,0 +1,26 @@
+{
+  "runId": "28317cd1-b3b4-4806-b6d2-09498fa66330",
+  "sceneName": "初中化学方程式书写与配平辅导",
+  "title": "batch-初中化学方程式书写与配平辅导-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式书写与配平辅导",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdd832d6ffe7r07vbATfsQJW8",
+  "startedAt": "2026-03-18T18:14:14.878Z",
+  "finishedAt": "2026-03-18T18:19:10.749Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中化学方程式书写与配平辅导/28317cd1-b3b4-4806-b6d2-09498fa66330/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式书写与配平辅导/28317cd1-b3b4-4806-b6d2-09498fa66330/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学老师周波，平时喜欢打篮球、踢足球，教学时充满活力但偶尔会忽略细节。最近教学生化学方程式的书写和配平技巧，发现他们对配平规律掌握得不牢，有些关键步骤我自己也偶有疏忽。你能彻底说清楚初中化学方程式书写与配平的系统教学思路吗？希望你能讲讲科学方法、课堂活动、常见错误如何纠正、怎么激发学生兴趣，以及怎样通过团队合作和实验精神培养他们的探究能力。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式书写与配平辅导/28317cd1-b3b4-4806-b6d2-09498fa66330/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

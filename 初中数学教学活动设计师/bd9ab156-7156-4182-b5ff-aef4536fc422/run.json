@@ -1,0 +1,26 @@
+{
+  "runId": "bd9ab156-7156-4182-b5ff-aef4536fc422",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc2f4dadffeTsd9TOBQDNg5Rb",
+  "startedAt": "2026-03-19T01:58:22.029Z",
+  "finishedAt": "2026-03-19T01:58:57.972Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/bd9ab156-7156-4182-b5ff-aef4536fc422/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/bd9ab156-7156-4182-b5ff-aef4536fc422/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学教研组长，最近发现有些学生概率和统计知识薄弱，只记公式不会应用。你能全面分析一下这类教学活动应该怎么设计吗？希望能提升学生实际应用能力，引导他们主动探究、合作学习，还能在课堂里自然融入公平、诚信、创新这些价值观。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/bd9ab156-7156-4182-b5ff-aef4536fc422/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

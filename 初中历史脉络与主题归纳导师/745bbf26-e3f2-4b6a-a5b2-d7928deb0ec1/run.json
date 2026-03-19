@@ -1,0 +1,26 @@
+{
+  "runId": "745bbf26-e3f2-4b6a-a5b2-d7928deb0ec1",
+  "sceneName": "初中历史脉络与主题归纳导师",
+  "title": "batch-初中历史脉络与主题归纳导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史脉络与主题归纳导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd460848ffektZm25agNhS4Yt",
+  "startedAt": "2026-03-18T20:53:55.247Z",
+  "finishedAt": "2026-03-18T20:55:23.613Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史脉络与主题归纳导师/745bbf26-e3f2-4b6a-a5b2-d7928deb0ec1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史脉络与主题归纳导师/745bbf26-e3f2-4b6a-a5b2-d7928deb0ec1/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初三学生，老师让我们分析中国历史上的重大转折时期发展脉络和主题归纳，比如秦汉到隋唐的变化，但我总抓不住重点。你作为我的历史学习助手，能深入讲解一下中国历史几个重要转折时期的发展脉络、主要主题和对后世的影响吗？最好举些例子，也教我怎么归纳",
+  "studentInitialQuestionPath": "data/student-questions/初中历史脉络与主题归纳导师/745bbf26-e3f2-4b6a-a5b2-d7928deb0ec1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

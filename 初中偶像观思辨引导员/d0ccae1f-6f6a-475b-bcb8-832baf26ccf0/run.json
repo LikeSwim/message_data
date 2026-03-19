@@ -1,0 +1,26 @@
+{
+  "runId": "d0ccae1f-6f6a-475b-bcb8-832baf26ccf0",
+  "sceneName": "初中偶像观思辨引导员",
+  "title": "batch-初中偶像观思辨引导员-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中偶像观思辨引导员",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fce8cf06ffeiTsPRIVlduK1Me",
+  "startedAt": "2026-03-18T22:35:44.755Z",
+  "finishedAt": "2026-03-18T22:37:33.935Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中偶像观思辨引导员/d0ccae1f-6f6a-475b-bcb8-832baf26ccf0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中偶像观思辨引导员/d0ccae1f-6f6a-475b-bcb8-832baf26ccf0/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生家长，发现孩子喜欢网络偶像，开始模仿偶像穿着和说话，但对偶像行为其实不太了解。你作为家庭教育咨询师，详细说说家长该怎么沟通和引导孩子，帮助他们树立正确价值观吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中偶像观思辨引导员/d0ccae1f-6f6a-475b-bcb8-832baf26ccf0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

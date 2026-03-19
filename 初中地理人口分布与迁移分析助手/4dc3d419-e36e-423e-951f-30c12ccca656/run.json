@@ -1,0 +1,26 @@
+{
+  "runId": "4dc3d419-e36e-423e-951f-30c12ccca656",
+  "sceneName": "初中地理人口分布与迁移分析助手",
+  "title": "batch-初中地理人口分布与迁移分析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理人口分布与迁移分析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe552339ffeexnIUIsQDs045E",
+  "startedAt": "2026-03-18T15:57:48.100Z",
+  "finishedAt": "2026-03-18T15:58:54.825Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/4dc3d419-e36e-423e-951f-30c12ccca656/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/4dc3d419-e36e-423e-951f-30c12ccca656/conversation-messages.json",
+  "studentInitialQuestion": "As a geography teacher with a logical approach who enjoys vocal music and baking, I want to help my students understand the reasons behind population distribution and migration, especially the interplay of natural, economic, and cultural factors. Can you explain this and give some detailed examples so I can make my teaching clearer for students with different backgrounds?",
+  "studentInitialQuestionPath": "data/student-questions/初中地理人口分布与迁移分析助手/4dc3d419-e36e-423e-951f-30c12ccca656/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

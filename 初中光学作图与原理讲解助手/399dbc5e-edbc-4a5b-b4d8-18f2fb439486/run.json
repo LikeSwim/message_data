@@ -1,0 +1,26 @@
+{
+  "runId": "399dbc5e-edbc-4a5b-b4d8-18f2fb439486",
+  "sceneName": "初中光学作图与原理讲解助手",
+  "title": "batch-初中光学作图与原理讲解助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中光学作图与原理讲解助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe07a6eaffe5lAxEuEyQuPn5h",
+  "startedAt": "2026-03-18T17:22:26.186Z",
+  "finishedAt": "2026-03-18T17:23:15.954Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中光学作图与原理讲解助手/399dbc5e-edbc-4a5b-b4d8-18f2fb439486/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中光学作图与原理讲解助手/399dbc5e-edbc-4a5b-b4d8-18f2fb439486/conversation-messages.json",
+  "studentInitialQuestion": "我是初中物理小组长，课上发现同学们在画光的反射和折射现象时总是漏掉入射线和法线的关系。你能讲清楚点，光线和法线的关系在作图中为什么重要，还有怎么帮大家注意这个细节吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中光学作图与原理讲解助手/399dbc5e-edbc-4a5b-b4d8-18f2fb439486/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

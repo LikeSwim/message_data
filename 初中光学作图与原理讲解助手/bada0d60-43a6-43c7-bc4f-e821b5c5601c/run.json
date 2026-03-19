@@ -1,0 +1,26 @@
+{
+  "runId": "bada0d60-43a6-43c7-bc4f-e821b5c5601c",
+  "sceneName": "初中光学作图与原理讲解助手",
+  "title": "batch-初中光学作图与原理讲解助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中光学作图与原理讲解助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe06e481ffebEjJfFBGE3JINC",
+  "startedAt": "2026-03-18T17:23:15.958Z",
+  "finishedAt": "2026-03-18T17:23:39.504Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中光学作图与原理讲解助手/bada0d60-43a6-43c7-bc4f-e821b5c5601c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中光学作图与原理讲解助手/bada0d60-43a6-43c7-bc4f-e821b5c5601c/conversation-messages.json",
+  "studentInitialQuestion": "我是物理老师，最近在讲光学现象时，学生对作图和原理解释还是有点混乱。你能概括一下光学现象作图的常见误区和改进建议吗？我想在课堂上快速提醒学生注意。",
+  "studentInitialQuestionPath": "data/student-questions/初中光学作图与原理讲解助手/bada0d60-43a6-43c7-bc4f-e821b5c5601c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

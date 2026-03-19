@@ -1,0 +1,26 @@
+{
+  "runId": "5997232b-ad50-49f0-8551-9eaff5ec45c0",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fea69c2affezILclurfeYkW2d",
+  "startedAt": "2026-03-18T14:28:48.720Z",
+  "finishedAt": "2026-03-18T14:32:18.190Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/5997232b-ad50-49f0-8551-9eaff5ec45c0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/5997232b-ad50-49f0-8551-9eaff5ec45c0/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，最近班里的学生对板块运动和地貌塑造很感兴趣，不过他们喜欢用故事和模型来学习。你能详细展开说说板块运动的基本原理和地貌的形成过程吗？最好能结合生动的故事和模型制作方式，推荐点适合初中生的互动教学活动，能激发他们主动探究的兴趣，也要自然融入人与自然和谐共生这些价值观。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/5997232b-ad50-49f0-8551-9eaff5ec45c0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

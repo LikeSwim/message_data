@@ -1,0 +1,26 @@
+{
+  "runId": "ec469b3d-584b-4f5d-95bb-e37878925853",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcd1e551ffeqRLXdL5p03U3YP",
+  "startedAt": "2026-03-18T23:00:46.379Z",
+  "finishedAt": "2026-03-18T23:01:39.117Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/ec469b3d-584b-4f5d-95bb-e37878925853/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/ec469b3d-584b-4f5d-95bb-e37878925853/conversation-messages.json",
+  "studentInitialQuestion": "我叫崔彤颖，今年15岁，是个初三女生，喜欢弹尤克里里和画线描水彩。化学实验时我有点选择性迎合，遇到制备气体装置的题目总觉得难以全面考虑。你能不能结合我的兴趣和性格，从氧气、氢气、二氧化碳的制备，帮我讲清楚装置选择的原理和思路？最好能举些贴近生活或艺术创作的小例子，让我容易理解，讲清楚点。",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/ec469b3d-584b-4f5d-95bb-e37878925853/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "7912408a-07a2-460c-a973-03d4301c83aa",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdf095e6ffe3mk0Ocj6c8wS1o",
+  "startedAt": "2026-03-18T17:47:37.873Z",
+  "finishedAt": "2026-03-18T17:50:03.261Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/7912408a-07a2-460c-a973-03d4301c83aa/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/7912408a-07a2-460c-a973-03d4301c83aa/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初二学生，化学成绩一般，总觉得化学基本定律挺抽象的。你作为我的学习顾问，能帮我理解一下化学基本定律的内容、含义、生活中的例子吗？麻烦你详细说说，分点讲讲主要知识点，帮我更好掌握。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/7912408a-07a2-460c-a973-03d4301c83aa/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

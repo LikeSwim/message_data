@@ -1,0 +1,26 @@
+{
+  "runId": "a2ccd7dc-54b3-4746-838f-dbbc4cf34454",
+  "sceneName": "初中生物分类与进化辅导员",
+  "title": "batch-初中生物分类与进化辅导员-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物分类与进化辅导员",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc999b1effe8R7fy4fe6mnt6U",
+  "startedAt": "2026-03-19T00:02:15.388Z",
+  "finishedAt": "2026-03-19T00:03:03.749Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物分类与进化辅导员/a2ccd7dc-54b3-4746-838f-dbbc4cf34454/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物分类与进化辅导员/a2ccd7dc-54b3-4746-838f-dbbc4cf34454/conversation-messages.json",
+  "studentInitialQuestion": "Hi, I am TaylorGrace, a 22-year-old yoga instructor who maintains a balanced lifestyle through yoga, nutrition studies, and reading spiritual/self-help books. I’m interested in how the scientific ideas behind biological classification and evolution can inspire a greater respect for life and nature in wellness communities. As an emotionally stable person who enjoys fostering connections through movement arts, could you please provide a detailed analysis of how understanding biological classification systems and evolutionary thought can deepen our appreciation for life’s diversity, and suggest ways to incorporate these insights into wellness or yoga education? Please detailedly analyze all relevant aspects.",
+  "studentInitialQuestionPath": "data/student-questions/初中生物分类与进化辅导员/a2ccd7dc-54b3-4746-838f-dbbc4cf34454/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

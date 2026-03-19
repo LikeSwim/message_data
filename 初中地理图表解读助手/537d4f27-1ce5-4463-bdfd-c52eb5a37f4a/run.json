@@ -1,0 +1,26 @@
+{
+  "runId": "537d4f27-1ce5-4463-bdfd-c52eb5a37f4a",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe43c115ffeJmGp9gR1aCGJoW",
+  "startedAt": "2026-03-18T16:16:47.330Z",
+  "finishedAt": "2026-03-18T16:18:31.443Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/537d4f27-1ce5-4463-bdfd-c52eb5a37f4a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/537d4f27-1ce5-4463-bdfd-c52eb5a37f4a/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生，对地理图表数据特别好奇，尤其想知道洪水、地震、台风这些地理灾害分布图背后有哪些影响因素。你能详细讲讲怎么科学解读这类灾害分布图、常见陷阱是什么，还有怎么从人与自然和谐的角度分析吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/537d4f27-1ce5-4463-bdfd-c52eb5a37f4a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

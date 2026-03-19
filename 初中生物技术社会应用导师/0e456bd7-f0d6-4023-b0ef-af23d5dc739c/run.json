@@ -1,0 +1,26 @@
+{
+  "runId": "0e456bd7-f0d6-4023-b0ef-af23d5dc739c",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc8944b7ffeKtgC2ZktBFbzYI",
+  "startedAt": "2026-03-19T00:20:06.081Z",
+  "finishedAt": "2026-03-19T00:21:52.075Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/0e456bd7-f0d6-4023-b0ef-af23d5dc739c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/0e456bd7-f0d6-4023-b0ef-af23d5dc739c/conversation-messages.json",
+  "studentInitialQuestion": "我是高一女生简莲，喜欢和朋友练瑜伽、研究美妆，也参加声乐社团，和妈妈关系很好，但对生物课的小组合作总是没什么兴趣，觉得不太自在。我发现现在很多化妆品、护肤品广告都会提到‘生物科技’，像玻尿酸、胶原蛋白什么的。你能作为生物学和生活导师，系统地讲讲现代生物技术在我们日常生活，比如护肤品、健康产品、运动等方面的应用和影响吗？希望能讲得具体点，也能结合我的兴趣和性格给我一些合适的学习建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/0e456bd7-f0d6-4023-b0ef-af23d5dc739c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "c7308e3a-1404-4bf8-9652-71edb3781bd0",
+  "sceneName": "初中诚信故事征集辅导",
+  "title": "batch-初中诚信故事征集辅导-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中诚信故事征集辅导",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fee6ef7affeMZlPTiHigDInSG",
+  "startedAt": "2026-03-18T13:18:33.091Z",
+  "finishedAt": "2026-03-18T13:20:54.668Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中诚信故事征集辅导/c7308e3a-1404-4bf8-9652-71edb3781bd0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中诚信故事征集辅导/c7308e3a-1404-4bf8-9652-71edb3781bd0/conversation-messages.json",
+  "studentInitialQuestion": "你作为教学顾问，能详细展开说说在初中怎么把“身边的诚信故事征集”活动和学科教学、班级文化、学生心理发展结合起来吗？比如用情景剧、故事分享会、主题班会等创新形式，怎么让诚信品质真正成为学生的习惯？希望你能提出系统方案和具体案例，详细展开说说。",
+  "studentInitialQuestionPath": "data/student-questions/初中诚信故事征集辅导/c7308e3a-1404-4bf8-9652-71edb3781bd0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

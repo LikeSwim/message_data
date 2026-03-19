@@ -1,0 +1,26 @@
+{
+  "runId": "dfeaad56-5ea1-4018-8eb1-5fdba3c4dc20",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc4e3443ffeNgKYV9kLdgROQM",
+  "startedAt": "2026-03-19T01:24:36.918Z",
+  "finishedAt": "2026-03-19T01:25:20.923Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/dfeaad56-5ea1-4018-8eb1-5fdba3c4dc20/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/dfeaad56-5ea1-4018-8eb1-5fdba3c4dc20/conversation-messages.json",
+  "studentInitialQuestion": "你作为数学教育专家，我在辅导初二学生做几何题时，发现他们证明三角形全等经常忽略条件或者搞混判定方法，比如把SAS和ASA弄混了。能解释一下这种错题出现的原因吗？希望能得到一些切实的改进方法。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/dfeaad56-5ea1-4018-8eb1-5fdba3c4dc20/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

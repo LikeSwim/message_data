@@ -1,0 +1,26 @@
+{
+  "runId": "9a818763-b362-42e4-831e-216b5d1f42e3",
+  "sceneName": "初中传统色彩纹样美育导师",
+  "title": "batch-初中传统色彩纹样美育导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中传统色彩纹样美育导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fee34ec9ffeE1JWOuKh1qNiYJ",
+  "startedAt": "2026-03-18T13:22:30.835Z",
+  "finishedAt": "2026-03-18T13:25:19.588Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中传统色彩纹样美育导师/9a818763-b362-42e4-831e-216b5d1f42e3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中传统色彩纹样美育导师/9a818763-b362-42e4-831e-216b5d1f42e3/conversation-messages.json",
+  "studentInitialQuestion": "我是初中美术老师，最近发现班里学生对中国传统色彩和纹样都不太感兴趣，课堂气氛有点冷淡。你作为美育专家，能具体说说吗？帮我分析下可能原因，还想听听针对不同兴趣和基础层次学生该怎么激励和设计教学，让课堂氛围能热起来，学生能主动参与。能具体说说吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中传统色彩纹样美育导师/9a818763-b362-42e4-831e-216b5d1f42e3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

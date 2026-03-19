@@ -1,0 +1,26 @@
+{
+  "runId": "8a1b24bd-aae7-400a-ab63-882342f84f50",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcd61331ffe38C4bb9Fubc2G5",
+  "startedAt": "2026-03-18T22:56:12.486Z",
+  "finishedAt": "2026-03-18T22:59:39.533Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/8a1b24bd-aae7-400a-ab63-882342f84f50/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/8a1b24bd-aae7-400a-ab63-882342f84f50/conversation-messages.json",
+  "studentInitialQuestion": "我是初中体育老师，班里有些学生对排球垫球和传球接力没兴趣还怕难。你能详细讲讲怎么通过创新活动、分层激励和情感沟通帮他们建立自信和兴趣吗？最好能结合实际案例说明，还能融入体育精神和传统美德。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/8a1b24bd-aae7-400a-ab63-882342f84f50/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

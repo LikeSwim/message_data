@@ -1,0 +1,26 @@
+{
+  "runId": "eef8908d-1ca5-49d2-b203-1c45d288ca35",
+  "sceneName": "初中地理气候类型辅导助手",
+  "title": "batch-初中地理气候类型辅导助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理气候类型辅导助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe673742ffePUQhpjR7gsm2F4",
+  "startedAt": "2026-03-18T15:38:03.315Z",
+  "finishedAt": "2026-03-18T15:38:45.296Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理气候类型辅导助手/eef8908d-1ca5-49d2-b203-1c45d288ca35/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理气候类型辅导助手/eef8908d-1ca5-49d2-b203-1c45d288ca35/conversation-messages.json",
+  "studentInitialQuestion": "我是苏真，五年级女生，喜欢串珠和街舞，理解力一般，有时候思维跳得快。我在地理课上老师讲世界气候类型的分布和成因，我觉得有点复杂，能不能讲讲看，最好结合串珠、街舞或者我平时的生活来举例，让我容易理解些？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理气候类型辅导助手/eef8908d-1ca5-49d2-b203-1c45d288ca35/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

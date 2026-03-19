@@ -1,0 +1,26 @@
+{
+  "runId": "8ff3b2d3-db9b-42cd-a2f1-708029fe1b9f",
+  "sceneName": "初中生物系统协调分析助手",
+  "title": "batch-初中生物系统协调分析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物系统协调分析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6ba594ffeMAxpb34hZ5GTL3",
+  "startedAt": "2026-03-19T00:52:27.362Z",
+  "finishedAt": "2026-03-19T00:53:36.261Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生物系统协调分析助手/8ff3b2d3-db9b-42cd-a2f1-708029fe1b9f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物系统协调分析助手/8ff3b2d3-db9b-42cd-a2f1-708029fe1b9f/conversation-messages.json",
+  "studentInitialQuestion": "你作为生物教育专家，我是一名初中生物老师，最近要给学生讲人体各大系统（比如消化、循环、呼吸、神经）怎么协调配合的内容。我的学生基础不一，有的爱提问，有的喜欢小组活动。能结合实际教学案例，详细讲讲各系统协作的科学原理，并分享些能激发学生参与和创造力的教学方法吗？详细讲讲",
+  "studentInitialQuestionPath": "data/student-questions/初中生物系统协调分析助手/8ff3b2d3-db9b-42cd-a2f1-708029fe1b9f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

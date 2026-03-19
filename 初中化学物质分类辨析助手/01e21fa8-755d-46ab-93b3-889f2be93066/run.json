@@ -1,0 +1,26 @@
+{
+  "runId": "01e21fa8-755d-46ab-93b3-889f2be93066",
+  "sceneName": "初中化学物质分类辨析助手",
+  "title": "batch-初中化学物质分类辨析助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学物质分类辨析助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd8f15f5ffeapIAVW6BBCj0IN",
+  "startedAt": "2026-03-18T19:34:07.618Z",
+  "finishedAt": "2026-03-18T19:35:39.668Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学物质分类辨析助手/01e21fa8-755d-46ab-93b3-889f2be93066/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学物质分类辨析助手/01e21fa8-755d-46ab-93b3-889f2be93066/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，老师刚讲了物质分类但我还是有点迷糊。你能简短回答下初中化学里物质分类的主要内容和怎么区分吗？简短回答下吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学物质分类辨析助手/01e21fa8-755d-46ab-93b3-889f2be93066/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

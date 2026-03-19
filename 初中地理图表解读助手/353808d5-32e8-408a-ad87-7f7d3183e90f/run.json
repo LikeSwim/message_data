@@ -1,0 +1,26 @@
+{
+  "runId": "353808d5-32e8-408a-ad87-7f7d3183e90f",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe482c06ffeNYNdQMiy6PuTC7",
+  "startedAt": "2026-03-18T16:11:57.808Z",
+  "finishedAt": "2026-03-18T16:12:40.907Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/353808d5-32e8-408a-ad87-7f7d3183e90f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/353808d5-32e8-408a-ad87-7f7d3183e90f/conversation-messages.json",
+  "studentInitialQuestion": "我是高一学生韩振，喜欢机器人竞赛和摄影，逻辑性不强，记忆也有点碎片化，平时和同学关系不太近。最近分析气温变化折线图时常常分不清各月份的趋势，很容易混淆数据。你作为地理学习顾问，能帮我理解一下怎么提高对地理图表（比如气温变化折线图）的分析能力吗？结合我的兴趣和性格，讲讲看，有例子就更好了。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/353808d5-32e8-408a-ad87-7f7d3183e90f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

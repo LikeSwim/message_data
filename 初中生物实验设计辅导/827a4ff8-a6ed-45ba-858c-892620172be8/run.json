@@ -1,0 +1,26 @@
+{
+  "runId": "827a4ff8-a6ed-45ba-858c-892620172be8",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc75cfe1ffeHoo40P9nMRTHHq",
+  "startedAt": "2026-03-19T00:41:21.177Z",
+  "finishedAt": "2026-03-19T00:42:01.377Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/827a4ff8-a6ed-45ba-858c-892620172be8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/827a4ff8-a6ed-45ba-858c-892620172be8/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，班里学生能力参差不齐，有些对实验设计很感兴趣，有些很被动。我们要做“温度对细胞呼吸的影响”实验，能彻底说清楚怎么科学设计、变量控制、分层教学和激发学生积极性吗？最好能自然融合科学探究精神和核心价值观，举些案例和策略。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/827a4ff8-a6ed-45ba-858c-892620172be8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "96b50a43-de6f-409d-b4de-8d9d8418b367",
+  "sceneName": "初中地理河流地貌学习助手",
+  "title": "batch-初中地理河流地貌学习助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理河流地貌学习助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe913157ffe6R5cBLEnC2Feb3",
+  "startedAt": "2026-03-18T14:52:12.320Z",
+  "finishedAt": "2026-03-18T14:54:12.349Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理河流地貌学习助手/96b50a43-de6f-409d-b4de-8d9d8418b367/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理河流地貌学习助手/96b50a43-de6f-409d-b4de-8d9d8418b367/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的地理老师，最近备课时发现自己对河流地貌的发育与影响理解还不够系统。你作为教育专家，能不能从各个方面详细分析一下河流地貌的发育阶段、类型、形成条件、演化机制、对生态和社会的影响，还有教学重难点、启发式教学建议和案例分析，帮我全面提升教学能力？请详细分析下各个方面。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理河流地貌学习助手/96b50a43-de6f-409d-b4de-8d9d8418b367/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "6acda345-bf0c-49ab-9a9b-fd59e503ea0b",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc18f64bffekyDeBoO1Wfi8jn",
+  "startedAt": "2026-03-19T02:22:46.190Z",
+  "finishedAt": "2026-03-19T02:23:35.161Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/6acda345-bf0c-49ab-9a9b-fd59e503ea0b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/6acda345-bf0c-49ab-9a9b-fd59e503ea0b/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学老师，发现学生经常把“勾股定理”和“相似三角形定理”弄混。你作为教学顾问，能不能从各个角度详细说说这两个定理的区别、应用、证明和易错点？最好还能带点传统文化元素，帮我优化教学设计。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/6acda345-bf0c-49ab-9a9b-fd59e503ea0b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

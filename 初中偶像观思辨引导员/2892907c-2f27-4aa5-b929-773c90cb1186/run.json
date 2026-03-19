@@ -1,0 +1,26 @@
+{
+  "runId": "2892907c-2f27-4aa5-b929-773c90cb1186",
+  "sceneName": "初中偶像观思辨引导员",
+  "title": "batch-初中偶像观思辨引导员-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中偶像观思辨引导员",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fce2846effekwHNZNGUpxb3vB",
+  "startedAt": "2026-03-18T22:42:37.069Z",
+  "finishedAt": "2026-03-18T22:44:31.917Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中偶像观思辨引导员/2892907c-2f27-4aa5-b929-773c90cb1186/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中偶像观思辨引导员/2892907c-2f27-4aa5-b929-773c90cb1186/conversation-messages.json",
+  "studentInitialQuestion": "我们德育课最近小组讨论‘偶像观’，大家对偶像的定义和选择标准意见很不一样。你觉得什么样的人值得被当偶像？有哪些标准？简要说明下。",
+  "studentInitialQuestionPath": "data/student-questions/初中偶像观思辨引导员/2892907c-2f27-4aa5-b929-773c90cb1186/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

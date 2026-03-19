@@ -1,0 +1,26 @@
+{
+  "runId": "6006b5d2-b98e-45f8-9ca0-18f8c53e9bbc",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd370831ffeyMUanIz0CuiGmT",
+  "startedAt": "2026-03-18T21:10:18.312Z",
+  "finishedAt": "2026-03-18T21:11:33.068Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/6006b5d2-b98e-45f8-9ca0-18f8c53e9bbc/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/6006b5d2-b98e-45f8-9ca0-18f8c53e9bbc/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，最近对评价历史人物挺感兴趣，尤其是像林则徐这种既有贡献又有争议的人。老师让我们写一篇分析林则徐功过的论文，我有点不知道怎么系统展开。你能帮我深入了解一下吗？希望你能详细分析他的重要事迹、贡献和争议，还能教我怎么培养批判性历史思维。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/6006b5d2-b98e-45f8-9ca0-18f8c53e9bbc/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

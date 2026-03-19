@@ -1,0 +1,26 @@
+{
+  "runId": "371ff321-1157-4baa-b104-268a8c97400c",
+  "sceneName": "初中历史地理环境分析助手",
+  "title": "batch-初中历史地理环境分析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史地理环境分析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd60fff6ffe7sDNwbzeioxJfZ",
+  "startedAt": "2026-03-18T20:24:26.720Z",
+  "finishedAt": "2026-03-18T20:24:48.605Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史地理环境分析助手/371ff321-1157-4baa-b104-268a8c97400c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史地理环境分析助手/371ff321-1157-4baa-b104-268a8c97400c/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，老师最近讲了地理环境对历史进程的影响，用黄河和长江流域做了例子，但我还是有点不懂地理环境到底怎么影响历史发展。能解释一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史地理环境分析助手/371ff321-1157-4baa-b104-268a8c97400c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "c27789c9-8920-41b2-bb78-9e2695f83f4d",
+  "sceneName": "初中化学物质分类辨析助手",
+  "title": "batch-初中化学物质分类辨析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学物质分类辨析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd96913bffeG21ee0rHT8qj8r",
+  "startedAt": "2026-03-18T19:25:56.109Z",
+  "finishedAt": "2026-03-18T19:26:32.315Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学物质分类辨析助手/c27789c9-8920-41b2-bb78-9e2695f83f4d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学物质分类辨析助手/c27789c9-8920-41b2-bb78-9e2695f83f4d/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学新手老师，最近发现班里的学生总把纯净物和混合物、单质和化合物搞混，你作为教育专家，能深入讲解一下初中化学里物质分类的标准、常见误区、辨析方法和生活中的实际案例吗？能深入讲解一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学物质分类辨析助手/c27789c9-8920-41b2-bb78-9e2695f83f4d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

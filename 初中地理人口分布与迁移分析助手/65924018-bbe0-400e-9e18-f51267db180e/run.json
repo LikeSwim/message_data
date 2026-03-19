@@ -1,0 +1,26 @@
+{
+  "runId": "65924018-bbe0-400e-9e18-f51267db180e",
+  "sceneName": "初中地理人口分布与迁移分析助手",
+  "title": "batch-初中地理人口分布与迁移分析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理人口分布与迁移分析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe5a10ebffeQlCshmnc6sZeiF",
+  "startedAt": "2026-03-18T15:52:23.896Z",
+  "finishedAt": "2026-03-18T15:53:36.573Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/65924018-bbe0-400e-9e18-f51267db180e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/65924018-bbe0-400e-9e18-f51267db180e/conversation-messages.json",
+  "studentInitialQuestion": "我是五年级女生叶仪，平时喜欢越剧和书法，家里很重视传统文化，但我觉得自己逻辑性不太强，也不太自信。最近地理课讲到人口分布和迁移的原因，我对这个知识点有点迷糊。你能结合我的兴趣和背景，大概讲讲人口分布和迁移的主要原因吗？希望能举些贴近生活的例子，让我容易理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理人口分布与迁移分析助手/65924018-bbe0-400e-9e18-f51267db180e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

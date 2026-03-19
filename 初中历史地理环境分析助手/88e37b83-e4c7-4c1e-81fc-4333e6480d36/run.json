@@ -1,0 +1,26 @@
+{
+  "runId": "88e37b83-e4c7-4c1e-81fc-4333e6480d36",
+  "sceneName": "初中历史地理环境分析助手",
+  "title": "batch-初中历史地理环境分析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史地理环境分析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd5c3306ffeY8VruHFAaC59hC",
+  "startedAt": "2026-03-18T20:29:42.516Z",
+  "finishedAt": "2026-03-18T20:30:47.542Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史地理环境分析助手/88e37b83-e4c7-4c1e-81fc-4333e6480d36/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史地理环境分析助手/88e37b83-e4c7-4c1e-81fc-4333e6480d36/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，老师让我们举例说明地理环境怎么影响历史进程，可我不会举例。你能解释一下吗？帮我用几个好懂的例子讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史地理环境分析助手/88e37b83-e4c7-4c1e-81fc-4333e6480d36/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

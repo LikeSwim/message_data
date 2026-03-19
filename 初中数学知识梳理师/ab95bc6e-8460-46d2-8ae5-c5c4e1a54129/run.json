@@ -1,0 +1,26 @@
+{
+  "runId": "ab95bc6e-8460-46d2-8ae5-c5c4e1a54129",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbfe109bffeNbrb9iLpyZg7OZ",
+  "startedAt": "2026-03-19T02:52:08.930Z",
+  "finishedAt": "2026-03-19T02:53:39.469Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/ab95bc6e-8460-46d2-8ae5-c5c4e1a54129/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/ab95bc6e-8460-46d2-8ae5-c5c4e1a54129/conversation-messages.json",
+  "studentInitialQuestion": "我是初一新生，最近学正负数的时候老是搞不清加减法，遇到括号和绝对值就更容易出错。你能系统梳理一下这部分知识点，并把容易混淆的地方讲清楚点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/ab95bc6e-8460-46d2-8ae5-c5c4e1a54129/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

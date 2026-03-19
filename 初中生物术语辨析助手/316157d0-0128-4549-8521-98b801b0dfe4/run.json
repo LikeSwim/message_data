@@ -1,0 +1,26 @@
+{
+  "runId": "316157d0-0128-4549-8521-98b801b0dfe4",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6ea992ffe2gEjdd7uG1wQj4",
+  "startedAt": "2026-03-19T00:49:09.733Z",
+  "finishedAt": "2026-03-19T00:50:09.461Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/316157d0-0128-4549-8521-98b801b0dfe4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/316157d0-0128-4549-8521-98b801b0dfe4/conversation-messages.json",
+  "studentInitialQuestion": "我在备考生物时发现“原核细胞”和“真核细胞”这两个词总记不住具体区别。能不能彻底说清楚它们在结构、功能和进化上的异同？内容要全面系统，最好结合常见生物实例和学习建议，帮助我形成整体认识。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/316157d0-0128-4549-8521-98b801b0dfe4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

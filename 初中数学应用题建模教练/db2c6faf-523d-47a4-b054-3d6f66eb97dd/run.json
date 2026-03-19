@@ -1,0 +1,26 @@
+{
+  "runId": "db2c6faf-523d-47a4-b054-3d6f66eb97dd",
+  "sceneName": "初中数学应用题建模教练",
+  "title": "batch-初中数学应用题建模教练-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学应用题建模教练",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc15673cffeIx0HCXVa1AReIJ",
+  "startedAt": "2026-03-19T02:26:39.422Z",
+  "finishedAt": "2026-03-19T02:29:52.279Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学应用题建模教练/db2c6faf-523d-47a4-b054-3d6f66eb97dd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学应用题建模教练/db2c6faf-523d-47a4-b054-3d6f66eb97dd/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初三家长，孩子在做二次函数综合题时，看不懂图像和解析式的关系，我很着急。你作为解题教练，能讲清楚点数形结合思想的本质吗？帮我梳理一下怎么结合图像做题，再给我一些辅导孩子时的提问话术。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学应用题建模教练/db2c6faf-523d-47a4-b054-3d6f66eb97dd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "5b052c33-0e42-4cb1-98e1-e6f50264b0ce",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc7b473fffekbAnS47ok6SzAu",
+  "startedAt": "2026-03-19T00:35:22.937Z",
+  "finishedAt": "2026-03-19T00:36:24.110Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/5b052c33-0e42-4cb1-98e1-e6f50264b0ce/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/5b052c33-0e42-4cb1-98e1-e6f50264b0ce/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，学生大部分都喜欢生物，不过做实验时经常忽略细节。准备做“动物呼吸作用探究”实验，变量控制这块你能讲清楚点吗？主要意义、常见问题和操作建议都说说，最好结合我的学生特点。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/5b052c33-0e42-4cb1-98e1-e6f50264b0ce/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "96e1c9c8-90e8-4cae-949c-6783fb29a6f2",
+  "sceneName": "初中数学应用题建模教练",
+  "title": "batch-初中数学应用题建模教练-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学应用题建模教练",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc170bc8ffeK8VDWJhP3Mf1QI",
+  "startedAt": "2026-03-19T02:24:50.549Z",
+  "finishedAt": "2026-03-19T02:25:52.887Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学应用题建模教练/96e1c9c8-90e8-4cae-949c-6783fb29a6f2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学应用题建模教练/96e1c9c8-90e8-4cae-949c-6783fb29a6f2/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初二学生，最近在做含参数的不等式题目时，经常漏掉情况导致扣分，挺受打击的。你作为数学思维教练，能简要说明下分类讨论思想的核心触发点吗？简单说说就行，最好有个口诀让我好记一点。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学应用题建模教练/96e1c9c8-90e8-4cae-949c-6783fb29a6f2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

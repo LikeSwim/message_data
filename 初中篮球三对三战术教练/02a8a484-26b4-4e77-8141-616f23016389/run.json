@@ -1,0 +1,26 @@
+{
+  "runId": "02a8a484-26b4-4e77-8141-616f23016389",
+  "sceneName": "初中篮球三对三战术教练",
+  "title": "batch-初中篮球三对三战术教练-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中篮球三对三战术教练",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd703f8cffep6mt8wdFIiETws",
+  "startedAt": "2026-03-18T20:07:48.590Z",
+  "finishedAt": "2026-03-18T20:08:28.883Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中篮球三对三战术教练/02a8a484-26b4-4e77-8141-616f23016389/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中篮球三对三战术教练/02a8a484-26b4-4e77-8141-616f23016389/conversation-messages.json",
+  "studentInitialQuestion": "我是贾珠诗，初二女生，喜欢乐高和瑜伽，性格比较批判、目标明确，有点焦虑但行动力还不错，也经常组织同学做集体任务。你能深入讲解一下三对三篮球战术演练怎么能帮我提升团队协作、领导力和自我调节能力吗？想听听你的具体建议和实践方案。",
+  "studentInitialQuestionPath": "data/student-questions/初中篮球三对三战术教练/02a8a484-26b4-4e77-8141-616f23016389/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

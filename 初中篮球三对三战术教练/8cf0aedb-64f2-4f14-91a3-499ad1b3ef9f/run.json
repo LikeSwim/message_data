@@ -1,0 +1,26 @@
+{
+  "runId": "8cf0aedb-64f2-4f14-91a3-499ad1b3ef9f",
+  "sceneName": "初中篮球三对三战术教练",
+  "title": "batch-初中篮球三对三战术教练-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中篮球三对三战术教练",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd73f40cffe1qx8Xp2jpPg0Dt",
+  "startedAt": "2026-03-18T20:03:45.769Z",
+  "finishedAt": "2026-03-18T20:04:35.388Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中篮球三对三战术教练/8cf0aedb-64f2-4f14-91a3-499ad1b3ef9f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中篮球三对三战术教练/8cf0aedb-64f2-4f14-91a3-499ad1b3ef9f/conversation-messages.json",
+  "studentInitialQuestion": "作为初中体育老师，能详细说说三对三篮球战术演练里常见的攻防配合方法吗？最好能举些课堂上的实际例子，详细讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中篮球三对三战术教练/8cf0aedb-64f2-4f14-91a3-499ad1b3ef9f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

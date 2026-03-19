@@ -1,0 +1,26 @@
+{
+  "runId": "73d91be7-3430-4235-9ffc-7d1ac2888c7b",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe952745ffexZLHGrO9Uiz3CW",
+  "startedAt": "2026-03-18T14:47:52.754Z",
+  "finishedAt": "2026-03-18T14:48:27.046Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/73d91be7-3430-4235-9ffc-7d1ac2888c7b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/73d91be7-3430-4235-9ffc-7d1ac2888c7b/conversation-messages.json",
+  "studentInitialQuestion": "你是地理兴趣辅导员，我是河北乡镇初三男生，喜欢骑行和摄影。最近学农业与工业区位分析，老师说要结合实际生活思考。我想知道为什么有些工厂和农田分布在不同地方？帮我理解一下农业和工业区位的决定因素，最好能举例说明。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/73d91be7-3430-4235-9ffc-7d1ac2888c7b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

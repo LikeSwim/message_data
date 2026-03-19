@@ -1,0 +1,26 @@
+{
+  "runId": "6c3e7345-c274-4ed3-a8c9-5e82e0d42d3a",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe197e80ffeo08FSf724bVaHq",
+  "startedAt": "2026-03-18T17:02:56.887Z",
+  "finishedAt": "2026-03-18T17:03:49.987Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/6c3e7345-c274-4ed3-a8c9-5e82e0d42d3a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/6c3e7345-c274-4ed3-a8c9-5e82e0d42d3a/conversation-messages.json",
+  "studentInitialQuestion": "我是ThompsonCarl，今年18岁，高三男生，很喜欢武术和足球，既注重个人竞争，也很看重队友之间的归属感。我想深入了解一下，《未成年人保护法》在像我这种充满竞争的环境里，怎么保护我们的安全、公平待遇、心理健康，还有怎么引导大家形成好团队精神？举些例子，详细说说。",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/6c3e7345-c274-4ed3-a8c9-5e82e0d42d3a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

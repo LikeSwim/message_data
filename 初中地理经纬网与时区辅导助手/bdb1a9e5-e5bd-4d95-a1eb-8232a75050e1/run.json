@@ -1,0 +1,26 @@
+{
+  "runId": "bdb1a9e5-e5bd-4d95-a1eb-8232a75050e1",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理经纬网与时区辅导助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe6c7bacffeji0S6CjhWKIx4y",
+  "startedAt": "2026-03-18T15:32:18.122Z",
+  "finishedAt": "2026-03-18T15:33:39.771Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/bdb1a9e5-e5bd-4d95-a1eb-8232a75050e1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/bdb1a9e5-e5bd-4d95-a1eb-8232a75050e1/conversation-messages.json",
+  "studentInitialQuestion": "I'm JonesYvonne, a 13-year-old junior high student who likes reading and nature observation. I'm strong in arts and sports, love self-learning, but get distracted easily and prefer team activities. Can you briefly explain what the latitude and longitude grid is and how time zones are calculated? If possible, use examples related to nature or creativity to help me understand. Just give a general overview.",
+  "studentInitialQuestionPath": "data/student-questions/初中地理经纬网与时区辅导助手/bdb1a9e5-e5bd-4d95-a1eb-8232a75050e1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

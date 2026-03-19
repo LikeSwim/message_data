@@ -1,0 +1,26 @@
+{
+  "runId": "f68920ed-7f7a-4254-947d-34e7aa738590",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe94a14fffef8BizUPnSLYtOQ",
+  "startedAt": "2026-03-18T14:48:27.050Z",
+  "finishedAt": "2026-03-18T14:49:24.626Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/f68920ed-7f7a-4254-947d-34e7aa738590/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/f68920ed-7f7a-4254-947d-34e7aa738590/conversation-messages.json",
+  "studentInitialQuestion": "我是贵州山区初二女生，喜欢写作和观察家乡变化。地理课老师让我们分析本地农业和工业区位特点，我发现有的地方既有工厂又有农田，不太理解为什么这样分布。你作为地理学习助手，能详细说说农业和工业区位的主要因素，结合贵州山区实际举例吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/f68920ed-7f7a-4254-947d-34e7aa738590/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

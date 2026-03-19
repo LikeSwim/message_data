@@ -1,0 +1,26 @@
+{
+  "runId": "9f9e544d-054c-4b8c-8062-1df62b5488b0",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd987ae3ffeXgQI5IShsUkVjM",
+  "startedAt": "2026-03-18T19:23:51.954Z",
+  "finishedAt": "2026-03-18T19:24:18.779Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/9f9e544d-054c-4b8c-8062-1df62b5488b0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/9f9e544d-054c-4b8c-8062-1df62b5488b0/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学教研员，发现学生在学微观粒子构成和模型时常出现概念混淆。你作为教学专家，能全面分析一下常见难点、误区以及有效的教学建议吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/9f9e544d-054c-4b8c-8062-1df62b5488b0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

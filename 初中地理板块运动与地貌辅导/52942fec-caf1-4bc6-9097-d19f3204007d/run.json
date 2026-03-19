@@ -1,0 +1,26 @@
+{
+  "runId": "52942fec-caf1-4bc6-9097-d19f3204007d",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fea05dcbffeAZ4xbHusc22la8",
+  "startedAt": "2026-03-18T14:35:37.902Z",
+  "finishedAt": "2026-03-18T14:36:25.911Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/52942fec-caf1-4bc6-9097-d19f3204007d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/52942fec-caf1-4bc6-9097-d19f3204007d/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，最近地理作业让我们详细说说板块运动对地貌变化的影响。我对这部分知识不太熟悉。能详细说说板块运动怎么影响地貌吗？举几个典型例子帮我理解，最好再推荐一个简单的动手活动让我加深记忆。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/52942fec-caf1-4bc6-9097-d19f3204007d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

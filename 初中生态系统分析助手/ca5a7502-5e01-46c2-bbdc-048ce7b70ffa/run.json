@@ -1,0 +1,26 @@
+{
+  "runId": "ca5a7502-5e01-46c2-bbdc-048ce7b70ffa",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb87e84ffehGt7dfFDdNGEQB",
+  "startedAt": "2026-03-18T23:28:29.885Z",
+  "finishedAt": "2026-03-18T23:30:10.132Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/ca5a7502-5e01-46c2-bbdc-048ce7b70ffa/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/ca5a7502-5e01-46c2-bbdc-048ce7b70ffa/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生，对生态系统的结构和功能有点基础，但不太明白最主要的内容，你作为生物老师能不能大概讲讲相关知识，重点说清楚核心要点？",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/ca5a7502-5e01-46c2-bbdc-048ce7b70ffa/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

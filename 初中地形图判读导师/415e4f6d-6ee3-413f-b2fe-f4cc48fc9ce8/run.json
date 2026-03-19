@@ -1,0 +1,26 @@
+{
+  "runId": "415e4f6d-6ee3-413f-b2fe-f4cc48fc9ce8",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe35f03affeUiPtqLOa5HUR85",
+  "startedAt": "2026-03-18T16:31:52.763Z",
+  "finishedAt": "2026-03-18T16:32:46.743Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/415e4f6d-6ee3-413f-b2fe-f4cc48fc9ce8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/415e4f6d-6ee3-413f-b2fe-f4cc48fc9ce8/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，平时对地理兴趣不大，但老师最近让我们分析地形图在生活中的作用。你作为地理老师，能解释一下地形图在日常生活和实际应用中的价值吗？比如灾害预防、交通规划之类，举点具体例子让我好理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/415e4f6d-6ee3-413f-b2fe-f4cc48fc9ce8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

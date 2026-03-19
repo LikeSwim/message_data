@@ -1,0 +1,26 @@
+{
+  "runId": "17bc001e-27f8-4cc8-9b36-994babcaa54b",
+  "sceneName": "初中化学金属活动性探究导师",
+  "title": "batch-初中化学金属活动性探究导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学金属活动性探究导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdbe5a78ffe0UK4hTRuj5X34f",
+  "startedAt": "2026-03-18T18:42:29.890Z",
+  "finishedAt": "2026-03-18T18:44:00.647Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学金属活动性探究导师/17bc001e-27f8-4cc8-9b36-994babcaa54b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学金属活动性探究导师/17bc001e-27f8-4cc8-9b36-994babcaa54b/conversation-messages.json",
+  "studentInitialQuestion": "我是陆雨，16岁高一女生，边界敏感型，喜欢穿搭和跑步，经常和父母因为边界问题有摩擦，也喜欢和朋友分享穿搭心得。你作为化学教育专家，说说你的看法：金属活动性规律对像我这样性格的学生有什么影响？有没有结合我兴趣和性格的学习建议和价值引导？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学金属活动性探究导师/17bc001e-27f8-4cc8-9b36-994babcaa54b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

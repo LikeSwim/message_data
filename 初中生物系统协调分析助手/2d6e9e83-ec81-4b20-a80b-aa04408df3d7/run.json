@@ -1,0 +1,26 @@
+{
+  "runId": "2d6e9e83-ec81-4b20-a80b-aa04408df3d7",
+  "sceneName": "初中生物系统协调分析助手",
+  "title": "batch-初中生物系统协调分析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物系统协调分析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc674473ffeVbsV9asjL6woQU",
+  "startedAt": "2026-03-19T00:57:14.371Z",
+  "finishedAt": "2026-03-19T00:58:41.482Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物系统协调分析助手/2d6e9e83-ec81-4b20-a80b-aa04408df3d7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物系统协调分析助手/2d6e9e83-ec81-4b20-a80b-aa04408df3d7/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，班里有几位基础薄弱的同学，对人体系统怎么协调工作总觉得很抽象，也觉得课本知识和生活没啥关系。你能从科学原理、生活实例、创新表达活动（比如小组表演、绘图比赛），还有怎么结合传统文化和生命健康价值观等方面，全面帮他们理解和感受到学习的意义吗？能讲得详细点吗",
+  "studentInitialQuestionPath": "data/student-questions/初中生物系统协调分析助手/2d6e9e83-ec81-4b20-a80b-aa04408df3d7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

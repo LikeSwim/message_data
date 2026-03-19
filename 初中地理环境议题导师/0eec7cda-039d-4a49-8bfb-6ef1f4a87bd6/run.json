@@ -1,0 +1,26 @@
+{
+  "runId": "0eec7cda-039d-4a49-8bfb-6ef1f4a87bd6",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe777dcaffegQwp395uxJiNY3",
+  "startedAt": "2026-03-18T15:20:16.686Z",
+  "finishedAt": "2026-03-18T15:21:03.574Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/0eec7cda-039d-4a49-8bfb-6ef1f4a87bd6/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/0eec7cda-039d-4a49-8bfb-6ef1f4a87bd6/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，最近地理老师让我们探究全球性环境问题的主要类型和应对措施。我对探究活动感兴趣，但不太知道怎么开始。你作为学习助手，能讲清楚点相关知识，并给我一些创新探究的具体建议吗？讲清楚点",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/0eec7cda-039d-4a49-8bfb-6ef1f4a87bd6/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "53c81c21-633e-4126-9d02-83fbb43d87f1",
+  "sceneName": "初中化学推断与鉴定助手",
+  "title": "batch-初中化学推断与鉴定助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学推断与鉴定助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fda244c6ffeBhj2eVZrKFHGMy",
+  "startedAt": "2026-03-18T19:13:10.455Z",
+  "finishedAt": "2026-03-18T19:14:47.183Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学推断与鉴定助手/53c81c21-633e-4126-9d02-83fbb43d87f1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学推断与鉴定助手/53c81c21-633e-4126-9d02-83fbb43d87f1/conversation-messages.json",
+  "studentInitialQuestion": "我的女儿WilsonCaroline今年6岁，上小学一年级，她喜欢尤克里里、学英语和下围棋，也比较容易模仿别人，但不太喜欢和别人合作，情绪有时会波动，逻辑思维还比较弱。你作为教育专家，能不能给我一份完整的分析，怎么用适合她的方式，在化学启蒙时介绍未知物质的推断和鉴定？要系统、全面一些。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学推断与鉴定助手/53c81c21-633e-4126-9d02-83fbb43d87f1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

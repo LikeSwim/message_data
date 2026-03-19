@@ -1,0 +1,26 @@
+{
+  "runId": "8a2232cc-0936-4232-b4f2-1ec5f2787116",
+  "sceneName": "初中地理气候类型辅导助手",
+  "title": "batch-初中地理气候类型辅导助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理气候类型辅导助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe62e730ffetlye71vmOcN8JU",
+  "startedAt": "2026-03-18T15:42:45.965Z",
+  "finishedAt": "2026-03-18T15:43:10.002Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理气候类型辅导助手/8a2232cc-0936-4232-b4f2-1ec5f2787116/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理气候类型辅导助手/8a2232cc-0936-4232-b4f2-1ec5f2787116/conversation-messages.json",
+  "studentInitialQuestion": "我是廖子骞，初二男生，喜欢街舞、电子竞技和吉他，习惯和队友分工合作。我最近在地理课上学到世界气候类型的分布与成因，总觉得太抽象，能深入讲解一下吗？最好能结合团队、街舞、游戏里的分工协作，帮我理解这些知识点。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理气候类型辅导助手/8a2232cc-0936-4232-b4f2-1ec5f2787116/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

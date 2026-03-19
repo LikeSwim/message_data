@@ -1,0 +1,26 @@
+{
+  "runId": "cf19a03d-d30c-412f-bda6-ecfbdbd94208",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2febbc49bffeDSMtUIQygFeL0Q",
+  "startedAt": "2026-03-18T14:05:42.106Z",
+  "finishedAt": "2026-03-18T14:06:19.374Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/cf19a03d-d30c-412f-bda6-ecfbdbd94208/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/cf19a03d-d30c-412f-bda6-ecfbdbd94208/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的道德与法治老师，班里有些同学老是用网络热词表达自己，有时候影响了课堂氛围。你能简要说明下老师在课上怎么引导学生正确用网络语言，保持积极健康的交流吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/cf19a03d-d30c-412f-bda6-ecfbdbd94208/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

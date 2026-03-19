@@ -1,0 +1,26 @@
+{
+  "runId": "01fb27ac-e3a5-4098-99a1-d8a4dd58ba28",
+  "sceneName": "初中历史概念辨析助手",
+  "title": "batch-初中历史概念辨析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史概念辨析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd4c4cb8ffegN33F33zURgM5t",
+  "startedAt": "2026-03-18T20:47:04.509Z",
+  "finishedAt": "2026-03-18T20:48:10.134Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史概念辨析助手/01fb27ac-e3a5-4098-99a1-d8a4dd58ba28/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史概念辨析助手/01fb27ac-e3a5-4098-99a1-d8a4dd58ba28/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中历史教研员，最近准备专题讲座，发现很多老师和学生都对“革命”与“改良”的界限、历史作用及现实意义存在误区。你作为历史教育专家，能不能系统地讲解一下这两个核心概念的基本内涵、理论渊源、历史经验、优缺点、现实启示等？内容要全面系统，适合在教师培训和课堂教学中推广使用。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史概念辨析助手/01fb27ac-e3a5-4098-99a1-d8a4dd58ba28/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

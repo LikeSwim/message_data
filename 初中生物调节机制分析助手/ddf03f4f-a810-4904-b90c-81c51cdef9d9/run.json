@@ -1,0 +1,26 @@
+{
+  "runId": "ddf03f4f-a810-4904-b90c-81c51cdef9d9",
+  "sceneName": "初中生物调节机制分析助手",
+  "title": "batch-初中生物调节机制分析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物调节机制分析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fca2c6f7ffeWOt0GI541Bthgp",
+  "startedAt": "2026-03-18T23:52:14.341Z",
+  "finishedAt": "2026-03-18T23:53:56.705Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物调节机制分析助手/ddf03f4f-a810-4904-b90c-81c51cdef9d9/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物调节机制分析助手/ddf03f4f-a810-4904-b90c-81c51cdef9d9/conversation-messages.json",
+  "studentInitialQuestion": "我是TorresJade，13岁女生，时尚造型、跆拳道和吉他都挺喜欢，学习和兴趣总是要兼顾，偶尔还会焦虑动力问题。你能帮我理解一下生命活动调节机制吗？特别是神经调节和激素调节，这块总觉得复杂。最好结合点生活案例和兴趣，还能给点心理调适建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物调节机制分析助手/ddf03f4f-a810-4904-b90c-81c51cdef9d9/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

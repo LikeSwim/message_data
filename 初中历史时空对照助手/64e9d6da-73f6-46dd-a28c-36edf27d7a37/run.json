@@ -1,0 +1,26 @@
+{
+  "runId": "64e9d6da-73f6-46dd-a28c-36edf27d7a37",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd28bdc3ffeFy2YDFPO5aF4Ka",
+  "startedAt": "2026-03-18T21:25:54.870Z",
+  "finishedAt": "2026-03-18T21:27:37.561Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/64e9d6da-73f6-46dd-a28c-36edf27d7a37/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/64e9d6da-73f6-46dd-a28c-36edf27d7a37/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，老师要求我们对照梳理中外历史时间线，但我总感觉两边内容很难对应。你是历史学习顾问，能深入讲解下怎么系统并行梳理初中中外历史时间线吗？希望能有详细分析和例子。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/64e9d6da-73f6-46dd-a28c-36edf27d7a37/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

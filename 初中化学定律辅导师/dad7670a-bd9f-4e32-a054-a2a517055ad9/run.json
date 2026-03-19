@@ -1,0 +1,26 @@
+{
+  "runId": "dad7670a-bd9f-4e32-a054-a2a517055ad9",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fded98c0ffeDukVL1IbE9Rc3z",
+  "startedAt": "2026-03-18T17:50:53.753Z",
+  "finishedAt": "2026-03-18T17:51:32.338Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/dad7670a-bd9f-4e32-a054-a2a517055ad9/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/dad7670a-bd9f-4e32-a054-a2a517055ad9/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学新教师，备课时发现学生经常把质量守恒定律和定比例定律弄混。你是有经验的教学顾问，能解释一下这两个定律的区别、联系和各自的典型应用吗？请分点详细讲讲，最好有生活化的例子，还能给些教学建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/dad7670a-bd9f-4e32-a054-a2a517055ad9/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

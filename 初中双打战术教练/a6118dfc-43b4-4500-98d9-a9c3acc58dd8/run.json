@@ -1,0 +1,26 @@
+{
+  "runId": "a6118dfc-43b4-4500-98d9-a9c3acc58dd8",
+  "sceneName": "初中双打战术教练",
+  "title": "batch-初中双打战术教练-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中双打战术教练",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbee17ccffeJFglCgXcnUeXf7",
+  "startedAt": "2026-03-19T03:09:35.657Z",
+  "finishedAt": "2026-03-19T03:09:56.014Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中双打战术教练/a6118dfc-43b4-4500-98d9-a9c3acc58dd8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中双打战术教练/a6118dfc-43b4-4500-98d9-a9c3acc58dd8/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，体育课学乒乓球双打总跟队友配合不好，你作为我的学习助手，简要说明下双打配合时需要注意哪些核心要点吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中双打战术教练/a6118dfc-43b4-4500-98d9-a9c3acc58dd8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

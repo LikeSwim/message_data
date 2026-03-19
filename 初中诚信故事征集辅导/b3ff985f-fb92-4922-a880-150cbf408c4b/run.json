@@ -1,0 +1,26 @@
+{
+  "runId": "b3ff985f-fb92-4922-a880-150cbf408c4b",
+  "sceneName": "初中诚信故事征集辅导",
+  "title": "batch-初中诚信故事征集辅导-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中诚信故事征集辅导",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feef6fcbffeEFVZ3u2HhAqMeO",
+  "startedAt": "2026-03-18T13:09:14.757Z",
+  "finishedAt": "2026-03-18T13:10:58.559Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中诚信故事征集辅导/b3ff985f-fb92-4922-a880-150cbf408c4b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中诚信故事征集辅导/b3ff985f-fb92-4922-a880-150cbf408c4b/conversation-messages.json",
+  "studentInitialQuestion": "我是42岁的声学工程师RobinsonJose，很关注技术与音乐表达的结合。你作为德育专家，能解释一下诚信在工程和音乐创作中到底有什么实际意义吗？还有怎么通过分享身边的诚信故事启发初中生？能解释一下吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中诚信故事征集辅导/b3ff985f-fb92-4922-a880-150cbf408c4b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

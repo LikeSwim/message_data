@@ -1,0 +1,26 @@
+{
+  "runId": "406a356b-9834-41c7-96ac-44de0d5f5dc4",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fccc3ba2ffefBgGsXNGNzPUnk",
+  "startedAt": "2026-03-18T23:06:57.492Z",
+  "finishedAt": "2026-03-18T23:09:53.718Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/406a356b-9834-41c7-96ac-44de0d5f5dc4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/406a356b-9834-41c7-96ac-44de0d5f5dc4/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学老师，发现有些学生对气体制备实验的装置结构原理总是理解不深，尤其在选择集气方法和识别气体性质时。你能不能详细讲讲初中阶段典型气体制备装置的原理、装置选择的依据、常见误区，还有怎么通过实验演示和生活类比帮助学生深化理解？",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/406a356b-9834-41c7-96ac-44de0d5f5dc4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

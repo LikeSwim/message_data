@@ -1,0 +1,26 @@
+{
+  "runId": "1a5ffdb5-2022-4f30-81be-f74635237fbd",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd9c18deffet3flvnsB5FzxYI",
+  "startedAt": "2026-03-18T19:19:54.901Z",
+  "finishedAt": "2026-03-18T19:21:13.845Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/1a5ffdb5-2022-4f30-81be-f74635237fbd/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/1a5ffdb5-2022-4f30-81be-f74635237fbd/conversation-messages.json",
+  "studentInitialQuestion": "我是一个热爱科学探索的初二学生，平时喜欢读科普书但觉得微观粒子的构成和模型太复杂了。你作为化学学习助手，能不能从各个角度详细说说微观粒子的种类、构成、模型的演变过程以及这些模型有什么重要作用？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/1a5ffdb5-2022-4f30-81be-f74635237fbd/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

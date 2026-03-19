@@ -1,0 +1,26 @@
+{
+  "runId": "eeaf7790-3570-4358-8d37-ee595d3e858d",
+  "sceneName": "初中诚信故事征集辅导",
+  "title": "batch-初中诚信故事征集辅导-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中诚信故事征集辅导",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feeddef3ffeUTiZWCnP3zgotz",
+  "startedAt": "2026-03-18T13:10:58.568Z",
+  "finishedAt": "2026-03-18T13:12:13.266Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中诚信故事征集辅导/eeaf7790-3570-4358-8d37-ee595d3e858d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中诚信故事征集辅导/eeaf7790-3570-4358-8d37-ee595d3e858d/conversation-messages.json",
+  "studentInitialQuestion": "你作为德育工作者，能给我一份关于初中“身边的诚信故事征集”活动的完整分析吗？包括活动目标、设计思路、班级实施流程、学生参与方式、故事挖掘方法、评价标准、可能遇到的挑战和解决办法，能全面说说吗？给我一份完整的分析。",
+  "studentInitialQuestionPath": "data/student-questions/初中诚信故事征集辅导/eeaf7790-3570-4358-8d37-ee595d3e858d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "6524152f-dd54-4a33-8cf9-c213048e59ec",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc861846ffescU0GGrkD0srJL",
+  "startedAt": "2026-03-19T00:23:34.067Z",
+  "finishedAt": "2026-03-19T00:24:12.129Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/6524152f-dd54-4a33-8cf9-c213048e59ec/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/6524152f-dd54-4a33-8cf9-c213048e59ec/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，新闻里看到科学家用基因编辑技术治好了一些遗传病，但也有人担心这种技术会被滥用，甚至影响人类基因。你能详细说说基因编辑技术究竟是什么吗？它有什么好处和风险？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/6524152f-dd54-4a33-8cf9-c213048e59ec/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

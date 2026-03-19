@@ -1,0 +1,26 @@
+{
+  "runId": "c88e78c7-81fb-474d-b1e3-3daa674b493d",
+  "sceneName": "初中历史脉络与主题归纳导师",
+  "title": "batch-初中历史脉络与主题归纳导师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史脉络与主题归纳导师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd42e987ffeHUBRgVasCpln6a",
+  "startedAt": "2026-03-18T20:57:19.730Z",
+  "finishedAt": "2026-03-18T20:58:30.690Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史脉络与主题归纳导师/c88e78c7-81fb-474d-b1e3-3daa674b493d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史脉络与主题归纳导师/c88e78c7-81fb-474d-b1e3-3daa674b493d/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中历史教研员，负责组织教师集体备课。最近发现老师们在归纳历史发展的脉络和主题时容易碎片化，难以系统串联各时期的联系。你作为历史教育专家，能从各个角度详细说说初中历史教学中如何科学系统地归纳历史发展的脉络与主题吗？请包括教学设计、知识结构、学生思维培养和中华优秀传统文化自然融入，举些实际教学案例和建议",
+  "studentInitialQuestionPath": "data/student-questions/初中历史脉络与主题归纳导师/c88e78c7-81fb-474d-b1e3-3daa674b493d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

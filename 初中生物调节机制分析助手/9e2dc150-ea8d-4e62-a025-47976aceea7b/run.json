@@ -1,0 +1,26 @@
+{
+  "runId": "9e2dc150-ea8d-4e62-a025-47976aceea7b",
+  "sceneName": "初中生物调节机制分析助手",
+  "title": "batch-初中生物调节机制分析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物调节机制分析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fca77efcffelP2SGDUmiFliJM",
+  "startedAt": "2026-03-18T23:47:05.086Z",
+  "finishedAt": "2026-03-18T23:47:47.456Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生物调节机制分析助手/9e2dc150-ea8d-4e62-a025-47976aceea7b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物调节机制分析助手/9e2dc150-ea8d-4e62-a025-47976aceea7b/conversation-messages.json",
+  "studentInitialQuestion": "我是JonesEliza，今年6岁，喜欢篮球、串珠和烘焙，理解东西慢点但喜欢和大家一起学。作为生物老师，你说说你的看法，生命活动的调节机制到底是什么？能用适合我年纪的例子和故事讲讲吗？也给点建议让我和小伙伴一起动手学。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物调节机制分析助手/9e2dc150-ea8d-4e62-a025-47976aceea7b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

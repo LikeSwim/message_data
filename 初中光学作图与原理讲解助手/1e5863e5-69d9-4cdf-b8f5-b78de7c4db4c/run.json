@@ -1,0 +1,26 @@
+{
+  "runId": "1e5863e5-69d9-4cdf-b8f5-b78de7c4db4c",
+  "sceneName": "初中光学作图与原理讲解助手",
+  "title": "batch-初中光学作图与原理讲解助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中光学作图与原理讲解助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe0e9ca1ffe2TK5zl7vDlDWwg",
+  "startedAt": "2026-03-18T17:14:50.076Z",
+  "finishedAt": "2026-03-18T17:17:04.553Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中光学作图与原理讲解助手/1e5863e5-69d9-4cdf-b8f5-b78de7c4db4c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中光学作图与原理讲解助手/1e5863e5-69d9-4cdf-b8f5-b78de7c4db4c/conversation-messages.json",
+  "studentInitialQuestion": "我是初二女生，每次老师讲到光的折射现象作图我就有点搞不懂，做作业总纠结。你作为物理老师，能具体说说光的折射现象作图的关键步骤和原理吗？还有怎么在家里用简单材料做实验帮助理解？",
+  "studentInitialQuestionPath": "data/student-questions/初中光学作图与原理讲解助手/1e5863e5-69d9-4cdf-b8f5-b78de7c4db4c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

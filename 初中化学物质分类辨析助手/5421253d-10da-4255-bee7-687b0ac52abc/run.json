@@ -1,0 +1,26 @@
+{
+  "runId": "5421253d-10da-4255-bee7-687b0ac52abc",
+  "sceneName": "初中化学物质分类辨析助手",
+  "title": "batch-初中化学物质分类辨析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学物质分类辨析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd901591ffeCueLca77pihPhz",
+  "startedAt": "2026-03-18T19:33:02.183Z",
+  "finishedAt": "2026-03-18T19:34:07.613Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学物质分类辨析助手/5421253d-10da-4255-bee7-687b0ac52abc/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学物质分类辨析助手/5421253d-10da-4255-bee7-687b0ac52abc/conversation-messages.json",
+  "studentInitialQuestion": "我是刘明辉，高三学生，平时喜欢跆拳道和摄影，但逻辑性有点弱，对自己没什么自信。最近复习初中化学时，物质分类标准和辨析总感觉有点混乱。你作为知识导师，能不能系统地讲解一下物质分类的定义、标准、怎么具体辨析、常见误区和生活中的实际应用？希望能帮我提升逻辑思维和自信心，系统地讲解一下吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学物质分类辨析助手/5421253d-10da-4255-bee7-687b0ac52abc/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

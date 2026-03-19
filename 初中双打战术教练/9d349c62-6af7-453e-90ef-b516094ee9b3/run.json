@@ -1,0 +1,26 @@
+{
+  "runId": "9d349c62-6af7-453e-90ef-b516094ee9b3",
+  "sceneName": "初中双打战术教练",
+  "title": "batch-初中双打战术教练-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中双打战术教练",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbedc841ffe489kfFWy4Z1CLx",
+  "startedAt": "2026-03-19T03:09:56.018Z",
+  "finishedAt": null,
+  "followUpCount": 0,
+  "status": "running",
+  "stopReason": null,
+  "teacherMessagesPath": null,
+  "conversationMessagesPath": null,
+  "studentInitialQuestion": "我是初中体育老师，现在带一个基础较弱、性格各异的小组练习羽毛球双打。你作为体育教学专家，能彻底说清楚怎么根据学生技能和性格差异，设计分层、创新、可操作的配合训练方案，还要结合核心价值观和传统文化，提升参与度和团队精神吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中双打战术教练/9d349c62-6af7-453e-90ef-b516094ee9b3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

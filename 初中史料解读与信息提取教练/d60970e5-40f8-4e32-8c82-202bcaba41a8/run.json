@@ -1,0 +1,26 @@
+{
+  "runId": "d60970e5-40f8-4e32-8c82-202bcaba41a8",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc581584ffefj8FgC5fx3BwMh",
+  "startedAt": "2026-03-19T01:13:49.426Z",
+  "finishedAt": "2026-03-19T01:15:36.771Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/d60970e5-40f8-4e32-8c82-202bcaba41a8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/d60970e5-40f8-4e32-8c82-202bcaba41a8/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史老师，刚试着用历史图片做教学。你作为教育专家，能讲讲看图像史料怎么科学解读，怎么帮学生提取信息和培养探索兴趣吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/d60970e5-40f8-4e32-8c82-202bcaba41a8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "23f409d1-a926-4d9b-84f1-65f3052ce51f",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe18af0dffeU2pyM40gyyFtHQ",
+  "startedAt": "2026-03-18T17:03:49.992Z",
+  "finishedAt": "2026-03-18T17:04:42.732Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/23f409d1-a926-4d9b-84f1-65f3052ce51f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/23f409d1-a926-4d9b-84f1-65f3052ce51f/conversation-messages.json",
+  "studentInitialQuestion": "我最近发现有同学在网上发了我的照片，还配了挺难听的评论，我心里很不舒服。你能具体说说《未成年人保护法》在这种网络欺凌和隐私被侵犯的情况下能帮我什么吗？最好讲清楚点。",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/23f409d1-a926-4d9b-84f1-65f3052ce51f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

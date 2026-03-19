@@ -1,0 +1,26 @@
+{
+  "runId": "eb7bda09-44c4-4031-89d0-a8cbe067861f",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc73c856ffeiwtMDmAkHaUNma",
+  "startedAt": "2026-03-19T00:43:34.182Z",
+  "finishedAt": "2026-03-19T00:46:11.094Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/eb7bda09-44c4-4031-89d0-a8cbe067861f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/eb7bda09-44c4-4031-89d0-a8cbe067861f/conversation-messages.json",
+  "studentInitialQuestion": "我是23岁的作家夏仲，平时喜欢品茶、阅读和旅行。最近在查资料写科幻小说时发现“基因”和“染色体”这两个生物学术语容易混淆。我职业规划很明确，也习惯主导创作团队管理事务。你作为专业的生物学知识顾问，能不能讲清楚点，详细解释一下“基因”和“染色体”各自的定义、关系、在真实生物体中的作用，并举个茶树或人类遗传的例子说明？希望内容既能满足我的感性理解，也能方便我在团队讨论时精准表达。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/eb7bda09-44c4-4031-89d0-a8cbe067861f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

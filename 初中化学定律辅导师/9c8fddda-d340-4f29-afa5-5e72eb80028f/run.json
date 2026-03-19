@@ -1,0 +1,26 @@
+{
+  "runId": "9c8fddda-d340-4f29-afa5-5e72eb80028f",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fded01feffeqpsTKqLudAQxCn",
+  "startedAt": "2026-03-18T17:51:32.343Z",
+  "finishedAt": "2026-03-18T17:52:33.458Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/9c8fddda-d340-4f29-afa5-5e72eb80028f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/9c8fddda-d340-4f29-afa5-5e72eb80028f/conversation-messages.json",
+  "studentInitialQuestion": "我是初三化学兴趣小组的辅导员，你是化学专家，能全方位地讲解一下初中化学基本定律的科学意义、历史典故、生活和生产实践里的应用、跨学科联系、常见学生疑惑和解决办法吗？小组成员都很活泼、喜欢动手实验，请结合这些特点，分点详细讲讲，还能给些创新活动方案。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/9c8fddda-d340-4f29-afa5-5e72eb80028f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

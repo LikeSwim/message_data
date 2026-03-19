@@ -1,0 +1,26 @@
+{
+  "runId": "45ae7d82-75ed-41d4-b1fb-fd9676f469ef",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcbec9a9ffeI3Bo7VJgrGdC6u",
+  "startedAt": "2026-03-18T23:21:38.637Z",
+  "finishedAt": "2026-03-18T23:25:12.553Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/45ae7d82-75ed-41d4-b1fb-fd9676f469ef/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/45ae7d82-75ed-41d4-b1fb-fd9676f469ef/conversation-messages.json",
+  "studentInitialQuestion": "我是一名年长的地理老师，平时生活挺有仪式感，也喜欢交谊舞和麻将。最近准备讲撒哈拉以南非洲，想系统分析一下那里的地理、资源、经济和文化多样性，还想知道怎么在社区或教师圈里引导学生做合作探究。你能讲得详细点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/45ae7d82-75ed-41d4-b1fb-fd9676f469ef/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

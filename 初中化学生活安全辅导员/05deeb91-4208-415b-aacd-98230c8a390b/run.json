@@ -1,0 +1,26 @@
+{
+  "runId": "05deeb91-4208-415b-aacd-98230c8a390b",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdb092eaffeHiHEgYwlNpnDaz",
+  "startedAt": "2026-03-18T18:57:32.940Z",
+  "finishedAt": "2026-03-18T18:58:45.436Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/05deeb91-4208-415b-aacd-98230c8a390b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/05deeb91-4208-415b-aacd-98230c8a390b/conversation-messages.json",
+  "studentInitialQuestion": "我喜欢踢足球，也常在户外野餐。你作为化学教育专家，怎么看初中化学知识在户外活动安全和环境保护方面的用处？结合我的兴趣和野外活动，说说常见的化学安全问题、环境保护措施，也能聊聊中华传统文化里的自然观吗？说说你的看法",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/05deeb91-4208-415b-aacd-98230c8a390b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

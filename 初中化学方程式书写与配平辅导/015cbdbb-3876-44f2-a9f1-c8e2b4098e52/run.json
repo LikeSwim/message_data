@@ -1,0 +1,26 @@
+{
+  "runId": "015cbdbb-3876-44f2-a9f1-c8e2b4098e52",
+  "sceneName": "初中化学方程式书写与配平辅导",
+  "title": "batch-初中化学方程式书写与配平辅导-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式书写与配平辅导",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdc9ee53ffeL98hfUC8qDS9x5",
+  "startedAt": "2026-03-18T18:29:51.141Z",
+  "finishedAt": "2026-03-18T18:30:11.952Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式书写与配平辅导/015cbdbb-3876-44f2-a9f1-c8e2b4098e52/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式书写与配平辅导/015cbdbb-3876-44f2-a9f1-c8e2b4098e52/conversation-messages.json",
+  "studentInitialQuestion": "我是六年级学生陆诗蕾，喜欢插花和羽毛球，自主学习和创新能力都挺强。妈妈接送我去插花班，爸爸陪我打羽毛球，老师很欣赏我的创新想法。你能详细说说化学方程式书写和配平有哪些创新性的学习方法和实验活动能帮助我理解吗？希望能结合我的兴趣和性格，多举一些创新案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式书写与配平辅导/015cbdbb-3876-44f2-a9f1-c8e2b4098e52/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "becd24cc-cda2-4de9-9bf8-a1f6b93215a4",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc2c879fffepVV0OylWtZTUkW",
+  "startedAt": "2026-03-19T02:01:23.799Z",
+  "finishedAt": "2026-03-19T02:04:12.676Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/becd24cc-cda2-4de9-9bf8-a1f6b93215a4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/becd24cc-cda2-4de9-9bf8-a1f6b93215a4/conversation-messages.json",
+  "studentInitialQuestion": "你作为数学教育专家，很多老师都想知道‘任务驱动型’教学活动在初中数学课堂怎么用。你能概括一下这种活动的设计思路、适用场景和对学生能力培养的作用吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/becd24cc-cda2-4de9-9bf8-a1f6b93215a4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

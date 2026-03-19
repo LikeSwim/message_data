@@ -1,0 +1,26 @@
+{
+  "runId": "844610ee-76c8-4ba9-824c-53f01e4a83b9",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdacf138ffeN1dRIY3yflKlgC",
+  "startedAt": "2026-03-18T19:01:30.943Z",
+  "finishedAt": "2026-03-18T19:03:40.915Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/844610ee-76c8-4ba9-824c-53f01e4a83b9/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/844610ee-76c8-4ba9-824c-53f01e4a83b9/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学教研员，最近在设计《化学知识在生活安全中的应用》专题课程。你作为化学教育专家，能否详细分析下各个方面初中化学知识与家庭安全、食品安全、环境保护、突发事件应对等实际应用怎么联系？希望你结合不同学生年龄、城乡差异、家庭背景，谈谈个性化教学建议和中华优秀传统文化的融合策略。详细分析下各个方面",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/844610ee-76c8-4ba9-824c-53f01e4a83b9/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

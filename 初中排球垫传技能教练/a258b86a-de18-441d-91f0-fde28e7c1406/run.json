@@ -1,0 +1,26 @@
+{
+  "runId": "a258b86a-de18-441d-91f0-fde28e7c1406",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcdab73affefsE8YcnEnUXjfy",
+  "startedAt": "2026-03-18T22:51:08.347Z",
+  "finishedAt": "2026-03-18T22:51:36.091Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/a258b86a-de18-441d-91f0-fde28e7c1406/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/a258b86a-de18-441d-91f0-fde28e7c1406/conversation-messages.json",
+  "studentInitialQuestion": "你作为体育老师，能说说你的看法吗？排球垫球和传球接力到底怎么帮助学生提升团队精神和坚持品质？最好结合实际例子和激励方法讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/a258b86a-de18-441d-91f0-fde28e7c1406/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

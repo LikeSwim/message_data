@@ -1,0 +1,26 @@
+{
+  "runId": "fb2b11b7-fb07-4831-99e5-489ea0e4df13",
+  "sceneName": "初中历史章节框架师",
+  "title": "batch-初中历史章节框架师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史章节框架师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd0cc98cffeR2sJQzNK6vTj0k",
+  "startedAt": "2026-03-18T21:56:25.668Z",
+  "finishedAt": "2026-03-18T21:57:10.597Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中历史章节框架师/fb2b11b7-fb07-4831-99e5-489ea0e4df13/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史章节框架师/fb2b11b7-fb07-4831-99e5-489ea0e4df13/conversation-messages.json",
+  "studentInitialQuestion": "我是初三学生，历史基础一般，最近复习中国近代史时总觉得知识点很零散，抓不住主线。你作为历史教育专家，能帮我系统梳理一下初中中国近代史的知识框架吗？详细说说重点、难点，还有怎么构建知识网络。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史章节框架师/fb2b11b7-fb07-4831-99e5-489ea0e4df13/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

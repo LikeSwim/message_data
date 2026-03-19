@@ -1,0 +1,26 @@
+{
+  "runId": "7f2d0e09-a64b-41c0-bfca-4b9bbe3d81d5",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2febc59cfffesClbEwVuelSdzq",
+  "startedAt": "2026-03-18T14:05:03.912Z",
+  "finishedAt": "2026-03-18T14:05:42.100Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/7f2d0e09-a64b-41c0-bfca-4b9bbe3d81d5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/7f2d0e09-a64b-41c0-bfca-4b9bbe3d81d5/conversation-messages.json",
+  "studentInitialQuestion": "我是初中道德与法治教研员，最近收到老师们反馈说学生对环保、网络安全、公共卫生这些社会热点很感兴趣，但课堂讨论总是停留在表面，缺乏深度和多角度分析。你作为专家，能详细分析下各个方面，怎么在道德与法治教学中系统培养学生的社会责任感、批判性思维和创新能力吗？从目标、活动设计、评价、家庭和社会支持这些角度全面说说，并结合案例具体讲讲。",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/7f2d0e09-a64b-41c0-bfca-4b9bbe3d81d5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

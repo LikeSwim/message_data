@@ -1,0 +1,26 @@
+{
+  "runId": "d3120c9b-4e59-4b97-85f2-bd4436683f19",
+  "sceneName": "初中电路故障与动态分析导师",
+  "title": "batch-初中电路故障与动态分析导师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中电路故障与动态分析导师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe2ca332ffeJtwmLInVWugaJD",
+  "startedAt": "2026-03-18T16:42:02.308Z",
+  "finishedAt": "2026-03-18T16:43:00.019Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中电路故障与动态分析导师/d3120c9b-4e59-4b97-85f2-bd4436683f19/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中电路故障与动态分析导师/d3120c9b-4e59-4b97-85f2-bd4436683f19/conversation-messages.json",
+  "studentInitialQuestion": "我是崔宪萌，54岁，男清洁工，喜欢跳广场舞和种花草，性格上有点暗自较劲。在广场舞队里和同龄人表面互助但私下会比较，平时喜欢在社区花坛种花，常和邻居讨论种植。最近我孙子初一，在家做物理电路实验时灯泡总是不亮，说可能是接线有问题。我自己不太懂电路，还有点担心他没信心。你作为物理专家，能帮我理解一下初中物理电路实验常见的故障有哪些？遇到灯泡不亮这种情况，我们应该怎么一步步判断和排查？帮我理解一下吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中电路故障与动态分析导师/d3120c9b-4e59-4b97-85f2-bd4436683f19/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

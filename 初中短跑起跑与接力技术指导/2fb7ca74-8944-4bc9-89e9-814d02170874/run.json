@@ -1,0 +1,26 @@
+{
+  "runId": "2fb7ca74-8944-4bc9-89e9-814d02170874",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe23c592ffeMbODQ7005PnShX",
+  "startedAt": "2026-03-18T16:51:42.137Z",
+  "finishedAt": "2026-03-18T16:54:13.506Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/2fb7ca74-8944-4bc9-89e9-814d02170874/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/2fb7ca74-8944-4bc9-89e9-814d02170874/conversation-messages.json",
+  "studentInitialQuestion": "我是刚带初中体育课的新老师，短跑项目有点拿不准。你能详细说说短跑起跑的技术要点吗？包括动作分解、常见错误和怎么提高起跑反应速度，麻烦你讲讲看。",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/2fb7ca74-8944-4bc9-89e9-814d02170874/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

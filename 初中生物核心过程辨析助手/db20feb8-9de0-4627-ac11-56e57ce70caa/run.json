@@ -1,0 +1,26 @@
+{
+  "runId": "db20feb8-9de0-4627-ac11-56e57ce70caa",
+  "sceneName": "初中生物核心过程辨析助手",
+  "title": "batch-初中生物核心过程辨析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物核心过程辨析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc8da49dffe2wDVObOeTwFens",
+  "startedAt": "2026-03-19T00:15:19.389Z",
+  "finishedAt": "2026-03-19T00:16:06.724Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物核心过程辨析助手/db20feb8-9de0-4627-ac11-56e57ce70caa/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物核心过程辨析助手/db20feb8-9de0-4627-ac11-56e57ce70caa/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，最近老师讲的光合作用和呼吸作用有点难懂，尤其是反应式和能量变化，还有它们在生态系统里的作用。你能讲清楚点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物核心过程辨析助手/db20feb8-9de0-4627-ac11-56e57ce70caa/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

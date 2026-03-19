@@ -1,0 +1,26 @@
+{
+  "runId": "ac69d9a6-f504-4971-b721-1651330af640",
+  "sceneName": "初中历史事件要素分析师",
+  "title": "batch-初中历史事件要素分析师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史事件要素分析师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd1ced88ffe66Z7T0TYYFGtIC",
+  "startedAt": "2026-03-18T21:38:49.069Z",
+  "finishedAt": "2026-03-18T21:40:09.028Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史事件要素分析师/ac69d9a6-f504-4971-b721-1651330af640/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史事件要素分析师/ac69d9a6-f504-4971-b721-1651330af640/conversation-messages.json",
+  "studentInitialQuestion": "你是历史老师，能详细讲讲甲午战争吗？希望能从背景、过程、人物、影响和历史反思都说说，还能结合民族精神引导我们思考。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史事件要素分析师/ac69d9a6-f504-4971-b721-1651330af640/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

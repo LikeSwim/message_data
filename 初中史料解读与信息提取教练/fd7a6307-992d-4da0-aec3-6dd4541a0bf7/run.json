@@ -1,0 +1,26 @@
+{
+  "runId": "fd7a6307-992d-4da0-aec3-6dd4541a0bf7",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc5d7184ffeJYnK4mNXoy2sGD",
+  "startedAt": "2026-03-19T01:07:58.192Z",
+  "finishedAt": "2026-03-19T01:08:34.103Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/fd7a6307-992d-4da0-aec3-6dd4541a0bf7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/fd7a6307-992d-4da0-aec3-6dd4541a0bf7/conversation-messages.json",
+  "studentInitialQuestion": "你作为教育专家，能简要说明下 JenkinsAlexander（14岁，8年级，喜欢游泳、吉他和动漫绘画，性格有点自学薄弱但很主动，喜欢完美和思考），初中历史学习里怎么用史料解读方法帮他提升兴趣和分析能力吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/fd7a6307-992d-4da0-aec3-6dd4541a0bf7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

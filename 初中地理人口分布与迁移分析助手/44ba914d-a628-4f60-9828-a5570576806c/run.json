@@ -1,0 +1,26 @@
+{
+  "runId": "44ba914d-a628-4f60-9828-a5570576806c",
+  "sceneName": "初中地理人口分布与迁移分析助手",
+  "title": "batch-初中地理人口分布与迁移分析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理人口分布与迁移分析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe4f0207ffesJWm0tXIT7ebA2",
+  "startedAt": "2026-03-18T16:04:29.809Z",
+  "finishedAt": "2026-03-18T16:05:29.719Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/44ba914d-a628-4f60-9828-a5570576806c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/44ba914d-a628-4f60-9828-a5570576806c/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理教研员，最近准备组织一次关于‘人口分布与迁移的原因分析’的专题教研，希望能深入了解当前学科理论、教学案例、学生常见误区和教学创新方法。这个主题你能帮我详细分析一下吗？希望内容全面深入，便于我为教师团队系统指导。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理人口分布与迁移分析助手/44ba914d-a628-4f60-9828-a5570576806c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

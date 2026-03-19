@@ -1,0 +1,26 @@
+{
+  "runId": "76562b27-a858-46e7-acf8-69bee779a58e",
+  "sceneName": "初中数学发散探究引导师",
+  "title": "batch-初中数学发散探究引导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学发散探究引导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc3d72d2ffeN5DdLKygCQLFrh",
+  "startedAt": "2026-03-19T01:42:55.015Z",
+  "finishedAt": "2026-03-19T01:44:05.368Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学发散探究引导师/76562b27-a858-46e7-acf8-69bee779a58e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学发散探究引导师/76562b27-a858-46e7-acf8-69bee779a58e/conversation-messages.json",
+  "studentInitialQuestion": "我是初一男生，数学成绩还可以，但碰到开放问题有时候觉得方向太多，不知道怎么选。你是我的数学学习顾问，老师最近让我们想‘如何用不同的方法测量操场面积’，你能用几句话说说有哪些常见又有创意的思路吗？帮我理理主要方向。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学发散探究引导师/76562b27-a858-46e7-acf8-69bee779a58e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "3f51c9af-2944-4909-99de-3e27fc59c686",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd23bca2ffeVbXxfCguViKa0u",
+  "startedAt": "2026-03-18T21:31:22.838Z",
+  "finishedAt": "2026-03-18T21:32:01.005Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/3f51c9af-2944-4909-99de-3e27fc59c686/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/3f51c9af-2944-4909-99de-3e27fc59c686/conversation-messages.json",
+  "studentInitialQuestion": "我是历史爱好者，最近整理中外历史时间线，发现有些时期中国和世界历史发展的节奏和内容特别不一样。你能具体说说吗？讲讲主要的并行和差异节点，最好举点例子。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/3f51c9af-2944-4909-99de-3e27fc59c686/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

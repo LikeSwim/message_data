@@ -1,0 +1,26 @@
+{
+  "runId": "b713b094-e051-4b3a-8c68-5bf0808864d0",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc4d8857ffeGeJ6XJs127AKuV",
+  "startedAt": "2026-03-19T01:25:20.927Z",
+  "finishedAt": "2026-03-19T01:26:08.884Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/b713b094-e051-4b3a-8c68-5bf0808864d0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/b713b094-e051-4b3a-8c68-5bf0808864d0/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学老师，最近发现班里学生解分式方程时总是在通分和约分这一步犯错，比如分母写错、漏掉约分等。你能详细说说这些错题出现的原因吗？希望能得到科学分步骤的改进建议，我们班学生基础不太好但都很认真。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/b713b094-e051-4b3a-8c68-5bf0808864d0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

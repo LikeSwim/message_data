@@ -1,0 +1,26 @@
+{
+  "runId": "22248d40-1588-40d2-82ed-7368633562c0",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd9d9a23ffeBYoOdyWZGY0AK2",
+  "startedAt": "2026-03-18T19:18:15.083Z",
+  "finishedAt": "2026-03-18T19:19:10.663Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/22248d40-1588-40d2-82ed-7368633562c0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/22248d40-1588-40d2-82ed-7368633562c0/conversation-messages.json",
+  "studentInitialQuestion": "我是初中二年级的学生，最近在学习化学微观粒子构成与模型，不过我更喜欢动手做实验，理论部分总是搞不清楚。你作为化学学习助手，能结合我的兴趣和基础，说说你的看法，包括微观粒子的基本知识和模型的作用吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/22248d40-1588-40d2-82ed-7368633562c0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

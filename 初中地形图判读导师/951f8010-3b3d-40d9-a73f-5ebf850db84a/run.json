@@ -1,0 +1,26 @@
+{
+  "runId": "951f8010-3b3d-40d9-a73f-5ebf850db84a",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe351d5dffeDtkaV3Zm4FWxG3",
+  "startedAt": "2026-03-18T16:32:46.748Z",
+  "finishedAt": "2026-03-18T16:33:59.625Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/951f8010-3b3d-40d9-a73f-5ebf850db84a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/951f8010-3b3d-40d9-a73f-5ebf850db84a/conversation-messages.json",
+  "studentInitialQuestion": "我是卢亦，高二女生，喜欢园艺、科学实验和吉他，父母在政府部门工作，和同学常做科学实验，园艺社团成员。最近学地形图判读，老师让我们简短说说它在园艺或社区活动中的实际应用。你作为地理学习助手，能简短回答下地形图判读在园艺或社区活动里的实际用途吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/951f8010-3b3d-40d9-a73f-5ebf850db84a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

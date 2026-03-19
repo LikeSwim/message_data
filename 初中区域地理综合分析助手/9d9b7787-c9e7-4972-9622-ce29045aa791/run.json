@@ -1,0 +1,26 @@
+{
+  "runId": "9d9b7787-c9e7-4972-9622-ce29045aa791",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcbaa428ffeN3TrbDPA14ppWK",
+  "startedAt": "2026-03-18T23:26:10.382Z",
+  "finishedAt": "2026-03-18T23:26:47.136Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/9d9b7787-c9e7-4972-9622-ce29045aa791/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/9d9b7787-c9e7-4972-9622-ce29045aa791/conversation-messages.json",
+  "studentInitialQuestion": "我是小学一年级的田夏，喜欢玩棋、打羽毛球和虚拟现实游戏，平时在班里比较安静。老师提到澳大利亚地理很特别，你能帮我理解一下吗？最好说得简单点，还能给我一些小游戏或者动手画画的建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/9d9b7787-c9e7-4972-9622-ce29045aa791/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

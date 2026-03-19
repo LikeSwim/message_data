@@ -1,0 +1,19 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "Hi GarciaHannah! Don't worry, evaluating historical figures is simpler than it seems. Here's a 3-step approach for Sun Yat-sen:\n\n**1. Use the \"Two-Sides\" Method**\nLook at both contributions AND limitations. Don't label him simply as \"good\" or \"bad.\"\n\n**2. Ask Three Questions:**\n- **What did he do?** (Led revolution, founded Republic, promoted democratic ideas)\n- **Why did he do it?** (To save China from foreign invasion and feudalism)\n- **What were the results?** (Ended 2,000 years of imperial rule, but revolution remained incomplete)\n\n**3. Remember: Context Matters**\nJudge him by the standards of HIS time (early 1900s China), not by today's standards. He faced a collapsing empire and foreign threats.\n\n**Quick Formula:** \"Sun Yat-sen made great contributions by [specific achievement], but had limitations such as [specific weakness]. Overall, his contributions outweighed his faults because he pushed China's modernization forward.\"\n\nYou've got this! Start with one achievement and one limitation, then explain which had greater impact. That's all you need.",
+    "studentRawOutput": "FOLLOW_UP: Could you provide a concrete example of how to apply this 3-step method in a short paragraph evaluating Sun Yat-sen, including one specific limitation besides the incomplete revolution?",
+    "parsedDecision": {
+      "type": "follow_up",
+      "question": "Could you provide a concrete example of how to apply this 3-step method in a short paragraph evaluating Sun Yat-sen, including one specific limitation besides the incomplete revolution?"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "Here's a concrete example paragraph using the 3-step method:\n\n**Example:**\n\"Sun Yat-sen made significant contributions to modern China by leading the 1911 Revolution that ended the 2,000-year-old imperial system and establishing Asia's first republic, which promoted democratic ideas. However, he had limitations: he relied on military warlords to support his revolutionary efforts, which proved unreliable and led to repeated failures because warlords only sought power for themselves. Overall, Sun Yat-sen's achievements outweighed his faults because he fundamentally changed China's political landscape and inspired future reformers, although his over-reliance on warlords showed his inability to build a strong revolutionary army.\"\n\n**Notice how this applies your 3-step method:**\n- **Both sides:** Revolution success + reliance on warlords failure\n- **Context:** Shows he lived in a chaotic time when organized forces were scarce\n- **Clear judgment:** Achievements outweigh limitations\n\nKeep your language simple and let the facts speak for themselves—you don't need fancy vocabulary!",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

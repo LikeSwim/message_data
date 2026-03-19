@@ -1,0 +1,26 @@
+{
+  "runId": "ceef8198-d700-4bdd-b6b0-da080452a7b5",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "batch-初中代数方程分步求解辅导-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中代数方程分步求解辅导",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec84dcfffewogihjoRqOYY86",
+  "startedAt": "2026-03-18T13:52:00.550Z",
+  "finishedAt": "2026-03-18T13:53:09.255Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中代数方程分步求解辅导/ceef8198-d700-4bdd-b6b0-da080452a7b5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中代数方程分步求解辅导/ceef8198-d700-4bdd-b6b0-da080452a7b5/conversation-messages.json",
+  "studentInitialQuestion": "Hi, I'm GarciaLiam, a teacher who sometimes tends to be a bit negligent and laid-back, with a fixed mindset. I enjoy horticulture, NAS setup, and aeromodelling in my free time. In the classroom, I've noticed my students often make mistakes when working through algebraic equations step by step. As a mathematics expert, could you talk about the key steps and common pitfalls in algebraic equation solving, and share some practical teaching tips that fit my style and interests? I want to help my students become more effective and independent problem solvers.",
+  "studentInitialQuestionPath": "data/student-questions/初中代数方程分步求解辅导/ceef8198-d700-4bdd-b6b0-da080452a7b5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "8a5a6225-27c3-410d-bef8-8249fab86c31",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdec133dffeLKfOd6rZS9n0HA",
+  "startedAt": "2026-03-18T17:52:33.463Z",
+  "finishedAt": "2026-03-18T17:53:27.429Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/8a5a6225-27c3-410d-bef8-8249fab86c31/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/8a5a6225-27c3-410d-bef8-8249fab86c31/conversation-messages.json",
+  "studentInitialQuestion": "你是化学AI专家，我是段岚菊，一名57岁的女老师，工作认真、反对繁文缛节，喜欢京剧和书法，平时常和票友研习京腔，闲暇时练字。我追求教学去形式化。能围绕初中化学基本定律，全面分析一下其核心内涵、现实意义、如何高效融入课堂、和中华传统文化的联系，以及怎么用简练有效的教学语言打动学生吗？请分点详细讲讲，贴合我的性格、兴趣和理念。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/8a5a6225-27c3-410d-bef8-8249fab86c31/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

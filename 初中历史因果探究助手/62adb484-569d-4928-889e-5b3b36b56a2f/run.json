@@ -1,0 +1,26 @@
+{
+  "runId": "62adb484-569d-4928-889e-5b3b36b56a2f",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd164469ffeATOArBsTYa3Jfd",
+  "startedAt": "2026-03-18T21:46:05.587Z",
+  "finishedAt": "2026-03-18T21:46:46.550Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/62adb484-569d-4928-889e-5b3b36b56a2f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/62adb484-569d-4928-889e-5b3b36b56a2f/conversation-messages.json",
+  "studentInitialQuestion": "我女儿现在上初二，历史基础一般，但是很喜欢看历史类影视剧。她老是问我‘甲午战争’的真正原因是什么，还有这场战争对中国历史的影响。你作为历史教育专家，能具体说说怎么结合家庭辅导帮她理解甲午战争的因果关系吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/62adb484-569d-4928-889e-5b3b36b56a2f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

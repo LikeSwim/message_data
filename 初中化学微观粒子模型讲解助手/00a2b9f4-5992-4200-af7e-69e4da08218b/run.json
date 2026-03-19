@@ -1,0 +1,26 @@
+{
+  "runId": "00a2b9f4-5992-4200-af7e-69e4da08218b",
+  "sceneName": "初中化学微观粒子模型讲解助手",
+  "title": "batch-初中化学微观粒子模型讲解助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学微观粒子模型讲解助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd9cc5b0ffeaF3YiAuH1aq2vq",
+  "startedAt": "2026-03-18T19:19:10.666Z",
+  "finishedAt": "2026-03-18T19:19:54.897Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/00a2b9f4-5992-4200-af7e-69e4da08218b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学微观粒子模型讲解助手/00a2b9f4-5992-4200-af7e-69e4da08218b/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中化学老师，班上有几个性格内向、基础薄弱但喜欢科学小故事的学生，在教微观粒子构成和模型时他们总觉得抽象。你作为教育专家，能详细展开说说怎么针对这类学生进行分步教学，让他们既能理解知识点也能建立科学思维吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学微观粒子模型讲解助手/00a2b9f4-5992-4200-af7e-69e4da08218b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

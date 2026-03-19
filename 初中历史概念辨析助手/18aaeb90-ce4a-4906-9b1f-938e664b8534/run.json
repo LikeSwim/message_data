@@ -1,0 +1,26 @@
+{
+  "runId": "18aaeb90-ce4a-4906-9b1f-938e664b8534",
+  "sceneName": "初中历史概念辨析助手",
+  "title": "batch-初中历史概念辨析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史概念辨析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd54b818ffeSi8WBDQ09mAgWr",
+  "startedAt": "2026-03-18T20:37:51.535Z",
+  "finishedAt": "2026-03-18T20:38:32.145Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史概念辨析助手/18aaeb90-ce4a-4906-9b1f-938e664b8534/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史概念辨析助手/18aaeb90-ce4a-4906-9b1f-938e664b8534/conversation-messages.json",
+  "studentInitialQuestion": "我是28岁的年轻女老师，最近因为工作压力大和教学倦怠感有点迷茫，平时喜欢弹钢琴和练瑜伽来放松。你作为历史学科的专业学习助手，能不能帮我把“革命”和“改良”这两个历史核心概念的区别和联系讲清楚点？最好结合一些贴近生活的小故事或教学建议，帮我在课堂上更生动地带出这两个概念。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史概念辨析助手/18aaeb90-ce4a-4906-9b1f-938e664b8534/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

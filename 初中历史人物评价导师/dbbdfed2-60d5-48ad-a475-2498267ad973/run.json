@@ -1,0 +1,26 @@
+{
+  "runId": "dbbdfed2-60d5-48ad-a475-2498267ad973",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd34328effeHeEV0jJJxKHZ94",
+  "startedAt": "2026-03-18T21:13:24.075Z",
+  "finishedAt": "2026-03-18T21:14:15.925Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/dbbdfed2-60d5-48ad-a475-2498267ad973/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/dbbdfed2-60d5-48ad-a475-2498267ad973/conversation-messages.json",
+  "studentInitialQuestion": "我是家长，孩子刚上初中，经常问历史人物到底好还是坏。比如她最近问朱元璋是明君还是暴君。我希望能给她一个详细解释，让她学会从不同角度看问题。你能详细说说朱元璋的功过吗？最好结合具体事件和历史背景，让孩子能理解历史评价其实很复杂。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/dbbdfed2-60d5-48ad-a475-2498267ad973/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

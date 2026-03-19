@@ -1,0 +1,26 @@
+{
+  "runId": "5205cc05-a354-4ebc-bca9-914bbdda96df",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc599093ffeEZ0ynJ101W2fmp",
+  "startedAt": "2026-03-19T01:12:12.386Z",
+  "finishedAt": "2026-03-19T01:13:49.421Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/5205cc05-a354-4ebc-bca9-914bbdda96df/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/5205cc05-a354-4ebc-bca9-914bbdda96df/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史老师，发现学生做史料解读时只看表面，不怎么思考史料的背景和来源。你作为历史教学顾问，能具体讲讲看怎么引导学生科学分析史料的背景、来源和意义，提升他们的信息甄别和思维能力吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/5205cc05-a354-4ebc-bca9-914bbdda96df/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

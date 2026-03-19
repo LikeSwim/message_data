@@ -1,0 +1,26 @@
+{
+  "runId": "beb660aa-1805-445d-b5e3-815490321afa",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcc07c34ffedGaY0Ix5jRnnLM",
+  "startedAt": "2026-03-18T23:19:47.394Z",
+  "finishedAt": "2026-03-18T23:20:23.424Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/beb660aa-1805-445d-b5e3-815490321afa/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/beb660aa-1805-445d-b5e3-815490321afa/conversation-messages.json",
+  "studentInitialQuestion": "I'm ThompsonEric, a 9th grader who likes guitar and programming but doesn't enjoy competition or group activities. I get confused when comparing the European Union and ASEAN in geography class, especially about their differences and connections. Could you explain in detail how they're similar or different in geography, economy, politics, and culture, maybe with examples and some tech-related or visual tasks? Please explain thoroughly.",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/beb660aa-1805-445d-b5e3-815490321afa/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

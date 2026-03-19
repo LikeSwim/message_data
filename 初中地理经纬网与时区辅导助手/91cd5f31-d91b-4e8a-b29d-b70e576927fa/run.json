@@ -1,0 +1,26 @@
+{
+  "runId": "91cd5f31-d91b-4e8a-b29d-b70e576927fa",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理经纬网与时区辅导助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe72ee91ffe09OTCWpyeV7teR",
+  "startedAt": "2026-03-18T15:25:14.297Z",
+  "finishedAt": "2026-03-18T15:26:48.680Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/91cd5f31-d91b-4e8a-b29d-b70e576927fa/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/91cd5f31-d91b-4e8a-b29d-b70e576927fa/conversation-messages.json",
+  "studentInitialQuestion": "I'm MillerEmma, a 16-year-old high school student who loves piano and painting, but I get distracted easily and struggle with self-learning. I try to approach my studies rationally and often look for structured help. Can you give me a really detailed explanation about latitude, longitude, and how time zones work—including the history, logic, practical examples, and common mistakes? Please also share some study strategies that might suit someone with my creative interests and help me stay focused. Please expand on this in detail.",
+  "studentInitialQuestionPath": "data/student-questions/初中地理经纬网与时区辅导助手/91cd5f31-d91b-4e8a-b29d-b70e576927fa/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

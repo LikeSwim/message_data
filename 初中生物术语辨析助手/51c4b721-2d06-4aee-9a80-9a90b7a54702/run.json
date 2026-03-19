@@ -1,0 +1,26 @@
+{
+  "runId": "51c4b721-2d06-4aee-9a80-9a90b7a54702",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6fcdc2ffe66RHUbW3uRYTSW",
+  "startedAt": "2026-03-19T00:47:54.934Z",
+  "finishedAt": "2026-03-19T00:48:27.549Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/51c4b721-2d06-4aee-9a80-9a90b7a54702/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/51c4b721-2d06-4aee-9a80-9a90b7a54702/conversation-messages.json",
+  "studentInitialQuestion": "我在复习初中生物时，发现“遗传”和“变异”常被当作一回事，但老师说它们有本质区别。帮我理解一下，这两个术语分别指什么、有什么联系和区别？适合自学时参考。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/51c4b721-2d06-4aee-9a80-9a90b7a54702/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

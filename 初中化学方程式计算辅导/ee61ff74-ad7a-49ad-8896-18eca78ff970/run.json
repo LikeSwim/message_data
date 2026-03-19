@@ -1,0 +1,26 @@
+{
+  "runId": "ee61ff74-ad7a-49ad-8896-18eca78ff970",
+  "sceneName": "初中化学方程式计算辅导",
+  "title": "batch-初中化学方程式计算辅导-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式计算辅导",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdd8d393ffeO3hxe0KOa1ZlLE",
+  "startedAt": "2026-03-18T18:13:34.946Z",
+  "finishedAt": "2026-03-18T18:14:13.831Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式计算辅导/ee61ff74-ad7a-49ad-8896-18eca78ff970/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式计算辅导/ee61ff74-ad7a-49ad-8896-18eca78ff970/conversation-messages.json",
+  "studentInitialQuestion": "老师让我多练习初中化学方程式计算，讲清楚点相关的标准流程和容易出错的地方吧，麻烦举点实际的例子和学习建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式计算辅导/ee61ff74-ad7a-49ad-8896-18eca78ff970/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

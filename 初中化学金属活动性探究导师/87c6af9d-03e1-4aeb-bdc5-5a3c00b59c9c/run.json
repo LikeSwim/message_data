@@ -1,0 +1,26 @@
+{
+  "runId": "87c6af9d-03e1-4aeb-bdc5-5a3c00b59c9c",
+  "sceneName": "初中化学金属活动性探究导师",
+  "title": "batch-初中化学金属活动性探究导师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学金属活动性探究导师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdc73b89ffefAUCXj9LIWUVCQ",
+  "startedAt": "2026-03-18T18:32:46.778Z",
+  "finishedAt": "2026-03-18T18:33:18.385Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学金属活动性探究导师/87c6af9d-03e1-4aeb-bdc5-5a3c00b59c9c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学金属活动性探究导师/87c6af9d-03e1-4aeb-bdc5-5a3c00b59c9c/conversation-messages.json",
+  "studentInitialQuestion": "你作为化学教育专家，能帮我深入了解金属活动性规律吗？我想知道它的探究过程、核心原理、典型实验，还有在生活和工业中的应用，麻烦详细讲讲",
+  "studentInitialQuestionPath": "data/student-questions/初中化学金属活动性探究导师/87c6af9d-03e1-4aeb-bdc5-5a3c00b59c9c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

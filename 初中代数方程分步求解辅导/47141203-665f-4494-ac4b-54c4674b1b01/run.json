@@ -1,0 +1,26 @@
+{
+  "runId": "47141203-665f-4494-ac4b-54c4674b1b01",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "batch-初中代数方程分步求解辅导-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中代数方程分步求解辅导",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fed07a37fferzllBnZtnQYkGr",
+  "startedAt": "2026-03-18T13:43:04.897Z",
+  "finishedAt": "2026-03-18T13:46:36.630Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中代数方程分步求解辅导/47141203-665f-4494-ac4b-54c4674b1b01/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中代数方程分步求解辅导/47141203-665f-4494-ac4b-54c4674b1b01/conversation-messages.json",
+  "studentInitialQuestion": "我是家长，我女儿最近学一元一次方程分步求解总是卡住，对数学也不太感兴趣，尤其不知道每一步该怎么做、为什么要分步做。你作为我的数学学习助手，能详细展开说说如何分步骤指导她解决这些难点吗？也麻烦你给些实用的家庭辅导建议，帮她提升解题信心和主动思考的能力，同时让她在学习中慢慢体会到独立探索和坚持的意义。",
+  "studentInitialQuestionPath": "data/student-questions/初中代数方程分步求解辅导/47141203-665f-4494-ac4b-54c4674b1b01/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

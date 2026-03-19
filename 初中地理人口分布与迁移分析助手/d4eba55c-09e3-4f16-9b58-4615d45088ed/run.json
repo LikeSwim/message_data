@@ -1,0 +1,26 @@
+{
+  "runId": "d4eba55c-09e3-4f16-9b58-4615d45088ed",
+  "sceneName": "初中地理人口分布与迁移分析助手",
+  "title": "batch-初中地理人口分布与迁移分析助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理人口分布与迁移分析助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe519fa4ffeaT1CKwuFdmRyPs",
+  "startedAt": "2026-03-18T16:01:38.389Z",
+  "finishedAt": "2026-03-18T16:02:36.435Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/d4eba55c-09e3-4f16-9b58-4615d45088ed/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理人口分布与迁移分析助手/d4eba55c-09e3-4f16-9b58-4615d45088ed/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，最近发现班里的学生对‘人口分布与迁移的原因’有很多自己的想法，但他们很难系统梳理各个影响因素之间的联系。你能详细展开说说这个主题吗？希望有详细的论述、例子和一些适合课堂活动的建议，能帮助学生主动参与和思考。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理人口分布与迁移分析助手/d4eba55c-09e3-4f16-9b58-4615d45088ed/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

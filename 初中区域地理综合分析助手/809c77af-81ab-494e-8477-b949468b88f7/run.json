@@ -1,0 +1,26 @@
+{
+  "runId": "809c77af-81ab-494e-8477-b949468b88f7",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcc352acffers17HUIQJxh4a4",
+  "startedAt": "2026-03-18T23:16:41.424Z",
+  "finishedAt": "2026-03-18T23:17:40.817Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/809c77af-81ab-494e-8477-b949468b88f7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/809c77af-81ab-494e-8477-b949468b88f7/conversation-messages.json",
+  "studentInitialQuestion": "我女儿刚开始学地理，经常把中东和东南亚搞混。你能不能讲清楚这两个地方地理、资源、人口和经济上的主要特点，还要说说它们在世界上的重要性，有具体例子就更好了。",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/809c77af-81ab-494e-8477-b949468b88f7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

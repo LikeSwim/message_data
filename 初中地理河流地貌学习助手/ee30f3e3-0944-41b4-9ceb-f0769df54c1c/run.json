@@ -1,0 +1,26 @@
+{
+  "runId": "ee30f3e3-0944-41b4-9ceb-f0769df54c1c",
+  "sceneName": "初中地理河流地貌学习助手",
+  "title": "batch-初中地理河流地貌学习助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理河流地貌学习助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe8b0fc4ffed5cO48xLpn41hT",
+  "startedAt": "2026-03-18T14:58:54.130Z",
+  "finishedAt": "2026-03-18T14:59:39.080Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理河流地貌学习助手/ee30f3e3-0944-41b4-9ceb-f0769df54c1c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理河流地貌学习助手/ee30f3e3-0944-41b4-9ceb-f0769df54c1c/conversation-messages.json",
+  "studentInitialQuestion": "我是学生家长，孩子刚开始学地理，对河流地貌总是理解不透而且容易混淆。你作为地理教育专家，能不能讲清楚点河流地貌的发育过程、常见地貌类型还有对环境的影响？最好结合家庭生活里的实际例子，让他能更好掌握这些知识。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理河流地貌学习助手/ee30f3e3-0944-41b4-9ceb-f0769df54c1c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

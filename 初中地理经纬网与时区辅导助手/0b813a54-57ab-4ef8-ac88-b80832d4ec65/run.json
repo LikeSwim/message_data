@@ -1,0 +1,26 @@
+{
+  "runId": "0b813a54-57ab-4ef8-ac88-b80832d4ec65",
+  "sceneName": "初中地理经纬网与时区辅导助手",
+  "title": "batch-初中地理经纬网与时区辅导助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理经纬网与时区辅导助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe700485ffefH0fcx85zK4b6B",
+  "startedAt": "2026-03-18T15:28:26.479Z",
+  "finishedAt": "2026-03-18T15:30:14.208Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/0b813a54-57ab-4ef8-ac88-b80832d4ec65/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理经纬网与时区辅导助手/0b813a54-57ab-4ef8-ac88-b80832d4ec65/conversation-messages.json",
+  "studentInitialQuestion": "I'm a junior high student's parent—my child often gets time zone calculation problems wrong and gets nervous at test time. Can you explain how to correctly use longitude and latitude for these problems, what common errors to avoid, and share some confidence-building tips? Can you talk about this specifically?",
+  "studentInitialQuestionPath": "data/student-questions/初中地理经纬网与时区辅导助手/0b813a54-57ab-4ef8-ac88-b80832d4ec65/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

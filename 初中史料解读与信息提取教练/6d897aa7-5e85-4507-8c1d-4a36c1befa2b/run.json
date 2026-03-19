@@ -1,0 +1,26 @@
+{
+  "runId": "6d897aa7-5e85-4507-8c1d-4a36c1befa2b",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc530f0dffeTvT5TWNYXJzkUc",
+  "startedAt": "2026-03-19T01:19:18.760Z",
+  "finishedAt": "2026-03-19T01:23:19.782Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/6d897aa7-5e85-4507-8c1d-4a36c1befa2b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/6d897aa7-5e85-4507-8c1d-4a36c1befa2b/conversation-messages.json",
+  "studentInitialQuestion": "你作为历史教育专家，能从各个角度详细说说 JacksonAdam（18岁，12年级男生，喜欢数独、武术、游泳，性格有点回避，社交不多，学业很认真），在初高中衔接阶段怎么通过史料解读训练提升他的历史信息提取能力、批判性思维和自信心吗？希望你能系统分析下心理支持、学习方法、兴趣引入、知识衔接、案例等方面",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/6d897aa7-5e85-4507-8c1d-4a36c1befa2b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

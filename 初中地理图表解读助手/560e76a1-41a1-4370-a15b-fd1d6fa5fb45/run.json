@@ -1,0 +1,26 @@
+{
+  "runId": "560e76a1-41a1-4370-a15b-fd1d6fa5fb45",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe4783a6ffevUFORmQMbgz1P8",
+  "startedAt": "2026-03-18T16:12:40.911Z",
+  "finishedAt": "2026-03-18T16:13:08.447Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/560e76a1-41a1-4370-a15b-fd1d6fa5fb45/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/560e76a1-41a1-4370-a15b-fd1d6fa5fb45/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生，对地理不算太感兴趣，但老师让我们分析中国各地年降水量分布的区域差异，数据太多我有点晕，不知道怎么下手。你能讲讲看，解读这种降水量分布图有哪些关键方法和步骤吗？最好举个生活里的例子说明。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/560e76a1-41a1-4370-a15b-fd1d6fa5fb45/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

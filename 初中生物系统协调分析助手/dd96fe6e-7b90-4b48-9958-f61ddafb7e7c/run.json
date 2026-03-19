@@ -1,0 +1,26 @@
+{
+  "runId": "dd96fe6e-7b90-4b48-9958-f61ddafb7e7c",
+  "sceneName": "初中生物系统协调分析助手",
+  "title": "batch-初中生物系统协调分析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物系统协调分析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc619cc8ffeslKo9ymvipG3m5",
+  "startedAt": "2026-03-19T01:03:24.975Z",
+  "finishedAt": "2026-03-19T01:04:06.214Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物系统协调分析助手/dd96fe6e-7b90-4b48-9958-f61ddafb7e7c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物系统协调分析助手/dd96fe6e-7b90-4b48-9958-f61ddafb7e7c/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，刚开始学人体系统，对它们怎么配合还不太懂。你能具体说说消化、循环和呼吸系统是怎么协调工作的，并举些贴近生活的例子帮我理解吗？能具体说说吗",
+  "studentInitialQuestionPath": "data/student-questions/初中生物系统协调分析助手/dd96fe6e-7b90-4b48-9958-f61ddafb7e7c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

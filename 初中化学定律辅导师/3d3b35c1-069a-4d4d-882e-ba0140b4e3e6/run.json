@@ -1,0 +1,26 @@
+{
+  "runId": "3d3b35c1-069a-4d4d-882e-ba0140b4e3e6",
+  "sceneName": "初中化学定律辅导师",
+  "title": "batch-初中化学定律辅导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学定律辅导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdeae385ffedPVHKb6GI3ndXk",
+  "startedAt": "2026-03-18T17:53:51.216Z",
+  "finishedAt": "2026-03-18T17:56:11.305Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学定律辅导师/3d3b35c1-069a-4d4d-882e-ba0140b4e3e6/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学定律辅导师/3d3b35c1-069a-4d4d-882e-ba0140b4e3e6/conversation-messages.json",
+  "studentInitialQuestion": "你是化学AI专家，我是石宏，18岁高三男生，成绩优秀，喜欢数学建模竞赛和露营生存技能，性格理性和感性交替，有时情绪波动。我想更深入地理解化学基本定律，特别是它们在实际生活、科学研究和跨学科领域的应用。能全面分析一下吗？请分点详细讲讲，也能结合数学建模和野外生存方面举些例子，给我些激发理性和感性兴趣的建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学定律辅导师/3d3b35c1-069a-4d4d-882e-ba0140b4e3e6/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "86b69f27-7979-4d88-916a-5874d158777f",
+  "sceneName": "初中生物分类与进化辅导员",
+  "title": "batch-初中生物分类与进化辅导员-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物分类与进化辅导员",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc9762ffffeJlrBiJPdDxWGtE",
+  "startedAt": "2026-03-19T00:04:40.826Z",
+  "finishedAt": "2026-03-19T00:05:34.622Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生物分类与进化辅导员/86b69f27-7979-4d88-916a-5874d158777f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物分类与进化辅导员/86b69f27-7979-4d88-916a-5874d158777f/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，最近班上有学生问我为什么同一种动物会有不同的品种，比如狗有很多品种。你是我的教学顾问，能讲清楚点：如何用生物分类和进化的知识，帮助学生理解这一现象？讲清楚点",
+  "studentInitialQuestionPath": "data/student-questions/初中生物分类与进化辅导员/86b69f27-7979-4d88-916a-5874d158777f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "a3820ed4-a1b9-49b8-b793-232c2fcea942",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb3f21affeIskA76Sx828Ysb",
+  "startedAt": "2026-03-18T23:33:29.180Z",
+  "finishedAt": "2026-03-18T23:34:02.935Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/a3820ed4-a1b9-49b8-b793-232c2fcea942/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/a3820ed4-a1b9-49b8-b793-232c2fcea942/conversation-messages.json",
+  "studentInitialQuestion": "我最近在园艺种植中发现生态系统结构和功能的知识很关键，但具体细节不是很清楚。你作为生物老师，能不能详细说说这方面内容，并结合园艺举个例子？",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/a3820ed4-a1b9-49b8-b793-232c2fcea942/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

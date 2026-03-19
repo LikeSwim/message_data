@@ -1,0 +1,26 @@
+{
+  "runId": "765b0b84-0c93-4b15-bd28-0907dc39cfd6",
+  "sceneName": "初中化学金属活动性探究导师",
+  "title": "batch-初中化学金属活动性探究导师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学金属活动性探究导师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdc243dbffeLQ6mQMmC2UUWaO",
+  "startedAt": "2026-03-18T18:38:13.538Z",
+  "finishedAt": "2026-03-18T18:41:03.582Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中化学金属活动性探究导师/765b0b84-0c93-4b15-bd28-0907dc39cfd6/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学金属活动性探究导师/765b0b84-0c93-4b15-bd28-0907dc39cfd6/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，最近学金属活动性规律感觉有点迷糊，你能讲讲看这个规律的基本原理、实验例子和学习要注意什么吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中化学金属活动性探究导师/765b0b84-0c93-4b15-bd28-0907dc39cfd6/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

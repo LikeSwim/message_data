@@ -1,0 +1,26 @@
+{
+  "runId": "e7718e59-1516-4fda-aca4-f06496c59cce",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc87a6a4ffe9BQqO87RlXSPR1",
+  "startedAt": "2026-03-19T00:21:52.080Z",
+  "finishedAt": "2026-03-19T00:23:01.705Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/e7718e59-1516-4fda-aca4-f06496c59cce/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/e7718e59-1516-4fda-aca4-f06496c59cce/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生家长，女儿最近在生物课上问我，超市里很多酸奶写着‘添加益生菌’，还有些食品强调‘无添加抗生素’，这些到底是什么意思？你能讲清楚点，益生菌、抗生素这些生物技术在食品里有什么用，我们平时要注意什么？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/e7718e59-1516-4fda-aca4-f06496c59cce/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

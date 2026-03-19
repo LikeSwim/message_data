@@ -1,0 +1,26 @@
+{
+  "runId": "ef34b90d-f62a-47ae-b5ee-49a008116021",
+  "sceneName": "初中化学生活安全辅导员",
+  "title": "batch-初中化学生活安全辅导员-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学生活安全辅导员",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdb25685ffe1pl36dSQTRSSEn",
+  "startedAt": "2026-03-18T18:55:37.329Z",
+  "finishedAt": "2026-03-18T18:56:38.046Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学生活安全辅导员/ef34b90d-f62a-47ae-b5ee-49a008116021/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学生活安全辅导员/ef34b90d-f62a-47ae-b5ee-49a008116021/conversation-messages.json",
+  "studentInitialQuestion": "我是初一女生，平时有点粗心。上次实验课不小心把酸液滴到手上了。你是我的化学学习顾问，能不能讲清楚点初中化学知识在实验室安全防护和紧急处理方面怎么用？结合我粗心的特点，给些适合我的安全建议和实践方法，也能聊聊古代中国在实验和制药安全上的智慧吗？讲清楚点",
+  "studentInitialQuestionPath": "data/student-questions/初中化学生活安全辅导员/ef34b90d-f62a-47ae-b5ee-49a008116021/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

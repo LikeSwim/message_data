@@ -1,0 +1,26 @@
+{
+  "runId": "2f62fa8a-5f54-41ec-8a2e-cc524a30ffe4",
+  "sceneName": "初中短跑起跑与接力技术指导",
+  "title": "batch-初中短跑起跑与接力技术指导-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中短跑起跑与接力技术指导",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe1be1a2ffeBiq7ScPnsBrVxV",
+  "startedAt": "2026-03-18T17:00:20.436Z",
+  "finishedAt": "2026-03-18T17:01:15.042Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中短跑起跑与接力技术指导/2f62fa8a-5f54-41ec-8a2e-cc524a30ffe4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中短跑起跑与接力技术指导/2f62fa8a-5f54-41ec-8a2e-cc524a30ffe4/conversation-messages.json",
+  "studentInitialQuestion": "我是潘雪雪，13岁，初一女生，喜欢线描水彩和古筝，是班上的文艺骨干，经常组织大家参加艺术节，也会和隔壁班文艺委员较劲。我一直觉得成绩和朋友关系有点纠结。你觉得学短跑起跑和接力棒交接训练，对我个人成长和团队关系有哪些积极影响？说说你的看法。",
+  "studentInitialQuestionPath": "data/student-questions/初中短跑起跑与接力技术指导/2f62fa8a-5f54-41ec-8a2e-cc524a30ffe4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

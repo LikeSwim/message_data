@@ -1,0 +1,26 @@
+{
+  "runId": "62f8aab5-07a3-42b0-b720-9824d066a805",
+  "sceneName": "初中排球垫传技能教练",
+  "title": "batch-初中排球垫传技能教练-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中排球垫传技能教练",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcda4adaffe3vNWm9ExUCgD3Y",
+  "startedAt": "2026-03-18T22:51:36.095Z",
+  "finishedAt": "2026-03-18T22:52:17.057Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中排球垫传技能教练/62f8aab5-07a3-42b0-b720-9824d066a805/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中排球垫传技能教练/62f8aab5-07a3-42b0-b720-9824d066a805/conversation-messages.json",
+  "studentInitialQuestion": "我是体育班主任，我们班有几个学生上排球垫球和传球接力时总分心，动作和配合都不好。你能讲讲看怎么针对他们设计分层训练和激励方法吗？顺便说说安全注意和提升专注力的办法。",
+  "studentInitialQuestionPath": "data/student-questions/初中排球垫传技能教练/62f8aab5-07a3-42b0-b720-9824d066a805/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "38f6dc17-d5f1-4a66-9aea-b599b738d51c",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec2256cffeHR72Ozc761TSmN",
+  "startedAt": "2026-03-18T13:58:44.112Z",
+  "finishedAt": "2026-03-18T13:59:54.367Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/38f6dc17-d5f1-4a66-9aea-b599b738d51c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/38f6dc17-d5f1-4a66-9aea-b599b738d51c/conversation-messages.json",
+  "studentInitialQuestion": "我是初二男生罗光明，摄影、视频剪辑和街舞都很喜欢，平时拍摄活动视频时，有些同学对隐私和肖像权挺在意的。你是我的学习助手，简单说说在拍摄和分享视频时要注意哪些道德和法律问题吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/38f6dc17-d5f1-4a66-9aea-b599b738d51c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

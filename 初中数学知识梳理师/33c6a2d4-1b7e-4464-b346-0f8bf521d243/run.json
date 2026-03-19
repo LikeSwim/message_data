@@ -1,0 +1,26 @@
+{
+  "runId": "33c6a2d4-1b7e-4464-b346-0f8bf521d243",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbf64d8effe6kXDqqk5l7CPRS",
+  "startedAt": "2026-03-19T03:00:37.608Z",
+  "finishedAt": "2026-03-19T03:01:59.554Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/33c6a2d4-1b7e-4464-b346-0f8bf521d243/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/33c6a2d4-1b7e-4464-b346-0f8bf521d243/conversation-messages.json",
+  "studentInitialQuestion": "你作为数学教育专家，能不能说说初中阶段几何学习的主要知识点和容易混淆的地方？说说主要的就行。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/33c6a2d4-1b7e-4464-b346-0f8bf521d243/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

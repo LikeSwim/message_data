@@ -1,0 +1,26 @@
+{
+  "runId": "625d5cf3-8266-4ae8-a13f-4ade5cc15e03",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生态系统分析助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcb2135cffen3Fyy0r95JaMgQ",
+  "startedAt": "2026-03-18T23:35:31.739Z",
+  "finishedAt": "2026-03-18T23:36:51.285Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生态系统分析助手/625d5cf3-8266-4ae8-a13f-4ade5cc15e03/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生态系统分析助手/625d5cf3-8266-4ae8-a13f-4ade5cc15e03/conversation-messages.json",
+  "studentInitialQuestion": "我是贾娟敏，22岁医生，喜欢园艺种植，也经常读医学期刊。在园艺社群交流时大家对生态系统结构和功能的科学理解不太统一。你作为生物老师，能不能概括一下这部分内容，让我好在社群里分享？",
+  "studentInitialQuestionPath": "data/student-questions/初中生态系统分析助手/625d5cf3-8266-4ae8-a13f-4ade5cc15e03/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

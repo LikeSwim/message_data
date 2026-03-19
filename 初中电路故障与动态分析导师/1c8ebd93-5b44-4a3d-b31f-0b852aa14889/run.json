@@ -1,0 +1,26 @@
+{
+  "runId": "1c8ebd93-5b44-4a3d-b31f-0b852aa14889",
+  "sceneName": "初中电路故障与动态分析导师",
+  "title": "batch-初中电路故障与动态分析导师-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中电路故障与动态分析导师",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe2bc1c2ffeVp8766gylsi7p8",
+  "startedAt": "2026-03-18T16:43:00.023Z",
+  "finishedAt": "2026-03-18T16:43:36.232Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中电路故障与动态分析导师/1c8ebd93-5b44-4a3d-b31f-0b852aa14889/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中电路故障与动态分析导师/1c8ebd93-5b44-4a3d-b31f-0b852aa14889/conversation-messages.json",
+  "studentInitialQuestion": "我是缪菊，14岁，初二女生，性格内向但创新性强，做事持续专注，不太喜欢功利性的东西。平常喜欢和妈妈在花园一起打理植物，周末有时和社区乒乓球爱好者交流。最近物理课上做电路实验时发现电路明明接对了，灯泡却时亮时不亮，有点好奇也有点困惑。你是物理教学助手，能详细说说遇到这种电路动态故障该怎么分析和排查吗？希望能举些生活里的例子，帮我建立科学思维。",
+  "studentInitialQuestionPath": "data/student-questions/初中电路故障与动态分析导师/1c8ebd93-5b44-4a3d-b31f-0b852aa14889/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

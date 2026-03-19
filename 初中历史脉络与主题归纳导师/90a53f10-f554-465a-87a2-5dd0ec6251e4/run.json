@@ -1,0 +1,26 @@
+{
+  "runId": "90a53f10-f554-465a-87a2-5dd0ec6251e4",
+  "sceneName": "初中历史脉络与主题归纳导师",
+  "title": "batch-初中历史脉络与主题归纳导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史脉络与主题归纳导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd409d74ffedSsYJc6FjKhE2N",
+  "startedAt": "2026-03-18T20:59:50.277Z",
+  "finishedAt": "2026-03-18T21:02:45.481Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中历史脉络与主题归纳导师/90a53f10-f554-465a-87a2-5dd0ec6251e4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史脉络与主题归纳导师/90a53f10-f554-465a-87a2-5dd0ec6251e4/conversation-messages.json",
+  "studentInitialQuestion": "我叫龚韫玉，17岁，高二在读，平时喜欢文学创作和乒乓球，性格高效规划但偶尔过度自信和拖延。家里是教师家庭，作息很规律，文学社老师比较关注我，但我有时会因创作灵感打乱计划。最近学中国历史时，发现自己容易把各阶段主题搞混，归纳历史发展脉络时思路也不清。你作为历史学科专家，能深入说说看中国历史发展的主要脉络和主题归纳吗？结合我的学习特点和兴趣，给些具体归纳技巧和建议，也希望举些典型事件做例子",
+  "studentInitialQuestionPath": "data/student-questions/初中历史脉络与主题归纳导师/90a53f10-f554-465a-87a2-5dd0ec6251e4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

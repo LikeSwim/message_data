@@ -1,0 +1,26 @@
+{
+  "runId": "93e40c3a-9422-496a-9061-92bdd510f7f9",
+  "sceneName": "初中生物术语辨析助手",
+  "title": "batch-初中生物术语辨析助手-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物术语辨析助手",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc6dc03bffeDow2MgAY5QaXnJ",
+  "startedAt": "2026-03-19T00:50:09.465Z",
+  "finishedAt": "2026-03-19T00:51:08.829Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生物术语辨析助手/93e40c3a-9422-496a-9061-92bdd510f7f9/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物术语辨析助手/93e40c3a-9422-496a-9061-92bdd510f7f9/conversation-messages.json",
+  "studentInitialQuestion": "最近生物课上老师提到“酶”和“激素”时，很多同学分不清它们的作用和区别。详细说说，这两个词各指什么？有哪些联系和不同？最好能举些生活中的具体例子，适合我们班同学课后复习用。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物术语辨析助手/93e40c3a-9422-496a-9061-92bdd510f7f9/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "55f7a41c-04a2-45a4-b9bf-7e74396e275f",
+  "sceneName": "初中数学发散探究引导师",
+  "title": "batch-初中数学发散探究引导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学发散探究引导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc3a9a1affe4k0454YyBl9fB1",
+  "startedAt": "2026-03-19T01:46:01.566Z",
+  "finishedAt": "2026-03-19T01:47:21.428Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学发散探究引导师/55f7a41c-04a2-45a4-b9bf-7e74396e275f/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学发散探究引导师/55f7a41c-04a2-45a4-b9bf-7e74396e275f/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学教研组组长，准备组织‘发散性问题探究’的校本教研活动。有些老师还不太明白什么是发散性问题探究和它的意义。你作为数学教育专家，能简要说明下吗？要表达清楚、要点突出，方便我用来活动开场介绍。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学发散探究引导师/55f7a41c-04a2-45a4-b9bf-7e74396e275f/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "fd297a3d-326c-4a4a-8d46-b3246e3342d4",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbfcaee7ffeNXt5eSk0msZd75",
+  "startedAt": "2026-03-19T02:53:39.473Z",
+  "finishedAt": "2026-03-19T02:54:41.483Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/fd297a3d-326c-4a4a-8d46-b3246e3342d4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/fd297a3d-326c-4a4a-8d46-b3246e3342d4/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生，期中考试刚结束，二元一次方程组的应用题总是做不好，主要是建模和理解题意方面容易出错。你作为数学学习顾问，能全方位地讲解一下初中方程组知识体系，特别是应用题怎么分析和提升吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/fd297a3d-326c-4a4a-8d46-b3246e3342d4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

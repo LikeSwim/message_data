@@ -1,0 +1,26 @@
+{
+  "runId": "ffbcebe4-a66c-4e5d-8091-35e6d66dcdfa",
+  "sceneName": "初中偶像观思辨引导员",
+  "title": "batch-初中偶像观思辨引导员-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中偶像观思辨引导员",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fceb869fffeHSkSTZCcAHBPd3",
+  "startedAt": "2026-03-18T22:32:45.492Z",
+  "finishedAt": "2026-03-18T22:34:03.898Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中偶像观思辨引导员/ffbcebe4-a66c-4e5d-8091-35e6d66dcdfa/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中偶像观思辨引导员/ffbcebe4-a66c-4e5d-8091-35e6d66dcdfa/conversation-messages.json",
+  "studentInitialQuestion": "我是初中班主任，最近学生在校园偶像选拔后有点过度模仿偶像，影响了学习和同伴关系。你作为德育教育专家，怎么引导学生建立理性健康的偶像观？简要说明下。",
+  "studentInitialQuestionPath": "data/student-questions/初中偶像观思辨引导员/ffbcebe4-a66c-4e5d-8091-35e6d66dcdfa/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

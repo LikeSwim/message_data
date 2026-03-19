@@ -1,0 +1,26 @@
+{
+  "runId": "98fb22ad-a855-42f6-8bef-f3cdbc840a2d",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc4ee714ffeAyZLmtvQMpVJPz",
+  "startedAt": "2026-03-19T01:23:51.144Z",
+  "finishedAt": "2026-03-19T01:24:36.914Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/98fb22ad-a855-42f6-8bef-f3cdbc840a2d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/98fb22ad-a855-42f6-8bef-f3cdbc840a2d/conversation-messages.json",
+  "studentInitialQuestion": "我是初三女生的家长，她性格有点急躁，最近做函数图像题总是把坐标轴和对应关系弄反，错题率特别高。你能帮我深入分析一下她为什么会出现这种错误吗？希望能给出科学有效的改善方法，并结合性格和家庭环境给些个性化建议，我想深入了解。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/98fb22ad-a855-42f6-8bef-f3cdbc840a2d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

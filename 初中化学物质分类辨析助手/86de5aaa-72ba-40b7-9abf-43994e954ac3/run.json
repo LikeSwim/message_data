@@ -1,0 +1,26 @@
+{
+  "runId": "86de5aaa-72ba-40b7-9abf-43994e954ac3",
+  "sceneName": "初中化学物质分类辨析助手",
+  "title": "batch-初中化学物质分类辨析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学物质分类辨析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd8d1196ffeEu9adP3tdslzoB",
+  "startedAt": "2026-03-18T19:36:19.811Z",
+  "finishedAt": "2026-03-18T19:37:00.875Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学物质分类辨析助手/86de5aaa-72ba-40b7-9abf-43994e954ac3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学物质分类辨析助手/86de5aaa-72ba-40b7-9abf-43994e954ac3/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的初中化学老师，发现学生总记不住物质分类标准，还经常搞混不同类型的物质。你作为我的教学顾问，能帮我理解一下物质分类的核心标准、常见易混点和怎么教学生更容易掌握吗？帮我理解一下吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学物质分类辨析助手/86de5aaa-72ba-40b7-9abf-43994e954ac3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

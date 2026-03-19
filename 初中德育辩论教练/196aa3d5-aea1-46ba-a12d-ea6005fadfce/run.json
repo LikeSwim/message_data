@@ -1,0 +1,26 @@
+{
+  "runId": "196aa3d5-aea1-46ba-a12d-ea6005fadfce",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb0c5c6ffe4vhI7ON0lIiphE",
+  "startedAt": "2026-03-18T14:17:42.704Z",
+  "finishedAt": "2026-03-18T14:18:19.148Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/196aa3d5-aea1-46ba-a12d-ea6005fadfce/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/196aa3d5-aea1-46ba-a12d-ea6005fadfce/conversation-messages.json",
+  "studentInitialQuestion": "I'm ThompsonAlice, a teacher with a flexible approach who loves creative writing and aerobics, and I often blend structured planning with spontaneous social activities. As an educational expert, could you say your thoughts on how teachers like me can foster civic responsibility in junior high 'Responsible Citizen' debates? Please include some practical methods and examples, but keep it moderately detailed.",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/196aa3d5-aea1-46ba-a12d-ea6005fadfce/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,915 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773854621812
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d01f98074001TPnYXs3yRQdrZl",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生首问:\n我是MartinezDennis，一名28岁的男老师，最近在教学中对怎么向学生讲清楚函数概念很迷茫。你作为数学教育专家，能说说你的看法吗？希望能结合我喜欢音乐制作、PC组装和露营这些兴趣，帮我找到更贴近学生的讲解方式，同时也能缓解我的职业压力。",
+        "id": "prt_d01f98075001g0Z3YQfp44kPsM",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01f98074001TPnYXs3yRQdrZl"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773854621820,
+        "completed": 1773854635287
+      },
+      "parentID": "msg_d01f98074001TPnYXs3yRQdrZl",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 12021,
+        "input": 11485,
+        "output": 536,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d01f9807c001oBT3b43cVTDxOA",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "id": "prt_d01f983e2001nMQcDJtlICrYjU",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01f9807c001oBT3b43cVTDxOA"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户MartinezDennis是一名28岁的男老师，对如何向学生讲清楚函数概念感到迷茫。他提到自己喜欢音乐制作、PC组装和露营这些兴趣，希望我能结合这些兴趣帮助他找到更贴近学生的讲解方式，同时缓解职业压力。\n\n根据AGENTS.md，我是一名初中函数概念建构师，我应该：\n1. 帮助学生深度理解函数概念本质\n2. 从\"变量依赖关系\"的本质层面解构函数\n3. 帮助学生完成从\"算术思维\"到\"函数思维\"的跃迁\n\n用户希望：\n1. 讲解函数概念的方法\n2. 结合音乐制作、PC组装、露营等兴趣\n3. 找到贴近学生的讲解方式\n4. 缓解职业压力\n\n这是一个很复杂的多方面需求，我应该加载初中函数概念建构技能来提供更好的帮助。",
+        "time": {
+          "start": 1773854622692,
+          "end": 1773854635267
+        },
+        "id": "prt_d01f983e4001tu1fFI4ZR5Du0x",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01f9807c001oBT3b43cVTDxOA"
+      },
+      {
+        "type": "text",
+        "text": " 你好MartinezDennis！作为初中数学函数概念教学专家，我完全理解你的困惑。函数概念确实是从算术思维跃迁到代数思维的关键门槛。\n\n让我结合你的兴趣爱好，给你几个**具体可操作**的教学灵感：\n\n## 🎵 音乐制作视角\n**MIDI编曲中的参数映射**就是完美的函数实例：\n- 转动旋钮（自变量x：0-127）→ 音量变化（因变量y：0-100%）\n- **单值对应**：一个旋钮位置只对应一个音量值，这就是函数的本质\n- 可以带学生做一个\"输入节拍数→输出鼓点强度\"的小实验，让抽象概念\"可听可见\"\n\n## 🖥️ PC组装视角\n**硬件配置的依赖关系**：\n- CPU频率(x) → 游戏帧率(y)\n- 内存容量(x) → 多任务流畅度(y)\n- 强调：改变CPU，帧率跟着变；但同一CPU频率下，帧率只有一个确定值\n\n## 🏕️ 露营视角\n**资源配给的函数思维**：\n- 路程(x公里) → 需水量(y升)，y=0.5x\n- 海拔(x米) → 气温(y℃)，每升高100米降0.6℃\n- 这是学生能\"带得走\"的生活函数模型\n\n---\n\n**缓解压力的小建议**：函数教学的难点不在于\"讲\"，而在于**让学生自己发现变量间的制约关系**。你可以让学生先填表、描点，自己\"发明\"函数概念，你再给出定义——这样你讲得轻松，学生理解也更深刻。\n\n**想深入哪个具体环节？** 比如函数定义的口语化表述、图像与解析式的互译策略，或者易错点的诊断方法？",
+        "time": {
+          "start": 1773854635268,
+          "end": 1773854635268
+        },
+        "id": "prt_d01f992ff001CbfITEgsif0JsL",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01f9807c001oBT3b43cVTDxOA"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "cost": 0,
+        "tokens": {
+          "total": 12021,
+          "input": 11485,
+          "output": 536,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d01f9b506001I79H56MkmzceWI",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01f9807c001oBT3b43cVTDxOA"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773854655753
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d01fa05090010bpPMXuIP22KP4",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生追问:\n这些例子都很贴切，但作为新手教师，我最大的焦虑是\"知道做什么\"但\"不知道具体怎么说和控时\"。如果我用MIDI音乐制作这个例子在40分钟课堂内讲清函数概念，能否给我一个具体的**时间分配表**和**关键过渡话术**？比如前5分钟做什么、中间学生操作时我可能遇到什么突发问题、最后怎么从\"旋钮和音量\"自然过渡到课本上的f(x)定义？特别是当学生问\"为什么一个x只能对应一个y，但一个y可以对应多个x\"时，我该怎么回应最通俗易懂？",
+        "id": "prt_d01fa0509002PKp9O7fBER1nIe",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa05090010bpPMXuIP22KP4"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773854655755,
+        "completed": 1773854658954
+      },
+      "parentID": "msg_d01fa05090010bpPMXuIP22KP4",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 12191,
+        "input": 12055,
+        "output": 136,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "tool-calls",
+      "id": "msg_d01fa050b001vDfk0B45Jl3JJO",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "id": "prt_d01fa063b001lvyXNgu5DKTEoA",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa050b001vDfk0B45Jl3JJO"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户是一位新手教师MartinezDennis，他有明确的焦虑点：知道做什么但不知道怎么说和控时。他需要：\n\n1. 一个具体的40分钟课堂时间分配表\n2. 关键过渡话术\n3. 学生操作时的突发问题预判\n4. 从\"旋钮和音量\"过渡到f(x)定义的方法\n5. 回答\"为什么一个x只能对应一个y，但一个y可以对应多个x\"的通俗解释\n\n这是一个非常具体、实操性的教学请求。我需要加载初中函数概念建构的技能来提供最专业的回答。",
+        "time": {
+          "start": 1773854656060,
+          "end": 1773854658920
+        },
+        "id": "prt_d01fa063c001f8jakQSeSOE0JX",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa050b001vDfk0B45Jl3JJO"
+      },
+      {
+        "type": "tool",
+        "callID": " functions.skill:0",
+        "tool": "skill",
+        "state": {
+          "status": "completed",
+          "input": {
+            "name": "初中函数概念建构"
+          },
+          "output": "<skill_content name=\"初中函数概念建构\">\n# Skill: 初中函数概念建构\n\n## 适用场景\n\n- **学段衔接**：八年级下册\"一次函数\"入门、九年级\"反比例函数\"与\"二次函数\"拓展\n- **概念突破**：变量依赖关系的本质理解、函数定义的形式化建构、数形结合思想的初步建立\n- **难点攻克**：自变量取值范围的确定、实际问题的函数建模、函数与方程/不等式的关系辨析\n- **中考备考**：函数概念辨析题、图像信息提取题、动态几何中的函数关系分析\n- **素养培育**：数学抽象、逻辑推理、数学建模、直观想象等核心素养的课堂渗透\n\n## 讲解维度\n\n| 维度 | 深度讲解要点 | 课标对应 |\n|------|--------------|----------|\n| **概念本质** | 变量间的单值对应关系（\"每一个\"与\"唯一确定\"的逻辑必然性）；函数三要素（定义域、对应法则、值域）的内在关联；函数与方程、不等式的本质边界 | 数与代数领域：函数概念的理解 |\n| **表征系统** | 解析式→列表→图像的三重互译机制；坐标系作为\"数\"与\"形\"的桥梁作用；不同表征方式的优势与局限分析 | 几何直观与代数表达的结合 |\n| **类型建构** | 正比例→一次→反比例→二次的概念递进逻辑；参数（k、b、a、b、c）的几何意义与代数含义；函数家族的整体观念 | 函数模块的单元整体教学 |\n| **易错辨析** | 函数定义理解误区（如竖线检验法的原理）；自变量取值范围的实际意义与数学限制；分段函数的\"整体性\"与\"局部性\" | 逻辑推理与数学严谨性培养 |\n| **思想方法** | 从特殊到一般的归纳思想；待定系数法的本质（方程思想的应用）；分类讨论（如k>0与k<0的图像分析）；函数建模的基本流程 | 数学思想方法的显性化教学 |\n\n## 讲解原则\n\n1. **遵循认知进阶**：严格遵循\"具体情境感知→数学抽象概括→多元表征理解→本质属性归纳→迁移应用创新\"的课标要求认知路径，避免概念灌输。\n\n2. **凸显数学本质**：强调函数是\"刻画现实世界变化规律的重要数学模型\"（课标2022版），从\"变量说\"到\"对应说\"的演进中把握概念内核，渗透数学史教育（如莱布尼茨、狄利克雷的贡献）。\n\n3. **注重衔接过渡**：关注小学\"正比例关系\"与初中\"正比例函数\"的衔接，厘清\"算术思维\"（关注具体数值）与\"函数思维\"（关注变化规律与对应关系）的思维跃迁点。\n\n4. **强化数形结合**：坚持\"以数解形、以形助数\"的双向转化，通过参数变化（如k值变化对直线倾斜程度的影响）建立代数与几何的深层联系。\n\n5. **立足中考评价**：讲解中渗透中考命题导向（如真实情境下的函数建模、跨学科综合应用），但避免纯应试技巧，重在概念理解的深度与灵活性。\n\n6. **落实立德树人**：通过函数概念中\"变化中的不变性\"\"对应关系的确定性\"等数学特征，渗透辩证唯物主义观点；结合中国高铁、航天等科技成就中的函数应用案例，增强文化自信与科技报国情怀。\n\n## 输出格式\n\n讲解内容按以下结构化模块组织，适配课堂讲解、微课设计或自主学习场景：\n\n### 1. 概念锚点\n用精准且通俗的语言揭示当前知识点的数学本质，明确点明与先前知识的逻辑关联（如\"这是一次函数概念的延伸，从'匀速变化'走向'变速变化'\"），建立知识生长点。\n\n### 2. 情境启思\n设计符合初中生生活经验的真实情境（如气温变化曲线、手机流量计费、篮球抛物线轨迹），引导学生感知变量间的依赖关系，提出驱动性问题（如\"当时间变化时，温度如何随之确定？\"）。\n\n### 3. 分层解构\n- **第一层（形式化）**：给出规范的数学定义，强调关键词（\"在某个变化过程中\"\"两个变量\"\"每一个\"\"唯一确定\"）；\n- **第二层（本质化）**：解释\"为什么这样定义\"，通过反例（如一个x对应多个y的情况）说明单值对应的必要性；\n- **第三层（边界化）**：明确概念的适用边界与常见误区（如定义域的隐含限制、实际问题的整数解约束）。\n\n### 4. 数形对照\n文字描述关键图像特征，详细说明解析式中参数的几何意义（如一次函数y=kx+b中，k决定直线的\"倾斜方向与程度\"，b决定\"起始位置\"），建立\"代数特征—几何直观\"的双向映射。\n\n### 5. 概念网络\n简要勾连相关概念，构建知识图谱：\n- 纵向：与方程、不等式的关系（函数视角下的统一）；\n- 横向：与平面直角坐标系、实数运算的联系；\n- 方法层面：待定系数法、配方法在函数中的应用。\n\n### 6. 即时诊断\n提供1-2道概念辨析题或开放性问题（如\"圆的面积S与半径r是函数关系，那么r与S是否也构成函数关系？为什么？\"），附思路点拨（提示关注定义域与对应方向）而非直接答案。\n\n### 7. 元认知提示\n总结本概念的核心理解要点，提供自我检验清单（如\"我能用自己的话解释什么是函数吗？\"\"我能快速判断一个图像是否表示函数吗？\"\"我能说出三种表示函数的优缺点吗？\"），引导学生反思学习过程。\n\n## 特殊情境处理\n\n- **差异化指导**：对基础薄弱学生，侧重具体数值代入与图像描点验证；对学有余力学生，引入分段函数、复合函数等拓展内容。\n- **信息技术融合**：指导使用几何画板或动态数学软件观察参数变化对图像的影响，但强调\"技术辅助理解，思维不可替代\"。\n- **跨学科联结**：结合物理中的s-t图像、化学中的反应速率曲线，体现数学作为基础学科的工具性价值。\n\nBase directory for this skill: file:///home/wsy/Projects/wsy/message/teach_agents/%E5%88%9D%E4%B8%AD%E5%87%BD%E6%95%B0%E6%A6%82%E5%BF%B5%E5%BB%BA%E6%9E%84%E5%B8%88/.opencode/skills/%E5%88%9D%E4%B8%AD%E5%87%BD%E6%95%B0%E6%A6%82%E5%BF%B5%E5%BB%BA%E6%9E%84\nRelative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.\nNote: file list is sampled.\n\n<skill_files>\n\n</skill_files>\n</skill_content>",
+          "title": "Loaded skill: 初中函数概念建构",
+          "metadata": {
+            "name": "初中函数概念建构",
+            "dir": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师/.opencode/skills/初中函数概念建构",
+            "truncated": false
+          },
+          "time": {
+            "start": 1773854658821,
+            "end": 1773854658833
+          }
+        },
+        "id": "prt_d01fa109c001nxkgoH30dSR9Xs",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa050b001vDfk0B45Jl3JJO"
+      },
+      {
+        "type": "step-finish",
+        "reason": "tool-calls",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "cost": 0,
+        "tokens": {
+          "total": 12191,
+          "input": 12055,
+          "output": 136,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d01fa116a001O2Nd4uYNKC7c6z",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa050b001vDfk0B45Jl3JJO"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773854658955,
+        "completed": 1773854693662
+      },
+      "parentID": "msg_d01fa05090010bpPMXuIP22KP4",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 15181,
+        "input": 13677,
+        "output": 1504,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d01fa118b001MLBkb7CPs39Sht",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "id": "prt_d01fa1305001Ff0nTHUD0eVMUw",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa118b001MLBkb7CPs39Sht"
+      },
+      {
+        "type": "reasoning",
+        "text": "  好的，现在我有了专业的初中函数概念建构技能指导。我需要为MartinezDennis设计一个具体的40分钟课堂教学方案，包括：\n\n1. 时间分配表\n2. 关键过渡话术\n3. 突发问题预判\n4. 从\"旋钮和音量\"过渡到f(x)定义的方法\n5. \"一个x对应一个y，但一个y可以对应多个x\"的通俗解释\n\n让我按照技能中提到的教学原则（认知进阶、凸显得数学本质、注重衔接过渡）来构建这个方案。",
+        "time": {
+          "start": 1773854659335,
+          "end": 1773854693632
+        },
+        "id": "prt_d01fa1306001CH1pkRbSyyEJhd",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa118b001MLBkb7CPs39Sht"
+      },
+      {
+        "type": "text",
+        "text": " 我来给你一套**完整的40分钟课堂执行方案**，每个环节都有具体话术和时间卡点：\n\n---\n\n## 📋 **40分钟时间分配表**\n\n| 时间段 | 环节 | 做什么 | 投入度 |\n|--------|------|--------|--------|\n| **0-3分钟** | 情境导入 | 播放一段电子音乐，提问：\"音量是怎么被控制的？\" | 激趣 |\n| **3-8分钟** | 操作体验 | 学生分组：用模拟旋钮改变\"音量条\"，记录5组数据 | 动手 |\n| **8-15分钟** | 列表归纳 | 投影数据，引导学生发现规律：\"一个旋钮位→一个音量值\" | 观察 |\n| **15-22分钟** | 图像呈现 | 描点连线，强调竖线检验：任意x做竖线，与图只交一次 | 直观 |\n| **22-28分钟** | 定义建构 | 从\"旋钮-音量\"抽象到f(x)，提炼关键词 | 抽象 |\n| **28-35分钟** | 辨析验证 | 判断反例（如圆x²+y²=1不是函数），用MIDI原理解释 | 深化 |\n| **35-40分钟** | 迁移应用 | 回到课本例题，完成1-2道基础题，布置观察生活函数的作业 | 巩固 |\n\n---\n\n## 🎯 **关键过渡话术（逐字稿）**\n\n**情境→操作的过渡（第3分钟）：**\n> \"刚才的音乐里，老师转动了一个虚拟旋钮。现在大家的桌面上也有这样的'旋钮'和'音量条'。请小组合作：把旋钮从0转到最大，记录5个不同位置的音量值。注意：**同一个位置，音量会变化吗？**\"\n\n**操作→抽象的过渡（第15分钟）：**\n> \"我们把刚才的数据画成点，连起来就是一条'音量曲线'。现在问题来了：有没有哪个旋钮位置，让音量搞不懂该多大？（等学生回答'没有'）对！这就是函数的**秘密**——**一个输入，只能有一个确定的输出**。\"\n\n**具体→定义的过渡（第22分钟）：**\n> \"刚才的旋钮，数学上用一个字母x表示位置，音量用y表示。我们记作**y = f(x)**。f是什么？f就是'function'——函数，意思是**按照确定的规则，把x变成y**。\"\n\n**定义→辨析的过渡（第28分钟）：**\n> \"那所有有x和y的都是函数吗？看这个圆（画x²+y²=1）。如果x=0，y可以是1，也可以是-1。相当于：**旋钮拧到中间，音量却忽大忽小**——这不符合我们的Experience，所以圆**不是**y关于x的函数。\"\n\n---\n\n## ⚠️ **突发问题预案**\n\n| 突发情况 | 你的回应话术 | 控时技巧 |\n|----------|--------------|----------|\n| **学生操作慢/数据乱** | \"大家看黑板，我们统一用这几个值：0、25、50、75、100\" | 直接给出标准数据，不纠缠 |\n| **学生问\"为什么要学这个\"** | \"游戏里的伤害计算、外卖配送费、手机流量，全是函数。今天揭秘它们的底层逻辑\" | 10秒回应，快速回到正题 |\n| **某个组提前完成无所事事** | \"完成的组思考：如果旋钮坏了，转到一个位置音量乱跳，这还是函数吗？\" | 用追问制造认知冲突 |\n| **学生描点连成折线而非曲线** | \"先记下来！下节课我们会学，如果旋钮很灵敏，点之间应该连成光滑的线\" | 承认合理，留到后续 |\n\n---\n\n## 💡 **核心问题回应：\"为什么一个x只能对一个y，但一个y可以对多个x？\"**\n\n**最通俗的解释（第25分钟左右）：**\n\n> **\"想象旋钮和音量是责任和权利的关系：**\n> \n> **x是'你付出的责任'，y是'你获得的权利'。**\n> \n> - **一个责任，只能对应一个权利**——你拧到50%的位置，音量必须是确定的50%，不能想大就大、想小就小。这叫**确定性**。\n> \n> - **但一个权利，可以对应多个责任**——音量50%可以由旋钮在50%获得，也可以由其他方式（如电脑自动调节）获得。这叫**多样性**。\n> \n> **数学的函数要求：责任→权利必须唯一确定，这样我们才能预测和控制。**\"\n\n**配合手势：** 左手握拳表示x，右手指向唯一一个点表示y；反过来右手一个点，左手可以指多个位置。\n\n---\n\n## 🔄 **从旋钮到f(x)的平滑过渡（第22-25分钟完整流程）**\n\n```\n第22分钟：板书数据表\n┌───────┬────────┐\n│ 旋钮x │ 音量y  │\n├───────┼────────┤\n│   0   │   0%   │\n│  25   │  25%   │\n│  50   │  50%   │\n│  75   │  75%   │\n│ 100   │  100%  │\n└───────┴────────┘\n\n第23分钟：泛化描述\n\"不管具体数字，只要旋钮位置确定了，音量就确定了。\n 我们把这个规则叫做'y是x的函数'。\"\n\n第24分钟：符号引入\n\"y = f(x)，读作'y等于f of x'。\n f就是这个规则——'旋钮位置决定音量'。\"\n\n第25分钟：去情境化\n\"现在忘掉旋钮。f(x)可以是任何规则：\n 时间→温度，路程→油耗，半径→圆面积……\n 只要是**一个输入对应唯一输出**，都是函数。\"\n```\n\n---\n\n## ✅ **课后自我检验清单（给学生的）**\n\n1. 我能说清什么是\"函数\"吗？（一个x对应一个y）\n2. 我知道f(x)是什么意思吗？（输入x，按规则f得到y）\n3. 我能画出一个函数的图像吗？\n4. 我能判断一个图**不是**函数吗？（竖线检验）\n\n---\n\n**MartinezDennis，这套方案的核心是：让定义从学生的操作中\"长\"出来，而不是你\"灌\"进去。** 你的焦虑往往来自于想\"讲完美\"，其实让学生**经历困惑→发现→命名**的过程，比你自己讲得面面俱到更重要。\n\n需要我针对某个具体环节再细化吗？比如竖线检验的动手活动设计，或课后作业的生活化选题？",
+        "time": {
+          "start": 1773854693635,
+          "end": 1773854693635
+        },
+        "id": "prt_d01fa1bcc001o88MdReQzcodat",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa118b001MLBkb7CPs39Sht"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "cost": 0,
+        "tokens": {
+          "total": 15181,
+          "input": 13677,
+          "output": 1504,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d01fa9904001kwPRkVbL6tYMqs",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fa118b001MLBkb7CPs39Sht"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773854715762
+      },
+      "summary": {
+        "diffs": [
+          {
+            "file": "teach_agents/初中函数概念建构师/竖线检验动手活动设计方案.md",
+            "before": "",
+            "after": "# 竖线检验动手活动设计方案\n\n## 🎯 活动名称\n**\"穿透测试\"——我是函数侦查员**\n\n## 📋 核心目标\n让学生通过物理操作理解：**函数的图像被任意垂直于x轴的直线最多穿透一次**\n\n## 🛠️ 材料清单（每组4人）\n\n| 物品 | 数量/规格 | 用途 | 备注 |\n|------|-----------|------|------|\n| A3坐标纸 | 2张 | 绘制图像 | 提前印好坐标轴（-5到5） |\n| 透明直尺 | 1把 | 充当\"竖线\" | 最好用透明塑料尺 |\n| 红色毛线 | 30cm | 标记非函数点 | 可粘贴使用 |\n| 记号笔（黑、红） | 各1支 | 绘图和标记 | - |\n| \"函数通缉令\"卡片 | 6张/组 | 任务卡 | 见下文设计 |\n| 透明文件袋 | 1个 | 装材料 | - |\n\n## 🎮 活动流程（25分钟）\n\n### 第一阶段：角色代入（3分钟）\n\n**情境创设**：\n> \"同学们，今天你们都是'函数侦查员'。有一批'可疑图形'混入了函数家族，你们的任务是用'穿透测试'找出伪装者——那些**一个x对应多个y**的图形。\"\n\n**规则说明**：\n> \"测试方法：把直尺**竖直**放在图纸上，像扫描仪一样从左扫到右。如果直尺**穿透图形超过一个点**，这个图形就是'冒牌货'，不是函数！\"\n\n**示范操作**：\n教师在投影仪前演示：\n1. 直尺竖直放在x=-3处 → 与抛物线y=x²交于1点 ✓\n2. 直尺竖直放在x=1处 → 与圆x²+y²=4交于2点 ✗（标记红色毛线）\n\n---\n\n### 第二阶段：侦探任务（15分钟）\n\n**任务卡设计**（每组6张，混合难度）：\n\n**【基础级 - 2张】**\n- **通缉令A**：y = 2x + 1（直线）\n- **通缉令B**：y = x²（抛物线）\n\n**【进阶级 - 2张】**\n- **通缉令C**：x² + y² = 4（圆，上半部分）\n- **通缉令D**：|y| = x（V形，非函数）\n\n**【挑战级 - 2张】**\n- **通缉令E**：分段函数（脉冲波形状）\n- **通缉令F**：y = 1/x（双曲线）\n\n**操作步骤**：\n\n```\nStep 1：描点绘图（3分钟）\n   ↓ 用黑色笔描点（教师提供坐标表）\n   ↓ 用平滑曲线连接\n\nStep 2：穿透扫描（5分钟）\n   ↓ 直尺从x=-5竖直移动到x=5\n   ↓ 每移动1个单位观察交点数\n   ↓ 记录\"最多穿透点数\"\n\nStep 3：身份判定（2分钟）\n   ↓ 最多1个点 → 画✓（是函数）\n   ↓ 2个及以上点 → 贴红色毛线标记（不是函数）\n\nStep 4：撰写\"鉴定报告\"（5分钟）\n   填写表格：\n   ┌──────────┬──────────┬────────────┬──────────┐\n   │ 图形编号  │ 最多穿透点  │ 是/不是函数  │ 证据说明  │\n   ├──────────┼──────────┼────────────┼──────────┤\n   │   A      │    1     │     ✓      │ 任意竖线  │\n   │   C      │    2     │     ✗      │ x=0时两个y│\n   └──────────┴──────────┴────────────┴──────────┘\n```\n\n---\n\n### 第三阶段：卧底现形（7分钟）\n\n**小组汇报**：\n每组派代表展示一张\"冒牌货\"卡片，说明发现过程。\n\n**关键话术**：\n> \"我们发现圆（C号）在x=0处被直尺穿透了**两个点**（0,2）和（0,-2）。\n> 这意味着**一个x=0对应了两个y值**——就像一个人有两个身高，不可能！所以圆不是函数。\"\n\n**教师追问**（制造认知冲突）：\n> \"那如果只画圆的**上半部分**（y≥0），它还是冒牌货吗？\"\n> → 引导学生发现：**截断后变成函数**\n> → 渗透：定义域的重要性\n\n---\n\n## 💬 关键引导话术\n\n### 操作中发现问题#\n\n**情况1：学生画圆时两个点离得很近，看不清**\n> \"用红色毛线把两个交点连起来，像给它们戴上手铐——这就是'一对多'的证据！\"\n\n**情况2：学生问\"为什么非要竖线，横线不行吗？\"**\n> \"好问题！横线测试的是'一个y对应几个x'，那是**反函数**的检验。\n> 我们现在的焦点是：**x能不能当'老大'，说一不二地决定y**？\"\n\n**情况3：学生发现y=1/x在x=0处没交点**\n> \"没交点也是允许的！这意味着x=0**不在定义域里**。\n> 就像有些旋钮位置设备不支持——虽然没有输出，但不违反规则。\"\n\n### 过渡到抽象定义（3分钟）\n\n**从具体到形式化**：\n\n> \"同学们，刚才我们用直尺做的测试，数学家给它起了个名字——**竖线检验法**。\n> \n> 用数学语言说：\n> **如果在坐标系中，任意一条垂直于x轴的直线与图像的交点不超过1个，则y是x的函数。**\"\n\n**板书对比**：\n\n```\n┌──────────────────┬──────────────────┐\n│    是函数 ✓       │   不是函数 ✗      │\n├──────────────────┼──────────────────┤\n│ 直线、抛物线      │ 圆（完整）、竖线  │\n│ y=x², y=2x+1     │ x²+y²=4, x=2     │\n│ 竖线最多穿透1次   │ 竖线穿透2次及以上 │\n└──────────────────┴──────────────────┘\n```\n\n**揭示本质**：\n> \"竖线检验的**数学本质**就是检查：**每一个x是否只有一个y'伺候'它**。\n> 如果有多个y抢着对应一个x，那就乱了套，不是函数！\"\n\n---\n\n## 🎯 分层任务设计\n\n### 基础层（保底任务）\n完成通缉令A、B、C的检测，能说出\"竖线穿透几次\"与\"是不是函数\"的关系。\n\n### 进阶层（标准达成）\n完成全部6张通缉令，能解释为什么圆不是函数，以及如何改造圆让它变成函数。\n\n### 拓展层（思维挑战）\n**设计一个\"伪装的函数\"**：\n> \"能不能画一个图形，看起来像函数，但其实是冒牌货？\n> 提示：让竖线在**某个特殊位置**穿透两次，其他地方都穿透一次。\"\n\n典型答案：抛物线加一个\"鼓包\"在顶点处 → 竖线在顶点处穿透3次。\n\n---\n\n## ✅ 活动评价量规\n\n| 维度 | 优秀(3分) | 良好(2分) | 待改进(1分) |\n|------|-----------|-----------|-------------|\n| 操作规范 | 正确使用竖线扫描，记录完整 | 扫描方向有误但能纠正 | 操作混乱，无法理解方法 |\n| 判断准确 | 6张卡片全部判断正确 | 错1-2张 | 错3张及以上 |\n| 表述清晰 | 能用自己的话解释竖线检验原理 | 能复述概念，但依赖术语 | 表述含糊，概念不清 |\n| 迁移应用 | 能提出改造非函数的思路 | 能识别变式图形 | 仅能识别标准图形 |\n\n---\n\n## 📎 配套资源\n\n### 通缉令卡片模板（A6尺寸）\n\n**正面**（图形示意）：\n```\n╔══════════════════════╗\n║    【通缉令A】        ║\n║    可疑图形：直线      ║\n║                      ║\n║         ↗            ║\n║        /             ║\n║       /              ║\n║    ──┼──             ║\n║      /               ║\n║     ↙                ║\n║                      ║\n║   嫌疑人：y = 2x + 1  ║\n╚══════════════════════╝\n```\n\n**背面**（坐标数据表）：\n```\nx: -2  -1   0   1   2\ny: -3  -1   1   3   5\n```\n\n---\n\n## ⚠️ 常见突发情况预案\n\n| 突发情况 | 应对策略 | 控时技巧 |\n|----------|----------|----------|\n| 学生描点慢，时间不够 | 提供预描点的半成品图纸 | 提前准备两类材料 |\n| 小组争论某个图形的判断 | \"先保留意见，最后全班投票裁定\" | 不现场裁决，避免纠缠 |\n| 学生画圆时手抖，不像圆 | 提供圆规或预印圆形模板 | 降低操作难度 |\n| 有学生提前完成无所事事 | 派发\"挑战卡\"：画出3个冒牌货 | 差异化任务 |\n\n---\n\n## 🎓 活动延伸建议\n\n**课后作业（2选1）**：\n\n1. **实物版**：用手机拍摄生活中\"像函数图形\"的照片（如拱桥、彩虹），用竖线检验法判断它们是否真的是函数图像。\n\n2. **创作版**：设计一个\"函数迷宫\"——画出起点到终点的路径，中间设置3个\"冒牌货陷阱\"，让同学用竖线检验法找出正确路径。\n\n---\n\n**MartinezDennis，这个活动的核心设计逻辑是**：\n- **用物理操作（直尺扫描）具象化抽象概念**\n- **用侦探角色提升参与感和成就感**\n- **用红色毛线标记制造视觉冲击，强化\"一对多\"的违规性**\n- **用分层任务确保每个学生都能获得成功体验**\n\n需要我再细化某个环节吗？比如完整的通缉令卡片打印版，或者课堂PPT的动画设计？\n",
+            "additions": 223,
+            "deletions": 0,
+            "status": "added"
+          }
+        ]
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d01faef720019wudQI2HLeHFyB",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生追问:\n请详细说明竖线检验的动手活动设计，如何让初二学生通过具体操作理解这个抽象概念？",
+        "id": "prt_d01faef720027ze2PGDZld2rm9",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01faef720019wudQI2HLeHFyB"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773854715764,
+        "completed": 1773854721613
+      },
+      "parentID": "msg_d01faef720019wudQI2HLeHFyB",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 15317,
+        "input": 15056,
+        "output": 261,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "tool-calls",
+      "id": "msg_d01faef74001uE5aqd3YF1moL6",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "id": "prt_d01faf10a001tiMyrqKjk1Xxpc",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01faef74001uE5aqd3YF1moL6"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户想要一个关于\"竖线检验法\"的动手活动设计，用于帮助初二学生理解这个概念。竖线检验法是判断一个图像是否表示函数的方法：如果在图像上任意画一条垂直于x轴的直线，这条直线与图像最多只能有一个交点。\n\n我需要设计一个具体的、可操作的动手活动，让初二学生能通过实际操作理解这个抽象概念。应该包括：\n1. 具体的活动步骤\n2. 所需材料\n3. 操作指南\n4. 观察和讨论引导\n5. 如何过渡到抽象概念\n\n让我设计一个完整的活动方案。",
+        "time": {
+          "start": 1773854716172,
+          "end": 1773854721598
+        },
+        "id": "prt_d01faf10c001AkSCiGkswV3s49",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01faef74001uE5aqd3YF1moL6"
+      },
+      {
+        "type": "text",
+        "text": " 我来为你设计一个**完整的竖线检验动手活动方案**，包含材料清单、操作步骤和引导话术。 </think>",
+        "time": {
+          "start": 1773854721599,
+          "end": 1773854721599
+        },
+        "id": "prt_d01fafb03001YWl34oLvsQbWri",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01faef74001uE5aqd3YF1moL6"
+      },
+      {
+        "type": "tool",
+        "callID": "  functions.todowrite:1",
+        "tool": "todowrite",
+        "state": {
+          "status": "completed",
+          "input": {
+            "todos": [
+              {
+                "content": "设计竖线检验动手活动的完整方案",
+                "status": "in_progress",
+                "priority": "high"
+              },
+              {
+                "content": "制作活动所需材料清单",
+                "status": "pending",
+                "priority": "medium"
+              },
+              {
+                "content": "编写教师引导话术和过渡语",
+                "status": "pending",
+                "priority": "medium"
+              },
+              {
+                "content": "设计分层任务（基础→进阶）",
+                "status": "pending",
+                "priority": "low"
+              }
+            ]
+          },
+          "output": "[\n  {\n    \"content\": \"设计竖线检验动手活动的完整方案\",\n    \"status\": \"in_progress\",\n    \"priority\": \"high\"\n  },\n  {\n    \"content\": \"制作活动所需材料清单\",\n    \"status\": \"pending\",\n    \"priority\": \"medium\"\n  },\n  {\n    \"content\": \"编写教师引导话术和过渡语\",\n    \"status\": \"pending\",\n    \"priority\": \"medium\"\n  },\n  {\n    \"content\": \"设计分层任务（基础→进阶）\",\n    \"status\": \"pending\",\n    \"priority\": \"low\"\n  }\n]",
+          "title": "4 todos",
+          "metadata": {
+            "todos": [
+              {
+                "content": "设计竖线检验动手活动的完整方案",
+                "status": "in_progress",
+                "priority": "high"
+              },
+              {
+                "content": "制作活动所需材料清单",
+                "status": "pending",
+                "priority": "medium"
+              },
+              {
+                "content": "编写教师引导话术和过渡语",
+                "status": "pending",
+                "priority": "medium"
+              },
+              {
+                "content": "设计分层任务（基础→进阶）",
+                "status": "pending",
+                "priority": "low"
+              }
+            ],
+            "truncated": false
+          },
+          "time": {
+            "start": 1773854721592,
+            "end": 1773854721595
+          }
+        },
+        "id": "prt_d01fafdcb001FiuagcoH37kAuB",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01faef74001uE5aqd3YF1moL6"
+      },
+      {
+        "type": "step-finish",
+        "reason": "tool-calls",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "cost": 0,
+        "tokens": {
+          "total": 15317,
+          "input": 15056,
+          "output": 261,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d01fb0640001XayXwYYDlaOwqN",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01faef74001uE5aqd3YF1moL6"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773854721615,
+        "completed": 1773854783063
+      },
+      "parentID": "msg_d01faef720019wudQI2HLeHFyB",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 18086,
+        "input": 15468,
+        "output": 2618,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "tool-calls",
+      "id": "msg_d01fb064f001HOa4tB8XlDq7Zv",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "id": "prt_d01fb076b001N7T9QJLSzdAzbh",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fb064f001HOa4tB8XlDq7Zv"
+      },
+      {
+        "type": "reasoning",
+        "text": "  现在让我设计一个完整的竖线检验动手活动方案。这个活动需要：\n1. 材料简单易得\n2. 操作步骤清晰\n3. 能直观展示竖线检验的原理\n4. 有明确的认知冲突点（函数vs非函数）\n5. 能顺利过渡到抽象定义\n\n我会设计一个\"穿透测试\"活动。",
+        "time": {
+          "start": 1773854721900,
+          "end": 1773854783044
+        },
+        "id": "prt_d01fb076b002YR5fuVYDgugXdX",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fb064f001HOa4tB8XlDq7Zv"
+      },
+      {
+        "type": "tool",
+        "callID": "  functions.write:2",
+        "tool": "write",
+        "state": {
+          "status": "completed",
+          "input": {
+            "filePath": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师/竖线检验动手活动设计方案.md",
+            "content": "# 竖线检验动手活动设计方案\n\n## 🎯 活动名称\n**\"穿透测试\"——我是函数侦查员**\n\n## 📋 核心目标\n让学生通过物理操作理解：**函数的图像被任意垂直于x轴的直线最多穿透一次**\n\n## 🛠️ 材料清单（每组4人）\n\n| 物品 | 数量/规格 | 用途 | 备注 |\n|------|-----------|------|------|\n| A3坐标纸 | 2张 | 绘制图像 | 提前印好坐标轴（-5到5） |\n| 透明直尺 | 1把 | 充当\"竖线\" | 最好用透明塑料尺 |\n| 红色毛线 | 30cm | 标记非函数点 | 可粘贴使用 |\n| 记号笔（黑、红） | 各1支 | 绘图和标记 | - |\n| \"函数通缉令\"卡片 | 6张/组 | 任务卡 | 见下文设计 |\n| 透明文件袋 | 1个 | 装材料 | - |\n\n## 🎮 活动流程（25分钟）\n\n### 第一阶段：角色代入（3分钟）\n\n**情境创设**：\n> \"同学们，今天你们都是'函数侦查员'。有一批'可疑图形'混入了函数家族，你们的任务是用'穿透测试'找出伪装者——那些**一个x对应多个y**的图形。\"\n\n**规则说明**：\n> \"测试方法：把直尺**竖直**放在图纸上，像扫描仪一样从左扫到右。如果直尺**穿透图形超过一个点**，这个图形就是'冒牌货'，不是函数！\"\n\n**示范操作**：\n教师在投影仪前演示：\n1. 直尺竖直放在x=-3处 → 与抛物线y=x²交于1点 ✓\n2. 直尺竖直放在x=1处 → 与圆x²+y²=4交于2点 ✗（标记红色毛线）\n\n---\n\n### 第二阶段：侦探任务（15分钟）\n\n**任务卡设计**（每组6张，混合难度）：\n\n**【基础级 - 2张】**\n- **通缉令A**：y = 2x + 1（直线）\n- **通缉令B**：y = x²（抛物线）\n\n**【进阶级 - 2张】**\n- **通缉令C**：x² + y² = 4（圆，上半部分）\n- **通缉令D**：|y| = x（V形，非函数）\n\n**【挑战级 - 2张】**\n- **通缉令E**：分段函数（脉冲波形状）\n- **通缉令F**：y = 1/x（双曲线）\n\n**操作步骤**：\n\n```\nStep 1：描点绘图（3分钟）\n   ↓ 用黑色笔描点（教师提供坐标表）\n   ↓ 用平滑曲线连接\n\nStep 2：穿透扫描（5分钟）\n   ↓ 直尺从x=-5竖直移动到x=5\n   ↓ 每移动1个单位观察交点数\n   ↓ 记录\"最多穿透点数\"\n\nStep 3：身份判定（2分钟）\n   ↓ 最多1个点 → 画✓（是函数）\n   ↓ 2个及以上点 → 贴红色毛线标记（不是函数）\n\nStep 4：撰写\"鉴定报告\"（5分钟）\n   填写表格：\n   ┌──────────┬──────────┬────────────┬──────────┐\n   │ 图形编号  │ 最多穿透点  │ 是/不是函数  │ 证据说明  │\n   ├──────────┼──────────┼────────────┼──────────┤\n   │   A      │    1     │     ✓      │ 任意竖线  │\n   │   C      │    2     │     ✗      │ x=0时两个y│\n   └──────────┴──────────┴────────────┴──────────┘\n```\n\n---\n\n### 第三阶段：卧底现形（7分钟）\n\n**小组汇报**：\n每组派代表展示一张\"冒牌货\"卡片，说明发现过程。\n\n**关键话术**：\n> \"我们发现圆（C号）在x=0处被直尺穿透了**两个点**（0,2）和（0,-2）。\n> 这意味着**一个x=0对应了两个y值**——就像一个人有两个身高，不可能！所以圆不是函数。\"\n\n**教师追问**（制造认知冲突）：\n> \"那如果只画圆的**上半部分**（y≥0），它还是冒牌货吗？\"\n> → 引导学生发现：**截断后变成函数**\n> → 渗透：定义域的重要性\n\n---\n\n## 💬 关键引导话术\n\n### 操作中发现问题#\n\n**情况1：学生画圆时两个点离得很近，看不清**\n> \"用红色毛线把两个交点连起来，像给它们戴上手铐——这就是'一对多'的证据！\"\n\n**情况2：学生问\"为什么非要竖线，横线不行吗？\"**\n> \"好问题！横线测试的是'一个y对应几个x'，那是**反函数**的检验。\n> 我们现在的焦点是：**x能不能当'老大'，说一不二地决定y**？\"\n\n**情况3：学生发现y=1/x在x=0处没交点**\n> \"没交点也是允许的！这意味着x=0**不在定义域里**。\n> 就像有些旋钮位置设备不支持——虽然没有输出，但不违反规则。\"\n\n### 过渡到抽象定义（3分钟）\n\n**从具体到形式化**：\n\n> \"同学们，刚才我们用直尺做的测试，数学家给它起了个名字——**竖线检验法**。\n> \n> 用数学语言说：\n> **如果在坐标系中，任意一条垂直于x轴的直线与图像的交点不超过1个，则y是x的函数。**\"\n\n**板书对比**：\n\n```\n┌──────────────────┬──────────────────┐\n│    是函数 ✓       │   不是函数 ✗      │\n├──────────────────┼──────────────────┤\n│ 直线、抛物线      │ 圆（完整）、竖线  │\n│ y=x², y=2x+1     │ x²+y²=4, x=2     │\n│ 竖线最多穿透1次   │ 竖线穿透2次及以上 │\n└──────────────────┴──────────────────┘\n```\n\n**揭示本质**：\n> \"竖线检验的**数学本质**就是检查：**每一个x是否只有一个y'伺候'它**。\n> 如果有多个y抢着对应一个x，那就乱了套，不是函数！\"\n\n---\n\n## 🎯 分层任务设计\n\n### 基础层（保底任务）\n完成通缉令A、B、C的检测，能说出\"竖线穿透几次\"与\"是不是函数\"的关系。\n\n### 进阶层（标准达成）\n完成全部6张通缉令，能解释为什么圆不是函数，以及如何改造圆让它变成函数。\n\n### 拓展层（思维挑战）\n**设计一个\"伪装的函数\"**：\n> \"能不能画一个图形，看起来像函数，但其实是冒牌货？\n> 提示：让竖线在**某个特殊位置**穿透两次，其他地方都穿透一次。\"\n\n典型答案：抛物线加一个\"鼓包\"在顶点处 → 竖线在顶点处穿透3次。\n\n---\n\n## ✅ 活动评价量规\n\n| 维度 | 优秀(3分) | 良好(2分) | 待改进(1分) |\n|------|-----------|-----------|-------------|\n| 操作规范 | 正确使用竖线扫描，记录完整 | 扫描方向有误但能纠正 | 操作混乱，无法理解方法 |\n| 判断准确 | 6张卡片全部判断正确 | 错1-2张 | 错3张及以上 |\n| 表述清晰 | 能用自己的话解释竖线检验原理 | 能复述概念，但依赖术语 | 表述含糊，概念不清 |\n| 迁移应用 | 能提出改造非函数的思路 | 能识别变式图形 | 仅能识别标准图形 |\n\n---\n\n## 📎 配套资源\n\n### 通缉令卡片模板（A6尺寸）\n\n**正面**（图形示意）：\n```\n╔══════════════════════╗\n║    【通缉令A】        ║\n║    可疑图形：直线      ║\n║                      ║\n║         ↗            ║\n║        /             ║\n║       /              ║\n║    ──┼──             ║\n║      /               ║\n║     ↙                ║\n║                      ║\n║   嫌疑人：y = 2x + 1  ║\n╚══════════════════════╝\n```\n\n**背面**（坐标数据表）：\n```\nx: -2  -1   0   1   2\ny: -3  -1   1   3   5\n```\n\n---\n\n## ⚠️ 常见突发情况预案\n\n| 突发情况 | 应对策略 | 控时技巧 |\n|----------|----------|----------|\n| 学生描点慢，时间不够 | 提供预描点的半成品图纸 | 提前准备两类材料 |\n| 小组争论某个图形的判断 | \"先保留意见，最后全班投票裁定\" | 不现场裁决，避免纠缠 |\n| 学生画圆时手抖，不像圆 | 提供圆规或预印圆形模板 | 降低操作难度 |\n| 有学生提前完成无所事事 | 派发\"挑战卡\"：画出3个冒牌货 | 差异化任务 |\n\n---\n\n## 🎓 活动延伸建议\n\n**课后作业（2选1）**：\n\n1. **实物版**：用手机拍摄生活中\"像函数图形\"的照片（如拱桥、彩虹），用竖线检验法判断它们是否真的是函数图像。\n\n2. **创作版**：设计一个\"函数迷宫\"——画出起点到终点的路径，中间设置3个\"冒牌货陷阱\"，让同学用竖线检验法找出正确路径。\n\n---\n\n**MartinezDennis，这个活动的核心设计逻辑是**：\n- **用物理操作（直尺扫描）具象化抽象概念**\n- **用侦探角色提升参与感和成就感**\n- **用红色毛线标记制造视觉冲击，强化\"一对多\"的违规性**\n- **用分层任务确保每个学生都能获得成功体验**\n\n需要我再细化某个环节吗？比如完整的通缉令卡片打印版，或者课堂PPT的动画设计？\n"
+          },
+          "output": "Wrote file successfully.",
+          "title": "teach_agents/初中函数概念建构师/竖线检验动手活动设计方案.md",
+          "metadata": {
+            "diagnostics": {},
+            "filepath": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师/竖线检验动手活动设计方案.md",
+            "exists": false,
+            "truncated": false
+          },
+          "time": {
+            "start": 1773854783042,
+            "end": 1773854783048
+          }
+        },
+        "id": "prt_d01fb0e31001lX1jxUgByYlHhG",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fb064f001HOa4tB8XlDq7Zv"
+      },
+      {
+        "type": "step-finish",
+        "reason": "tool-calls",
+        "snapshot": "dd550a3123e3164157943cbbb249f7d0bcbd958e",
+        "cost": 0,
+        "tokens": {
+          "total": 18086,
+          "input": 15468,
+          "output": 2618,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d01fbf648001vlh4aj9GQAoEUU",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fb064f001HOa4tB8XlDq7Zv"
+      },
+      {
+        "type": "patch",
+        "hash": "a4687b9faf1f52f2553e81817933f83b7b0e2ad5",
+        "files": [
+          "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师/竖线检验动手活动设计方案.md"
+        ],
+        "id": "prt_d01fbf65400101p8Yfc2TFWmTk",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fb064f001HOa4tB8XlDq7Zv"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773854783065,
+        "completed": 1773854786444
+      },
+      "parentID": "msg_d01faef720019wudQI2HLeHFyB",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 18246,
+        "input": 18109,
+        "output": 137,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "tool-calls",
+      "id": "msg_d01fbf6590011n8HsOpZQg2PTK",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "dd550a3123e3164157943cbbb249f7d0bcbd958e",
+        "id": "prt_d01fbf7d800130x5YV3OFG0Qx7",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fbf6590011n8HsOpZQg2PTK"
+      },
+      {
+        "type": "reasoning",
+        "text": "   好的，我已经写好了完整的竖线检验动手活动设计方案。现在让我更新todo状态。",
+        "time": {
+          "start": 1773854783450,
+          "end": 1773854786415
+        },
+        "id": "prt_d01fbf7da001uf78mYVE8Sl0WB",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fbf6590011n8HsOpZQg2PTK"
+      },
+      {
+        "type": "tool",
+        "callID": "   functions.todowrite:3",
+        "tool": "todowrite",
+        "state": {
+          "status": "completed",
+          "input": {
+            "todos": [
+              {
+                "content": "设计竖线检验动手活动的完整方案",
+                "status": "completed",
+                "priority": "high"
+              },
+              {
+                "content": "制作活动所需材料清单",
+                "status": "completed",
+                "priority": "medium"
+              },
+              {
+                "content": "编写教师引导话术和过渡语",
+                "status": "completed",
+                "priority": "medium"
+              },
+              {
+                "content": "设计分层任务（基础→进阶）",
+                "status": "completed",
+                "priority": "low"
+              }
+            ]
+          },
+          "output": "[\n  {\n    \"content\": \"设计竖线检验动手活动的完整方案\",\n    \"status\": \"completed\",\n    \"priority\": \"high\"\n  },\n  {\n    \"content\": \"制作活动所需材料清单\",\n    \"status\": \"completed\",\n    \"priority\": \"medium\"\n  },\n  {\n    \"content\": \"编写教师引导话术和过渡语\",\n    \"status\": \"completed\",\n    \"priority\": \"medium\"\n  },\n  {\n    \"content\": \"设计分层任务（基础→进阶）\",\n    \"status\": \"completed\",\n    \"priority\": \"low\"\n  }\n]",
+          "title": "0 todos",
+          "metadata": {
+            "todos": [
+              {
+                "content": "设计竖线检验动手活动的完整方案",
+                "status": "completed",
+                "priority": "high"
+              },
+              {
+                "content": "制作活动所需材料清单",
+                "status": "completed",
+                "priority": "medium"
+              },
+              {
+                "content": "编写教师引导话术和过渡语",
+                "status": "completed",
+                "priority": "medium"
+              },
+              {
+                "content": "设计分层任务（基础→进阶）",
+                "status": "completed",
+                "priority": "low"
+              }
+            ],
+            "truncated": false
+          },
+          "time": {
+            "start": 1773854786406,
+            "end": 1773854786408
+          }
+        },
+        "id": "prt_d01fbfa960016NZQnlu3UutSuw",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fbf6590011n8HsOpZQg2PTK"
+      },
+      {
+        "type": "step-finish",
+        "reason": "tool-calls",
+        "snapshot": "dd550a3123e3164157943cbbb249f7d0bcbd958e",
+        "cost": 0,
+        "tokens": {
+          "total": 18246,
+          "input": 18109,
+          "output": 137,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d01fc03700011wp6El66fU3t3d",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fbf6590011n8HsOpZQg2PTK"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773854786447,
+        "completed": 1773854792273
+      },
+      "parentID": "msg_d01faef720019wudQI2HLeHFyB",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 18648,
+        "input": 18392,
+        "output": 256,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d01fc038f001I1YYt9NO24FxNu",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "dd550a3123e3164157943cbbb249f7d0bcbd958e",
+        "id": "prt_d01fc0499001k4uXWjVdZa34Uw",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fc038f001I1YYt9NO24FxNu"
+      },
+      {
+        "type": "reasoning",
+        "text": "    好了，方案已完成。现在给用户一个简洁的总结回复。",
+        "time": {
+          "start": 1773854786713,
+          "end": 1773854792244
+        },
+        "id": "prt_d01fc0499002eozaeJof3R1IVv",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fc038f001I1YYt9NO24FxNu"
+      },
+      {
+        "type": "text",
+        "text": "  已为你设计完整的**竖线检验动手活动方案**，文件保存在：`竖线检验动手活动设计方案.md`\n\n**核心设计亮点：**\n\n🎮 **\"穿透测试\"侦探游戏**\n- 学生用直尺当\"扫描仪\"，检测图形被竖线穿透几次\n- 红色毛线标记\"违规点\"（一个x对应多个y）\n\n📋 **6张通缉令任务卡**\n- 基础级：直线、抛物线\n- 进阶级：圆、V形（非函数）\n- 挑战级：分段函数、双曲线\n\n💡 **关键过渡话术**\n> \"竖线检验的数学本质就是检查：**每一个x是否只有一个y's伺候'它**。如果有多个y抢着对应一个x，那就乱了套，不是函数！\"\n\n🎯 **分层任务**\n- 基础层：完成简单图形检测\n- 进阶级：解释圆如何改造成函数\n- 拓展层：设计\"伪装的函数\"陷阱\n\n**材料极简**：A3坐标纸、透明直尺、红色毛线、记号笔\n\n需要我生成可打印的通缉令卡片模板，或者其他支持材料吗？",
+        "time": {
+          "start": 1773854792245,
+          "end": 1773854792245
+        },
+        "id": "prt_d01fc05c9001UQ7M8zJlYIVHyZ",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fc038f001I1YYt9NO24FxNu"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "snapshot": "dd550a3123e3164157943cbbb249f7d0bcbd958e",
+        "cost": 0,
+        "tokens": {
+          "total": 18648,
+          "input": 18392,
+          "output": 256,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d01fc1a370016BiK1PJL4geO0t",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fc038f001I1YYt9NO24FxNu"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773854799624
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "qz",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d01fc3708001wDJGBB0BTBOkUq",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你正在参与一个单场景 Teacher(OpenCode) 对话编排。\n\n要求:\n1. 只围绕当前单场景工程回答。\n2. 不要假设额外场景。\n3. 回答时遵循你所在 OpenCode 工程中的 AGENTS.md、skills 和 opencode.json(c)。\n\n任务背景:\n请开始这次单场景教学问答。\n\n学生追问:\n请生成可打印的通缉令卡片模板，包含6张任务卡的具体图形示意和操作指引。",
+        "id": "prt_d01fc3708002SzPPShO7vwS6W0",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fc3708001wDJGBB0BTBOkUq"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773854799631
+      },
+      "parentID": "msg_d01fc3708001wDJGBB0BTBOkUq",
+      "modelID": "Kimi-K25",
+      "providerID": "qz",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/home/wsy/Projects/wsy/message/teach_agents/初中函数概念建构师",
+        "root": "/home/wsy/Projects/wsy/message"
+      },
+      "cost": 0,
+      "tokens": {
+        "input": 0,
+        "output": 0,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "id": "msg_d01fc370f001iWtVgsyqbSlAga",
+      "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "snapshot": "dd550a3123e3164157943cbbb249f7d0bcbd958e",
+        "id": "prt_d01fc3908001z5JX7aU1aoBeq5",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fc370f001iWtVgsyqbSlAga"
+      },
+      {
+        "type": "reasoning",
+        "text": "",
+        "time": {
+          "start": 1773854800137
+        },
+        "id": "prt_d01fc3909001MVwgjWcWx8KG2b",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fc370f001iWtVgsyqbSlAga"
+      },
+      {
+        "type": "tool",
+        "callID": "  functions.write:4",
+        "tool": "write",
+        "state": {
+          "status": "pending",
+          "input": {},
+          "raw": ""
+        },
+        "id": "prt_d01fc410c001XAY3w0H5I0lEzB",
+        "sessionID": "ses_2fe067fbdffebAqo5jNBLk5Ws6",
+        "messageID": "msg_d01fc370f001iWtVgsyqbSlAga"
+      }
+    ]
+  }
+]

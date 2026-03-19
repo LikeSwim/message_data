@@ -1,0 +1,26 @@
+{
+  "runId": "f9fc50cb-39ad-40b8-a0e6-8066709a1d44",
+  "sceneName": "初中生物技术社会应用导师",
+  "title": "batch-初中生物技术社会应用导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物技术社会应用导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc8526c4ffevQV5spDl31isRI",
+  "startedAt": "2026-03-19T00:24:35.893Z",
+  "finishedAt": "2026-03-19T00:25:35.135Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中生物技术社会应用导师/f9fc50cb-39ad-40b8-a0e6-8066709a1d44/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物技术社会应用导师/f9fc50cb-39ad-40b8-a0e6-8066709a1d44/conversation-messages.json",
+  "studentInitialQuestion": "我是41岁的老师陆娜，平时喜欢研究方言、做公益活动，对教学有一定仪式感但管理比较粗放。最近在社区活动发现有家长对生物技术很感兴趣，也有人觉得‘转基因’、‘克隆’这些词很可怕。作为方言文化的传播者，我想组织一次科普活动，帮助大家理性看待生物技术。你能结合社区实际，讲讲看怎么设计一场既有科普性又能兼顾多元文化的生物技术专题活动吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物技术社会应用导师/f9fc50cb-39ad-40b8-a0e6-8066709a1d44/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

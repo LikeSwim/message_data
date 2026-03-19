@@ -1,0 +1,26 @@
+{
+  "runId": "ddb7b7c9-257c-4c72-b6f4-ae0bc1c9c8be",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc29f3f8ffe3qa6N3fTZ3cVTq",
+  "startedAt": "2026-03-19T02:04:12.677Z",
+  "finishedAt": "2026-03-19T02:06:06.742Z",
+  "followUpCount": 1,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/ddb7b7c9-257c-4c72-b6f4-ae0bc1c9c8be/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/ddb7b7c9-257c-4c72-b6f4-ae0bc1c9c8be/conversation-messages.json",
+  "studentInitialQuestion": "我是初中数学老师，最近备课‘函数’单元时发现有学生对变量和函数关系理解不透，容易混淆。你作为教学专家，讲讲看针对这种情况教学活动可以怎么设计？既要帮助学生理清变量和函数的关系，还能提升主动探究和合作能力。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/ddb7b7c9-257c-4c72-b6f4-ae0bc1c9c8be/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

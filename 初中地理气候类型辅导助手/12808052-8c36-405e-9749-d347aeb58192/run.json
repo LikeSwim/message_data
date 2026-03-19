@@ -1,0 +1,26 @@
+{
+  "runId": "12808052-8c36-405e-9749-d347aeb58192",
+  "sceneName": "初中地理气候类型辅导助手",
+  "title": "batch-初中地理气候类型辅导助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理气候类型辅导助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe687413ffeid7yD5RVLPu0z3",
+  "startedAt": "2026-03-18T15:36:41.017Z",
+  "finishedAt": "2026-03-18T15:37:01.356Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理气候类型辅导助手/12808052-8c36-405e-9749-d347aeb58192/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理气候类型辅导助手/12808052-8c36-405e-9749-d347aeb58192/conversation-messages.json",
+  "studentInitialQuestion": "我是初三女生，最近地理学习有些吃力，尤其是世界气候类型的分布和成因总是记不住，你作为地理老师，能不能讲讲看，帮我理清楚这些知识点？最好结合一些具体例子和我日常可能遇到的场景。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理气候类型辅导助手/12808052-8c36-405e-9749-d347aeb58192/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

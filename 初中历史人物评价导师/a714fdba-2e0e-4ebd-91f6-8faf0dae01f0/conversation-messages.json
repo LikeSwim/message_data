@@ -1,0 +1,35 @@
+{
+  "runId": "a714fdba-2e0e-4ebd-91f6-8faf0dae01f0",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "messages": [
+    {
+      "role": "user",
+      "content": "I'm BellQuinn, I'm 14 and in 8th grade. I do competitive dance and love baking, so I like things to be lively and creative. When we talk about historical figures in class, like Empress Wu Zetian, I get excited about debates but find it hard to quickly decide what's good or bad about them. Can you simply say how I can look at both the achievements and mistakes of someone like Wu Zetian? Simple say it so I can get the main idea fast."
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "functions.skill:0",
+          "type": "function",
+          "function": {
+            "name": "skill",
+            "arguments": "{\"name\":\"初中历史人物评价\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.skill:0",
+      "content": "<skill_content name=\"初中历史人物评价\">\n# Skill: 初中历史人物评价\n\n## 适用场景\n\n- **课堂探究**：统编教材《中国历史》七至九年级中重要历史人物（如秦始皇、汉武帝、唐太宗、孙中山、毛泽东等）的专题评价\n- **作业辅导**：历史人物评价类论述题、小论文、手抄报等作业的写作指导\n- **中考备考**：针对中考历史科目中\"评价历史人物\"类开放性试题的答题规范训练\n- **拓展研讨**：历史社团活动、研究性学习中的历史人物辩论与角色扮演活动\n\n## 评价维度\n\n| 维度 | 关注要点 | 学科核心素养对应 |\n|------|----------|------------------|\n| **时空定位** | 将人物置于特定历史阶段，分析时代背景对其行为的制约与推动 | 时空观念 |\n| **唯物史观** | 运用生产力与生产关系、经济基础与上层建筑原理分析人物活动 | 唯物史观 |\n| **史料实证** | 区分一手史料与二手评价，坚持\"论从史出\"，避免以论代史 | 史料实证 |\n| **功过梳理** | 全面列举政治、经济、文化、军事等方面的贡献与局限 | 历史解释 |\n| **辩证分析** | 分清主流与支流，区分主观动机与客观效果，避免非黑即白 | 历史解释 |\n| **价值引领** | 在客观评价基础上，提炼精神品质，涵养家国情怀 | 家国情怀 |\n\n## 评价原则\n\n1. **历史唯物主义原则**：坚持生产力标准和社会进步标准，将人物放在当时的历史条件下评价，不能用现代标准苛求古人\n2. **一分为二原则**：全面客观，既看功绩也看过失，既看主观动机也看客观效果，避免\"好人全好、坏人全坏\"的形而上学观点\n3. **史论结合原则**：评价必须有史实支撑，做到\"有一分材料说一分话\"，观点与材料统一，反对空发议论\n4. **分清主次原则**：分析矛盾的主要方面与次要方面，明确人物历史作用的主流方向（功大于过或过大于功）\n5. **阶段分析原则**：对前后变化较大的人物（如唐玄宗、乾隆帝），分阶段评价，避免以偏概全\n6. **价值渗透原则**：在客观理性评价基础上，适当引导学生学习历史人物的爱国精神、创新品质或吸取历史教训\n\n## 输出格式\n\n### 1. 人物档案卡\n- **身份定位**：姓名、朝代/国籍、主要身份（政治家/思想家/科学家等）\n- **历史坐标**：所处时代特征（如\"大一统王朝的奠基期\"\"民族危机加深的近代\"）\n- **总体定性**：一句话概括历史地位（如\"中国封建社会的杰出政治家\"\"近代化探索的先驱\"）\n\n### 2. 史实梳理（客观陈述）\n按时间顺序或领域分类罗列该人物的主要活动，仅述史实，不做评价：\n- **政治方面**：制度创设、政策实施、改革措施等\n- **经济方面**：土地政策、赋税制度、经济措施等  \n- **文化方面**：思想主张、文化政策、科技贡献等\n- **民族/对外关系**：民族政策、对外交往、战争与和平等\n\n### 3. 功过评析（史论结合）\n**功绩方面**：\n- 具体史实 + 历史作用（推动社会进步、促进经济发展、维护国家统一等）\n- 引用教材或可靠史料作为证据\n\n**过失/局限方面**：\n- 具体史实 + 消极影响（阶级局限性、时代局限性导致的决策失误）\n- 分析成因（个人因素与时代背景的结合）\n\n### 4. 辩证总结\n- **主流判断**：明确指出功大于过、过大于功或功过参半，并说明理由\n- **历史影响**：分析对当时及后世的短期与长期影响\n- **评价方法论**：总结本次评价运用的具体方法（如阶级分析法、历史比较法、生产力标准法等）\n\n### 5. 答题规范提示（中考导向）\n- **结构建议**：总—分—总结构，观点明确、论据充分、论证逻辑清晰\n- **表述规范**：使用\"我认为\"\"从...角度看\"\"在一定程度上\"等严谨表述，避免绝对化用词\n- **分值对应**：根据中考评分标准，提醒采分点（观点、史实、论述、结论）\n\n### 6. 拓展思考\n提出1-2个开放性问题，引导学生深化认识：\n- **比较视角**：与同时期或同类人物对比（如秦皇与汉武、郑和与哥伦布）\n- **现实联系**：该人物精神品质对当代青少年的启示\n- **史学争鸣**：介绍不同史观下的评价差异（如革命史观 vs 现代化史观）\n\n## 特别提醒\n\n- **学段适配**：七年级侧重形象化、故事化引导，培养兴趣；八年级侧重近代史人物的爱国主义教育；九年级侧重宏观把握与理论提升，对接中考能力要求\n- **常见误区警示**：提醒学生避免\"以今度古\"（用现代价值观苛责古人）、\"以偏概全\"（因单一事件否定/肯定全部）、\"英雄史观\"（忽视人民群众作用）等错误倾向\n- **教材衔接**：紧扣统编教材《中国历史》七年级上下册、八年级上下册中的\"人物扫描\"\"相关史事\"等栏目，确保评价与课标要求一致\n\nBase directory for this skill: file:///home/wsy/Projects/wsy/message/teach_agents/%E5%88%9D%E4%B8%AD%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E8%AF%84%E4%BB%B7%E5%AF%BC%E5%B8%88/.opencode/skills/%E5%88%9D%E4%B8%AD%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E8%AF%84%E4%BB%B7\nRelative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.\nNote: file list is sampled.\n\n<skill_files>\n\n</skill_files>\n</skill_content>"
+    },
+    {
+      "role": "assistant",
+      "content": "Perfect! Here's a simple way to think about it:\n\n**The \"Balance Scale\" Method** — Imagine your baking scale, BellQuinn!\n\n1. **Put facts on BOTH sides** (achievements vs. mistakes) — only use real historical facts, not opinions\n\n2. **Weigh them in their TIME** — ancient China wasn't modern America. Ask: \"Was this normal back then?\"\n\n3. **See which side is HEAVIER** — Did they do more good or harm overall?\n\n4. **Remember context** — Smart judges don't say \"good/bad person.\" They say \"helped society move forward\" or \"held progress back.\"\n\n**For Wu Zetian specifically:**\n- **Achievement pan** 👑: first female emperor, strengthened government exams, economy grew\n- **Mistake pan** ⚖️: harsh punishments, killed rivals\n- **Verdict**: A complex leader who pushed boundaries but used ruthless methods\n\n**Quick tip**: Don't rush to judge! Good dancers (and good historians) look at all the moves before deciding if it's a hit routine. 🙂"
+    }
+  ]
+}

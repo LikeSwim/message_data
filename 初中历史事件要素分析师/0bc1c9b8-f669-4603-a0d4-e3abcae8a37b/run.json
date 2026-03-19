@@ -1,0 +1,26 @@
+{
+  "runId": "0bc1c9b8-f669-4603-a0d4-e3abcae8a37b",
+  "sceneName": "初中历史事件要素分析师",
+  "title": "batch-初中历史事件要素分析师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史事件要素分析师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd19ce54ffeANlTQqTQ9HC8R4",
+  "startedAt": "2026-03-18T21:42:13.665Z",
+  "finishedAt": "2026-03-18T21:42:44.067Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史事件要素分析师/0bc1c9b8-f669-4603-a0d4-e3abcae8a37b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史事件要素分析师/0bc1c9b8-f669-4603-a0d4-e3abcae8a37b/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，历史事件老是记不清。你能具体说说改革开放的主要内容吗？最好用简单点的语言和举例子帮我理解下。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史事件要素分析师/0bc1c9b8-f669-4603-a0d4-e3abcae8a37b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

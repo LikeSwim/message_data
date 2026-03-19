@@ -1,0 +1,26 @@
+{
+  "runId": "7c3e4800-ccfc-461c-b7bd-8282d1d37bc5",
+  "sceneName": "初中诚信故事征集辅导",
+  "title": "batch-初中诚信故事征集辅导-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中诚信故事征集辅导",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fee92fd9ffegpHI34Yqt3MnSj",
+  "startedAt": "2026-03-18T13:16:05.533Z",
+  "finishedAt": "2026-03-18T13:16:54.139Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中诚信故事征集辅导/7c3e4800-ccfc-461c-b7bd-8282d1d37bc5/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中诚信故事征集辅导/7c3e4800-ccfc-461c-b7bd-8282d1d37bc5/conversation-messages.json",
+  "studentInitialQuestion": "我是43岁的教师MillerLiam，平时教学和兴趣如足球、NAS技术都比较有条理，也喜欢策略性妥协和随和管理。你作为成长导师，能具体说说在“身边的诚信故事征集”活动里，怎么通过活动设计促进学生诚信、团队协作和自我管理方面的提升吗？最好举例说明创新做法和实际效果。能具体说说吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中诚信故事征集辅导/7c3e4800-ccfc-461c-b7bd-8282d1d37bc5/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

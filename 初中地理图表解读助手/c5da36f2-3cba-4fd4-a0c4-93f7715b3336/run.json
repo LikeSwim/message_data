@@ -1,0 +1,26 @@
+{
+  "runId": "c5da36f2-3cba-4fd4-a0c4-93f7715b3336",
+  "sceneName": "初中地理图表解读助手",
+  "title": "batch-初中地理图表解读助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理图表解读助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe4b7e47ffePxD0FrGZpn2pw2",
+  "startedAt": "2026-03-18T16:08:18.963Z",
+  "finishedAt": "2026-03-18T16:09:26.197Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理图表解读助手/c5da36f2-3cba-4fd4-a0c4-93f7715b3336/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理图表解读助手/c5da36f2-3cba-4fd4-a0c4-93f7715b3336/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，发现学生解读人口分布图时只看颜色深浅，常忽略图例和比例尺。该怎么引导他们科学全面地分析地理图表数据？简要说明下。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理图表解读助手/c5da36f2-3cba-4fd4-a0c4-93f7715b3336/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "d588d3ac-e5d8-4877-9e89-4b3a2b2744b2",
+  "sceneName": "初中区域地理综合分析助手",
+  "title": "batch-初中区域地理综合分析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中区域地理综合分析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcc26aa4ffeN4r2DJqgoewpw7",
+  "startedAt": "2026-03-18T23:17:40.821Z",
+  "finishedAt": "2026-03-18T23:19:47.389Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中区域地理综合分析助手/d588d3ac-e5d8-4877-9e89-4b3a2b2744b2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中区域地理综合分析助手/d588d3ac-e5d8-4877-9e89-4b3a2b2744b2/conversation-messages.json",
+  "studentInitialQuestion": "我刚成为地理老师，快要给学生讲俄罗斯的地理和区域差异，你大概讲讲俄罗斯的位置、气候、资源和各地发展有什么不一样？",
+  "studentInitialQuestionPath": "data/student-questions/初中区域地理综合分析助手/d588d3ac-e5d8-4877-9e89-4b3a2b2744b2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

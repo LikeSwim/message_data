@@ -1,0 +1,26 @@
+{
+  "runId": "1c087996-8b6b-4588-b7a0-ebc95fabf5ad",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc7c3f1affeL4RWFmd1E5fy8k",
+  "startedAt": "2026-03-19T00:34:19.487Z",
+  "finishedAt": "2026-03-19T00:35:22.932Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/1c087996-8b6b-4588-b7a0-ebc95fabf5ad/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/1c087996-8b6b-4588-b7a0-ebc95fabf5ad/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生物老师，班里有些学生基础一般但对生命很感兴趣。我们要做“水分对植物生长影响”实验，变量控制方面该注意什么？简要说明下，还希望给点适合他们的建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/1c087996-8b6b-4588-b7a0-ebc95fabf5ad/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

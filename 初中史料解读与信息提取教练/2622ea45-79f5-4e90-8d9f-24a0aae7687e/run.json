@@ -1,0 +1,26 @@
+{
+  "runId": "2622ea45-79f5-4e90-8d9f-24a0aae7687e",
+  "sceneName": "初中史料解读与信息提取教练",
+  "title": "batch-初中史料解读与信息提取教练-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中史料解读与信息提取教练",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc5a8e07ffeYOqoQCvCVQQD0X",
+  "startedAt": "2026-03-19T01:11:07.502Z",
+  "finishedAt": "2026-03-19T01:12:12.381Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中史料解读与信息提取教练/2622ea45-79f5-4e90-8d9f-24a0aae7687e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中史料解读与信息提取教练/2622ea45-79f5-4e90-8d9f-24a0aae7687e/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史教研员，学校要做‘史料解读与信息提取’主题教研活动。你作为教育专家，能给我一份完整的分析吗？希望你从方法、步骤、教师成长、案例、还有怎么融入创新思维和价值观等方面全面讲讲",
+  "studentInitialQuestionPath": "data/student-questions/初中史料解读与信息提取教练/2622ea45-79f5-4e90-8d9f-24a0aae7687e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

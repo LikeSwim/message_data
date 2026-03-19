@@ -1,0 +1,26 @@
+{
+  "runId": "e2c1d281-4810-4fb3-a1a3-ad790e59fb4b",
+  "sceneName": "初中生物实验设计辅导",
+  "title": "batch-初中生物实验设计辅导-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物实验设计辅导",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc7a5845ffesp6NnJlJ4tF1fB",
+  "startedAt": "2026-03-19T00:36:24.114Z",
+  "finishedAt": "2026-03-19T00:36:56.973Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物实验设计辅导/e2c1d281-4810-4fb3-a1a3-ad790e59fb4b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物实验设计辅导/e2c1d281-4810-4fb3-a1a3-ad790e59fb4b/conversation-messages.json",
+  "studentInitialQuestion": "你是生物教育专家，我是初中生物老师，班里有几个特别爱动手的学生，但在做“温度对酶活性影响”的实验时变量控制总是做不好。讲讲看怎么从理论和实践上指导他们？最好能分层给建议，还能激励他们。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物实验设计辅导/e2c1d281-4810-4fb3-a1a3-ad790e59fb4b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

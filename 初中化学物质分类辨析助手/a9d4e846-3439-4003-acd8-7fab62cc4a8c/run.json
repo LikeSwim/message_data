@@ -1,0 +1,26 @@
+{
+  "runId": "a9d4e846-3439-4003-acd8-7fab62cc4a8c",
+  "sceneName": "初中化学物质分类辨析助手",
+  "title": "batch-初中化学物质分类辨析助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学物质分类辨析助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd923e78ffeqEERqr4NWJcf3e",
+  "startedAt": "2026-03-18T19:30:40.638Z",
+  "finishedAt": "2026-03-18T19:32:16.200Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学物质分类辨析助手/a9d4e846-3439-4003-acd8-7fab62cc4a8c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学物质分类辨析助手/a9d4e846-3439-4003-acd8-7fab62cc4a8c/conversation-messages.json",
+  "studentInitialQuestion": "你作为初中化学教研员，学校最近让你给教师团队做物质分类标准和辨析的培训。能不能全方位地讲解一下，包括分类标准、辨析流程、教学策略、易错点、生活案例和分层教学建议？全方位地讲解一下吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学物质分类辨析助手/a9d4e846-3439-4003-acd8-7fab62cc4a8c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

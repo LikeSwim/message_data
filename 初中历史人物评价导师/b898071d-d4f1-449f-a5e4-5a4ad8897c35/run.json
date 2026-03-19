@@ -1,0 +1,26 @@
+{
+  "runId": "b898071d-d4f1-449f-a5e4-5a4ad8897c35",
+  "sceneName": "初中历史人物评价导师",
+  "title": "batch-初中历史人物评价导师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史人物评价导师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd3367fdffeTOk9RsFc71ipT9",
+  "startedAt": "2026-03-18T21:14:15.929Z",
+  "finishedAt": "2026-03-18T21:15:31.223Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史人物评价导师/b898071d-d4f1-449f-a5e4-5a4ad8897c35/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史人物评价导师/b898071d-d4f1-449f-a5e4-5a4ad8897c35/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史教研组的新成员，最近刚接手“历史人物功过评价”主题的校本课程设计。我们学校学生基础不太一样，有喜欢辩论的，也有喜欢听故事、查资料的，还有比较被动的。你是历史教学专家，能系统地讲解一下怎么设计分层、互动性强、兼顾多元价值观的课程吗？最好结合具体教学案例和历史思维培养的方法，全面分析一下。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史人物评价导师/b898071d-d4f1-449f-a5e4-5a4ad8897c35/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

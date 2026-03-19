@@ -1,0 +1,26 @@
+{
+  "runId": "5b12c39b-db61-443b-b73c-0a43283ecf73",
+  "sceneName": "初中地理工农业区位分析助手",
+  "title": "batch-初中地理工农业区位分析助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理工农业区位分析助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe996ddfffeAF9CKiu1qrgHkm",
+  "startedAt": "2026-03-18T14:43:12.536Z",
+  "finishedAt": "2026-03-18T14:43:51.537Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理工农业区位分析助手/5b12c39b-db61-443b-b73c-0a43283ecf73/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理工农业区位分析助手/5b12c39b-db61-443b-b73c-0a43283ecf73/conversation-messages.json",
+  "studentInitialQuestion": "我是青岛初二学生，喜欢画地图和种花。最近和爸爸讨论家乡工业区和郊区农田布局，发现分布挺有规律，但原因不太懂。你作为我的地理学习顾问，能大概讲讲农业区位和工业区位在实际生活中怎么决定的吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中地理工农业区位分析助手/5b12c39b-db61-443b-b73c-0a43283ecf73/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

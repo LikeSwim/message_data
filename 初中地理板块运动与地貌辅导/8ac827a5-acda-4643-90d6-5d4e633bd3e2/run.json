@@ -1,0 +1,26 @@
+{
+  "runId": "8ac827a5-acda-4643-90d6-5d4e633bd3e2",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fea369e8ffeLWj7pzjb0WVmou",
+  "startedAt": "2026-03-18T14:32:18.197Z",
+  "finishedAt": "2026-03-18T14:33:11.180Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/8ac827a5-acda-4643-90d6-5d4e633bd3e2/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/8ac827a5-acda-4643-90d6-5d4e633bd3e2/conversation-messages.json",
+  "studentInitialQuestion": "你作为地理学习助手，我复习板块运动和地貌塑造时总记不住具体过程。能不能讲讲看板块运动有哪些类型，主要作用是什么，还有它们怎么塑造不同地貌？举些常见地貌的例子，方便我理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/8ac827a5-acda-4643-90d6-5d4e633bd3e2/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

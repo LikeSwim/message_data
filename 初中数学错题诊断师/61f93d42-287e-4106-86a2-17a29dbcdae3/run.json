@@ -1,0 +1,26 @@
+{
+  "runId": "61f93d42-287e-4106-86a2-17a29dbcdae3",
+  "sceneName": "初中数学错题诊断师",
+  "title": "batch-初中数学错题诊断师-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学错题诊断师",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc4bc708ffeqPDwaH4xAyeMcp",
+  "startedAt": "2026-03-19T01:27:15.954Z",
+  "finishedAt": "2026-03-19T01:27:58.109Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学错题诊断师/61f93d42-287e-4106-86a2-17a29dbcdae3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学错题诊断师/61f93d42-287e-4106-86a2-17a29dbcdae3/conversation-messages.json",
+  "studentInitialQuestion": "我是初二学生家长，我儿子做题速度慢，最近学分配律时总把加法和乘法混淆，计算老出错。你能用几句话说说出现这种错题的原因，以及适合慢性子孩子的改进方法吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学错题诊断师/61f93d42-287e-4106-86a2-17a29dbcdae3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

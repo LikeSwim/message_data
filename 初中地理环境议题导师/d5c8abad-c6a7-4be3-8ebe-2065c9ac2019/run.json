@@ -1,0 +1,26 @@
+{
+  "runId": "d5c8abad-c6a7-4be3-8ebe-2065c9ac2019",
+  "sceneName": "初中地理环境议题导师",
+  "title": "batch-初中地理环境议题导师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理环境议题导师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe76c69fffeP5nBkGG0JjwQKh",
+  "startedAt": "2026-03-18T15:21:03.579Z",
+  "finishedAt": "2026-03-18T15:21:35.731Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中地理环境议题导师/d5c8abad-c6a7-4be3-8ebe-2065c9ac2019/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理环境议题导师/d5c8abad-c6a7-4be3-8ebe-2065c9ac2019/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理老师，班里学生普遍对全球性环境问题挺感兴趣，但批判性思维不太够。你作为教育专家，能讲讲看全球性环境问题的复杂性，并帮我提出激发批判性思考和合作探究的教学建议吗？讲讲看",
+  "studentInitialQuestionPath": "data/student-questions/初中地理环境议题导师/d5c8abad-c6a7-4be3-8ebe-2065c9ac2019/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

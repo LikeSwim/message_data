@@ -1,0 +1,26 @@
+{
+  "runId": "ea5d7ee8-63aa-482d-a432-a89c43698508",
+  "sceneName": "初中地理气候类型辅导助手",
+  "title": "batch-初中地理气候类型辅导助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理气候类型辅导助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe64bc08ffe9j2qJVkvFFbG0p",
+  "startedAt": "2026-03-18T15:40:45.935Z",
+  "finishedAt": "2026-03-18T15:42:45.962Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理气候类型辅导助手/ea5d7ee8-63aa-482d-a432-a89c43698508/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理气候类型辅导助手/ea5d7ee8-63aa-482d-a432-a89c43698508/conversation-messages.json",
+  "studentInitialQuestion": "你作为地理教学专家，我需要为学校地理社团准备一场关于世界气候类型分布与成因的讲座，内容要非常详细，能不能彻底说清楚，包括各类气候分布规律、形成机制、实例、教学创新和价值观引导？希望能兼顾不同层次学生的理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理气候类型辅导助手/ea5d7ee8-63aa-482d-a432-a89c43698508/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

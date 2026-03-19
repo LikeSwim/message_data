@@ -1,0 +1,26 @@
+{
+  "runId": "534799bf-f0c1-43a1-83f9-3b08f6567971",
+  "sceneName": "初中生物调节机制分析助手",
+  "title": "batch-初中生物调节机制分析助手-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物调节机制分析助手",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fca7df5affeQ4cEPWqY6UZpZl",
+  "startedAt": "2026-03-18T23:46:40.412Z",
+  "finishedAt": "2026-03-18T23:47:05.081Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物调节机制分析助手/534799bf-f0c1-43a1-83f9-3b08f6567971/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物调节机制分析助手/534799bf-f0c1-43a1-83f9-3b08f6567971/conversation-messages.json",
+  "studentInitialQuestion": "我是初三女生崔茜，喜欢外语和手工，爸妈很支持我独立思考。最近复习生命活动的调节机制，感觉知识点有点乱。你能概括一下这部分的核心内容吗？讲重点就行，帮我梳理一下知识结构。",
+  "studentInitialQuestionPath": "data/student-questions/初中生物调节机制分析助手/534799bf-f0c1-43a1-83f9-3b08f6567971/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

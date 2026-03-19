@@ -1,0 +1,26 @@
+{
+  "runId": "ee0cba35-b949-486c-bd97-e82c9f86354c",
+  "sceneName": "初中化学方程式计算辅导",
+  "title": "batch-初中化学方程式计算辅导-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式计算辅导",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fddf8d16ffev65Cv7iMCLtilj",
+  "startedAt": "2026-03-18T18:06:14.239Z",
+  "finishedAt": "2026-03-18T18:08:45.769Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式计算辅导/ee0cba35-b949-486c-bd97-e82c9f86354c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式计算辅导/ee0cba35-b949-486c-bd97-e82c9f86354c/conversation-messages.json",
+  "studentInitialQuestion": "我是肖超，六年级学生，喜欢机器人和吉他，平时课外活动比较多，成绩一般但很喜欢团队合作。你能讲清楚点初中化学方程式的计算方法吗？最好结合我的兴趣和学习特点，举几个实际例子和建议。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式计算辅导/ee0cba35-b949-486c-bd97-e82c9f86354c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

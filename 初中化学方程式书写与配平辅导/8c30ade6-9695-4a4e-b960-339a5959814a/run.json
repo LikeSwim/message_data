@@ -1,0 +1,26 @@
+{
+  "runId": "8c30ade6-9695-4a4e-b960-339a5959814a",
+  "sceneName": "初中化学方程式书写与配平辅导",
+  "title": "batch-初中化学方程式书写与配平辅导-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中化学方程式书写与配平辅导",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fdc99d05ffeRwlAalxhVF6lXe",
+  "startedAt": "2026-03-18T18:30:11.957Z",
+  "finishedAt": "2026-03-18T18:30:59.733Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中化学方程式书写与配平辅导/8c30ade6-9695-4a4e-b960-339a5959814a/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中化学方程式书写与配平辅导/8c30ade6-9695-4a4e-b960-339a5959814a/conversation-messages.json",
+  "studentInitialQuestion": "我叫郭伊，四年级女生，喜欢中国风爵士舞和尤克里里，平时在培训班很活跃，但作业常常拖着没做完。我对化学方程式书写和配平有点好奇，能不能简单说说最基础的入门方法和容易犯的错？如果能结合舞蹈或音乐举个例子就更好了。",
+  "studentInitialQuestionPath": "data/student-questions/初中化学方程式书写与配平辅导/8c30ade6-9695-4a4e-b960-339a5959814a/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

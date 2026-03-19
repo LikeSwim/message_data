@@ -1,0 +1,26 @@
+{
+  "runId": "94b1a8a3-a69d-4feb-a141-137be0b47de7",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe9fa23affedWJtx2aiUwQlA9",
+  "startedAt": "2026-03-18T14:36:25.916Z",
+  "finishedAt": "2026-03-18T14:39:10.141Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/94b1a8a3-a69d-4feb-a141-137be0b47de7/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/94b1a8a3-a69d-4feb-a141-137be0b47de7/conversation-messages.json",
+  "studentInitialQuestion": "我是郑妍，55岁老师，长期做心理辅导和太极拳指导，条理性强，比较循规蹈矩，也很有教育理想。在学校是资深教师，经常为学生心理咨询，在教师群体里很有威望，也在养生社群做太极拳指导和食疗讲座。能帮我理解一下板块运动和地貌塑造的原理吗？最好能结合心理辅导和养生理念，推荐一些适合老年社群和学生的互动活动，让大家在学习地理时能体会到科学探索和身心健康的结合。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/94b1a8a3-a69d-4feb-a141-137be0b47de7/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

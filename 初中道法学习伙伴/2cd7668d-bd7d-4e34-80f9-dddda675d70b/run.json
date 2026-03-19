@@ -1,0 +1,26 @@
+{
+  "runId": "2cd7668d-bd7d-4e34-80f9-dddda675d70b",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2febe4c34ffe6ftmw15CA4B3L9",
+  "startedAt": "2026-03-18T14:02:56.323Z",
+  "finishedAt": "2026-03-18T14:04:22.026Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/2cd7668d-bd7d-4e34-80f9-dddda675d70b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/2cd7668d-bd7d-4e34-80f9-dddda675d70b/conversation-messages.json",
+  "studentInitialQuestion": "我是初三班主任，有几个成绩中等但很有创新精神的学生，他们特别喜欢参加社会实践，但遇到失败时容易自我怀疑。你作为班主任顾问，能具体说说怎么在道德与法治课上帮他们正确面对失败、激发创新精神，并把社会主义核心价值观自然融入吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/2cd7668d-bd7d-4e34-80f9-dddda675d70b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

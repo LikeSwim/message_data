@@ -1,0 +1,26 @@
+{
+  "runId": "fb45a943-b582-40db-9703-38e57a9e40c1",
+  "sceneName": "初中生物分类与进化辅导员",
+  "title": "batch-初中生物分类与进化辅导员-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物分类与进化辅导员",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc9690d2ffe22djgpaUoA18KI",
+  "startedAt": "2026-03-19T00:05:34.627Z",
+  "finishedAt": "2026-03-19T00:06:06.737Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物分类与进化辅导员/fb45a943-b582-40db-9703-38e57a9e40c1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物分类与进化辅导员/fb45a943-b582-40db-9703-38e57a9e40c1/conversation-messages.json",
+  "studentInitialQuestion": "我是一名刚入职的初中生物老师，教学“生物分类体系与进化思想”时发现部分学生把环境变化与物种进化关系理解得很机械。你作为教育专家，能不能讲清楚点：如何用生活化案例和探究活动，让学生真正理解环境变化与物种进化的深层联系？讲清楚点",
+  "studentInitialQuestionPath": "data/student-questions/初中生物分类与进化辅导员/fb45a943-b582-40db-9703-38e57a9e40c1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

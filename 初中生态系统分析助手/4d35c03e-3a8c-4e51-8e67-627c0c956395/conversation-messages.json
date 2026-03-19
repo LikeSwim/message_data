@@ -1,0 +1,35 @@
+{
+  "runId": "4d35c03e-3a8c-4e51-8e67-627c0c956395",
+  "sceneName": "初中生态系统分析助手",
+  "title": "batch-初中生态系统分析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "messages": [
+    {
+      "role": "user",
+      "content": "我是刚入职的初中生物老师，发现学生对生态系统结构与功能分析参与度很低，理解也比较浅。你作为生物教研专家，能不能彻底说清楚这部分教学策略、知识梳理、案例分析，还有怎么结合核心价值观和传统文化进行教学？"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "functions.question:0",
+          "type": "function",
+          "function": {
+            "name": "question",
+            "arguments": "{\"questions\":[{\"question\":\"您希望重点了解哪个年级的教学内容？（七年级上册第一单元或八年级下册第七单元）\",\"header\":\"年级确认\",\"options\":[{\"label\":\"七年级上册\",\"description\":\"生物与环境的关系、生态系统组成等基础知识\"},{\"label\":\"八年级下册\",\"description\":\"生态系统的能量流动、物质循环、生态平衡等进阶内容\"},{\"label\":\"两个年级都需要\",\"description\":\"希望获得完整的教学体系梳理\"}]},{\"question\":\"您班级学生的整体学习水平如何？\",\"header\":\"学情了解\",\"options\":[{\"label\":\"基础较薄弱\",\"description\":\"学生对生物概念理解慢，需要更多直观教学\"},{\"label\":\"中等水平\",\"description\":\"常规教学可以跟上，但对抽象概念理解不深\"},{\"label\":\"整体较好\",\"description\":\"需要更有挑战性的探究活动\"}]}]}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.question:0",
+      "content": ""
+    },
+    {
+      "role": "assistant",
+      "content": "您好！作为初中生物教研专家，我来系统梳理生态系统结构与功能分析的教学策略。让我先确认一下您的具体需求："
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "aab0780a-e8fb-4639-bc46-e5f6195ad0d0",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcd28edcffeP8R1qMZeHCyW4z",
+  "startedAt": "2026-03-18T23:00:01.771Z",
+  "finishedAt": "2026-03-18T23:00:46.377Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/aab0780a-e8fb-4639-bc46-e5f6195ad0d0/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/aab0780a-e8fb-4639-bc46-e5f6195ad0d0/conversation-messages.json",
+  "studentInitialQuestion": "你作为一名有经验的初中化学老师，能不能从实验安全、装置原理和气体性质这几个角度，详细讲讲初中常见气体（比如氧气、氢气、二氧化碳）实验室制备时装置选择的依据？最好能结合一些实际课堂和生活中的例子，讲清楚点。",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/aab0780a-e8fb-4639-bc46-e5f6195ad0d0/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

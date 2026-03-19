@@ -1,0 +1,26 @@
+{
+  "runId": "90390359-a20d-470b-9516-0516f7b4f526",
+  "sceneName": "初中法治辅导员（未成年人保护专题）",
+  "title": "batch-初中法治辅导员（未成年人保护专题）-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中法治辅导员（未成年人保护专题）",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe140370ffejw8bI6COSgfakV",
+  "startedAt": "2026-03-18T17:08:56.077Z",
+  "finishedAt": "2026-03-18T17:09:52.071Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/90390359-a20d-470b-9516-0516f7b4f526/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中法治辅导员（未成年人保护专题）/90390359-a20d-470b-9516-0516f7b4f526/conversation-messages.json",
+  "studentInitialQuestion": "我是一个初中家长，我孩子性格偏内向，最近在学校社团活动里被同学排挤，变得很不自信。你能全方位地讲解一下，《未成年人保护法》在校园社交、心理健康、反欺凌这些方面是怎么保护未成年人的？希望能有系统的家庭、学校和社会建议，还有实际案例分析。",
+  "studentInitialQuestionPath": "data/student-questions/初中法治辅导员（未成年人保护专题）/90390359-a20d-470b-9516-0516f7b4f526/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

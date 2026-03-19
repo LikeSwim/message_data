@@ -1,0 +1,26 @@
+{
+  "runId": "5f8a5575-1ed7-42dd-a876-004b6bcd849b",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb465d5ffeQNb685Ntd35PH6",
+  "startedAt": "2026-03-18T14:13:45.125Z",
+  "finishedAt": "2026-03-18T14:15:16.463Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/5f8a5575-1ed7-42dd-a876-004b6bcd849b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/5f8a5575-1ed7-42dd-a876-004b6bcd849b/conversation-messages.json",
+  "studentInitialQuestion": "你是初中德育老师，能详细说说‘负责任的公民’辩论赛如何通过团队合作和观点碰撞，培养学生责任感和社会参与意识吗？请举例说明具体做法。",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/5f8a5575-1ed7-42dd-a876-004b6bcd849b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

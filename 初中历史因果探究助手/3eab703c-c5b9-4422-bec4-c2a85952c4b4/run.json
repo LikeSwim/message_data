@@ -1,0 +1,26 @@
+{
+  "runId": "3eab703c-c5b9-4422-bec4-c2a85952c4b4",
+  "sceneName": "初中历史因果探究助手",
+  "title": "batch-初中历史因果探究助手-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史因果探究助手",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd15a45affe2bfUnLel0AYU0b",
+  "startedAt": "2026-03-18T21:46:46.554Z",
+  "finishedAt": "2026-03-18T21:47:26.691Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史因果探究助手/3eab703c-c5b9-4422-bec4-c2a85952c4b4/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史因果探究助手/3eab703c-c5b9-4422-bec4-c2a85952c4b4/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史兴趣小组的成员，平时喜欢自己查资料，但总会把‘鸦片战争’的原因和影响搞混。你是我的历史成长伙伴，帮我理解一下鸦片战争爆发的主要原因和深远影响，还有什么好方法可以帮我梳理因果关系？",
+  "studentInitialQuestionPath": "data/student-questions/初中历史因果探究助手/3eab703c-c5b9-4422-bec4-c2a85952c4b4/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

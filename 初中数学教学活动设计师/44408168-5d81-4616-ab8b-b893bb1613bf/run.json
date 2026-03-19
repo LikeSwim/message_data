@@ -1,0 +1,26 @@
+{
+  "runId": "44408168-5d81-4616-ab8b-b893bb1613bf",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc380ef1ffeb3c45JHoVLE7Vo",
+  "startedAt": "2026-03-19T01:48:48.267Z",
+  "finishedAt": "2026-03-19T01:50:01.080Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/44408168-5d81-4616-ab8b-b893bb1613bf/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/44408168-5d81-4616-ab8b-b893bb1613bf/conversation-messages.json",
+  "studentInitialQuestion": "你是数学教学指导老师，最近有新老师问你：她班上的孩子学分式运算总是概念混淆、计算出错。你能解释一下初中分式运算教学活动怎么设计吗？最好能帮学生理清概念、减少错误，还能融入团队合作和诚信这些价值观。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/44408168-5d81-4616-ab8b-b893bb1613bf/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "c58162e8-3988-4f95-88d2-e42914c55e61",
+  "sceneName": "初中生物核心过程辨析助手",
+  "title": "batch-初中生物核心过程辨析助手-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物核心过程辨析助手",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc8f30a3ffe7PTqsqIhvbhzp9",
+  "startedAt": "2026-03-19T00:13:38.002Z",
+  "finishedAt": "2026-03-19T00:15:19.383Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物核心过程辨析助手/c58162e8-3988-4f95-88d2-e42914c55e61/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物核心过程辨析助手/c58162e8-3988-4f95-88d2-e42914c55e61/conversation-messages.json",
+  "studentInitialQuestion": "你作为初中生物老师，在教学光合作用和呼吸作用时有什么经验和看法？能说说学生容易混淆的地方、有效的教学方法，还有怎么激发学生兴趣和融入科学精神吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中生物核心过程辨析助手/c58162e8-3988-4f95-88d2-e42914c55e61/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

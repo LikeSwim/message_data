@@ -1,0 +1,26 @@
+{
+  "runId": "050f204b-bde1-4c45-8791-e01e6c399b8d",
+  "sceneName": "初中地形图判读导师",
+  "title": "batch-初中地形图判读导师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地形图判读导师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fe3400a8ffeiyOk3juDaaWy3f",
+  "startedAt": "2026-03-18T16:33:59.630Z",
+  "finishedAt": "2026-03-18T16:35:59.650Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中地形图判读导师/050f204b-bde1-4c45-8791-e01e6c399b8d/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地形图判读导师/050f204b-bde1-4c45-8791-e01e6c399b8d/conversation-messages.json",
+  "studentInitialQuestion": "我是初中地理教师，教学地形图判读时发现学生对综合应用和能力提升没系统认知。你作为地理教育专家，能全方位地讲解一下地形图判读的知识体系、实际应用场景、分层教学策略、学生兴趣激发方法吗？还希望结合中华优秀传统文化和核心价值观，给出具体可操作的教学建议和案例分析。",
+  "studentInitialQuestionPath": "data/student-questions/初中地形图判读导师/050f204b-bde1-4c45-8791-e01e6c399b8d/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

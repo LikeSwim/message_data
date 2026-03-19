@@ -1,0 +1,26 @@
+{
+  "runId": "f232ffd4-0041-47a3-a2bd-85205ddb93a3",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc1836fcffepBr0xLq9Kl8b0L",
+  "startedAt": "2026-03-19T02:23:35.164Z",
+  "finishedAt": "2026-03-19T02:24:49.498Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/f232ffd4-0041-47a3-a2bd-85205ddb93a3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/f232ffd4-0041-47a3-a2bd-85205ddb93a3/conversation-messages.json",
+  "studentInitialQuestion": "你是我的数学学习助手，我最近学“绝对值”和“相反数”总是分不清它们的区别，能详细展开说说定义、区别、常见误区和生活应用吗？如果能有点趣味化比喻或者传统文化故事就更好了，帮我彻底理解。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/f232ffd4-0041-47a3-a2bd-85205ddb93a3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

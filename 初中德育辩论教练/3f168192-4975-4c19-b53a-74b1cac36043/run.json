@@ -1,0 +1,26 @@
+{
+  "runId": "3f168192-4975-4c19-b53a-74b1cac36043",
+  "sceneName": "初中德育辩论教练",
+  "title": "batch-初中德育辩论教练-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中德育辩论教练",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feb15695ffe63Ooz4iT2ges0j",
+  "startedAt": "2026-03-18T14:17:05.640Z",
+  "finishedAt": "2026-03-18T14:17:42.699Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中德育辩论教练/3f168192-4975-4c19-b53a-74b1cac36043/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中德育辩论教练/3f168192-4975-4c19-b53a-74b1cac36043/conversation-messages.json",
+  "studentInitialQuestion": "你作为德育教学顾问，能深入说说看‘负责任的公民’辩论赛里学生可能遇到哪些道德困境和团队冲突吗？老师可以怎么引导他们提升责任和沟通能力？最好结合实际案例详细讲解。",
+  "studentInitialQuestionPath": "data/student-questions/初中德育辩论教练/3f168192-4975-4c19-b53a-74b1cac36043/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

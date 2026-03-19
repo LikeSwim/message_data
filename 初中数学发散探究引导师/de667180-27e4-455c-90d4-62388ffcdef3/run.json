@@ -1,0 +1,26 @@
+{
+  "runId": "de667180-27e4-455c-90d4-62388ffcdef3",
+  "sceneName": "初中数学发散探究引导师",
+  "title": "batch-初中数学发散探究引导师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学发散探究引导师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc46a96cffecDlq2wtz0jNDko",
+  "startedAt": "2026-03-19T01:32:51.215Z",
+  "finishedAt": "2026-03-19T01:33:25.828Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学发散探究引导师/de667180-27e4-455c-90d4-62388ffcdef3/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学发散探究引导师/de667180-27e4-455c-90d4-62388ffcdef3/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中数学老师，最近发现学生在学函数和图像的发散性问题时总是照搬课本套路，缺乏创新和多元思考。你作为教育专家，能帮我讲清楚点，有哪些实用的课堂策略和活动能提升他们的发散性问题探究能力？最好有具体细节和示例。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学发散探究引导师/de667180-27e4-455c-90d4-62388ffcdef3/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

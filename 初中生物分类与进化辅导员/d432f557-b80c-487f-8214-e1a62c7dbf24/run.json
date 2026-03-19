@@ -1,0 +1,26 @@
+{
+  "runId": "d432f557-b80c-487f-8214-e1a62c7dbf24",
+  "sceneName": "初中生物分类与进化辅导员",
+  "title": "batch-初中生物分类与进化辅导员-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中生物分类与进化辅导员",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc99f9e5ffeoMM4rTm0Th0KfI",
+  "startedAt": "2026-03-19T00:01:51.123Z",
+  "finishedAt": "2026-03-19T00:02:15.384Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中生物分类与进化辅导员/d432f557-b80c-487f-8214-e1a62c7dbf24/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中生物分类与进化辅导员/d432f557-b80c-487f-8214-e1a62c7dbf24/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初中生物老师，最近发现有学生在学习生物分类体系与进化思想时总是把‘物种’和‘分类单元’混淆。你作为生物学科专家，能简短回答下：在课堂上怎样用简明清晰的方法帮助学生区分物种和分类单元？简短回答下",
+  "studentInitialQuestionPath": "data/student-questions/初中生物分类与进化辅导员/d432f557-b80c-487f-8214-e1a62c7dbf24/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "fbb985b3-b654-4f4b-bfc7-3ee06d59cf9b",
+  "sceneName": "初中历史脉络与主题归纳导师",
+  "title": "batch-初中历史脉络与主题归纳导师-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史脉络与主题归纳导师",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd3cf23affeIf45GXpXjQFHXs",
+  "startedAt": "2026-03-18T21:03:50.719Z",
+  "finishedAt": "2026-03-18T21:06:17.385Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史脉络与主题归纳导师/fbb985b3-b654-4f4b-bfc7-3ee06d59cf9b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史脉络与主题归纳导师/fbb985b3-b654-4f4b-bfc7-3ee06d59cf9b/conversation-messages.json",
+  "studentInitialQuestion": "我是初一学生，对历史很感兴趣但总被复杂的历史脉络搞糊涂，尤其归纳中国古代史的主题时觉得很乱。你作为我的历史学习助手，能具体说说中国古代史的发展脉络和主题归纳吗？希望有例子和归纳方法，让我容易理解",
+  "studentInitialQuestionPath": "data/student-questions/初中历史脉络与主题归纳导师/fbb985b3-b654-4f4b-bfc7-3ee06d59cf9b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

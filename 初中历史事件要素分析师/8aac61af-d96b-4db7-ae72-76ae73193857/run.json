@@ -1,0 +1,26 @@
+{
+  "runId": "8aac61af-d96b-4db7-ae72-76ae73193857",
+  "sceneName": "初中历史事件要素分析师",
+  "title": "batch-初中历史事件要素分析师-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史事件要素分析师",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd1fca16fferN408IUNLIpn5t",
+  "startedAt": "2026-03-18T21:35:41.542Z",
+  "finishedAt": "2026-03-18T21:36:11.889Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史事件要素分析师/8aac61af-d96b-4db7-ae72-76ae73193857/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史事件要素分析师/8aac61af-d96b-4db7-ae72-76ae73193857/conversation-messages.json",
+  "studentInitialQuestion": "我是四年级的李力，喜欢科学实验和篮球，最近在学鸦片战争这个历史事件，你能结合我的兴趣和性格，说说你的看法吗？举点例子帮我理解下原因和影响。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史事件要素分析师/8aac61af-d96b-4db7-ae72-76ae73193857/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

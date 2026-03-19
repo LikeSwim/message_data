@@ -1,0 +1,26 @@
+{
+  "runId": "8722ed8f-9799-46eb-a6ed-278ab2279411",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcceef2dffeEAx8PMaO6auVUg",
+  "startedAt": "2026-03-18T23:04:00.456Z",
+  "finishedAt": "2026-03-18T23:05:39.275Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/8722ed8f-9799-46eb-a6ed-278ab2279411/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/8722ed8f-9799-46eb-a6ed-278ab2279411/conversation-messages.json",
+  "studentInitialQuestion": "我是初中化学新教师，最近在备课时发现学生在选择气体制备装置时总是容易混淆，尤其是氧气和二氧化碳。你作为教学助手，能不能详细分析一下如何帮助学生理清装置选择的思路，并举些容易混淆的典型例子，讲清楚点？",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/8722ed8f-9799-46eb-a6ed-278ab2279411/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

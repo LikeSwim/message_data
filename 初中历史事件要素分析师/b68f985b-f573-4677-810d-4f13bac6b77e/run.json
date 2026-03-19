@@ -1,0 +1,26 @@
+{
+  "runId": "b68f985b-f573-4677-810d-4f13bac6b77e",
+  "sceneName": "初中历史事件要素分析师",
+  "title": "batch-初中历史事件要素分析师-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史事件要素分析师",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd207f0dffepeKsmywe6J84D9",
+  "startedAt": "2026-03-18T21:34:53.992Z",
+  "finishedAt": "2026-03-18T21:35:41.540Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史事件要素分析师/b68f985b-f573-4677-810d-4f13bac6b77e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史事件要素分析师/b68f985b-f573-4677-810d-4f13bac6b77e/conversation-messages.json",
+  "studentInitialQuestion": "你作为历史教育专家，能不能全方位地讲解一下辛亥革命？我希望能从背景、过程、人物、影响等方面系统梳理，内容越全面越好。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史事件要素分析师/b68f985b-f573-4677-810d-4f13bac6b77e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

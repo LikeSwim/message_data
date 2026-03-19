@@ -1,0 +1,26 @@
+{
+  "runId": "97a6daca-e313-4c58-af14-8c09c7e6e234",
+  "sceneName": "初中数学知识梳理师",
+  "title": "batch-初中数学知识梳理师-008",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学知识梳理师",
+    "questionIndex": 8,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fbf7ab6effeul0tAtpoDerNEY",
+  "startedAt": "2026-03-19T02:59:08.039Z",
+  "finishedAt": "2026-03-19T03:00:37.603Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学知识梳理师/97a6daca-e313-4c58-af14-8c09c7e6e234/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学知识梳理师/97a6daca-e313-4c58-af14-8c09c7e6e234/conversation-messages.json",
+  "studentInitialQuestion": "我是汪慧秀，13岁，初一女生。喜欢美妆和朗诵，理解数学有点慢，老师总说要多点耐心教我。你能结合我的情况，把初一数学里的整数和因数知识点讲清楚点吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中数学知识梳理师/97a6daca-e313-4c58-af14-8c09c7e6e234/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

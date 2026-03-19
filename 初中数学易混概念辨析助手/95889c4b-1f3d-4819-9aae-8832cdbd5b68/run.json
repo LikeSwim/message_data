@@ -1,0 +1,26 @@
+{
+  "runId": "95889c4b-1f3d-4819-9aae-8832cdbd5b68",
+  "sceneName": "初中数学易混概念辨析助手",
+  "title": "batch-初中数学易混概念辨析助手-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学易混概念辨析助手",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc1f2b7dffeGZqYRxkDxng3Fz",
+  "startedAt": "2026-03-19T02:15:58.153Z",
+  "finishedAt": "2026-03-19T02:16:57.407Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学易混概念辨析助手/95889c4b-1f3d-4819-9aae-8832cdbd5b68/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学易混概念辨析助手/95889c4b-1f3d-4819-9aae-8832cdbd5b68/conversation-messages.json",
+  "studentInitialQuestion": "你是数学学习专家，我是初三学生，最近复习时总是分不清“相似三角形”和“全等三角形”，能不能讲清楚点它们的定义、区别和常见误区？最好举些生活例子，还能结合点中国古代数学家的故事或者成语之类，帮我提升兴趣。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学易混概念辨析助手/95889c4b-1f3d-4819-9aae-8832cdbd5b68/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

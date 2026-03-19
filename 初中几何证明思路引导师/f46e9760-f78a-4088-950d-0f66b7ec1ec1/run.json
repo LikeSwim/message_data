@@ -1,0 +1,26 @@
+{
+  "runId": "f46e9760-f78a-4088-950d-0f66b7ec1ec1",
+  "sceneName": "初中几何证明思路引导师",
+  "title": "batch-初中几何证明思路引导师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中几何证明思路引导师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd87305effeBv7ZWt5AY3Jzq2",
+  "startedAt": "2026-03-18T19:42:45.146Z",
+  "finishedAt": "2026-03-18T19:43:22.131Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中几何证明思路引导师/f46e9760-f78a-4088-950d-0f66b7ec1ec1/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中几何证明思路引导师/f46e9760-f78a-4088-950d-0f66b7ec1ec1/conversation-messages.json",
+  "studentInitialQuestion": "我是白森超，今年17岁，高二学生，喜欢数学建模竞赛，也爱摄影和剪视频，平时和建模小组同学关系不错但课外社交不多。最近遇到一个几何定理证明的难题，想高效梳理思路和方法。你能大概讲讲，针对我这种情况，几何定理证明思路有什么核心要点和高效技巧吗？",
+  "studentInitialQuestionPath": "data/student-questions/初中几何证明思路引导师/f46e9760-f78a-4088-950d-0f66b7ec1ec1/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "41e13b09-c948-42ea-827f-263773e14d55",
+  "sceneName": "初中历史事件要素分析师",
+  "title": "batch-初中历史事件要素分析师-005",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史事件要素分析师",
+    "questionIndex": 5,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd1da384ffeHAYsFxH91WMhbx",
+  "startedAt": "2026-03-18T21:38:02.482Z",
+  "finishedAt": "2026-03-18T21:38:49.065Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史事件要素分析师/41e13b09-c948-42ea-827f-263773e14d55/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史事件要素分析师/41e13b09-c948-42ea-827f-263773e14d55/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史老师，学生学五四运动总是停留在表面，你能详细说说它的历史背景、过程、人物和影响吗？最好举点例子，帮我让学生更好理解五四运动的意义。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史事件要素分析师/41e13b09-c948-42ea-827f-263773e14d55/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

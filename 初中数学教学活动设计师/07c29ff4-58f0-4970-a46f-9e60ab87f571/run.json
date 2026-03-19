@@ -1,0 +1,26 @@
+{
+  "runId": "07c29ff4-58f0-4970-a46f-9e60ab87f571",
+  "sceneName": "初中数学教学活动设计师",
+  "title": "batch-初中数学教学活动设计师-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学教学活动设计师",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc36f279ffexIS3ICrzX613wf",
+  "startedAt": "2026-03-19T01:50:01.087Z",
+  "finishedAt": "2026-03-19T01:51:49.673Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学教学活动设计师/07c29ff4-58f0-4970-a46f-9e60ab87f571/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学教学活动设计师/07c29ff4-58f0-4970-a46f-9e60ab87f571/conversation-messages.json",
+  "studentInitialQuestion": "我是ThomasEmily，27岁女老师，最近情绪有点消耗，教学上比较保守，但平时喜欢旅行、唱歌、游泳来充电。你作为AI教育助手，大概讲讲初中数学活动怎么设计能让我维持情绪韧性、兼顾结构化教学和自我关怀，还能在班级里自然融入包容和自律这些价值观。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学教学活动设计师/07c29ff4-58f0-4970-a46f-9e60ab87f571/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

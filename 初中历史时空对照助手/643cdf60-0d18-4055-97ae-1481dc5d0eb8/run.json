@@ -1,0 +1,26 @@
+{
+  "runId": "643cdf60-0d18-4055-97ae-1481dc5d0eb8",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-007",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 7,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd272c97ffecFxIZS1i4RI9Fc",
+  "startedAt": "2026-03-18T21:27:37.566Z",
+  "finishedAt": "2026-03-18T21:31:22.831Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/643cdf60-0d18-4055-97ae-1481dc5d0eb8/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/643cdf60-0d18-4055-97ae-1481dc5d0eb8/conversation-messages.json",
+  "studentInitialQuestion": "我是初中历史教研员，培训新老师时发现大家对中外历史时间线并行梳理的方法掌握得不够系统，学生总是分不清同一时期中国和世界发生了什么。你作为历史教育专家，能彻底说清楚怎么系统设计和实施中外历史时间线并行梳理的教学吗？希望内容够全面、深入。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/643cdf60-0d18-4055-97ae-1481dc5d0eb8/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "356b7425-1ccd-47bd-867c-ded94ba9ffc6",
+  "sceneName": "初中历史时空对照助手",
+  "title": "batch-初中历史时空对照助手-002",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中历史时空对照助手",
+    "questionIndex": 2,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd2eb7b3ffe7dtXNOyOG0A7sH",
+  "startedAt": "2026-03-18T21:19:23.209Z",
+  "finishedAt": "2026-03-18T21:20:16.747Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中历史时空对照助手/356b7425-1ccd-47bd-867c-ded94ba9ffc6/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中历史时空对照助手/356b7425-1ccd-47bd-867c-ded94ba9ffc6/conversation-messages.json",
+  "studentInitialQuestion": "我是七年级学生的家长，孩子学习中外历史时间线时总觉得很混乱，你作为历史教育专家，能全方位地讲解一下怎么系统梳理初中阶段的中外历史时间线吗？希望内容够全面，也能激发孩子兴趣和全球视野。",
+  "studentInitialQuestionPath": "data/student-questions/初中历史时空对照助手/356b7425-1ccd-47bd-867c-ded94ba9ffc6/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

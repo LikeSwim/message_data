@@ -1,0 +1,26 @@
+{
+  "runId": "9be50bde-5ced-41d1-9b80-0a1b11bd008e",
+  "sceneName": "初中数学应用题建模教练",
+  "title": "batch-初中数学应用题建模教练-010",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中数学应用题建模教练",
+    "questionIndex": 10,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fc0b8414ffeUUDV6kTJy0HHAP",
+  "startedAt": "2026-03-19T02:37:27.397Z",
+  "finishedAt": "2026-03-19T02:40:17.253Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中数学应用题建模教练/9be50bde-5ced-41d1-9b80-0a1b11bd008e/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中数学应用题建模教练/9be50bde-5ced-41d1-9b80-0a1b11bd008e/conversation-messages.json",
+  "studentInitialQuestion": "我是一名初三家长，孩子马上中考，遇到压轴题就放弃，我很焦虑。你作为升学规划专家，能从各个角度详细说说怎么帮孩子攻克压轴题吗？系统地梳理一下知识体系和心理策略，全方位地指导一下，最好有具体的题目拆解和复习计划。",
+  "studentInitialQuestionPath": "data/student-questions/初中数学应用题建模教练/9be50bde-5ced-41d1-9b80-0a1b11bd008e/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

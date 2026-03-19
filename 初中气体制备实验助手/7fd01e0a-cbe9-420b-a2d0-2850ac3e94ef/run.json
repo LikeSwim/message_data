@@ -1,0 +1,26 @@
+{
+  "runId": "7fd01e0a-cbe9-420b-a2d0-2850ac3e94ef",
+  "sceneName": "初中气体制备实验助手",
+  "title": "batch-初中气体制备实验助手-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中气体制备实验助手",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fccd6d26ffepimE6GNOmL2spt",
+  "startedAt": "2026-03-18T23:05:39.281Z",
+  "finishedAt": "2026-03-18T23:06:57.486Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中气体制备实验助手/7fd01e0a-cbe9-420b-a2d0-2850ac3e94ef/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中气体制备实验助手/7fd01e0a-cbe9-420b-a2d0-2850ac3e94ef/conversation-messages.json",
+  "studentInitialQuestion": "你作为一名初中化学教育专家，能不能全面深入地讲讲典型气体（氧气、氢气、二氧化碳）实验室制备的装置选择、原理分析、实验安全注意事项，以及在教学中怎么通过团队合作、实验探究等方式激发学生兴趣？希望你能结合社会主义核心价值观和传统文化，系统说说相关的教学建议和案例。",
+  "studentInitialQuestionPath": "data/student-questions/初中气体制备实验助手/7fd01e0a-cbe9-420b-a2d0-2850ac3e94ef/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

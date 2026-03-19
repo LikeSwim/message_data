@@ -1,0 +1,26 @@
+{
+  "runId": "44cd72a5-64ff-42b8-8d90-ec390dd082db",
+  "sceneName": "初中篮球三对三战术教练",
+  "title": "batch-初中篮球三对三战术教练-006",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中篮球三对三战术教练",
+    "questionIndex": 6,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd6fa21effeabgbo0hKTWI3rN",
+  "startedAt": "2026-03-18T20:08:28.887Z",
+  "finishedAt": "2026-03-18T20:09:49.063Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中篮球三对三战术教练/44cd72a5-64ff-42b8-8d90-ec390dd082db/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中篮球三对三战术教练/44cd72a5-64ff-42b8-8d90-ec390dd082db/conversation-messages.json",
+  "studentInitialQuestion": "我叫范娟娟，四年级女生，喜欢乐高和越剧，比较独立，参与小组活动主动性不强，也不喜欢竞争。你能解释一下三对三篮球战术演练对我社交能力和团队合作有什么帮助吗？还有哪些适合我的参与建议？",
+  "studentInitialQuestionPath": "data/student-questions/初中篮球三对三战术教练/44cd72a5-64ff-42b8-8d90-ec390dd082db/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,26 @@
+{
+  "runId": "314daca7-e647-4fc0-a0c4-e3083bb23f1c",
+  "sceneName": "初中道法学习伙伴",
+  "title": "batch-初中道法学习伙伴-004",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中道法学习伙伴",
+    "questionIndex": 4,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fec112f4ffemO9JkYC9JRv1uA",
+  "startedAt": "2026-03-18T13:59:54.372Z",
+  "finishedAt": "2026-03-18T14:02:56.317Z",
+  "followUpCount": 0,
+  "status": "failed",
+  "stopReason": "error",
+  "teacherMessagesPath": "data/runs/初中道法学习伙伴/314daca7-e647-4fc0-a0c4-e3083bb23f1c/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中道法学习伙伴/314daca7-e647-4fc0-a0c4-e3083bb23f1c/conversation-messages.json",
+  "studentInitialQuestion": "我是刚入职的道德与法治老师，班里学生家庭背景很不一样，有单亲、外来务工、二孩家庭等。大家在讨论社会公平和个人努力时，观点差异挺大的。你作为教育专家，能详细讲讲怎么引导学生正确理解社会公平、个人奋斗和集体责任吗？最好结合这些家庭背景分析一下，并给些具体的教育策略。",
+  "studentInitialQuestionPath": "data/student-questions/初中道法学习伙伴/314daca7-e647-4fc0-a0c4-e3083bb23f1c/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

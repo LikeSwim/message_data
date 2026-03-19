@@ -1,0 +1,26 @@
+{
+  "runId": "60696e44-7352-44f0-9f3e-b45037bc5151",
+  "sceneName": "初中几何证明思路引导师",
+  "title": "batch-初中几何证明思路引导师-009",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中几何证明思路引导师",
+    "questionIndex": 9,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fd812f4effev7WmnilfzxWgpf",
+  "startedAt": "2026-03-18T19:49:18.632Z",
+  "finishedAt": "2026-03-18T19:50:26.415Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中几何证明思路引导师/60696e44-7352-44f0-9f3e-b45037bc5151/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中几何证明思路引导师/60696e44-7352-44f0-9f3e-b45037bc5151/conversation-messages.json",
+  "studentInitialQuestion": "我是初中生，逻辑推理还行，但做几何定理证明总是漏掉关键条件，推理不够严密，老师说我表达不规范。你能讲得详细点吗？怎么提升几何定理证明的逻辑严密性和表达规范性？最好结合典型题型、思维流程和易错点分析，帮我掌握更科学的证明方法。",
+  "studentInitialQuestionPath": "data/student-questions/初中几何证明思路引导师/60696e44-7352-44f0-9f3e-b45037bc5151/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

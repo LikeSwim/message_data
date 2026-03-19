@@ -1,0 +1,26 @@
+{
+  "runId": "e632bc61-dc98-4a83-8b72-7caa73ca2730",
+  "sceneName": "初中名著阅读测评",
+  "title": "batch-初中名著阅读测评-001",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中名著阅读测评",
+    "questionIndex": 1,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2fcfc0147ffeysBqMAvqaEDwwq",
+  "startedAt": "2026-03-18T22:14:45.474Z",
+  "finishedAt": "2026-03-18T22:16:44.533Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "data/runs/初中名著阅读测评/e632bc61-dc98-4a83-8b72-7caa73ca2730/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中名著阅读测评/e632bc61-dc98-4a83-8b72-7caa73ca2730/conversation-messages.json",
+  "studentInitialQuestion": "我是8年级的学生HarrisJonathan，男，14岁，平时喜欢下国际象棋和玩轮滑，但我对很多事情都容易三分钟热度，学业和兴趣总是要平衡。你能不能详细说说，像我这样兴趣多、专注时间短的学生，在名著阅读考查时，怎么提升理解和表达能力？最好能结合我的兴趣和性格，举些例子和具体建议。详细说说吧。",
+  "studentInitialQuestionPath": "data/student-questions/初中名著阅读测评/e632bc61-dc98-4a83-8b72-7caa73ca2730/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

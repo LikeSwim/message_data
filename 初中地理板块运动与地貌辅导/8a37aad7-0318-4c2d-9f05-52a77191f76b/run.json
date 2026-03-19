@@ -1,0 +1,26 @@
+{
+  "runId": "8a37aad7-0318-4c2d-9f05-52a77191f76b",
+  "sceneName": "初中地理板块运动与地貌辅导",
+  "title": "batch-初中地理板块运动与地貌辅导-003",
+  "initialPrompt": "请开始这次单场景教学问答。",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {
+    "batchId": "all-scenes-20260318-210913",
+    "scene": "初中地理板块运动与地貌辅导",
+    "questionIndex": 3,
+    "totalQuestions": 10,
+    "questionMode": "all"
+  },
+  "teacherSessionId": "ses_2feac43cbffermnUfo818L6mpO",
+  "startedAt": "2026-03-18T14:22:38.123Z",
+  "finishedAt": "2026-03-18T14:27:55.191Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "max_followups_reached",
+  "teacherMessagesPath": "data/runs/初中地理板块运动与地貌辅导/8a37aad7-0318-4c2d-9f05-52a77191f76b/teacher-messages.json",
+  "conversationMessagesPath": "data/runs/初中地理板块运动与地貌辅导/8a37aad7-0318-4c2d-9f05-52a77191f76b/conversation-messages.json",
+  "studentInitialQuestion": "我是吕碧岚，36岁女老师，喜欢方言研究和学习新技能，管理风格比较民主，压力会转化为动力，善于策略性妥协和批判性思维，现实和理想能保持平衡。学术圈和专业圈的社交挺广泛，通过多文化研究和持续学习跟不同背景的人保持联系，同事关系也挺融洽，处理职场矛盾比较有分寸。能详细分析下各个方面，比如初中地理板块运动和地貌塑造的知识体系、教学重难点、学科融合思路，还有怎么用多元文化和团队协作活动提升学生的科学精神、探究能力？希望能结合我的教学风格和职业背景，讲讲创新教学方案和互动建议，也请自然融入一些社会主义核心价值观和中华优秀传统文化。",
+  "studentInitialQuestionPath": "data/student-questions/初中地理板块运动与地貌辅导/8a37aad7-0318-4c2d-9f05-52a77191f76b/student-initial-question.json",
+  "studentQuestionSourcePath": null
+}
