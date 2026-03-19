@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-18T13:41:33.350Z",
+  "sessionId": "ses_2fed30233ffe40iMKOnL9zb0xm",
+  "replyText": "你好！有什么关于NLP的问题想了解吗？比如ChatGPT是怎么理解你说的话的，或者机器翻译是怎么工作的？",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773841290035,
+        "completed": 1773841293350
+      },
+      "parentID": "msg_d012e131c001DU4gUsrgSqh6PR",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/LAeCwVWv",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 10802,
+        "input": 10700,
+        "output": 102,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d012e1333001rDc933dd35MWix",
+      "sessionID": "ses_2fed30233ffe40iMKOnL9zb0xm"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_d012e13e00014ZV5PoZ5reY0TB",
+        "messageID": "msg_d012e1333001rDc933dd35MWix",
+        "sessionID": "ses_2fed30233ffe40iMKOnL9zb0xm"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户只是打了个招呼。根据对话上下文和系统提示，我应该保持简洁，友好地回应，并询问用户具体想了解什么关于NLP的内容。\n\n由于这是第二次打招呼（之前已经打过一次），我应该更加简洁，直接询问需求。\n\n根据我的角色定位，我应该用生活化、友好的方式回应，并主动询问用户想学习NLP的哪个方面。",
+        "time": {
+          "start": 1773841290209,
+          "end": 1773841293337
+        },
+        "id": "prt_d012e13e1001TZBFtU7DDJqNSG",
+        "messageID": "msg_d012e1333001rDc933dd35MWix",
+        "sessionID": "ses_2fed30233ffe40iMKOnL9zb0xm"
+      },
+      {
+        "type": "text",
+        "text": " 你好！有什么关于NLP的问题想了解吗？比如ChatGPT是怎么理解你说的话的，或者机器翻译是怎么工作的？",
+        "time": {
+          "start": 1773841293339,
+          "end": 1773841293339
+        },
+        "id": "prt_d012e1ddf001xpktzwVhdTuK5J",
+        "messageID": "msg_d012e1333001rDc933dd35MWix",
+        "sessionID": "ses_2fed30233ffe40iMKOnL9zb0xm"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 10802,
+          "input": 10700,
+          "output": 102,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d012e201f001CZL85OC1L7ve0V",
+        "messageID": "msg_d012e1333001rDc933dd35MWix",
+        "sessionID": "ses_2fed30233ffe40iMKOnL9zb0xm"
+      }
+    ]
+  }
+}

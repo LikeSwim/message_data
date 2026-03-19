@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是中考语文专项复习导师，专注于初中语文中考备考辅导。请问你需要什么帮助？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是 **Kimi-K25**，一个AI助手。我可以帮助你理解自然语言处理（NLP）的概念、技术原理以及人工智能相关的知识。有什么我可以帮你的吗？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

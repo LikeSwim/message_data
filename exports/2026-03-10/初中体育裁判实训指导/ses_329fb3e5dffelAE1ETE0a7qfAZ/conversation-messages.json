@@ -1,0 +1,16 @@
+{
+  "runId": "ses_329fb3e5dffelAE1ETE0a7qfAZ",
+  "sceneName": "初中体育裁判实训指导",
+  "title": "AI capabilities and skills overview",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你有哪些技能"
+    },
+    {
+      "role": "assistant",
+      "content": "根据当前环境配置，我拥有以下技能：\n\n## 🏀 初中体育裁判实训类\n\n1. **初中体育裁判手势教学** - 篮球、足球等球类裁判手势规范与执法流程教学\n2. **初中体育裁判执法评价** - 裁判技能标准化手势纠错、规则应用评估\n3. **初中体育竞赛规则解析** - 竞赛规则解析与标准化手势教学\n4. **初中体育裁判情境模拟** - 情境化裁判模拟执法训练\n\n## 💻 Web开发类\n\n5. **html-judge** - HTML代码的生成、评估和改进\n\n---\n\n如需使用某个技能，请直接告诉我，例如：\n- \"请使用初中体育裁判手势教学技能\"\n- \"用html-judge帮我检查这个网页\""
+    }
+  ]
+}

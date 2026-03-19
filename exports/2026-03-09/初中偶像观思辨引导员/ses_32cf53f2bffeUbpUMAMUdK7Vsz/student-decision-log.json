@@ -1,0 +1,26 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好呀！我是你的思辨引导伙伴，有啥想聊的吗？",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "你好呀！最近有没有哪位明星、人物或者事情让你印象挺深的？🤔\n\n或者，想聊聊你对\"追星\"这件事的随便什么想法都行——喜欢谁、为什么喜欢、有没有为之做过什么疯狂/有趣的事，都可以说说！",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 3,
+    "teacherReplyText": "哈喽！最近有没有特别欣赏或关注的人呀？不管是明星、科学家、运动员，还是身边的普通人，都可以聊聊~",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

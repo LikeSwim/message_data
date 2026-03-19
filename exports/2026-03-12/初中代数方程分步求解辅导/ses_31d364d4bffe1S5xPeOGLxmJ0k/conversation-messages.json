@@ -1,0 +1,16 @@
+{
+  "runId": "ses_31d364d4bffe1S5xPeOGLxmJ0k",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "New session - 2026-03-12T16:03:15.252Z",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是初中代数方程求解辅导助手。我可以帮助你：\n\n- 分步求解一元一次方程\n- 解二元一次方程组\n- 解分式方程\n- 诊断解题错误\n\n请告诉我你需要解什么方程，或者遇到了什么困难？"
+    }
+  ]
+}

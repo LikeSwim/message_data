@@ -1,0 +1,20 @@
+{
+  "runId": "ses_318fbd4ceffeAxPTA4U3HDRMcf",
+  "sceneName": "初中函数概念建构师",
+  "title": "New session - 2026-03-13T11:45:36.049Z",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_318fbd4ceffeAxPTA4U3HDRMcf",
+  "startedAt": "2026-03-13T11:45:36.140Z",
+  "finishedAt": "2026-03-13T11:45:58.550Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "使用交互网页来讲解一道函数题",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

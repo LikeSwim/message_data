@@ -1,0 +1,20 @@
+{
+  "runId": "ses_2fed1d437ffeeT2pX79VSRYwzg",
+  "sceneName": "NLP概念讲解助手",
+  "title": "问候",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_2fed1d437ffeeT2pX79VSRYwzg",
+  "startedAt": "2026-03-18T13:41:38.730Z",
+  "finishedAt": "2026-03-18T13:42:19.449Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

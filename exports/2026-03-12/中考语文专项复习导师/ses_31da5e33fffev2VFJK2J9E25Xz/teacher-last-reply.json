@@ -1,0 +1,74 @@
+{
+  "capturedAt": "2026-03-12T14:02:55.366Z",
+  "sessionId": "ses_31da5e33fffev2VFJK2J9E25Xz",
+  "replyText": "我背后的模型是 mimo-v2-flash-free。",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773324168513,
+        "completed": 1773324175366
+      },
+      "parentID": "msg_ce25b6d3c001Z0Y9PHZsmWnNe5",
+      "modelID": "mimo-v2-flash-free",
+      "providerID": "opencode",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/oz8NCwzV",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 13799,
+        "input": 79,
+        "output": 12,
+        "reasoning": 0,
+        "cache": {
+          "read": 13708,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce25b6d41001T8I3bVseHy1YY3",
+      "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce25b8729001SuxD8Gm6ZKHa3m",
+        "messageID": "msg_ce25b6d41001T8I3bVseHy1YY3",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      },
+      {
+        "type": "text",
+        "text": "我背后的模型是 mimo-v2-flash-free。",
+        "time": {
+          "start": 1773324175360,
+          "end": 1773324175360
+        },
+        "id": "prt_ce25b872b001ePoLdHSoRVrj0M",
+        "messageID": "msg_ce25b6d41001T8I3bVseHy1YY3",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 13799,
+          "input": 79,
+          "output": 12,
+          "reasoning": 0,
+          "cache": {
+            "read": 13708,
+            "write": 0
+          }
+        },
+        "id": "prt_ce25b88020017NjzuoteJHDA5X",
+        "messageID": "msg_ce25b6d41001T8I3bVseHy1YY3",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      }
+    ]
+  }
+}

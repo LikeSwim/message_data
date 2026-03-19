@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31d319d5affel4UI57fojnz0X5",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "打招呼",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31d319d5affel4UI57fojnz0X5",
+  "startedAt": "2026-03-12T16:08:25.670Z",
+  "finishedAt": "2026-03-12T16:08:27.179Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

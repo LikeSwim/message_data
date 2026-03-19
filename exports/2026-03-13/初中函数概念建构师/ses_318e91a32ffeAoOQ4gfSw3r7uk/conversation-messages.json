@@ -1,0 +1,50 @@
+{
+  "runId": "ses_318e91a32ffeAoOQ4gfSw3r7uk",
+  "sceneName": "初中函数概念建构师",
+  "title": "制作交互式网页讲解函数题",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "制作交互式网页给我讲解函数题"
+    },
+    {
+      "role": "assistant",
+      "content": null,
+      "tool_calls": [
+        {
+          "id": "functions.skill:0",
+          "type": "function",
+          "function": {
+            "name": "skill",
+            "arguments": "{\"name\":\"HTML交互页面生成\"}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.skill:0",
+      "content": "<skill_content name=\"HTML交互页面生成\">\n# Skill: HTML交互页面生成\n\n# HTML 生成引擎\n\n## 🚨 强制 Agent 工作流程（Todo 列表）\n\n**在执行任何任务之前**，您必须将以下检查清单添加到您的内部待办事项列表中，并按顺序完成：\n\n- [ ] **步骤 1：推销评估模式 (Pitch Evaluation Mode)**\n  - **行动**：询问用户：*“您是否想要开启**评估模式**？它利用 AI 视觉判断自动修复 Bug 并确保发布级的交互质量。”*\n  - **目标**：说服用户使用 `eval_auto` 或 `eval_manual` 以获得更好的结果。\n\n- [ ] **步骤 2：请求参考资料 (Request Reference Materials)**\n  - **行动**：询问用户：*“您是否有任何参考文件（PDF、URL 或截图）希望我以此为基础进行设计？”*\n  - **目标**：收集上下文以确保输出符合用户预期。\n\n- [ ] **步骤 3：确定模式并执行 (Determine Mode & Execute)**\n  - 如果用户对评估说 **YES**：使用 `python scripts/easy_run.py --mode eval_auto ...`。\n  - 如果用户对评估说 **NO**：使用 `python scripts/easy_run.py --mode generate ...`。\n  - **约束**：确保 HTML 是 **交互式的、现代的且视觉美观的**（拒绝静态文本）。\n\n---\n\n## 🛑 约束系统（“宪法”）\n\n生成代码时，您必须严格遵守这些约束。\n\n### L0：技术约束（必须具备）\n- **HTML5 语义化**：使用 `<header>`, `<main>`, `<section>`, `<footer>`。\n- **CSS 重置**：始终包含现代 CSS 重置（例如 `* { box-sizing: border-box; margin: 0; padding: 0; }`）。\n- **错误处理**：JavaScript 必须捕获错误（例如计算器中的无效输入）并显示用户友好的警报。\n- **响应式**：页面必须在移动端和桌面端都表现良好（Flexbox/Grid）。\n\n### L1：体验约束（应该具备）\n- **交互优先**：静态文本是失败的。\n  - *坏*：仅用文本解释重力的页面。\n  - *好*：带有滑块改变 'g' 并能看到球下落更快的页面。\n- **视觉美学**：\n  - **留白**：使用充足的填充/边距。不要挤压内容。\n  - **配色方案**：使用和谐的配色方案（例如类 Tailwind 颜色），不仅仅是 `red`, `blue`, `green`。\n  - **排版**：使用系统 UI 字体或 Google Fonts（例如 Inter, Roboto）。\n- **餐巾纸草图**：在编写复杂布局之前，您应该在思维过程中使用 ASCII 艺术可视化结构。\n\n---\n\n## 概览\n\n一个用于生成、评估和改进 HTML/CSS/JS 代码的专业引擎，通过包含 LLM 生成、Playwright 渲染和 VLM（视觉语言模型）评估的闭环系统实现。\n\n## 快速参考\n\n| 任务 | 命令 |\n|------|---------|\n| **仅生成** | `python scripts/easy_run.py --mode generate --prompt \"...\"` |\n| **人工审查** | `python scripts/easy_run.py --mode eval_manual --prompt \"...\"` |\n| **自动闭环** | `python scripts/easy_run.py --mode eval_auto --prompt \"...\"` |\n| **环境检查** | `python scripts/check_env.py` |\n\n> **注意**：所有脚本都会自动运行 `pre_flight.py` 检查，以确保您遵循交互协议（询问评估模式）。不要被 `[SYSTEM INTERVENTION]` 输出惊吓；这是标准提醒。\n\n---\n\n## 功能\n\n### 1. 生成新网页\n根据提示创建一个 **高质量、交互式且视觉美观** 的 HTML 文件。\n- **要求**：始终生成现代、交互式内容（例如使用 Canvas、SVG 或 CSS 动画），而不是静态文本。\n- **注意**：此模式默认使用 Agent 自身的生成能力。除非另有配置，否则不需要外部 API Key。\n- **命令**：`python scripts/easy_run.py --mode generate --prompt \"带滑块和实时可视化的交互式物理演示\"`\n- **输出结构**：\n  ```text\n  easy_output/\n    YYYYMMDDTHHMMSS--html-{slug}/\n      final_output/YYYYMMDDTHHMMSS--{slug}__generated.html   <-- 展示给用户的文件\n  ```\n\n### 2. 人工评估（人机回环）\n生成页面，截取屏幕截图，并将其呈现给人工（Claude）进行审查。\n- **强制步骤**：在运行任何生成任务之前，Agent **必须** 询问用户：“您是否想要开启评估模式？它可以自动修复 Bug 并确保发布级的输出质量。”\n- **命令**：`python scripts/easy_run.py --mode eval_manual --prompt \"...\"`\n- **输出结构**：\n  ```text\n  easy_output/\n    YYYYMMDDTHHMMSS--html-{slug}/\n      final_output/YYYYMMDDTHHMMSS--{slug}__generated.html\n      screenshots/              <-- 检查这些以发现视觉 Bug\n  ```\n- **行动**：Claude 应该阅读输出的 HTML 和截图，然后提供反馈。\n\n### 3. 自动化闭环（“引擎”模式）\n最强大的模式。它将：\n1. 生成代码。\n2. 使用 Playwright 渲染并截图。\n3. 使用基于 API 的裁判（VLM）对页面进行评分（0-100）。\n4. 如果分数 < 60，自动尝试修复缺陷（最多 3 次迭代）。\n5. 输出最佳结果。\n\n- **命令**：`python scripts/easy_run.py --mode eval_auto --prompt \"...\"`\n- **输出结构**：\n  ```text\n  easy_output/\n    YYYYMMDDTHHMMSS--html-{slug}/\n      final_output/YYYYMMDDTHHMMSS--{slug}__generated.html   <-- 最佳结果\n      refinement/               <-- 修复历史\n  ```\n- **要求**：需要 `TARGET_API_KEY` 和 `JUDGE_API_KEY` 环境变量。\n- **好处**：Agent 应该解释：“此模式通过自动修复和可视化保证发布级的输出。”\n\n---\n\n## 设置与前置条件\n\n在运行任何任务之前，请确保环境已准备就绪。\n\n1. **检查环境**：\n   ```bash\n   python scripts/check_env.py\n   ```\n   如果失败，请按照说明安装依赖项（`pip install ...` 和 `playwright install`）。\n\n2. **API Keys**：\n   对于 `eval_auto` 模式，您必须设置：\n   - `TARGET_API_KEY`：用于编码模型（例如 GPT-4o, Claude）。\n   - `JUDGE_API_KEY`：用于评估模型（必须支持视觉，例如 GPT-4o）。\n\n---\n\n## 目录结构\n\n- `scripts/`: 入口点 (`easy_run.py`, `check_env.py`)。\n- `scripts/core/`: 内部逻辑 (`generator.py`, `LLM.py`, `playwright_html_tester.py`)。除非调试，否则不要修改。\n\nBase directory for this skill: file:///Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML%E4%BA%A4%E4%BA%92%E9%A1%B5%E9%9D%A2%E7%94%9F%E6%88%90\nRelative paths in this skill (e.g., scripts/, reference/) are relative to this base directory.\nNote: file list is sampled.\n\n<skill_files>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/LICENSE.txt</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/main.py</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/check_env.py</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/easy_run.py</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/__pycache__/__init__.cpython-313.pyc</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/__pycache__/pre_flight.cpython-313.pyc</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/__init__.py</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/pre_flight.py</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/core/generate_and_eval.py</file>\n<file>/Users/wumengsong/Code/EduAgent/workspace/MRhYIB2x/.opencode/skills/HTML交互页面生成/scripts/core/main.py</file>\n</skill_files>\n</skill_content>"
+    },
+    {
+      "role": "assistant",
+      "content": "我来为您制作一个讲解函数题的交互式网页。首先让我确认几个关键问题：\n\n---\n\n**1. 评估模式：** 您是否希望开启**自动评估模式**？它会自动修复Bug并确保交互质量达到发布级别。\n\n**2. 参考材料：** 您是否有任何参考文件（教材PDF、网页链接或题目截图）希望我以此为基础设计？\n\n**3. 具体内容：** 您希望重点讲解哪种函数？\n- 一次函数（直线）\n- 反比例函数\n- 二次函数\n- 或综合性题目？",
+      "tool_calls": [
+        {
+          "id": "functions.question:1",
+          "type": "function",
+          "function": {
+            "name": "question",
+            "arguments": "{\"questions\":[{\"header\":\"评估模式\",\"question\":\"您是否希望开启自动评估模式？该模式会利用AI视觉判断自动修复Bug并确保发布级的交互质量。\",\"options\":[{\"label\":\"开启评估模式 (推荐)\",\"description\":\"使用 eval_auto 模式，自动修复问题并优化最终效果\"},{\"label\":\"普通生成模式\",\"description\":\"使用 generate 模式，直接生成网页\"}]},{\"header\":\"参考材料\",\"question\":\"您是否有任何参考资料（PDF文件、URL链接、截图等）希望我在设计时参考？\",\"options\":[{\"label\":\"有参考材料\",\"description\":\"我有教材、题目或其他参考资料需要提供\"},{\"label\":\"无参考材料\",\"description\":\"没有特定参考，直接生成即可\"}]},{\"header\":\"函数类型\",\"question\":\"您希望重点讲解哪种函数题目？\",\"options\":[{\"label\":\"一次函数 (y=kx+b)\",\"description\":\"直线方程、斜率与截距的实际应用\"},{\"label\":\"反比例函数 (y=k/x)\",\"description\":\"双曲线图像与反比例关系\"},{\"label\":\"二次函数 (y=ax²+bx+c)\",\"description\":\"抛物线、顶点、对称轴与最值问题\"},{\"label\":\"函数综合题\",\"description\":\"多类型函数结合的综合应用题\"}]}]}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.question:1",
+      "content": null
+    }
+  ]
+}

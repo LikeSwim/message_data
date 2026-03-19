@@ -1,0 +1,16 @@
+{
+  "runId": "ses_30463a6abffeB4BsGmUpvzUt5G",
+  "sceneName": "测试",
+  "title": "询问可用工具",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好，你有哪些工具"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我有以下工具：\n\n- **bash**: 执行命令行操作\n- **read**: 读取文件内容\n- **glob**: 按模式查找文件\n- **grep**: 搜索文件内容\n- **edit**: 编辑文件\n- **write**: 写入文件\n- **task**: 启动子代理执行任务\n- **webfetch**: 获取网页内容\n- **web-search_search**: 多引擎网页搜索\n- **web-search_fetchLinuxDoArticle**: 获取 Linux.do 文章\n- **web-search_fetchCsdnArticle**: 获取 CSDN 文章\n- **web-search_fetchGithubReadme**: 获取 GitHub README\n- **web-search_fetchJuejinArticle**: 获取掘金文章\n- **skill**: 加载专业技能\n- **question**: 询问用户问题\n- **todowrite**: 创建和管理任务列表\n\n有什么我可以帮你的？"
+    }
+  ]
+}

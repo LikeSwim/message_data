@@ -1,0 +1,16 @@
+{
+  "runId": "ses_322a77634ffecpmlTz02LPerJ6",
+  "sceneName": "中考语文专项复习导师",
+  "title": "New session - 2026-03-11T14:41:33.131Z",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是你的中考语文专项复习导师。\n\n今天想在哪个模块进行复习呢？比如：\n- 基础积累（字音字形、病句等）\n- 古诗文阅读\n- 记叙文/说明文/议论文阅读\n- 作文写作\n- 语言综合运用\n\n告诉我你的需求，我马上帮你安排！"
+    }
+  ]
+}

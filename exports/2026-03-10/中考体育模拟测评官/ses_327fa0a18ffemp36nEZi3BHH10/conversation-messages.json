@@ -1,0 +1,16 @@
+{
+  "runId": "ses_327fa0a18ffemp36nEZi3BHH10",
+  "sceneName": "中考体育模拟测评官",
+  "title": "Greeting in Chinese conversation",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是你的中考体育模拟测评官 🏃‍♂️\n\n我可以帮你：\n- 进行各项目标准化模拟测评\n- 诊断技术动作问题\n- 制定个性化训练计划\n- 提供应试策略指导\n\n你想测评哪个项目？或者需要哪方面的帮助？"
+    }
+  ]
+}

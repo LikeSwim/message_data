@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31cc3c138ffecrx5LQnYdWNWVG",
+  "sceneName": "中考语文专项复习导师",
+  "title": "New session - 2026-03-12T18:08:22.215Z",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31cc3c138ffecrx5LQnYdWNWVG",
+  "startedAt": "2026-03-12T18:08:22.271Z",
+  "finishedAt": "2026-03-12T18:08:25.086Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

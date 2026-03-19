@@ -1,0 +1,16 @@
+{
+  "runId": "ses_31da26096ffeAP2mdcMCwKR1uf",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "AI模型身份询问",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你是什么模型"
+    },
+    {
+      "role": "assistant",
+      "content": "我是 Kimi-K25 模型。"
+    }
+  ]
+}

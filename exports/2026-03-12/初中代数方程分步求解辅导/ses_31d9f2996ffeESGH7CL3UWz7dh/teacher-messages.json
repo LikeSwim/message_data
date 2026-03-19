@@ -1,0 +1,109 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773324527609
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "local-vllm",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_ce260e7f9001RnHnh4VO4y5Yzf",
+      "sessionID": "ses_31d9f2996ffeESGH7CL3UWz7dh"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你是什么模型",
+        "id": "prt_ce260e7f90024r1G2HvwPEOciA",
+        "messageID": "msg_ce260e7f9001RnHnh4VO4y5Yzf",
+        "sessionID": "ses_31d9f2996ffeESGH7CL3UWz7dh"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773324527613,
+        "completed": 1773324528514
+      },
+      "parentID": "msg_ce260e7f9001RnHnh4VO4y5Yzf",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/lDoH3kTy",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11537,
+        "input": 11467,
+        "output": 70,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce260e7fd00176DObsgg5JZ5cD",
+      "sessionID": "ses_31d9f2996ffeESGH7CL3UWz7dh"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce260e87a0015Ob3igXcg0G4DY",
+        "messageID": "msg_ce260e7fd00176DObsgg5JZ5cD",
+        "sessionID": "ses_31d9f2996ffeESGH7CL3UWz7dh"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户问\"你是什么模型\"，这是一个关于我身份的直接问题。根据系统提示，我是由Kimi-K25模型驱动的，确切的模型ID是local-vllm/Kimi-K25。\n\n我应该直接回答这个问题，告诉用户我的模型身份。之类的话",
+        "time": {
+          "start": 1773324527739,
+          "end": 1773324528507
+        },
+        "id": "prt_ce260e87b001us5GLURfqMmxfL",
+        "messageID": "msg_ce260e7fd00176DObsgg5JZ5cD",
+        "sessionID": "ses_31d9f2996ffeESGH7CL3UWz7dh"
+      },
+      {
+        "type": "text",
+        "text": " 我是 Kimi-K25 模型（由 local-vllm 托管）。",
+        "time": {
+          "start": 1773324528509,
+          "end": 1773324528509
+        },
+        "id": "prt_ce260eaec0014na4DUKl2ttS4N",
+        "messageID": "msg_ce260e7fd00176DObsgg5JZ5cD",
+        "sessionID": "ses_31d9f2996ffeESGH7CL3UWz7dh"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 11537,
+          "input": 11467,
+          "output": 70,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_ce260eb7e001XD2MeW042pf5e7",
+        "messageID": "msg_ce260e7fd00176DObsgg5JZ5cD",
+        "sessionID": "ses_31d9f2996ffeESGH7CL3UWz7dh"
+      }
+    ]
+  }
+]

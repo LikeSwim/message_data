@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3194fe364ffe6okE7nMyMtxV96",
+  "sceneName": "初中函数概念建构师",
+  "title": "交互式函数题讲解",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3194fe364ffe6okE7nMyMtxV96",
+  "startedAt": "2026-03-13T10:13:47.334Z",
+  "finishedAt": "2026-03-13T10:13:55.551Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "帮我通过交互式页面讲解一道函数题",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

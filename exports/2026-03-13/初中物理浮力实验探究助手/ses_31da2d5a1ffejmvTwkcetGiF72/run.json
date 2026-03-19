@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31da2d5a1ffejmvTwkcetGiF72",
+  "sceneName": "初中物理浮力实验探究助手",
+  "title": "问候并询问模型身份",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31da2d5a1ffejmvTwkcetGiF72",
+  "startedAt": "2026-03-12T14:04:42.552Z",
+  "finishedAt": "2026-03-12T14:04:44.033Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好，你是什么模型",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

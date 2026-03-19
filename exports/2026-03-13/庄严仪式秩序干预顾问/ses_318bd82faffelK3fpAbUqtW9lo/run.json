@@ -1,0 +1,20 @@
+{
+  "runId": "ses_318bd82faffelK3fpAbUqtW9lo",
+  "sceneName": "庄严仪式秩序干预顾问",
+  "title": "学生质疑学雷锋形式主义怎么办",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_318bd82faffelK3fpAbUqtW9lo",
+  "startedAt": "2026-03-13T12:53:40.281Z",
+  "finishedAt": "2026-03-13T12:53:51.282Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "小明在“学雷锋”班会上与其他同学讲话，觉得“学雷锋”就是形式主义，我该怎么办？",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

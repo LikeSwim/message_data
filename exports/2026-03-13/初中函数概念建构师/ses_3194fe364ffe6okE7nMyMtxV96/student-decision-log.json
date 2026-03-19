@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "我将为您创建一个交互式页面来讲解函数题。为了确保最佳效果，我需要先确认几个问题：",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "runId": "ses_30059086affeNTeOhvwWZZ3TNp",
+  "sceneName": "中考体育模拟测评官",
+  "title": "问候",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！有什么我可以帮助你的吗？"
+    }
+  ]
+}

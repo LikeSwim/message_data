@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是你的中考语文专项复习导师。\n\n有什么我可以帮你的吗？比如：\n- 梳理某个模块的考点（古诗文/现代文阅读/作文等）\n- 讲解具体题型技巧\n- 分析错题或薄弱点\n- 制定复习计划\n\n你想从哪方面开始？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

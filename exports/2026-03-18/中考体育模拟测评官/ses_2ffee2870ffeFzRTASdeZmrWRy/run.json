@@ -1,0 +1,20 @@
+{
+  "runId": "ses_2ffee2870ffeFzRTASdeZmrWRy",
+  "sceneName": "中考体育模拟测评官",
+  "title": "问候",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_2ffee2870ffeFzRTASdeZmrWRy",
+  "startedAt": "2026-03-18T08:31:05.569Z",
+  "finishedAt": "2026-03-18T08:31:09.504Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

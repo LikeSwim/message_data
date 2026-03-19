@@ -1,0 +1,20 @@
+{
+  "runId": "ses_32331bc6bffe058y7b6zug4zGa",
+  "sceneName": "中考语文专项复习导师",
+  "title": "中考语文复习方案与提问清单",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_32331bc6bffe058y7b6zug4zGa",
+  "startedAt": "2026-03-11T12:10:32.899Z",
+  "finishedAt": "2026-03-11T12:12:53.966Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "给我一个中考语文复习方案，不清楚的用question工具问我。",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

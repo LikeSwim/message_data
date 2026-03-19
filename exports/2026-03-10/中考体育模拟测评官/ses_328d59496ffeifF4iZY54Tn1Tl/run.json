@@ -1,0 +1,20 @@
+{
+  "runId": "ses_328d59496ffeifF4iZY54Tn1Tl",
+  "sceneName": "中考体育模拟测评官",
+  "title": "球类评测技能要点与方法",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_328d59496ffeifF4iZY54Tn1Tl",
+  "startedAt": "2026-03-10T09:53:29.435Z",
+  "finishedAt": "2026-03-10T09:53:34.496Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "球类评测技能的具体内容",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

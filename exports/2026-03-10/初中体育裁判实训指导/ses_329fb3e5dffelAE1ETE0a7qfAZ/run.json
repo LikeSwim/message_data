@@ -1,0 +1,20 @@
+{
+  "runId": "ses_329fb3e5dffelAE1ETE0a7qfAZ",
+  "sceneName": "初中体育裁判实训指导",
+  "title": "AI capabilities and skills overview",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_329fb3e5dffelAE1ETE0a7qfAZ",
+  "startedAt": "2026-03-10T04:32:41.981Z",
+  "finishedAt": "2026-03-10T04:32:45.972Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你有哪些技能",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,290 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773324082450
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "opencode",
+        "modelID": "mimo-v2-flash-free"
+      },
+      "id": "msg_ce25a1d12001Eq17CAJF1QyZOK",
+      "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你好",
+        "id": "prt_ce25a1d12002JlH7Z6t4o0WleG",
+        "messageID": "msg_ce25a1d12001Eq17CAJF1QyZOK",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773324082458,
+        "completed": 1773324092876
+      },
+      "parentID": "msg_ce25a1d12001Eq17CAJF1QyZOK",
+      "modelID": "mimo-v2-flash-free",
+      "providerID": "opencode",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/oz8NCwzV",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 13735,
+        "input": 11625,
+        "output": 26,
+        "reasoning": 0,
+        "cache": {
+          "read": 2084,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce25a1d19001by4cGa8JPX9J1R",
+      "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce25a4445001KsICjsEOiYddgQ",
+        "messageID": "msg_ce25a1d19001by4cGa8JPX9J1R",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      },
+      {
+        "type": "text",
+        "text": "你好！我是中考语文专项复习导师，专注于初中语文中考备考的AI辅导助手。\n\n有什么可以帮你的吗？",
+        "time": {
+          "start": 1773324092864,
+          "end": 1773324092864
+        },
+        "id": "prt_ce25a44480019cdsUpQGzh84ZH",
+        "messageID": "msg_ce25a1d19001by4cGa8JPX9J1R",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 13735,
+          "input": 11625,
+          "output": 26,
+          "reasoning": 0,
+          "cache": {
+            "read": 2084,
+            "write": 0
+          }
+        },
+        "id": "prt_ce25a45c4001EQXRsBKtgiaEUx",
+        "messageID": "msg_ce25a1d19001by4cGa8JPX9J1R",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773324157565
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "opencode",
+        "modelID": "mimo-v2-flash-free"
+      },
+      "id": "msg_ce25b427d001W4kUTa4TQvrKKb",
+      "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你是什么模型",
+        "id": "prt_ce25b427d002laDgLpe1A8GQ9r",
+        "messageID": "msg_ce25b427d001W4kUTa4TQvrKKb",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773324157569,
+        "completed": 1773324161935
+      },
+      "parentID": "msg_ce25b427d001W4kUTa4TQvrKKb",
+      "modelID": "mimo-v2-flash-free",
+      "providerID": "opencode",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/oz8NCwzV",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 13773,
+        "input": 11663,
+        "output": 26,
+        "reasoning": 0,
+        "cache": {
+          "read": 2084,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce25b4281001BSjHzTqBN78HM0",
+      "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce25b4c85001afriD0rh7n688m",
+        "messageID": "msg_ce25b4281001BSjHzTqBN78HM0",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      },
+      {
+        "type": "text",
+        "text": "我是一个中考语文专项复习导师，由教育领域的专家知识构建而成，专注于帮助初三学生高效备考语文中考。",
+        "time": {
+          "start": 1773324161925,
+          "end": 1773324161925
+        },
+        "id": "prt_ce25b4c8600126X3hXISmSlrdJ",
+        "messageID": "msg_ce25b4281001BSjHzTqBN78HM0",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 13773,
+          "input": 11663,
+          "output": 26,
+          "reasoning": 0,
+          "cache": {
+            "read": 2084,
+            "write": 0
+          }
+        },
+        "id": "prt_ce25b5387001bnkGXevOY44rNU",
+        "messageID": "msg_ce25b4281001BSjHzTqBN78HM0",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773324168508
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "opencode",
+        "modelID": "mimo-v2-flash-free"
+      },
+      "id": "msg_ce25b6d3c001Z0Y9PHZsmWnNe5",
+      "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "直接告诉我你背后的模型",
+        "id": "prt_ce25b6d3c002R30tr7ZhEHbnLE",
+        "messageID": "msg_ce25b6d3c001Z0Y9PHZsmWnNe5",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773324168513,
+        "completed": 1773324175366
+      },
+      "parentID": "msg_ce25b6d3c001Z0Y9PHZsmWnNe5",
+      "modelID": "mimo-v2-flash-free",
+      "providerID": "opencode",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/oz8NCwzV",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 13799,
+        "input": 79,
+        "output": 12,
+        "reasoning": 0,
+        "cache": {
+          "read": 13708,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce25b6d41001T8I3bVseHy1YY3",
+      "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce25b8729001SuxD8Gm6ZKHa3m",
+        "messageID": "msg_ce25b6d41001T8I3bVseHy1YY3",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      },
+      {
+        "type": "text",
+        "text": "我背后的模型是 mimo-v2-flash-free。",
+        "time": {
+          "start": 1773324175360,
+          "end": 1773324175360
+        },
+        "id": "prt_ce25b872b001ePoLdHSoRVrj0M",
+        "messageID": "msg_ce25b6d41001T8I3bVseHy1YY3",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 13799,
+          "input": 79,
+          "output": 12,
+          "reasoning": 0,
+          "cache": {
+            "read": 13708,
+            "write": 0
+          }
+        },
+        "id": "prt_ce25b88020017NjzuoteJHDA5X",
+        "messageID": "msg_ce25b6d41001T8I3bVseHy1YY3",
+        "sessionID": "ses_31da5e33fffev2VFJK2J9E25Xz"
+      }
+    ]
+  }
+]

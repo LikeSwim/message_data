@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-18T06:34:20.741Z",
+  "sessionId": "ses_30059086affeNTeOhvwWZZ3TNp",
+  "replyText": "你好！有什么我可以帮助你的吗？",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773815658464,
+        "completed": 1773815660741
+      },
+      "parentID": "msg_cffa6f7d8001oMNDteXCeGWNAM",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/E0eekgHM",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 12078,
+        "input": 12016,
+        "output": 62,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_cffa6f7e0001Fo99pCLH0IYjqH",
+      "sessionID": "ses_30059086affeNTeOhvwWZZ3TNp"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_cffa6fcf5001EfXXMJ2WqTOVWW",
+        "messageID": "msg_cffa6f7e0001Fo99pCLH0IYjqH",
+        "sessionID": "ses_30059086affeNTeOhvwWZZ3TNp"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户用中文问候\"你好\"。我需要用中文回复，保持简洁。\n\n根据系统提示，我应该：\n1. 简洁直接地回答\n2. 避免不必要的开场白和结束语\n3. 保持在4行以内\n\n简单的问候回复即可。",
+        "time": {
+          "start": 1773815659769,
+          "end": 1773815660728
+        },
+        "id": "prt_cffa6fcf9001NU2acvNCKKCm2z",
+        "messageID": "msg_cffa6f7e0001Fo99pCLH0IYjqH",
+        "sessionID": "ses_30059086affeNTeOhvwWZZ3TNp"
+      },
+      {
+        "type": "text",
+        "text": " 你好！有什么我可以帮助你的吗？",
+        "time": {
+          "start": 1773815660729,
+          "end": 1773815660729
+        },
+        "id": "prt_cffa70022001p8htEFFQTKIcmd",
+        "messageID": "msg_cffa6f7e0001Fo99pCLH0IYjqH",
+        "sessionID": "ses_30059086affeNTeOhvwWZZ3TNp"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 12078,
+          "input": 12016,
+          "output": 62,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_cffa700bd00118fLyot9oZUWgo",
+        "messageID": "msg_cffa6f7e0001Fo99pCLH0IYjqH",
+        "sessionID": "ses_30059086affeNTeOhvwWZZ3TNp"
+      }
+    ]
+  }
+}

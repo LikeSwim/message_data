@@ -1,0 +1,26 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "好的，我来帮您创建一个交互式的函数题目讲解页面！\n\n首先，让我按照流程来确认几个事项：\n\n1. **评估模式**：您是否想要开启**评估模式**？它可以自动检测缺陷、修复Bug，并确保高质量的交互体验。\n\n2. **参考材料**：您是否有任何参考文件（比如题目图片、PDF或其他设计参考）希望我以此为基础进行设计？\n\n3. **题目选择**：如果没有特定题目，我可以为初中生推荐一道经典的函数综合题，比如：\n   - 一次函数与方程的综合题\n   - 反比例函数图像性质探究\n   - 二次函数最值应用问题\n\n请告诉我您的偏好，我将为您生成一个图文并茂、可交互的讲解页面！",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "好的，我来为您生成一个交互式函数题目讲解页面。",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 3,
+    "teacherReplyText": "我需要先安装必要的依赖：",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

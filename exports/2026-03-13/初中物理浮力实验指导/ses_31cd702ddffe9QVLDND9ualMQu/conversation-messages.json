@@ -1,0 +1,16 @@
+{
+  "runId": "ses_31cd702ddffe9QVLDND9ualMQu",
+  "sceneName": "初中物理浮力实验指导",
+  "title": "打招呼",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是初中物理实验教学助手，专门帮助学生完成浮力探究实验。\n\n有什么我可以帮助你的吗？比如：\n- 浮力实验操作指导\n- 实验数据分析\n- 误差分析\n- 实验报告撰写"
+    }
+  ]
+}

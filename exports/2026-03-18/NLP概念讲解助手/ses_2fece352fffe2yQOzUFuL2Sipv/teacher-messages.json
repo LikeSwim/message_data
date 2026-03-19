@@ -1,0 +1,109 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773841536466
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "local-vllm",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_d0131d5d2001VGPT02LrXrVhyU",
+      "sessionID": "ses_2fece352fffe2yQOzUFuL2Sipv"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你好",
+        "id": "prt_d0131d5d2002b1QFYynRxfd6QY",
+        "messageID": "msg_d0131d5d2001VGPT02LrXrVhyU",
+        "sessionID": "ses_2fece352fffe2yQOzUFuL2Sipv"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773841536473,
+        "completed": 1773841541655
+      },
+      "parentID": "msg_d0131d5d2001VGPT02LrXrVhyU",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/LAeCwVWv",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 10771,
+        "input": 10611,
+        "output": 160,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d0131d5d9001T1iOlVbVfoUQF7",
+      "sessionID": "ses_2fece352fffe2yQOzUFuL2Sipv"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_d0131d83d001zs4LVTFHtNRUYc",
+        "messageID": "msg_d0131d5d9001T1iOlVbVfoUQF7",
+        "sessionID": "ses_2fece352fffe2yQOzUFuL2Sipv"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户说\"你好\"，这是一个简单的问候。我应该友好地回应，并介绍我自己作为NLP概念讲解助手的角色。\n\n根据我的角色定位，我应该：\n1. 友好地回应问候\n2. 简要介绍我是NLP概念讲解助手\n3. 询问用户想了解NLP的哪个方面\n\n让我用中文回应，因为角色是用中文定义的。",
+        "time": {
+          "start": 1773841537087,
+          "end": 1773841541643
+        },
+        "id": "prt_d0131d83f001kUBp3pS8Mw83HS",
+        "messageID": "msg_d0131d5d9001T1iOlVbVfoUQF7",
+        "sessionID": "ses_2fece352fffe2yQOzUFuL2Sipv"
+      },
+      {
+        "type": "text",
+        "text": " 你好！我是NLP概念讲解助手，专门帮助初学者理解自然语言处理的核心概念和技术原理。\n\n有什么关于NLP的问题我可以帮你解答吗？比如：\n- 什么是NLP，它如何运作？\n- 大语言模型（如ChatGPT）背后的技术\n- NLP在日常生活中的应用场景\n- 机器学习与NLP的关系\n\n告诉我你想了解什么，我会用最通俗易懂的方式为你讲解！",
+        "time": {
+          "start": 1773841541645,
+          "end": 1773841541645
+        },
+        "id": "prt_d0131e0fa0014dC9ggb0tEx3vF",
+        "messageID": "msg_d0131d5d9001T1iOlVbVfoUQF7",
+        "sessionID": "ses_2fece352fffe2yQOzUFuL2Sipv"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 10771,
+          "input": 10611,
+          "output": 160,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d0131ea11001y8QgmOALVI22uf",
+        "messageID": "msg_d0131d5d9001T1iOlVbVfoUQF7",
+        "sessionID": "ses_2fece352fffe2yQOzUFuL2Sipv"
+      }
+    ]
+  }
+]

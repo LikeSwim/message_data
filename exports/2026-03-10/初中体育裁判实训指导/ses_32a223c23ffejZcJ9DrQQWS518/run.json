@@ -1,0 +1,20 @@
+{
+  "runId": "ses_32a223c23ffejZcJ9DrQQWS518",
+  "sceneName": "初中体育裁判实训指导",
+  "title": "Chinese capabilities overview",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_32a223c23ffejZcJ9DrQQWS518",
+  "startedAt": "2026-03-10T03:50:06.697Z",
+  "finishedAt": "2026-03-10T03:50:09.825Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你会什么",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

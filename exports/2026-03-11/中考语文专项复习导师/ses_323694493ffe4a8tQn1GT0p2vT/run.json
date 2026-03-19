@@ -1,0 +1,20 @@
+{
+  "runId": "ses_323694493ffe4a8tQn1GT0p2vT",
+  "sceneName": "中考语文专项复习导师",
+  "title": "中考语文复习方案设计与提问 clarifications",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_323694493ffe4a8tQn1GT0p2vT",
+  "startedAt": "2026-03-11T11:12:15.795Z",
+  "finishedAt": "2026-03-11T11:12:19.694Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "帮我指定中考语文复习方案，有不明确的问我",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

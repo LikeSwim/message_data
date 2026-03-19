@@ -1,0 +1,109 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773324282552
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "local-vllm",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_ce25d2ab8001YSHOgddSTirkG8",
+      "sessionID": "ses_31da2d5a1ffejmvTwkcetGiF72"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你好，你是什么模型",
+        "id": "prt_ce25d2ab8002tssmSw1AtdCpiA",
+        "messageID": "msg_ce25d2ab8001YSHOgddSTirkG8",
+        "sessionID": "ses_31da2d5a1ffejmvTwkcetGiF72"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773324282558,
+        "completed": 1773324284033
+      },
+      "parentID": "msg_ce25d2ab8001YSHOgddSTirkG8",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/cryrGzzO",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11882,
+        "input": 11783,
+        "output": 99,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce25d2abe0019UdgWAXg7CwZph",
+      "sessionID": "ses_31da2d5a1ffejmvTwkcetGiF72"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce25d2c3a0012fQny776my4cTI",
+        "messageID": "msg_ce25d2abe0019UdgWAXg7CwZph",
+        "sessionID": "ses_31da2d5a1ffejmvTwkcetGiF72"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户用中文问候并询问我是什么模型。我应该用中文回答，并告诉用户我是Kimi-K25模型。\n\n根据AGENTS.md文件，我是一个初中物理浮力实验探究助手，但用户现在只是简单地询问我是什么模型，我应该直接回答。",
+        "time": {
+          "start": 1773324282941,
+          "end": 1773324284024
+        },
+        "id": "prt_ce25d2c3d001OkqoqRQJiDI6Br",
+        "messageID": "msg_ce25d2abe0019UdgWAXg7CwZph",
+        "sessionID": "ses_31da2d5a1ffejmvTwkcetGiF72"
+      },
+      {
+        "type": "text",
+        "text": " 你好！我是 **Kimi-K25** 模型。\n\n我可以帮助你完成初中物理浮力实验相关的探究任务，包括实验设计、操作指导、数据分析和结论论证等。有什么我可以帮你的吗？",
+        "time": {
+          "start": 1773324284025,
+          "end": 1773324284025
+        },
+        "id": "prt_ce25d2e93001Erk9a86c0vO1kY",
+        "messageID": "msg_ce25d2abe0019UdgWAXg7CwZph",
+        "sessionID": "ses_31da2d5a1ffejmvTwkcetGiF72"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 11882,
+          "input": 11783,
+          "output": 99,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_ce25d307c001SRTBwDz64dsMui",
+        "messageID": "msg_ce25d2abe0019UdgWAXg7CwZph",
+        "sessionID": "ses_31da2d5a1ffejmvTwkcetGiF72"
+      }
+    ]
+  }
+]

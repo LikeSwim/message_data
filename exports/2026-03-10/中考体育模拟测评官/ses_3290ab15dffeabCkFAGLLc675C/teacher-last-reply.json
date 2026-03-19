@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-10T08:55:37.863Z",
+  "sessionId": "ses_3290ab15dffeabCkFAGLLc675C",
+  "replyText": "## 中考体育球类测评技能\n\n### 适用场景\n- 中考备考冲刺（初三模拟考试）\n- 技术动作诊断（初一初二阶段性测评）\n- 选科决策支持（篮球/足球/排球三选一）\n- 过程性评价（学期中技能考核）\n\n---\n\n### 测评维度\n\n| 项目 | 评估要点 |\n|------|---------|\n| **篮球运球绕杆** | 手型、按拍球部位、身体护球姿态、变向时机、完成时间 |\n| **足球运球绕杆** | 触球部位、支撑脚位置、重心控制、\"S\"型路线走法 |\n| **排球垫球** | 准备姿势、击球部位/高度/力度、垫球次数 |\n\n---\n\n### 测评原则\n1. 安全第一（热身+器材检查）\n2. 标准统一（依据当地中考评分标准）\n3. 机会均等（试测1次+正式测试2次）\n4. 技术优先于成绩\n5. 鼓励式反馈\n6. 因材施教\n\n---\n\n### 常见技术错误\n\n| 项目 | 常见问题 |\n|------|---------|\n| 篮球 | 拍球过高、变向时看球、重心过高、人球分离 |\n| 足球 | 大脚踢球而非推拨、支撑脚站位错误、身体后仰 |\n| 排球 | 屈肘垫球、击球点过高/过低、身体后仰、脚步静止 |\n\n---\n\n### 测评输出内容\n1. **测评基本信息**（日期、成绩记录）\n2. **技术诊断报告**（优势+待改进项）\n3. **应试策略建议**（考前准备、犯规规避、失误应急）\n4. **4周提升计划**（基础→强化→调整）\n5. **安全与恢复提示**\n6. **家校协同建议**",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773132933830,
+        "completed": 1773132937863
+      },
+      "parentID": "msg_cd6f568e3001kBv01AGOqEfczG",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/vbPzsKD6",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 14269,
+        "input": 13864,
+        "output": 405,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_cd6f56ac6001b28eyGiW8e9g3S",
+      "sessionID": "ses_3290ab15dffeabCkFAGLLc675C"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_cd6f56b94001y0PZvQHNiV6Hb7",
+        "messageID": "msg_cd6f56ac6001b28eyGiW8e9g3S",
+        "sessionID": "ses_3290ab15dffeabCkFAGLLc675C"
+      },
+      {
+        "type": "reasoning",
+        "text": " 我已经成功加载了\"中考体育球类测评\"技能的详细信息。现在我需要向用户展示这些细节。",
+        "time": {
+          "start": 1773132934037,
+          "end": 1773132937859
+        },
+        "id": "prt_cd6f56b9500183ZRkg3F0o7TtJ",
+        "messageID": "msg_cd6f56ac6001b28eyGiW8e9g3S",
+        "sessionID": "ses_3290ab15dffeabCkFAGLLc675C"
+      },
+      {
+        "type": "text",
+        "text": " ## 中考体育球类测评技能\n\n### 适用场景\n- 中考备考冲刺（初三模拟考试）\n- 技术动作诊断（初一初二阶段性测评）\n- 选科决策支持（篮球/足球/排球三选一）\n- 过程性评价（学期中技能考核）\n\n---\n\n### 测评维度\n\n| 项目 | 评估要点 |\n|------|---------|\n| **篮球运球绕杆** | 手型、按拍球部位、身体护球姿态、变向时机、完成时间 |\n| **足球运球绕杆** | 触球部位、支撑脚位置、重心控制、\"S\"型路线走法 |\n| **排球垫球** | 准备姿势、击球部位/高度/力度、垫球次数 |\n\n---\n\n### 测评原则\n1. 安全第一（热身+器材检查）\n2. 标准统一（依据当地中考评分标准）\n3. 机会均等（试测1次+正式测试2次）\n4. 技术优先于成绩\n5. 鼓励式反馈\n6. 因材施教\n\n---\n\n### 常见技术错误\n\n| 项目 | 常见问题 |\n|------|---------|\n| 篮球 | 拍球过高、变向时看球、重心过高、人球分离 |\n| 足球 | 大脚踢球而非推拨、支撑脚站位错误、身体后仰 |\n| 排球 | 屈肘垫球、击球点过高/过低、身体后仰、脚步静止 |\n\n---\n\n### 测评输出内容\n1. **测评基本信息**（日期、成绩记录）\n2. **技术诊断报告**（优势+待改进项）\n3. **应试策略建议**（考前准备、犯规规避、失误应急）\n4. **4周提升计划**（基础→强化→调整）\n5. **安全与恢复提示**\n6. **家校协同建议**",
+        "time": {
+          "start": 1773132937861,
+          "end": 1773132937861
+        },
+        "id": "prt_cd6f56c6d001oqrPDZNmwbe5Vj",
+        "messageID": "msg_cd6f56ac6001b28eyGiW8e9g3S",
+        "sessionID": "ses_3290ab15dffeabCkFAGLLc675C"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 14269,
+          "input": 13864,
+          "output": 405,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_cd6f57a850015SK3bzfSFuNmWt",
+        "messageID": "msg_cd6f56ac6001b28eyGiW8e9g3S",
+        "sessionID": "ses_3290ab15dffeabCkFAGLLc675C"
+      }
+    ]
+  }
+}

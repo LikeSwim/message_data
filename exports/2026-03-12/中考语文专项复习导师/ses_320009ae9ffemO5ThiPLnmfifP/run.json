@@ -1,0 +1,20 @@
+{
+  "runId": "ses_320009ae9ffemO5ThiPLnmfifP",
+  "sceneName": "中考语文专项复习导师",
+  "title": "中考语文复习方案讨论",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_320009ae9ffemO5ThiPLnmfifP",
+  "startedAt": "2026-03-12T03:03:04.966Z",
+  "finishedAt": "2026-03-12T03:03:59.765Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "给我一个中考语文复习方案",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

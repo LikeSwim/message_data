@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-18T10:43:23.450Z",
+  "sessionId": "ses_2ff7670edffeyFCYdSwkjM0IwM",
+  "replyText": "## 🏃 中考体育速度测评技能\n\n我的速度测评技能主要针对**50米跑**（部分地区为100米跑）等中考速度类项目，包含以下核心内容：\n\n### 📊 测评维度（5大技术要点）\n\n| 维度 | 评估重点 | 关联中考 |\n|------|----------|----------|\n| **起跑反应** | 预备姿势、听动反应速度 | 抢跑风险预判 |\n| **加速跑技术** | 蹬地角度、步频递增效果 | 前程速度储备 |\n| **途中跑技术** | 扒地动作、身体稳定性 | 速度维持能力 |\n| **冲刺压线** | 上体前倾、胸部撞线 | 成绩精确性 |\n| **生理机能** | 神经兴奋性、恢复速度 | 应试状态调整 |\n\n### 📝 标准化输出内容\n\n1. **分段速度分析** - 0-10m、10-30m、30-50m各段技术评价\n2. **技术动作诊断** - 优势环节 + 3阶段缺陷分析 + 生物力学建议\n3. **4周提升方案**：\n   - 第1周：技术固化（专门性练习）\n   - 第2-3周：爆发力强化（加速度训练）\n   - 第4周：应试适应（模拟考试）\n4. **应试策略** - 考前7天安排、考试当天热身流程、犯规规避\n\n### ⚡ 适用场景\n\n- 九年级考前冲刺\n- 七、八年级速度素质跟踪诊断\n- 选考项目评估（帮学生选择50米跑还是立定跳远）\n\n需要为你或学生进行速度测评吗？请提供学生的基本信息和测试成绩/视频！",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773830593400,
+        "completed": 1773830603450
+      },
+      "parentID": "msg_d008ad4e0001jLX0u7vzelQBP0",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/E0eekgHM",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 14141,
+        "input": 13708,
+        "output": 433,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d008adb78001AunWrs1FoBru76",
+      "sessionID": "ses_2ff7670edffeyFCYdSwkjM0IwM"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_d008adc5c001bbmyQWlHrBn9eY",
+        "messageID": "msg_d008adb78001AunWrs1FoBru76",
+        "sessionID": "ses_2ff7670edffeyFCYdSwkjM0IwM"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户想查看中考体育速度测评技能。这个技能主要用于：\n1. 50米跑等速度类项目的标准化模拟测评\n2. 起跑、加速跑、途中跑、冲刺压线等技术的诊断\n3. 提供4周速度提升训练方案\n\n我应该向用户展示这个技能的详细信息。)",
+        "time": {
+          "start": 1773830593629,
+          "end": 1773830603438
+        },
+        "id": "prt_d008adc5d001j8KgDuC6LsXmZK",
+        "messageID": "msg_d008adb78001AunWrs1FoBru76",
+        "sessionID": "ses_2ff7670edffeyFCYdSwkjM0IwM"
+      },
+      {
+        "type": "text",
+        "text": " ## 🏃 中考体育速度测评技能\n\n我的速度测评技能主要针对**50米跑**（部分地区为100米跑）等中考速度类项目，包含以下核心内容：\n\n### 📊 测评维度（5大技术要点）\n\n| 维度 | 评估重点 | 关联中考 |\n|------|----------|----------|\n| **起跑反应** | 预备姿势、听动反应速度 | 抢跑风险预判 |\n| **加速跑技术** | 蹬地角度、步频递增效果 | 前程速度储备 |\n| **途中跑技术** | 扒地动作、身体稳定性 | 速度维持能力 |\n| **冲刺压线** | 上体前倾、胸部撞线 | 成绩精确性 |\n| **生理机能** | 神经兴奋性、恢复速度 | 应试状态调整 |\n\n### 📝 标准化输出内容\n\n1. **分段速度分析** - 0-10m、10-30m、30-50m各段技术评价\n2. **技术动作诊断** - 优势环节 + 3阶段缺陷分析 + 生物力学建议\n3. **4周提升方案**：\n   - 第1周：技术固化（专门性练习）\n   - 第2-3周：爆发力强化（加速度训练）\n   - 第4周：应试适应（模拟考试）\n4. **应试策略** - 考前7天安排、考试当天热身流程、犯规规避\n\n### ⚡ 适用场景\n\n- 九年级考前冲刺\n- 七、八年级速度素质跟踪诊断\n- 选考项目评估（帮学生选择50米跑还是立定跳远）\n\n需要为你或学生进行速度测评吗？请提供学生的基本信息和测试成绩/视频！",
+        "time": {
+          "start": 1773830603441,
+          "end": 1773830603441
+        },
+        "id": "prt_d008ae317001lMeuWyxSlqpcef",
+        "messageID": "msg_d008adb78001AunWrs1FoBru76",
+        "sessionID": "ses_2ff7670edffeyFCYdSwkjM0IwM"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 14141,
+          "input": 13708,
+          "output": 433,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d008b02b4001wOO4pE18fSGSzC",
+        "messageID": "msg_d008adb78001AunWrs1FoBru76",
+        "sessionID": "ses_2ff7670edffeyFCYdSwkjM0IwM"
+      }
+    ]
+  }
+}

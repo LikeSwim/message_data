@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-12T14:45:49.859Z",
+  "sessionId": "ses_31d7dc5a8ffengZrzP3XQgS0Zo",
+  "replyText": "## 中考作文指导方案\n\n我作为中考作文专项导师，为你提供**完整的备考指导体系**。\n\n目前你处于哪个阶段？需要哪类帮助：\n\n### 1. **审题立意专项**\n- 命题/半命题/材料作文审题技巧\n- 关键词分析方法\n- 立意深度提升训练\n- 避开偏题陷阱\n\n### 2. **素材积累与运用**\n- 成长类、亲情类、文化类素材库建设\n- 一材多用写作技巧\n- 如何将平凡小事写出深度\n- 避免素材俗套\n\n### 3. **结构布局优化**\n- 记叙文：倒叙、插叙、双线结构\n- 议论文：引论-本论-结论设计\n- 段落详略分布技巧\n- 开头结尾升格方法\n\n### 4. **语言表达升格**\n- 细节描写训练（动作、心理、环境）\n- 修辞手法运用\n- 古诗文名句化用\n- 从\"通顺\"到\"精彩\"的进阶路径\n\n### 5. **考场实战策略**\n- 60分钟时间分配方案\n- 应急写作技巧\n- 卷面规范与书写要求\n- 各类题型应对模板\n\n### 6. **个性化升格**\n- 提交你的作文，我来：\n  - 按中考评分标准逐项打分\n  - 指出3个核心问题\n  - 提供具体修改示范\n  - 给出达到下一等级的路径\n\n**请告诉我你的具体需求**，比如：\n- 遇到了某一个作文题不知道如何写\n- 想突破某个分数瓶颈（如45分到50分）\n- 需要某一类题目的范文\n- 提交一篇作文让我点评修改\n\n我将为你提供针对性的辅导方案！",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773326744664,
+        "completed": 1773326749859
+      },
+      "parentID": "msg_ce282ba04001ovch5bIM4f8Wu3",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/oz8NCwzV",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 13911,
+        "input": 13471,
+        "output": 440,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce282bc58001HVjy52erMlVr2v",
+      "sessionID": "ses_31d7dc5a8ffengZrzP3XQgS0Zo"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce282bd3d001E37LqEKhVYbj3F",
+        "messageID": "msg_ce282bc58001HVjy52erMlVr2v",
+        "sessionID": "ses_31d7dc5a8ffengZrzP3XQgS0Zo"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户想要中考作文指导，我现在已经加载了技能内容。我应该根据技能的要求，为用户提供系统化的中考作文指导。我需要：\n\n1. 先了解用户的具体需求\n2. 提供中考作文的整体指导框架\n3. 给出具体的备考建议\n\n让我先提供一个结构化的指导方案，询问用户具体需要哪方面的帮助。",
+        "time": {
+          "start": 1773326744895,
+          "end": 1773326749848
+        },
+        "id": "prt_ce282bd3f0019SukepatUe3jQB",
+        "messageID": "msg_ce282bc58001HVjy52erMlVr2v",
+        "sessionID": "ses_31d7dc5a8ffengZrzP3XQgS0Zo"
+      },
+      {
+        "type": "text",
+        "text": " ## 中考作文指导方案\n\n我作为中考作文专项导师，为你提供**完整的备考指导体系**。\n\n目前你处于哪个阶段？需要哪类帮助：\n\n### 1. **审题立意专项**\n- 命题/半命题/材料作文审题技巧\n- 关键词分析方法\n- 立意深度提升训练\n- 避开偏题陷阱\n\n### 2. **素材积累与运用**\n- 成长类、亲情类、文化类素材库建设\n- 一材多用写作技巧\n- 如何将平凡小事写出深度\n- 避免素材俗套\n\n### 3. **结构布局优化**\n- 记叙文：倒叙、插叙、双线结构\n- 议论文：引论-本论-结论设计\n- 段落详略分布技巧\n- 开头结尾升格方法\n\n### 4. **语言表达升格**\n- 细节描写训练（动作、心理、环境）\n- 修辞手法运用\n- 古诗文名句化用\n- 从\"通顺\"到\"精彩\"的进阶路径\n\n### 5. **考场实战策略**\n- 60分钟时间分配方案\n- 应急写作技巧\n- 卷面规范与书写要求\n- 各类题型应对模板\n\n### 6. **个性化升格**\n- 提交你的作文，我来：\n  - 按中考评分标准逐项打分\n  - 指出3个核心问题\n  - 提供具体修改示范\n  - 给出达到下一等级的路径\n\n**请告诉我你的具体需求**，比如：\n- 遇到了某一个作文题不知道如何写\n- 想突破某个分数瓶颈（如45分到50分）\n- 需要某一类题目的范文\n- 提交一篇作文让我点评修改\n\n我将为你提供针对性的辅导方案！",
+        "time": {
+          "start": 1773326749850,
+          "end": 1773326749850
+        },
+        "id": "prt_ce282c058001frHEzx2hW0WywD",
+        "messageID": "msg_ce282bc58001HVjy52erMlVr2v",
+        "sessionID": "ses_31d7dc5a8ffengZrzP3XQgS0Zo"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 13911,
+          "input": 13471,
+          "output": 440,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_ce282d09b001ZpeDwFtCXKkour",
+        "messageID": "msg_ce282bc58001HVjy52erMlVr2v",
+        "sessionID": "ses_31d7dc5a8ffengZrzP3XQgS0Zo"
+      }
+    ]
+  }
+}

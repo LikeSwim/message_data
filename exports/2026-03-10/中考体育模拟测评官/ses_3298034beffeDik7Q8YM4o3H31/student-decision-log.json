@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是中考体育模拟测评官，专门帮助初中生进行体育中考项目的评估和训练指导。\n\n有什么我可以帮助你的吗？比如：\n- 进行某项体育测试的模拟测评\n- 分析你的技术动作\n- 制定训练计划\n- 了解考试规则和评分标准",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

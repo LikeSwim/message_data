@@ -1,0 +1,20 @@
+{
+  "runId": "ses_2ff732765ffeoHVvmoQlJJbJOy",
+  "sceneName": "中考体育模拟测评官",
+  "title": "中考体育测评细节确认",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_2ff732765ffeoHVvmoQlJJbJOy",
+  "startedAt": "2026-03-18T10:45:44.954Z",
+  "finishedAt": "2026-03-18T10:46:01.577Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "告诉我中考体育测评相关内容，用question工具和我确认细节",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

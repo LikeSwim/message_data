@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31a4ac7a8ffecC44sBpzxLBfuc",
+  "sceneName": "庄严集会德育干预专家",
+  "title": "问候与技能询问",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31a4ac7a8ffecC44sBpzxLBfuc",
+  "startedAt": "2026-03-13T05:39:44.901Z",
+  "finishedAt": "2026-03-13T05:40:06.189Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好，你有什么技能",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

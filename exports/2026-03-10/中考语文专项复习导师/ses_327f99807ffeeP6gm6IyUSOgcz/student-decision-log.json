@@ -1,0 +1,18 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "我来为您设计一套完整的中考语文模拟试卷：答",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "已为您设计一套完整的中考语文模拟试卷，包含：\n\n**试卷结构（满分120分）**：答\n- 基础知识积累与运用（20分）：字音字形、词语运用、病句辨析、古诗文默写\n- 古诗文阅读（16分）：诗词鉴赏+课内外文言文对比阅读\n- 现代文阅读（24分）：记叙文、说明文、议论文各一篇\n- 语言综合运用（10分）：口语交际、图文转换、综合性学习\n- 写作（50分）：二选一命题\n\n**配套资料**：完整参考答案及详细评分标准\n\n文件已保存至：`/Users/wumengsong/Code/EduAgent/workspace/LaCveyPe/中考语文模拟试卷.md`\n\n需要我针对某个模块进行讲解或调整难度吗？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

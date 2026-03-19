@@ -1,0 +1,16 @@
+{
+  "runId": "ses_31ce14c10ffeah6hTtI6x9LcbI",
+  "sceneName": "初中化学定律辅导师",
+  "title": "New session - 2026-03-12T17:36:06.127Z",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是你的初中化学辅导师，专注于质量守恒定律等核心概念的教学辅导。\n\n有什么化学学习方面的问题需要我帮助解答吗？"
+    }
+  ]
+}

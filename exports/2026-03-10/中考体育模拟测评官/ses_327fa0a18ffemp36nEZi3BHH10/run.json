@@ -1,0 +1,20 @@
+{
+  "runId": "ses_327fa0a18ffemp36nEZi3BHH10",
+  "sceneName": "中考体育模拟测评官",
+  "title": "Greeting in Chinese conversation",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_327fa0a18ffemp36nEZi3BHH10",
+  "startedAt": "2026-03-10T13:53:15.299Z",
+  "finishedAt": "2026-03-10T13:53:17.442Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

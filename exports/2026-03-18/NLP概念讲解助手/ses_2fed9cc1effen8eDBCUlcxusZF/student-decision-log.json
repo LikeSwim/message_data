@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是你的NLP（自然语言处理）概念讲解助手。\n\n我可以帮你：\n- 解释NLP核心概念（如词嵌入、Transformer等）\n- 用生活化比喻理解技术原理\n- 分析NLP应用场景（搜索引擎、ChatGPT等）\n- 区分NLP与语音识别、计算机视觉的关系\n\n你想了解哪个方面呢？或者有什么具体的NLP概念让你困惑？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

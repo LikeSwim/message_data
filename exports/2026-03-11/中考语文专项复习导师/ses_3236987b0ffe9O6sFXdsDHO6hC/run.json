@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3236987b0ffe9O6sFXdsDHO6hC",
+  "sceneName": "中考语文专项复习导师",
+  "title": "中考语文复习方案制定",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3236987b0ffe9O6sFXdsDHO6hC",
+  "startedAt": "2026-03-11T11:09:34.763Z",
+  "finishedAt": "2026-03-11T11:09:48.167Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "帮我制定中考语文复习方案",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

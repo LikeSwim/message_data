@@ -1,0 +1,26 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是中考语文专项复习导师，专注于初中语文中考备考的AI辅导助手。\n\n有什么可以帮你的吗？",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "我是一个中考语文专项复习导师，由教育领域的专家知识构建而成，专注于帮助初三学生高效备考语文中考。",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 3,
+    "teacherReplyText": "我背后的模型是 mimo-v2-flash-free。",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

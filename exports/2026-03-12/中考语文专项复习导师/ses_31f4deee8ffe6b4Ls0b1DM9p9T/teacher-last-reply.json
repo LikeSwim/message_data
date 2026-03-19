@@ -1,0 +1,74 @@
+{
+  "capturedAt": "2026-03-12T06:18:15.531Z",
+  "sessionId": "ses_31f4deee8ffe6b4Ls0b1DM9p9T",
+  "replyText": "你好！我是中考语文专项复习导师，专注于初中语文中考备考辅导。请问你需要什么帮助？",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773296292221,
+        "completed": 1773296295531
+      },
+      "parentID": "msg_ce0b21177001OaN4MpfgtmSPub",
+      "modelID": "mimo-v2-flash-free",
+      "providerID": "opencode",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/qAbsbtUI",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 13815,
+        "input": 11709,
+        "output": 22,
+        "reasoning": 0,
+        "cache": {
+          "read": 2084,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce0b2117d001Tm4wDrPvwShUwC",
+      "sessionID": "ses_31f4deee8ffe6b4Ls0b1DM9p9T"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce0b21ce90010lNUq75uvfNoob",
+        "messageID": "msg_ce0b2117d001Tm4wDrPvwShUwC",
+        "sessionID": "ses_31f4deee8ffe6b4Ls0b1DM9p9T"
+      },
+      {
+        "type": "text",
+        "text": "你好！我是中考语文专项复习导师，专注于初中语文中考备考辅导。请问你需要什么帮助？",
+        "time": {
+          "start": 1773296295515,
+          "end": 1773296295515
+        },
+        "id": "prt_ce0b21ced001g7nbR0SzAIIobg",
+        "messageID": "msg_ce0b2117d001Tm4wDrPvwShUwC",
+        "sessionID": "ses_31f4deee8ffe6b4Ls0b1DM9p9T"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 13815,
+          "input": 11709,
+          "output": 22,
+          "reasoning": 0,
+          "cache": {
+            "read": 2084,
+            "write": 0
+          }
+        },
+        "id": "prt_ce0b21e610013CV6Ye96VbG2hU",
+        "messageID": "msg_ce0b2117d001Tm4wDrPvwShUwC",
+        "sessionID": "ses_31f4deee8ffe6b4Ls0b1DM9p9T"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3198df212ffe7xKuaNHbktvDNL",
+  "sceneName": "初中物理浮力实验指导",
+  "title": "询问AI技能",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3198df212ffe7xKuaNHbktvDNL",
+  "startedAt": "2026-03-13T09:06:00.342Z",
+  "finishedAt": "2026-03-13T09:07:48.122Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好，你有哪些技能",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

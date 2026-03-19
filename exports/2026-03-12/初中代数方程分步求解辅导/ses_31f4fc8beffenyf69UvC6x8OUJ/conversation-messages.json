@@ -1,0 +1,31 @@
+{
+  "runId": "ses_31f4fc8beffenyf69UvC6x8OUJ",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "代数题设计与求解讨论",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "完成一道数学代数题的设计和求解"
+    },
+    {
+      "role": "assistant",
+      "content": "我来帮您设计并求解一道数学代数题。首先，让我了解一下您的具体需求。",
+      "tool_calls": [
+        {
+          "id": "call_fca7b94a29464c499ae0bb90",
+          "type": "function",
+          "function": {
+            "name": "question",
+            "arguments": "{\"questions\":[{\"question\":\"您希望设计什么类型的代数方程？\",\"header\":\"方程类型\",\"options\":[{\"label\":\"一元一次方程 (Recommended)\",\"description\":\"适合初中七年级基础练习，如 2x+3=7\"},{\"label\":\"二元一次方程组\",\"description\":\"适合初中八年级，如{x+y=5, x-y=1}\"},{\"label\":\"分式方程\",\"description\":\"适合初中八年级下学期，如 1/(x-1)+1=2/x\"},{\"label\":\"一元二次方程\",\"description\":\"适合初中九年级，如 x²+2x-3=0\"}],\"multiple\":false}]}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "call_fca7b94a29464c499ae0bb90",
+      "content": null
+    }
+  ]
+}

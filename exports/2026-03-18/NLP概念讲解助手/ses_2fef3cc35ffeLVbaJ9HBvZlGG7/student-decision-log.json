@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是你的NLP概念讲解助手 👋\n\n想学习哪方面的NLP知识呢？可以问我：\n\n1. **NLP是什么** - 基础概念入门\n2. **核心技术** - 分词、词嵌入、注意力机制等\n3. **应用场景** - 比如ChatGPT、机器翻译、情感分析是怎么工作的\n4. **学习路径** - 从入门到进阶的技术发展\n\n你想从哪部分开始呢？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

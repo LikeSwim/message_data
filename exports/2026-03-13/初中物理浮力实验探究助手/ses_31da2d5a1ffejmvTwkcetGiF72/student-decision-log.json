@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是 **Kimi-K25** 模型。\n\n我可以帮助你完成初中物理浮力实验相关的探究任务，包括实验设计、操作指导、数据分析和结论论证等。有什么我可以帮你的吗？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

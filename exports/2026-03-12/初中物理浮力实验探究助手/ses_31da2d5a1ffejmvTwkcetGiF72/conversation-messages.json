@@ -1,0 +1,16 @@
+{
+  "runId": "ses_31da2d5a1ffejmvTwkcetGiF72",
+  "sceneName": "初中物理浮力实验探究助手",
+  "title": "问候并询问模型身份",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好，你是什么模型"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是 **Kimi-K25** 模型。\n\n我可以帮助你完成初中物理浮力实验相关的探究任务，包括实验设计、操作指导、数据分析和结论论证等。有什么我可以帮你的吗？"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "runId": "ses_2ff7670edffeyFCYdSwkjM0IwM",
+  "sceneName": "中考体育模拟测评官",
+  "title": "问候与技能咨询",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_2ff7670edffeyFCYdSwkjM0IwM",
+  "startedAt": "2026-03-18T10:41:48.375Z",
+  "finishedAt": "2026-03-18T10:43:23.450Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好，你有哪些技能",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

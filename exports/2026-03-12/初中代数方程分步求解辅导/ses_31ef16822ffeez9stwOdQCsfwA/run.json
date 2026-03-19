@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31ef16822ffeez9stwOdQCsfwA",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "代数方程题设计与求解示例",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31ef16822ffeez9stwOdQCsfwA",
+  "startedAt": "2026-03-12T07:59:20.321Z",
+  "finishedAt": "2026-03-12T08:02:36.882Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "帮我完成一道代数方程题的设计和求解,题目完全由你自己编",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

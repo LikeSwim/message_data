@@ -1,0 +1,18 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "我来为你制作一个交互式函数讲解网页。首先让我加载相关的专业技能。",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "好的！我将为你制作一个交互式函数讲解网页。在实际制作前，有两个问题想确认：\n\n**1. 评估模式：** 我希望开启**AI视觉评估模式**，它可以自动检查和修复网页的视觉问题，确保输出高品质的交互效果。是否启用？（推荐使用）\n\n**2. 参考材料：** 你有具体的函数题目、教材截图或参考网址吗？这样我可以更精准地设计内容和难度。\n\n请回复这两个问题，我将为你定制最适合的交互式函数学习网页！",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

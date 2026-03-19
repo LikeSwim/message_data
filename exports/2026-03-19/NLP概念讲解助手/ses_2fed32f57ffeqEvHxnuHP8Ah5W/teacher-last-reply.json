@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-18T13:40:13.210Z",
+  "sessionId": "ses_2fed32f57ffeqEvHxnuHP8Ah5W",
+  "replyText": "你好！我是NLP概念讲解助手，专门帮助初学者理解自然语言处理技术。\n\n你想了解什么内容呢？比如：\n- NLP是什么，能做什么\n- ChatGPT等大模型是如何工作的\n- 语音识别、机器翻译的原理\n- 或者其他具体的技术概念\n\n有任何问题都可以问我！",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773841209946,
+        "completed": 1773841213210
+      },
+      "parentID": "msg_d012cda55001jhsqu80Sri5QA6",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/LAeCwVWv",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 10707,
+        "input": 10611,
+        "output": 96,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_d012cda5a001r4BwoA6H2f5qa1",
+      "sessionID": "ses_2fed32f57ffeqEvHxnuHP8Ah5W"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_d012cdda3001FmPtA3v0StNktR",
+        "messageID": "msg_d012cda5a001r4BwoA6H2f5qa1",
+        "sessionID": "ses_2fed32f57ffeqEvHxnuHP8Ah5W"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户用中文打招呼，所以我应该用中文回应。作为NLP概念讲解助手，我应该友好地介绍自己，并询问用户想了解什么NLP相关的知识。",
+        "time": {
+          "start": 1773841210789,
+          "end": 1773841213196
+        },
+        "id": "prt_d012cdda5001qZN0jhC61aYJxL",
+        "messageID": "msg_d012cda5a001r4BwoA6H2f5qa1",
+        "sessionID": "ses_2fed32f57ffeqEvHxnuHP8Ah5W"
+      },
+      {
+        "type": "text",
+        "text": " 你好！我是NLP概念讲解助手，专门帮助初学者理解自然语言处理技术。\n\n你想了解什么内容呢？比如：\n- NLP是什么，能做什么\n- ChatGPT等大模型是如何工作的\n- 语音识别、机器翻译的原理\n- 或者其他具体的技术概念\n\n有任何问题都可以问我！",
+        "time": {
+          "start": 1773841213198,
+          "end": 1773841213198
+        },
+        "id": "prt_d012ce0bb001aJv0qSQr7gpPc3",
+        "messageID": "msg_d012cda5a001r4BwoA6H2f5qa1",
+        "sessionID": "ses_2fed32f57ffeqEvHxnuHP8Ah5W"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 10707,
+          "input": 10611,
+          "output": 96,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_d012ce7100011DB7v0st44HFJ9",
+        "messageID": "msg_d012cda5a001r4BwoA6H2f5qa1",
+        "sessionID": "ses_2fed32f57ffeqEvHxnuHP8Ah5W"
+      }
+    ]
+  }
+}

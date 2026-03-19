@@ -1,0 +1,20 @@
+{
+  "runId": "ses_2fef3cc35ffeLVbaJ9HBvZlGG7",
+  "sceneName": "NLP概念讲解助手",
+  "title": "Input 111",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_2fef3cc35ffeLVbaJ9HBvZlGG7",
+  "startedAt": "2026-03-18T13:04:36.530Z",
+  "finishedAt": "2026-03-18T13:04:39.406Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "111",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

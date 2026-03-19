@@ -1,0 +1,20 @@
+{
+  "runId": "ses_318b35083ffefpjYe9t5tpRzcD",
+  "sceneName": "初中传统色彩纹样美育导师",
+  "title": "New session - 2026-03-13T13:04:48.508Z",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_318b35083ffefpjYe9t5tpRzcD",
+  "startedAt": "2026-03-13T13:05:28.647Z",
+  "finishedAt": "2026-03-13T13:05:30.429Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

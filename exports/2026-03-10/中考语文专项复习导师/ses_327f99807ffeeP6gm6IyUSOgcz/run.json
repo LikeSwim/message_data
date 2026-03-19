@@ -1,0 +1,20 @@
+{
+  "runId": "ses_327f99807ffeeP6gm6IyUSOgcz",
+  "sceneName": "中考语文专项复习导师",
+  "title": "中考语文试卷设计方案",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_327f99807ffeeP6gm6IyUSOgcz",
+  "startedAt": "2026-03-10T13:53:44.515Z",
+  "finishedAt": "2026-03-10T13:54:41.872Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "帮我设计一套中考语文试卷",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

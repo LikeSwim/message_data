@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3046901d3ffeeFvTLqw7RyEzoI",
+  "sceneName": "测试",
+  "title": "询问技能与工具",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3046901d3ffeeFvTLqw7RyEzoI",
+  "startedAt": "2026-03-17T11:38:22.690Z",
+  "finishedAt": "2026-03-17T11:40:53.138Z",
+  "followUpCount": 3,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你有哪些技能和工具",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

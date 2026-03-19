@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3231e42b3ffeguwvoV1QqRiGtW",
+  "sceneName": "中考语文专项复习导师",
+  "title": "Greeting in Chinese conversation",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3231e42b3ffeguwvoV1QqRiGtW",
+  "startedAt": "2026-03-11T12:32:21.358Z",
+  "finishedAt": "2026-03-11T14:18:54.002Z",
+  "followUpCount": 2,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

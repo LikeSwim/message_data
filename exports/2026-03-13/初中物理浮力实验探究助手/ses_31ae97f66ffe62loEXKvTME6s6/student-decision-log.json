@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "我无法直接查看或分析图片内容。\n\n能否请你：\n- **用文字描述图片内容**，或\n- **复制图片中的文字**到这里\n\n这样我就能帮你解答问题了。",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

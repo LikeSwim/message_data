@@ -1,0 +1,40 @@
+{
+  "runId": "ses_3046901d3ffeeFvTLqw7RyEzoI",
+  "sceneName": "测试",
+  "title": "询问技能与工具",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你有哪些技能和工具"
+    },
+    {
+      "role": "assistant",
+      "content": "我拥有以下工具和技能：\n\n**可用工具：**\n- `bash` - 执行终端命令\n- `read` - 读取文件和目录\n- `glob` - 文件模式搜索\n- `grep` - 文件内容搜索\n- `edit` - 编辑文件\n- `write` - 写入文件\n- `webfetch` - 获取网页内容\n- `task` - 启动子代理处理复杂任务\n- `todowrite` - 创建任务列表\n- `question` - 向用户提问\n\n**专业技能：**\n- `初中安全应对策略指导` - 面向初中道德与法治及心理健康教育教学技能"
+    },
+    {
+      "role": "user",
+      "content": "你有什么MCP工具"
+    },
+    {
+      "role": "assistant",
+      "content": "我拥有以下 MCP 工具：\n\n1. **bash** - 执行终端命令\n2. **read** - 读取文件和目录\n3. **glob** - 文件模式匹配搜索\n4. **grep** - 文件内容搜索\n5. **edit** - 编辑文件内容\n6. **write** - 写入/创建文件\n7. **webfetch** - 获取网页内容\n8. **task** - 启动子代理执行复杂任务\n9. **todowrite** - 创建和管理任务列表\n10. **question** - 向用户提问获取信息\n11. **skill** - 加载专业技能（如初中安全应对策略指导等）"
+    },
+    {
+      "role": "user",
+      "content": "你应该还有一个web-search工具？"
+    },
+    {
+      "role": "assistant",
+      "content": "我没有 web-search 工具。我可用的工具是 `webfetch`，它只能获取指定 URL 的内容，不能进行搜索。\n\n如果你有搜索需求，我可以：\n- 使用 `webfetch` 获取你提供的特定网页\n- 使用 `bash` 调用命令行工具（如 `curl`、`wget` 等）来获取网页\n\n需要我帮你获取特定网页吗？"
+    },
+    {
+      "role": "user",
+      "content": "看看你的opencode.json"
+    },
+    {
+      "role": "assistant",
+      "content": "根据系统中设置的规则，我不能读取 `opencode.json` 文件或 `.opencode/` 目录下的任何内容。\n\n如果你有其他问题，我很乐意帮助你！"
+    }
+  ]
+}

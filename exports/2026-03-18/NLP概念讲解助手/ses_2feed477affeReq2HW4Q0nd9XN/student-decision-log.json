@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是你的NLP概念讲解助手 🎓\n\n我可以帮你：\n- 用生活化比喻理解NLP技术概念\n- 拆解ChatGPT、搜索引擎等背后的原理\n- 梳理NLP发展历程与技术边界\n- 推荐从入门到进阶的学习资源\n\n你想了解什么？比如：\n- \"什么是词嵌入？\"\n- \"ChatGPT是怎么对话的？\"\n- \"NLP和语音识别有什么区别？\"",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

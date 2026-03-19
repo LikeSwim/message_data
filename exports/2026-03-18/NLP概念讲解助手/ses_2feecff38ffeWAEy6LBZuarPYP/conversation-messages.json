@@ -1,0 +1,16 @@
+{
+  "runId": "ses_2feecff38ffeWAEy6LBZuarPYP",
+  "sceneName": "NLP概念讲解助手",
+  "title": "New session - 2026-03-18T13:11:55.847Z",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好，你是什么模型"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是 **Kimi-K25**，一个AI助手。我可以帮助你理解自然语言处理（NLP）的概念、技术原理以及人工智能相关的知识。有什么我可以帮你的吗？"
+    }
+  ]
+}

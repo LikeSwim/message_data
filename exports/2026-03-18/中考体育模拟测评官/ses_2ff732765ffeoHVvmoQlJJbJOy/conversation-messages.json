@@ -1,0 +1,31 @@
+{
+  "runId": "ses_2ff732765ffeoHVvmoQlJJbJOy",
+  "sceneName": "中考体育模拟测评官",
+  "title": "中考体育测评细节确认",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "告诉我中考体育测评相关内容，用question工具和我确认细节"
+    },
+    {
+      "role": "assistant",
+      "content": "您好！我是中考体育模拟测评官。作为专业的测评系统，我可以帮助您：\n\n1. **全真模拟测评**：按真实中考标准测试各项目表现\n2. **技术动作诊断**：分析跑、跳、投、球类等技术缺陷\n3. **个性化训练方案**：制定4-8周提升计划\n4. **应试指导**：考试流程、抢分策略、心理调节\n\n---\n\n### 中考体育测试项目（各省略有差异）\n\n| 类别 | 项目 | 男女均可选 |\n|-----|------|----------|\n| **耐力类** | 800m/1000m跑 | ✅ 必考 |\n| **速度类** | 50m跑 | ✅ |\n| **力量类** | 实心球、引体向上、仰卧起坐 | ✅ |\n| **跳跃类** | 立定跳远、跳绳 | ✅ |\n| **技能类** | 篮球运球、足球运球、排球垫球 | ✅ |\n\n---\n\n现在让我了解您的具体情况，以便提供精准指导：",
+      "tool_calls": [
+        {
+          "id": "functions.question:0",
+          "type": "function",
+          "function": {
+            "name": "question",
+            "arguments": "{\"questions\":[{\"header\":\"选择测评类别\",\"question\":\"您想进行哪类测评/咨询？\",\"options\":[{\"label\":\"单项技术诊断\",\"description\":\"针对某个具体项目（如实心球、跳绳）进行深度分析和纠正\"},{\"label\":\"完整模拟测评\",\"description\":\"模拟真实考试，测试多个项目并给出综合评估\"},{\"label\":\"训练计划定制\",\"description\":\"根据目标成绩制定个性化训练方案\"},{\"label\":\"应试技巧咨询\",\"description\":\"了解考试流程、注意事项和抢分策略\"}]},{\"header\":\"身份信息\",\"question\":\"您的年级是？\",\"options\":[{\"label\":\"初一\",\"description\":\"基础培养期，可慢慢提升\"},{\"label\":\"初二\",\"description\":\"关键发展期，应系统训练\"},{\"label\":\"初三\",\"description\":\"冲刺备考期，重点突破薄弱环节\"}]},{\"header\":\"所在地区\",\"question\":\"您所在的省份/城市是？\",\"options\":[{\"label\":\"上海\",\"description\":\"\"},{\"label\":\"北京\",\"description\":\"\"},{\"label\":\"广东\",\"description\":\"\"},{\"label\":\"江苏/浙江\",\"description\":\"\"},{\"label\":\"其他省份\",\"description\":\"需要提供具体城市以便查询当地评分标准\"}]},{\"header\":\"关注项目\",\"question\":\"哪些项目是您特别关注或需要帮助的？（可多选）\",\"multiple\":true,\"options\":[{\"label\":\"800m/1000m跑\",\"description\":\"耐力项目，关乎心肺功能\"},{\"label\":\"50m跑\",\"description\":\"速度项目，考验爆发力\"},{\"label\":\"实心球/引体向上\",\"description\":\"力量项目，上肢与核心\"},{\"label\":\"立定跳远/跳绳\",\"description\":\"跳跃项目，考验协调与爆发力\"},{\"label\":\"篮球/足球/排球\",\"description\":\"球类技能项目\"}]}]}"
+          }
+        }
+      ]
+    },
+    {
+      "role": "tool",
+      "tool_call_id": "functions.question:0",
+      "content": null
+    }
+  ]
+}

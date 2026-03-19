@@ -1,0 +1,20 @@
+{
+  "runId": "ses_30463a6abffeB4BsGmUpvzUt5G",
+  "sceneName": "测试",
+  "title": "询问可用工具",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_30463a6abffeB4BsGmUpvzUt5G",
+  "startedAt": "2026-03-17T11:44:13.703Z",
+  "finishedAt": "2026-03-17T11:44:18.359Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好，你有哪些工具",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

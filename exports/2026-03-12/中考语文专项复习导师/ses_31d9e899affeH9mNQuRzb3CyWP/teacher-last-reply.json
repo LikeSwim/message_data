@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-12T14:09:29.285Z",
+  "sessionId": "ses_31d9e899affeH9mNQuRzb3CyWP",
+  "replyText": "我是 Kimi-K25 模型。",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773324567777,
+        "completed": 1773324569285
+      },
+      "parentID": "msg_ce26184d9001Gb4VGdBTecM5pj",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/oz8NCwzV",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11597,
+        "input": 11533,
+        "output": 64,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce26184e1001Yi6WY56R6zYEag",
+      "sessionID": "ses_31d9e899affeH9mNQuRzb3CyWP"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce26187f10013b4sKCpMtlwEvI",
+        "messageID": "msg_ce26184e1001Yi6WY56R6zYEag",
+        "sessionID": "ses_31d9e899affeH9mNQuRzb3CyWP"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户问\"你是什么模型\"。根据系统提示，我应该直接回答，不需要使用工具。系统提示显示：\n\n\"You are powered by the model named Kimi-K25. The exact model ID is local-vllm/Kimi-K25\"\n\n所以我可以直接回答用户。",
+        "time": {
+          "start": 1773324568564,
+          "end": 1773324569272
+        },
+        "id": "prt_ce26187f4001cAt0HJ9XOfc6Tz",
+        "messageID": "msg_ce26184e1001Yi6WY56R6zYEag",
+        "sessionID": "ses_31d9e899affeH9mNQuRzb3CyWP"
+      },
+      {
+        "type": "text",
+        "text": " 我是 Kimi-K25 模型。",
+        "time": {
+          "start": 1773324569273,
+          "end": 1773324569273
+        },
+        "id": "prt_ce2618a5e001bOTX6BQdlZCmLW",
+        "messageID": "msg_ce26184e1001Yi6WY56R6zYEag",
+        "sessionID": "ses_31d9e899affeH9mNQuRzb3CyWP"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 11597,
+          "input": 11533,
+          "output": 64,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_ce2618abd001cRD0HHQB2KTCMK",
+        "messageID": "msg_ce26184e1001Yi6WY56R6zYEag",
+        "sessionID": "ses_31d9e899affeH9mNQuRzb3CyWP"
+      }
+    ]
+  }
+}

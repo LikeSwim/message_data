@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3290b44ccffeYFI5fnwSPjr3Bb",
+  "sceneName": "中考体育模拟测评官",
+  "title": "球类技能细节讨论",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3290b44ccffeYFI5fnwSPjr3Bb",
+  "startedAt": "2026-03-10T08:54:53.250Z",
+  "finishedAt": "2026-03-10T08:55:02.449Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "球类技能的细节",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

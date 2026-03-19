@@ -1,0 +1,109 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773324318163
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "local-vllm",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_ce25db5d3001UqKqkG5D657DnO",
+      "sessionID": "ses_31da26096ffeAP2mdcMCwKR1uf"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你是什么模型",
+        "id": "prt_ce25db5d30022O03fzSvqPrUCn",
+        "messageID": "msg_ce25db5d3001UqKqkG5D657DnO",
+        "sessionID": "ses_31da26096ffeAP2mdcMCwKR1uf"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773324318170,
+        "completed": 1773324319770
+      },
+      "parentID": "msg_ce25db5d3001UqKqkG5D657DnO",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/lDoH3kTy",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11539,
+        "input": 11467,
+        "output": 72,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce25db5da001bf5BZNYJ4EF04k",
+      "sessionID": "ses_31da26096ffeAP2mdcMCwKR1uf"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce25db8f00013REgE5tP2Q0vZZ",
+        "messageID": "msg_ce25db5da001bf5BZNYJ4EF04k",
+        "sessionID": "ses_31da26096ffeAP2mdcMCwKR1uf"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户问\"你是什么模型\"，这是一个简单直接的问题。根据系统提示，我的模型名称是Kimi-K25。\n\n我应该直接回答，不需要使用任何工具，也不需要过多的解释。\n\n根据环境信息：\n- \"You are powered by the model named Kimi-K25.\"\n\n答案是：Kimi-K25",
+        "time": {
+          "start": 1773324318963,
+          "end": 1773324319756
+        },
+        "id": "prt_ce25db8f30013GyQBoFPxhoCpd",
+        "messageID": "msg_ce25db5da001bf5BZNYJ4EF04k",
+        "sessionID": "ses_31da26096ffeAP2mdcMCwKR1uf"
+      },
+      {
+        "type": "text",
+        "text": " 我是 Kimi-K25 模型。",
+        "time": {
+          "start": 1773324319758,
+          "end": 1773324319758
+        },
+        "id": "prt_ce25dbbae001E9FqkqklJhY499",
+        "messageID": "msg_ce25db5da001bf5BZNYJ4EF04k",
+        "sessionID": "ses_31da26096ffeAP2mdcMCwKR1uf"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 11539,
+          "input": 11467,
+          "output": 72,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_ce25dbc13001z4chuRjqBHkhvb",
+        "messageID": "msg_ce25db5da001bf5BZNYJ4EF04k",
+        "sessionID": "ses_31da26096ffeAP2mdcMCwKR1uf"
+      }
+    ]
+  }
+]

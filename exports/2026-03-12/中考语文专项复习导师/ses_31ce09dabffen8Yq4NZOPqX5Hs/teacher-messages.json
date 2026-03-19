@@ -1,0 +1,109 @@
+[
+  {
+    "info": {
+      "role": "user",
+      "time": {
+        "created": 1773337010819
+      },
+      "summary": {
+        "diffs": []
+      },
+      "agent": "build",
+      "model": {
+        "providerID": "local-vllm",
+        "modelID": "Kimi-K25"
+      },
+      "id": "msg_ce31f62830014P4AoMK7g5DZQv",
+      "sessionID": "ses_31ce09dabffen8Yq4NZOPqX5Hs"
+    },
+    "parts": [
+      {
+        "type": "text",
+        "text": "你好",
+        "id": "prt_ce31f6284001NxSy4OT40wj2va",
+        "messageID": "msg_ce31f62830014P4AoMK7g5DZQv",
+        "sessionID": "ses_31ce09dabffen8Yq4NZOPqX5Hs"
+      }
+    ]
+  },
+  {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773337010826,
+        "completed": 1773337012777
+      },
+      "parentID": "msg_ce31f62830014P4AoMK7g5DZQv",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/LqAuvlCs",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11626,
+        "input": 11530,
+        "output": 96,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce31f628a0014mdovhKvQ0khRq",
+      "sessionID": "ses_31ce09dabffen8Yq4NZOPqX5Hs"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce31f661b001E1Jya1TeI4h051",
+        "messageID": "msg_ce31f628a0014mdovhKvQ0khRq",
+        "sessionID": "ses_31ce09dabffen8Yq4NZOPqX5Hs"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户只是打了个招呼\"你好\"。根据我的角色定位，我是中考语文专项复习导师，应该友好地回应并询问用户需要什么样的复习帮助。",
+        "time": {
+          "start": 1773337011742,
+          "end": 1773337012769
+        },
+        "id": "prt_ce31f661e001F2ZKz204qYpinG",
+        "messageID": "msg_ce31f628a0014mdovhKvQ0khRq",
+        "sessionID": "ses_31ce09dabffen8Yq4NZOPqX5Hs"
+      },
+      {
+        "type": "text",
+        "text": " 你好！我是你的中考语文专项复习导师。\n\n有什么我可以帮你的吗？比如：\n- 梳理某个模块的考点（古诗文/现代文阅读/作文等）\n- 讲解具体题型技巧\n- 分析错题或薄弱点\n- 制定复习计划\n\n你想从哪方面开始？",
+        "time": {
+          "start": 1773337012771,
+          "end": 1773337012771
+        },
+        "id": "prt_ce31f6758001j20uRUAg4avoWZ",
+        "messageID": "msg_ce31f628a0014mdovhKvQ0khRq",
+        "sessionID": "ses_31ce09dabffen8Yq4NZOPqX5Hs"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 11626,
+          "input": 11530,
+          "output": 96,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_ce31f6a26001BG3Na4d72a0NbF",
+        "messageID": "msg_ce31f628a0014mdovhKvQ0khRq",
+        "sessionID": "ses_31ce09dabffen8Yq4NZOPqX5Hs"
+      }
+    ]
+  }
+]

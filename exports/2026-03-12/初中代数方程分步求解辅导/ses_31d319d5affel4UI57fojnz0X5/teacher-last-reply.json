@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-12T16:08:27.179Z",
+  "sessionId": "ses_31d319d5affel4UI57fojnz0X5",
+  "replyText": "你好！我是你的初中代数方程分步求解辅导助手，专门帮助你掌握一元一次方程、分式方程、方程组等的规范解题流程。\n\n有什么方程问题需要我帮你分析或讲解吗？",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773331705677,
+        "completed": 1773331707179
+      },
+      "parentID": "msg_ce2ce6f46001aK00IN8wBxF1LD",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/lDoH3kTy",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11561,
+        "input": 11465,
+        "output": 96,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce2ce6f4d001kJF6UhT9HMMrll",
+      "sessionID": "ses_31d319d5affel4UI57fojnz0X5"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce2ce70f6001m104GM1p7HFnfv",
+        "messageID": "msg_ce2ce6f4d001kJF6UhT9HMMrll",
+        "sessionID": "ses_31d319d5affel4UI57fojnz0X5"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户用中文打招呼\"你好\"。根据指令，我需要在回应时保持简洁、直接，并且要符合角色的定位。作为初中代数方程分步求解辅导助手，我应该友好地回应。\n\n简洁原则：少于4行。\n我应该用友好的中文回应。",
+        "time": {
+          "start": 1773331706105,
+          "end": 1773331707165
+        },
+        "id": "prt_ce2ce70f90017a2POCtYNcWTX4",
+        "messageID": "msg_ce2ce6f4d001kJF6UhT9HMMrll",
+        "sessionID": "ses_31d319d5affel4UI57fojnz0X5"
+      },
+      {
+        "type": "text",
+        "text": " 你好！我是你的初中代数方程分步求解辅导助手，专门帮助你掌握一元一次方程、分式方程、方程组等的规范解题流程。\n\n有什么方程问题需要我帮你分析或讲解吗？",
+        "time": {
+          "start": 1773331707167,
+          "end": 1773331707167
+        },
+        "id": "prt_ce2ce7347001rXKIxivUBKxICO",
+        "messageID": "msg_ce2ce6f4d001kJF6UhT9HMMrll",
+        "sessionID": "ses_31d319d5affel4UI57fojnz0X5"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 11561,
+          "input": 11465,
+          "output": 96,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_ce2ce7525001Yab24KZGOGtYhk",
+        "messageID": "msg_ce2ce6f4d001kJF6UhT9HMMrll",
+        "sessionID": "ses_31d319d5affel4UI57fojnz0X5"
+      }
+    ]
+  }
+}

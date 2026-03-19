@@ -1,0 +1,18 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是你的NLP概念讲解助手，专门帮助AI初学者理解自然语言处理的核心概念和技术原理。\n\n我可以为你讲解：\n- NLP是什么、它能做什么\n-  chatting机器人、机器翻译背后的技术\n- 大语言模型（如ChatGPT）的工作原理\n- 用生活化的比喻帮你理解复杂概念\n\n有什么关于自然语言处理的问题想问我吗？",
+    "studentRawOutput": "CONTINUE",
+    "parsedDecision": {
+      "type": "continue"
+    }
+  },
+  {
+    "round": 2,
+    "teacherReplyText": "你好！有什么关于NLP的问题想了解吗？比如ChatGPT是怎么理解你说的话的，或者机器翻译是怎么工作的？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

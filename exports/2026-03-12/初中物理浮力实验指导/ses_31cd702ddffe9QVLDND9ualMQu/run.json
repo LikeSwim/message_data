@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31cd702ddffe9QVLDND9ualMQu",
+  "sceneName": "初中物理浮力实验指导",
+  "title": "New session - 2026-03-12T17:47:20.226Z",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31cd702ddffe9QVLDND9ualMQu",
+  "startedAt": "2026-03-12T17:47:20.278Z",
+  "finishedAt": "2026-03-12T17:47:22.375Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3189a8b7affecyuNIAEPA0Gm0W",
+  "sceneName": "初中传统色彩纹样美育导师",
+  "title": "询问AI技能与能力",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3189a8b7affecyuNIAEPA0Gm0W",
+  "startedAt": "2026-03-13T13:31:56.331Z",
+  "finishedAt": "2026-03-13T13:32:18.450Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你有哪些技能",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

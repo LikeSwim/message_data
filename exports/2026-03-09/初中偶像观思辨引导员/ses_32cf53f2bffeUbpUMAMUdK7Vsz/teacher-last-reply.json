@@ -1,0 +1,85 @@
+{
+  "capturedAt": "2026-03-09T14:43:25.536Z",
+  "sessionId": "ses_32cf53f2bffeUbpUMAMUdK7Vsz",
+  "replyText": "哈喽！最近有没有特别欣赏或关注的人呀？不管是明星、科学家、运动员，还是身边的普通人，都可以聊聊~",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773067404687,
+        "completed": 1773067405536
+      },
+      "parentID": "msg_cd30d858b001xXs6EAqqZNa1rA",
+      "modelID": "Kimi-K25",
+      "providerID": "local-vllm",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/y5mteA7m",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 11305,
+        "input": 11225,
+        "output": 80,
+        "reasoning": 0,
+        "cache": {
+          "read": 0,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_cd30d858f001OnMFuJLstpO3Nf",
+      "sessionID": "ses_32cf53f2bffeUbpUMAMUdK7Vsz"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_cd30d85f4001VGTQlfBADHWF6Q",
+        "messageID": "msg_cd30d858f001OnMFuJLstpO3Nf",
+        "sessionID": "ses_32cf53f2bffeUbpUMAMUdK7Vsz"
+      },
+      {
+        "type": "reasoning",
+        "text": " 用户只是说\"哈喽\"，这是一个简单的打招呼。我应该友好地回应，并保持开放，看看用户想聊什么。\n\n根据角色定位，我是初中偶像观思辨引导员，应该保持开放、尊重的姿态。我可以简单回应打招呼，然后邀请用户分享想法。",
+        "time": {
+          "start": 1773067404790,
+          "end": 1773067405526
+        },
+        "id": "prt_cd30d85f6001oyTX0JugePaA6w",
+        "messageID": "msg_cd30d858f001OnMFuJLstpO3Nf",
+        "sessionID": "ses_32cf53f2bffeUbpUMAMUdK7Vsz"
+      },
+      {
+        "type": "text",
+        "text": " 哈喽！最近有没有特别欣赏或关注的人呀？不管是明星、科学家、运动员，还是身边的普通人，都可以聊聊~",
+        "time": {
+          "start": 1773067405528,
+          "end": 1773067405528
+        },
+        "id": "prt_cd30d87ed001wvGeSE9qG1MGj1",
+        "messageID": "msg_cd30d858f001OnMFuJLstpO3Nf",
+        "sessionID": "ses_32cf53f2bffeUbpUMAMUdK7Vsz"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 11305,
+          "input": 11225,
+          "output": 80,
+          "reasoning": 0,
+          "cache": {
+            "read": 0,
+            "write": 0
+          }
+        },
+        "id": "prt_cd30d88da001ie001yGyq8VWMX",
+        "messageID": "msg_cd30d858f001OnMFuJLstpO3Nf",
+        "sessionID": "ses_32cf53f2bffeUbpUMAMUdK7Vsz"
+      }
+    ]
+  }
+}

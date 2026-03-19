@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3198fa322ffeuhmdX1qpSX6g6r",
+  "sceneName": "庄严仪式教育干预顾问",
+  "title": "问候与技能询问",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3198fa322ffeuhmdX1qpSX6g6r",
+  "startedAt": "2026-03-13T09:04:09.479Z",
+  "finishedAt": "2026-03-13T09:04:15.003Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好，你有哪些技能",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是初中物理实验教学助手，专门帮助学生完成浮力探究实验。\n\n有什么我可以帮助你的吗？比如：\n- 浮力实验操作指导\n- 实验数据分析\n- 误差分析\n- 实验报告撰写",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "round": 1,
+    "teacherReplyText": "你好！我是你的初中代数方程分步求解辅导助手，专门帮助你掌握一元一次方程、分式方程、方程组等的规范解题流程。\n\n有什么方程问题需要我帮你分析或讲解吗？",
+    "studentRawOutput": "DONE",
+    "parsedDecision": {
+      "type": "done"
+    }
+  }
+]

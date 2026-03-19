@@ -1,0 +1,16 @@
+{
+  "runId": "ses_31d9e899affeH9mNQuRzb3CyWP",
+  "sceneName": "中考语文专项复习导师",
+  "title": "New session - 2026-03-12T14:09:24.069Z",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你是什么模型"
+    },
+    {
+      "role": "assistant",
+      "content": "我是 Kimi-K25 模型。"
+    }
+  ]
+}

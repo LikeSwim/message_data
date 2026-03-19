@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31d364d4bffe1S5xPeOGLxmJ0k",
+  "sceneName": "初中代数方程分步求解辅导",
+  "title": "New session - 2026-03-12T16:03:15.252Z",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31d364d4bffe1S5xPeOGLxmJ0k",
+  "startedAt": "2026-03-12T16:03:17.656Z",
+  "finishedAt": "2026-03-12T16:03:19.368Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

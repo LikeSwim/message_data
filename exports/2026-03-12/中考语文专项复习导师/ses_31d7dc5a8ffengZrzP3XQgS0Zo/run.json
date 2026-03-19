@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31d7dc5a8ffengZrzP3XQgS0Zo",
+  "sceneName": "中考语文专项复习导师",
+  "title": "AI技能咨询",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31d7dc5a8ffengZrzP3XQgS0Zo",
+  "startedAt": "2026-03-12T14:45:11.397Z",
+  "finishedAt": "2026-03-12T14:45:49.859Z",
+  "followUpCount": 1,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你有什么技能",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

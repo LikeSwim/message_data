@@ -1,0 +1,74 @@
+{
+  "capturedAt": "2026-03-12T05:40:29.265Z",
+  "sessionId": "ses_31f70c21affeoaIyMBjhcuPMmM",
+  "replyText": "你好！我是中考语文专项复习导师，专注于帮助初三学生高效备考中考语文。\n\n请问您想了解哪个模块的复习内容？我提供以下专项辅导：\n- 中考语文基础积累\n- 中考古诗文阅读\n- 中考记叙文阅读\n- 中考说明文阅读\n- 中考议论文阅读\n- 中考作文指导\n- 中考语言综合运用\n\n请选择或告诉我您的具体需求。",
+  "rawMessage": {
+    "info": {
+      "role": "assistant",
+      "time": {
+        "created": 1773294019984,
+        "completed": 1773294029265
+      },
+      "parentID": "msg_ce08f6588001XB6kMYDw2fwLcu",
+      "modelID": "mimo-v2-flash-free",
+      "providerID": "opencode",
+      "mode": "build",
+      "agent": "build",
+      "path": {
+        "cwd": "/Users/wumengsong/Code/EduAgent/workspace/H7gg4JxE",
+        "root": "/"
+      },
+      "cost": 0,
+      "tokens": {
+        "total": 13789,
+        "input": 11613,
+        "output": 91,
+        "reasoning": 0,
+        "cache": {
+          "read": 2085,
+          "write": 0
+        }
+      },
+      "finish": "stop",
+      "id": "msg_ce08f6590001I3vfKbwO9BmzRD",
+      "sessionID": "ses_31f70c21affeoaIyMBjhcuPMmM"
+    },
+    "parts": [
+      {
+        "type": "step-start",
+        "id": "prt_ce08f86e4001Ls5oWLb7wlF65u",
+        "messageID": "msg_ce08f6590001I3vfKbwO9BmzRD",
+        "sessionID": "ses_31f70c21affeoaIyMBjhcuPMmM"
+      },
+      {
+        "type": "text",
+        "text": "你好！我是中考语文专项复习导师，专注于帮助初三学生高效备考中考语文。\n\n请问您想了解哪个模块的复习内容？我提供以下专项辅导：\n- 中考语文基础积累\n- 中考古诗文阅读\n- 中考记叙文阅读\n- 中考说明文阅读\n- 中考议论文阅读\n- 中考作文指导\n- 中考语言综合运用\n\n请选择或告诉我您的具体需求。",
+        "time": {
+          "start": 1773294029248,
+          "end": 1773294029248
+        },
+        "id": "prt_ce08f86e7001Qx7GIIBPBuo1sj",
+        "messageID": "msg_ce08f6590001I3vfKbwO9BmzRD",
+        "sessionID": "ses_31f70c21affeoaIyMBjhcuPMmM"
+      },
+      {
+        "type": "step-finish",
+        "reason": "stop",
+        "cost": 0,
+        "tokens": {
+          "total": 13789,
+          "input": 11613,
+          "output": 91,
+          "reasoning": 0,
+          "cache": {
+            "read": 2085,
+            "write": 0
+          }
+        },
+        "id": "prt_ce08f89c6001LhzWrhUUXsK1lU",
+        "messageID": "msg_ce08f6590001I3vfKbwO9BmzRD",
+        "sessionID": "ses_31f70c21affeoaIyMBjhcuPMmM"
+      }
+    ]
+  }
+}

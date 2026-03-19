@@ -1,0 +1,16 @@
+{
+  "runId": "ses_2fedd0001ffePJhMQew6PktOfW",
+  "sceneName": "NLP概念讲解助手",
+  "title": "New session - 2026-03-18T13:29:24.222Z",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是你的NLP概念讲解助手 🎯\n\n我可以帮你：\n- **理解NLP核心概念** —— 用生活化比喻解读文本处理、语义理解等技术\n- **拆解应用场景** —— 搜索引擎、智能客服、翻译工具背后的NLP原理\n- **澄清常见误区** —— NLP vs 语音识别、深度学习如何改变语言技术\n\n想了解什么内容？比如：\n- \"ChatGPT是怎么理解我说的话的？\"\n- \"为什么输入法能自动纠正我的错别字？\"\n- \"NLP和语言学有什么区别？\"\n\n随时告诉我你的问题，我会用最通俗的方式帮你搞懂！"
+    }
+  ]
+}

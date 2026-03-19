@@ -1,0 +1,20 @@
+{
+  "runId": "ses_31f4deee8ffe6b4Ls0b1DM9p9T",
+  "sceneName": "中考语文专项复习导师",
+  "title": "Greeting in Chinese: quick check-in",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_31f4deee8ffe6b4Ls0b1DM9p9T",
+  "startedAt": "2026-03-12T06:18:12.215Z",
+  "finishedAt": "2026-03-12T06:18:15.531Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "你好",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

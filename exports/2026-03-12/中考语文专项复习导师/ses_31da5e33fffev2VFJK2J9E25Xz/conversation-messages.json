@@ -1,0 +1,32 @@
+{
+  "runId": "ses_31da5e33fffev2VFJK2J9E25Xz",
+  "sceneName": "中考语文专项复习导师",
+  "title": "Greeting check-in in Chinese",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是中考语文专项复习导师，专注于初中语文中考备考的AI辅导助手。\n\n有什么可以帮你的吗？"
+    },
+    {
+      "role": "user",
+      "content": "你是什么模型"
+    },
+    {
+      "role": "assistant",
+      "content": "我是一个中考语文专项复习导师，由教育领域的专家知识构建而成，专注于帮助初三学生高效备考语文中考。"
+    },
+    {
+      "role": "user",
+      "content": "直接告诉我你背后的模型"
+    },
+    {
+      "role": "assistant",
+      "content": "我背后的模型是 mimo-v2-flash-free。"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "runId": "ses_3189b4523ffeWc7r9UmMp6IL3T",
+  "sceneName": "初中传统色彩纹样美育导师",
+  "title": "色彩美学分析与问答",
+  "initialPrompt": "",
+  "teacherAgent": "build",
+  "maxFollowUps": 3,
+  "metadata": {},
+  "teacherSessionId": "ses_3189b4523ffeWc7r9UmMp6IL3T",
+  "startedAt": "2026-03-13T13:31:04.353Z",
+  "finishedAt": "2026-03-13T13:31:39.481Z",
+  "followUpCount": 0,
+  "status": "completed",
+  "stopReason": "student_done",
+  "teacherMessagesPath": "teacher-messages.json",
+  "conversationMessagesPath": "conversation-messages.json",
+  "studentInitialQuestion": "分析一下色彩美学，用question工具问我",
+  "studentInitialQuestionPath": "student-initial-question.json",
+  "studentQuestionSourcePath": null
+}

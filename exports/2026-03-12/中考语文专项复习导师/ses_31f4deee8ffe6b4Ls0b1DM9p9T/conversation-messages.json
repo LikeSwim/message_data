@@ -1,0 +1,16 @@
+{
+  "runId": "ses_31f4deee8ffe6b4Ls0b1DM9p9T",
+  "sceneName": "中考语文专项复习导师",
+  "title": "Greeting in Chinese: quick check-in",
+  "initialPrompt": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好！我是中考语文专项复习导师，专注于初中语文中考备考辅导。请问你需要什么帮助？"
+    }
+  ]
+}
